@@ -1,0 +1,64 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel 
+<h3 style="margin-top: 130px;" class="title_h3_nes">@Model.Title</h3>
+<div class="tab-content-faq">
+    <div id="faq1">
+        <div class="faq-show2">
+            @if (Model.ListSupportParents != null && Model.ListSupportParents.Count > 0)
+            {
+                foreach (var parent in Model.ListSupportParents)
+                {
+                    <h3 class="faq-tab-h3">@parent.Title</h3>  
+                    <div style="display: none;">
+                        <div class="faq-tab-sub" style="display: none;"></div>
+                    </div>
+                    
+                    if (Model.ListSupportChildren == null || Model.ListSupportChildren.Count <= 0)
+                    {
+                        continue;
+                    }
+
+                    foreach (var item in Model.ListSupportChildren)
+                    {
+                        if (parent.Id == item.ParentId)
+                        {
+                             <h3 class="faq-tab-h3">@(string.Format("{0}. {1}", item.OrderBy, item.Title))</h3>  
+                            <div class="faq-tab-sub" style="display: none;">@Html.Raw(item.Messages)</div>
+                        }
+                    }
+                }
+            }
+            else
+            {
+                <div class="list_category-child"> Không có dữ liệu </div>
+            }               	            
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">  
+    $(document).ready(function () { 
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+    });
+
+    $('.faq-show2 > .faq-tab-sub').hide();
+    $('.faq-show2 > .faq-tab-h3').click(function() {
+        var $nextDiv = $(this).next();
+        var $visibleSiblings = $nextDiv.siblings('div:visible');
+        if ($(this).hasClass('downward_arrow')) {
+            $('.faq-show2 > .faq-tab-h3').removeClass('downward_arrow');
+        } else {
+            $('.faq-show2 > .faq-tab-h3').removeClass('downward_arrow');
+            $(this).addClass("downward_arrow");
+
+        }
+
+        if ($visibleSiblings.length) {
+            $visibleSiblings.slideUp('fast', function() {
+                $nextDiv.slideToggle('fast');
+            });         
+        } else {
+            $nextDiv.slideToggle('fast'); 
+        }
+    });
+</script>

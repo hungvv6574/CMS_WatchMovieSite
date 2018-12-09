@@ -1,0 +1,98 @@
+﻿@model CMSSolutions.Websites.Entities.CustomerInfo   
+
+<div class="profi-cat-right">
+    <h1 class="title_h1_st2">@Model.FullName</h1>
+    <div class="avatar-box-sty">
+        <img width="185" height="185" src="@Model.ImageIcon">
+        <div class="vip-icon">
+            <img id="imgvip2" src="@Model.ImageIcon">
+        </div>
+    </div>
+    <div class="vip-box-sty">
+        <p>
+            <h3 id="viptitle">Thành viên VIP</h3>
+            <a href="@Url.Action("Index","HomeVipXu")">
+                <img width="20" height="20" class="ico-vip" src="/Images/themes/coin-ico.png" alt="VIPXU" title="VIPXU">
+            </a>
+            <strong id="current_balance">@Model.VipXu</strong> 
+            <a href="javascript:void(0);" onclick="javascript: resetVipXu();">
+                <img width="14" height="15" class="ico-vip" src="/Images/themes/refresh.png" alt="Cập nhật">
+            </a>
+        </p>
+    </div>    
+
+    <div class="social-icon-div">
+        <a href="https://www.facebook.com/viphd.vn" target="_blank" class="fb-icon" title="Kết nôi tài khoản với Facebook" id="facebook_unsync"></a> 	
+        <a href="https://plus.google.com/share?url=https://plus.google.com/109875194897995025363/posts" target="_blank" class="gg-icon active" title="Hủy kết nói tài khoản với Google Plus" id="google_unsync"></a> 
+    </div>
+
+    <ul class="info_user-cat-ul">
+        <li>&nbsp;</li>
+        <li>Thành viên từ: <span>@(Model.MemberDate.ToString(CMSSolutions.Websites.Extensions.Constants.DateTimeFomat))</span> </li>
+        <li id="showvipdate">Hết hạn VIP: <span id="showdate" style="color: #ff8c00"></span></li>
+        <li>Ngày sinh: <span>@(Model.Birthday == CMSSolutions.Websites.Extensions.Utilities.DateNull() ? "Chưa cập nhật" : Model.Birthday.ToString(CMSSolutions.Websites.Extensions.Constants.DateTimeFomat))</span></li>
+        <li>&nbsp;</li>
+        <li><a title="Cập nhật thông tin người dùng" href="@Url.Action("UserProfile","HomeCustomer")">Cập nhật thông tin cá nhân</a></li>
+        <li><a title="Đổi mật khẩu người dùng" href="@Url.Action("UserChangePassword","HomeCustomer")">Thay đổi mật khẩu</a></li>
+        <li><a title="User upload video" href="@Url.Action("UploadVideos","HomeCustomer")">Upload videos</a></li>
+        <li><a title="Nạp VIP" href="@Url.Action("Index","HomeVipXu")" class="orange_color">Nạp VIP</a></li>
+    </ul>
+    <ul class="invite_user-cat-ul">
+        <li>
+            <a style="cursor:pointer" href="https://www.facebook.com/viphd.vn" target="_blank" title="Kết nôi tài khoản với Facebook">
+                <img width="22" height="22" alt="Facebook" src="/Images/themes/icon-facebook.png">Mời bạn bè 
+            </a> 
+        </li>
+        <li>
+            <a href="https://plus.google.com/share?url=https://plus.google.com/109875194897995025363/posts" target="_blank" style="cursor:pointer" title="Mời bạn bè tham gia VipHD.vn từ mạng xã hội Google Plus">
+                <img width="22" height="22" alt="Google+" src="/Images/themes/icon-google.png">Mời bạn bè 
+            </a> 
+        </li>
+    </ul>
+</div>    
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+        checkVip2();
+    });
+    
+    function checkVip2() {
+        $("#imgvip2").hide();
+        $("#showvipdate").hide();
+        $("#viptitle").hide();
+        $("#showdate").html("");
+        $.ajax({
+            url: '@Url.Action("GetVip", "Home")',
+            type: 'POST',
+            dataType: 'json',
+            success: function (result) {
+                if (result.Status == true) {
+                    $("#showdate").html(result.Data);
+                    $("#showvipdate").show();
+                    $("#imgvip2").attr("src", "/Images/themes/vip_la-ico.png");
+                    $("#imgvip2").show();
+                    $("#viptitle").show();
+                }
+            }
+        });
+    }
+    
+    function resetVipXu() {
+        window.showLoading("Vui lòng chờ hệ thống xử lý.");
+        $.ajax({
+            url: '@Url.Action("LoadVipXu", "HomeVipXu")',
+            type: 'POST',
+            dataType: 'json',
+            success: function (result) {
+                window.closeLoading();
+                window.location = result.Url;
+            },
+            error: function (request, status, error) {
+                window.closeLoading();
+                window.showMessages(request.responseText);
+            }
+        });
+    }
+</script>   

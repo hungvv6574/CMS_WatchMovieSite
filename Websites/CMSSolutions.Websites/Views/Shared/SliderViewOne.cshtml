@@ -1,0 +1,38 @@
+﻿@model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div class="box_div_right_view">
+    <div class="list_category">
+        <div class="event_div_box" id="containerbox">
+            <div id="dataviewer" class="event_div_box-child active_all"></div>  
+            <input type="hidden" id="txtFilmId" name="txtFilmId" value="0"/>
+        </div>
+        <br class="clear_both">
+    </div>                                                            
+</div> 
+<script type="text/javascript">
+    var listIds = @Model.Data;
+    var index = 0;
+    var total = listIds.length;      
+    var timer = setTimeout(displayFilm, 5000);
+    function displayFilm() {
+        var id = listIds[index];
+        var data = $("#containerbox").find("input").serialize();
+        $("#txtFilmId").val(id);
+        $.ajax({
+            url: '@Url.Action("FilmDetails", "Home")',
+            data: data,
+            type: 'POST',
+            dataType: 'json',
+            success: function(result) {
+                $("#dataviewer").empty();
+                $("#dataviewer").html(result.HtmlData).fadeIn(1000);
+            }
+        });
+
+        if (index >= total ) {
+            index = 0;
+        } else {
+            index++;
+        }
+        timer = setTimeout(displayFilm, 5000);
+    }
+</script>

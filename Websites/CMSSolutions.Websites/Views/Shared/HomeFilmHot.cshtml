@@ -1,0 +1,44 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div class="slider_box_sim" id="pagination">
+    <h2 class="title_h1_st1">
+        <a href="@Model.UrlNext"> @Model.Title</a>
+    </h2>
+    <br class="clear_both">  
+    <div id="@Model.SliderName">@Html.Raw(Model.HtmlData)</div> 
+    <input id="totalPage" name="totalPage" value="@Model.TotalPage" type="hidden" />    
+    <br class="clear_both">
+    <div id="show-content" class="content" style="margin-right: 10px;"></div>
+    <br class="clear_both">
+</div>   
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        @*$("#@Model.SliderName").empty();
+        $("#@Model.SliderName").html('');*@
+        var pageIndex = '@Model.PageIndex';
+
+        $('#show-content').bootpag({
+            total: parseInt($("#totalPage").val()),
+            page: parseInt(pageIndex),
+            maxVisible: 5,
+            leaps: true,
+            firstLastUse: true,
+            first: 'Đầu',
+            last: 'Cuối',
+            href: "?trang={{number}}",
+            wrapClass: 'pagination',
+            activeClass: 'active',
+            disabledClass: 'disabled',
+            nextClass: 'next',
+            prevClass: 'prev',
+            lastClass: 'last',
+            firstClass: 'first'
+        });
+        
+        $("#pagination .item").tooltip({
+            'arrow_top_offset': 100,
+            'opacity': 1,
+            'dialog_content_selector': '.tooltip_description'
+        });
+    });
+</script>

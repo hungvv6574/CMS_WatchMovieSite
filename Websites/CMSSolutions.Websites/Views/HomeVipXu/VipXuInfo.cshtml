@@ -1,0 +1,42 @@
+﻿@model CMSSolutions.Websites.Models.PaymentModel
+<div class="profi-cat-left">
+    <ul class="profi-menu">
+        <li>
+            <a href="@Url.Action("VipXuInfo", "HomeVipXu")" class="@(Model.PageName == 0 ? "active" : string.Empty)">THÔNG TIN</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index", "HomeVipXu")" class="@(Model.PageName == 1 ? "active" : string.Empty)">Nạp VIP!</a>
+        </li>
+        <li>
+            <a href="@Url.Action("LogDoiXu", "HomeVipXu")" class="@(Model.PageName == 2 ? "active" : string.Empty)">Log đổi xu</a>
+        </li>
+        <li>
+            <a href="@Url.Action("LogNapVip", "HomeVipXu")" class="@(Model.PageName == 3 ? "active" : string.Empty)">Log nạp VIP</a>
+        </li>
+    </ul>   
+
+    <div id="page_index">  
+        <div class="mh-content-prod-text mh-donate-page">  
+            <p style="line-height:20px;color:#333;margin-top:10px;">
+                Chào <strong class="orange_color">@Model.CustomerName</strong> ! Mã số tài khoản của bạn là <strong class="orange_color">@Model.CustomerCode</strong>
+            </p>
+            <p>Bạn hiện có <strong class="orange_color">@Model.VipXu</strong> VipXu trong tài khoản. <br></p>
+            <div class="log-pur-group">
+                <div class="mh-pur-in2">
+                    <div class="mh-content-prod-text">
+                        <img style="width: 100%;" src="/Images/themes/so_sanh_VIP_thuong.jpg" />
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </div>
+</div>  
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var customerCode = '@Model.CustomerCode';
+        if (customerCode == '' || customerCode == null) {
+            dialogBox('#loginBox');
+        }
+    });  
+</script> 

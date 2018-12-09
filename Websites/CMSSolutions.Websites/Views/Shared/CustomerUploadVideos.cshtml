@@ -1,0 +1,45 @@
+﻿ <h1 class="title_h1_st1" style="margin-top: 130px;">
+      <a href="javascript:void(0);">User Upload Video</a> 
+ </h1>
+<div style="padding-top:20px;" class="form-main-molder">        
+    <form id="uploadVideos" enctype="multipart/form-data" method="post" action="@Url.Action("UserSaveVideos", "HomeCustomer")">
+        <div class="btn-file-upload btn btn-primary">
+            <span>Chọn file</span>
+            <input type="file" id="uploadfile" name="uploadfile" class="upload">
+        </div>	
+        <input type="submit" value="Upload Video to Server" class="btn btn-danger">
+    </form>             
+    <div id="status"></div>
+</div>
+<div class="clear_both"></div>     
+
+<script>   
+    $(document).ready(function () {
+        $("#uploadVideos").submit(function (event) {
+            event.preventDefault();
+            action = $("#uploadVideos").attr("action");
+            if ($("#uploadVideos").attr("enctype") == "multipart/form-data") {
+                dataString = new FormData($("#uploadVideos").get(0));
+                contentType = false;
+                processData = false;
+            }
+
+            $.ajax({
+                type: "POST",
+                url: action,
+                data: dataString,
+                dataType: "json",
+                contentType: contentType,
+                processData: processData,
+                success: function (result) {
+                    window.closeLoading();
+                    window.showMessages(result.Data);
+                },
+                error: function (request, status, error) {
+                    window.closeLoading();
+                    window.showMessages(request.responseText);
+                }
+            });
+        });
+    });
+</script>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:intf="http://interfaces" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns1="http://entities" xmlns:impl="http://interfaces" targetNamespace="http://interfaces" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://entities">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:complexType name="ChangeResponse">
+        <xsd:sequence>
+          <xsd:element name="message" nillable="true" type="xsd:string" />
+          <xsd:element name="status" nillable="true" type="xsd:string" />
+          <xsd:element name="transid" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="LogoutResponse">
+        <xsd:sequence>
+          <xsd:element name="message" nillable="true" type="xsd:string" />
+          <xsd:element name="status" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="LoginResponse">
+        <xsd:sequence>
+          <xsd:element name="message" nillable="true" type="xsd:string" />
+          <xsd:element name="sessionid" nillable="true" type="xsd:string" />
+          <xsd:element name="status" nillable="true" type="xsd:string" />
+          <xsd:element name="transid" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ChargeReponse">
+        <xsd:sequence>
+          <xsd:element name="amount" nillable="true" type="xsd:string" />
+          <xsd:element name="message" nillable="true" type="xsd:string" />
+          <xsd:element name="responseamount" nillable="true" type="xsd:string" />
+          <xsd:element name="status" nillable="true" type="xsd:string" />
+          <xsd:element name="transid" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="getTransactionStatusResponse">
+    <wsdl:part name="getTransactionStatusReturn" type="tns1:ChargeReponse" />
+  </wsdl:message>
+  <wsdl:message name="changeMPINRequest">
+    <wsdl:part name="transid" type="xsd:string" />
+    <wsdl:part name="username" type="xsd:string" />
+    <wsdl:part name="partnerID" type="xsd:string" />
+    <wsdl:part name="old_mpin" type="xsd:string" />
+    <wsdl:part name="new_mpin" type="xsd:string" />
+    <wsdl:part name="md5sessionid" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="logoutResponse">
+    <wsdl:part name="logoutReturn" type="tns1:LogoutResponse" />
+  </wsdl:message>
+  <wsdl:message name="logoutRequest">
+    <wsdl:part name="username" type="xsd:string" />
+    <wsdl:part name="partnerID" type="xsd:string" />
+    <wsdl:part name="Md5sessionID" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="changePasswordRequest">
+    <wsdl:part name="transid" type="xsd:string" />
+    <wsdl:part name="username" type="xsd:string" />
+    <wsdl:part name="partnerID" type="xsd:string" />
+    <wsdl:part name="old_password" type="xsd:string" />
+    <wsdl:part name="new_password" type="xsd:string" />
+    <wsdl:part name="md5sessionid" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="changeMPINResponse">
+    <wsdl:part name="changeMPINReturn" type="tns1:ChangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="changePasswordResponse">
+    <wsdl:part name="changePasswordReturn" type="tns1:ChangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="getTransactionStatusRequest">
+    <wsdl:part name="transid" type="xsd:string" />
+    <wsdl:part name="username" type="xsd:string" />
+    <wsdl:part name="partnerID" type="xsd:string" />
+    <wsdl:part name="md5sessionid" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="cardChargingResponse">
+    <wsdl:part name="cardChargingReturn" type="tns1:ChargeReponse" />
+  </wsdl:message>
+  <wsdl:message name="cardChargingRequest">
+    <wsdl:part name="transid" type="xsd:string" />
+    <wsdl:part name="username" type="xsd:string" />
+    <wsdl:part name="partnerID" type="xsd:string" />
+    <wsdl:part name="mpin" type="xsd:string" />
+    <wsdl:part name="target" type="xsd:string" />
+    <wsdl:part name="card_data" type="xsd:string" />
+    <wsdl:part name="md5sessionid" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="loginResponse">
+    <wsdl:part name="loginReturn" type="tns1:LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="loginRequest">
+    <wsdl:part name="username" type="xsd:string" />
+    <wsdl:part name="password" type="xsd:string" />
+    <wsdl:part name="partnerID" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="Services">
+    <wsdl:operation name="changePassword" parameterOrder="transid username partnerID old_password new_password md5sessionid">
+      <wsdl:input name="changePasswordRequest" message="impl:changePasswordRequest" />
+      <wsdl:output name="changePasswordResponse" message="impl:changePasswordResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="logout" parameterOrder="username partnerID Md5sessionID">
+      <wsdl:input name="logoutRequest" message="impl:logoutRequest" />
+      <wsdl:output name="logoutResponse" message="impl:logoutResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="login" parameterOrder="username password partnerID">
+      <wsdl:input name="loginRequest" message="impl:loginRequest" />
+      <wsdl:output name="loginResponse" message="impl:loginResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="changeMPIN" parameterOrder="transid username partnerID old_mpin new_mpin md5sessionid">
+      <wsdl:input name="changeMPINRequest" message="impl:changeMPINRequest" />
+      <wsdl:output name="changeMPINResponse" message="impl:changeMPINResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="cardCharging" parameterOrder="transid username partnerID mpin target card_data md5sessionid">
+      <wsdl:input name="cardChargingRequest" message="impl:cardChargingRequest" />
+      <wsdl:output name="cardChargingResponse" message="impl:cardChargingResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getTransactionStatus" parameterOrder="transid username partnerID md5sessionid">
+      <wsdl:input name="getTransactionStatusRequest" message="impl:getTransactionStatusRequest" />
+      <wsdl:output name="getTransactionStatusResponse" message="impl:getTransactionStatusResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServicesSoapBinding" type="impl:Services">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="changePassword">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="changePasswordRequest">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="changePasswordResponse">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="logout">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="logoutRequest">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="logoutResponse">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="login">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="loginRequest">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="loginResponse">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="changeMPIN">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="changeMPINRequest">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="changeMPINResponse">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cardCharging">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="cardChargingRequest">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="cardChargingResponse">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTransactionStatus">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getTransactionStatusRequest">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="getTransactionStatusResponse">
+        <wsdlsoap:body use="encoded" namespace="http://interfaces" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicesService">
+    <wsdl:port name="Services" binding="impl:ServicesSoapBinding">
+      <wsdlsoap:address location="http://charging-service.megapay.net.vn/CardChargingGW_V2.0/services/Services" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

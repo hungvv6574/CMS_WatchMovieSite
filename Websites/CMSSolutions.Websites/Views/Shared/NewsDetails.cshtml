@@ -1,0 +1,21 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div class="slider_box_sim" style="margin-top: 130px;">
+    <h1 class="title_h1_st1">
+        <a href="@Url.Action("ViewNewsCategory","HomeNews", new{alias = Model.CurrentCategory.Alias, id = Model.CurrentCategory.Id})" style="margin-bottom:5px;">@Model.CurrentCategory.ShortName</a>              
+    </h1>            
+    <h3 class="title_h3_nes">@Model.News.Title</h3>
+    <p class="time-ptem">Ngày: @Model.News.CreateDate.ToString(CMSSolutions.Websites.Extensions.Constants.DateTimeFomat)</p>            
+    <div class="mh-content-prod-text">              
+        <div class="mh-content-prod-con">
+            @Html.Raw(Model.News.Contents)   
+        </div>
+    </div>
+    <br class="clear_both">
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+    });
+</script>  

@@ -1,0 +1,93 @@
+﻿@using CMSSolutions.Extensions
+@using CMSSolutions.Websites.Extensions
+@{
+    var listAlrtError = EnumExtensions.GetListItems<AlertErrorVideo>();
+}
+<div id="dialogMessages" class="reveal-modal medium" style="top: 1033px; opacity: 1; visibility: visible;">
+    <div class="reveal-modal-cont">
+        <div class="reveal-modal-logo">
+            <img src="/Media/Default/Logo/Logonew.png" width="69" height="67">
+        </div>
+        <div class="reveal-modal-child">
+            <div class="reveal-modal-child">
+                <span id="textMessages"></span>   
+            </div>
+        </div>
+        <br class="clear_both">
+    </div>   
+    <div class="clear_both"></div>  
+    <div class="reveal-modal-child">
+        <div style="float:right; padding-top:15px">
+            <button onclick="$('.close-reveal-modal').click()" type="button">Đóng</button>
+        </div>
+    </div>
+    <a class="close-reveal-modal">×</a>   
+</div> 
+
+<div id="dialogSendError" class="reveal-modal medium myModal_login" style="top: 801px; opacity: 1; visibility: visible;">
+    <div id="myModal_error">
+        <div class="reveal-modal-logo">
+            <img src="/Media/Default/Logo/Logonew.png" width="69" height="67">
+        </div>
+        <div class="topG">
+            <h2 style="color: #44619d !important;">Chúng tôi rất tiếc vì đã để bạn phải báo lỗi phim. Thông báo của bạn sẽ được chúng tôi kiểm tra trong thời gian sớm nhất và sẽ báo lại kết quả cho bạn.</h2>
+        </div>
+        <div id="content_show">
+            <select style="width: 321px;" name="cboTitles" id="cboTitles">
+                @foreach (var item in listAlrtError)
+                {
+                    <option value="@item.Value">@item.Text</option>
+                }
+            </select>
+            <textarea id="txtContents" name="txtContents" class="validate[required, maxSize[2000]]" style="width: 322px !important;"></textarea>
+            <div id="errorsend">
+                    <label id="errorMessages" style="color: red;"></label>
+            </div>
+            <div class="padT5 alignC">
+                <button id="error_send">Gửi lỗi</button>
+            </div>
+        </div>
+        <a class="close-reveal-modal">×</a>
+    </div>
+</div>         
+
+<script type="text/javascript">
+    function showMessages(text) {
+        $("#textMessages").text(text);
+        dialogBox('#dialogMessages');
+    }
+
+    function showdialogSendError() {
+        dialogBox('#dialogSendError');
+    }
+
+    function showLoading(text) {
+        $('body').append('<span id="textWaiting"></span><div id="resultsBox"><div class="modal-loading"></div></div> ');
+        $('#resultsBox').fadeIn(300);
+        $('#textWaiting').text(text);
+    }
+
+    function closeLoading() {
+        $('#resultsBox').fadeOut(300, function () {
+            $('#resultsBox').remove();
+            $('#textWaiting').remove();
+        });
+    }
+    
+    $("#error_send").click(function () {
+        var title = $("#cboTitles").val();
+        if (title == '0' || title.length <= 0) {
+            $('#errorMessages').text("Vui lòng chọn tiêu đề thông báo lỗi.");
+            return false;
+        }
+        
+        var description = $("#txtContents").val();
+        if (description == '' || description.length <= 0) {
+            $('#errorMessages').text("Vui lòng nhập nội dung thông báo lỗi.");
+            return false;
+        }
+
+        window.UpdateRates('3', '0', title, description);
+        $('#errorMessages').text("Cảm ơn bạn đã thông báo lỗi cho chúng tôi. Chúng tôi sẽ kiểm tra và xử lý lỗi của bạn.");
+    });
+</script>

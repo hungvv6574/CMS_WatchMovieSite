@@ -1,0 +1,200 @@
+﻿@model CMSSolutions.Websites.Models.DataViewCategoryModel
+@using CMSSolutions.Configuration
+@using CMSSolutions.Security.Cryptography
+@{
+    var userId = 0;
+    try
+    {
+        HttpCookie authCookie = Request.Cookies[CMSSolutions.Websites.Extensions.Constants.GlobalFullName];
+        authCookie = Request.Cookies[CMSSolutions.Websites.Extensions.Constants.GlobalUserId];
+        if (authCookie != null && !string.IsNullOrEmpty(authCookie.Value))
+        {
+            userId = Convert.ToInt32(EncryptionExtensions.Decrypt(KeyConfiguration.PublishKey, authCookie.Value));
+        }
+    }
+    catch (Exception)
+    {
+
+    }
+    
+}
+<div class="box_div_right_view">
+    <a href="javascript:void(0);" onclick="UpdateRates('2', '0', '0', 'Báo giật lag');">
+        <img style="padding-bottom:10px" src="/Images/themes/xem-phim-bi-lag-bi-giat.gif" alt="Báo lỗi phim giật, lag">
+    </a>     
+    @Html.Raw(Model.Breadcrumb)       
+    <div class="box-rating">
+        <input id="score_current" type="hidden" value="7" />
+        <div id="star" data-score="3.5" style="cursor: pointer;"></div>
+        <span><strong id="score">7</strong></span>
+        <span class="orange_color" id="hint">Hơi bị Hay</span>
+        <span class="num-rating">(<span itemprop="votes">@Model.FilmDetails.ViewCount lượt</span>)</span>
+    </div> 
+    <div class="vote_div_dt_film" style="position:relative"> 
+        <div class="fb-share-button" data-href="http://viphd.vn" data-layout="button_count"></div> 
+        <div class="clear_both" style="height:10px;"></div>
+        <a id="unactive" rel="favorite" onclick="UpdateRates('4', '0', '0', 'Tôi rất thích phim này!');" href="javascript:void(0)" class="favorite_a_bt">favorite</a>
+        <a class="senderr_a_bt">send error</a>
+        <div class="turndiv-light">
+            <a class="turnon-light" style="display: none;" title="Tắt đền"></a>
+            <a class="turnoff-light" style="display: block;" title="Bật đèn"></a>
+        </div>
+        <script src="https://apis.google.com/js/platform.js" async defer>{lang: 'vi'}</script>
+        <div class="g-plusone" data-annotation="inline" data-width="120"></div>
+        <br class="clear_both">
+    </div>
+    <br class="clear_both">
+    <div class="clear_with_border_bot" style="height:10px;"></div>
+</div>
+
+<script type="text/javascript">
+    function UpdateRates(type, rate, title, messsages) {
+        var user = '@userId';
+        if (parseInt(user) <= 0) {
+            dialogBox('#loginBox');
+            return;
+        }
+        
+        var data = { type: type, filmId: '@Model.FilmDetails.Id', rate: rate, title: title, messsages: messsages };
+        $.ajax({
+            url: '@Url.Action("RateFilm", "Home")',
+            data: data,
+            type: 'POST',
+            dataType: 'json',
+            success: function (result) {
+                if (result.Status) {
+                    window.showMessages(result.Data);
+                }
+            }
+        });
+    }
+    
+    $(document).ready(function () {
+        $(".turnoff-light").click(function () {
+            $(".overlay-light").addClass("light-active");
+            $(".overlay-light").css("opacity", "0.95");
+            $(".overlay-light").css("display", "block");
+            $(".turndiv-light").addClass("light-over");
+            $(".turnon-light").css("display", "block");
+            $(".turnoff-light").css("display", "none");
+            $(".menu-z-index").removeAttr("style");
+            $(".menu-z-index").css("z-index", "2000");
+        });
+        
+        $(".turnon-light").click(function () {
+            $(".overlay-light").removeClass("light-active");
+            $(".overlay-light").removeAttr("style");
+            $(".turndiv-light").removeClass("light-over");
+            $(".turnon-light").removeAttr("style");
+            $(".turnoff-light").removeAttr("style");
+            $(".turnoff-light").css("display", "block");
+            $(".turnon-light").css("display", "none");
+            $("#StatusLight").val("0");
+            $(".menu-z-index").removeAttr("style");
+            $(".menu-z-index").css("z-index", "2005");
+        });
+        
+        $(".senderr_a_bt").click(function () {
+            var user = '@userId';
+            if (parseInt(user) <= 0) {
+                dialogBox('#loginBox');
+                return;
+            }
+            
+            window.showdialogSendError();
+        });
+        
+        $('#star').raty({
+            half: true,
+            hints: ['HAY CHẾT LIỀN', 'HAY CHỖ NÀO', 'Ờ CŨNG HAY', 'QUÁ XÁ HAY', 'TUYỆT ĐỈNH HAY'],
+            starHalf: '/Images/themes/star-half.png',
+            starOff: '/Images/themes/star-off.png',
+            starOn: '/Images/themes/star-on.png',
+            score: function () {
+                return $(this).attr('data-score');
+            },
+            mouseover: function (score, evt) {
+                setValueScore(score);
+            },
+            //mouseout: function (score, evt) {
+                //var score_current = $("#score_current").val();
+                //var hint_current = $("#hint").val();
+                //$("#hint").html(hint_current);
+                //$("#score").html(score_current);
+            //},
+            click: function (score, evt) {
+                debugger;
+                setValueScore(score);
+                var score_current = $("#score_current").val();
+                var hint_current = $("#hint").text();
+                UpdateRates('1', score_current, '0', hint_current);
+                
+            }
+        });
+    });
+
+    function setValueScore(score) {
+        var text = "";
+        if (parseFloat(score) <= 0.5) {
+            text = "Hay Chết Liền";
+            $("#score").html(1);
+            $("#score_current").val(1);
+        }
+
+        if (parseFloat(score) > 0.5 && parseFloat(score) <= 1) {
+            text = "Hay chỗ nào";
+            $("#score").html(2);
+            $("#score_current").val(2);
+        }
+
+        if (parseFloat(score) > 1 && parseFloat(score) <= 1.5) {
+            text = "Ai Bảo Hay";
+            $("#score").html(3);
+            $("#score_current").val(3);
+        }
+
+        if (parseFloat(score) > 1.5 && parseFloat(score) <= 2) {
+            text = "Xém nữa thì Hay";
+            $("#score").html(4);
+            $("#score_current").val(4);
+        }
+
+        if (parseFloat(score) > 2 && parseFloat(score) <= 2.5) {
+            text = "Có vẻ Hay";
+            $("#score").html(5);
+            $("#score_current").val(5);
+        }
+
+        if (parseFloat(score) > 2.5 && parseFloat(score) <= 3) {
+            text = "Ờ Cũng Hay";
+            $("#score").html(6);
+            $("#score_current").val(6);
+        }
+
+        if (parseFloat(score) > 3 && parseFloat(score) <= 3.5) {
+            text = "Hơi bị Hay";
+            $("#score").html(7);
+            $("#score_current").val(7);
+        }
+
+        if (parseFloat(score) > 3.5 && parseFloat(score) <= 4) {
+            text = "Quá Là Hay";
+            $("#score").html(8);
+            $("#score_current").val(8);
+        }
+
+        if (parseFloat(score) > 4 && parseFloat(score) <= 4.5) {
+            text = "Hay Quá Xá";
+            $("#score").html(9);
+            $("#score_current").val(9);
+        }
+
+        if (parseFloat(score) > 4.5 && parseFloat(score) <= 5) {
+            text = "Tuyệt đỉnh Hay";
+            $("#score").html(10);
+            $("#score_current").val(10);
+        }
+
+        $("#hint").html(text);
+    }
+</script>

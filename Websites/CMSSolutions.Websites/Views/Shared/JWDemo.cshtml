@@ -1,0 +1,116 @@
+﻿@model CMSSolutions.Websites.Models.DataViewerModel 
+<script type="text/javascript" src="/Scripts/jwplayer/jwplayer.js"></script>  
+<script type="text/javascript">jwplayer.key = "FtQ+ubCVmOF2aj8ALHMi/lGfO4o7Oy7xpKmePA==";</script>
+
+<div style="margin-top: 10px;">
+    Picasa Demo
+</div>
+<input id="data" type="hidden" value="@Model.ListFilmsPicasa[0].Url"/>
+<div id="video"></div>
+<div style="margin-top: 10px;">
+    Streming Demo
+</div>
+<div id="video2"></div>
+
+<div style="margin-top: 10px;">
+    Youtube Demo
+</div> 
+<div id="video3"></div>  
+
+<script type="text/javascript">
+    function convertObj(ix){
+	    var dx = {};
+	    dx = ix;
+	    return dx;
+    }
+
+    jwplayer('video').setup({
+        flashplayer: "/DemoJwplayer/player.swf",
+        primary: 'flash',
+        width: '100%',
+        height: '500',
+        autostart: true,
+        androidhls: true,
+        playlist: [{
+            file: $("#data").val(),
+            type: "mp4",
+            provider: "video",
+            tracks: [{
+                file: "/DemoJwplayer/sub.srt",
+                kind: "captions",
+                label: "Tiếng Việt",
+                "default": true
+            }]
+        }],
+        videoads: {
+            videotag: "/DemoJwplayer/ads.xml",
+            //adspreload: true
+        },
+        //picasa :{
+        //    proxy: "/DemoJwplayer/proxy.php?url={URL}"
+        //},
+        logos: {
+            file: "http://viphd.vn/Images/logo/60x60.png",
+            link: "http://viphd.vn"
+        }
+    });
+    
+    jwplayer('video2').setup({
+        flashplayer: "/DemoJwplayer/player.swf",
+        primary: 'flash',
+        width: '100%',
+        height: '500',
+        autostart: true,
+        androidhls: true,
+        playlist: [{
+            file: "rtmp://static-viphd.com:1683/vod/mp4:films/20150616/Deoksuri.5.2014/Deoksuri.5.2014.MP4",
+            tracks: [{
+                file: "/DemoJwplayer/sub.srt",
+                kind: "captions",
+                label: "Tiếng Việt",
+                "default": true
+            }]
+        }],
+        videoads: {
+            videotag: "/DemoJwplayer/ads.xml",
+            //adspreload: true
+        },
+        logos: {
+            file: "http://viphd.vn/Images/logo/60x60.png",
+            link: "http://viphd.vn"
+        }
+    });
+	
+	 jwplayer('video3').setup({
+        flashplayer: "/DemoJwplayer/player.swf",
+        primary: 'flash',
+        width: '100%',
+        height: '500',
+        autostart: true,
+        androidhls: true,
+        playlist: [{
+            file: "https://www.youtube.com/watch?v=GcvA-bAZY9I",
+            //tracks: [{
+            //    file: "/DemoJwplayer/sub.srt",
+            //    kind: "captions",
+            //    label: "Tiếng Việt",
+            //    "default": true
+            //}]
+        }],
+        videoads: {
+            videotag: "/DemoJwplayer/ads.xml",
+            //adspreload: true
+        },
+       logos: {
+            file: "http://viphd.vn/Images/logo/80x80.png",
+            link: "http://viphd.vn"
+        }
+    });
+</script>      
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+    });
+</script>

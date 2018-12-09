@@ -1,0 +1,78 @@
+<?xml version="1.0" ?><skin author="JW Player" name="Five" target="6.7" version="3.0">
+
+	<components>
+
+		<component name="controlbar">
+			<settings>
+				<setting name="margin" value="0"/>
+				<setting name="maxwidth" value="9999"/>
+				<setting name="fontsize" value="11"/>
+				<setting name="fontweight" value="normal"/>
+				<setting name="fontcase" value="normal"/>
+				<setting name="fontcolor" value="0x000000"/>
+			</settings>
+			
+			<elements>
+				</elements>
+		</component>
+
+		<component name="display">
+			<settings>
+				<setting name="bufferrotation" value="90"/>
+				<setting name="bufferinterval" value="90"/>
+				<setting name="fontcase" value="normal"/>
+				<setting name="fontcolor" value="0x000000"/>
+				<setting name="overcolor" value="0x000000"/>
+				<setting name="fontsize" value="11"/>
+				<setting name="fontweight" value="normal"/>
+			</settings>
+			<elements>
+				</elements>
+		</component>
+
+		<component name="dock">
+			<settings>
+				<setting name="iconalpha" value="1"/>
+				<setting name="iconalphaactive" value="1"/>
+				<setting name="iconalphaover" value="1"/>
+			</settings>
+			<elements>
+				</elements>
+		</component>
+
+		<component name="playlist">
+			<settings>
+				<setting name="backgroundcolor" value="0xffffff"/>
+				<setting name="fontcolor" value="0x999999"/>
+				<setting name="fontsize" value="11"/>
+				<setting name="fontweight" value="normal"/>
+				<setting name="activecolor" value="0x444444"/>
+				<setting name="overcolor" value="0x444444"/>
+
+				<setting name="titlecolor" value="0x666666"/>
+				<setting name="titlesize" value="12"/>
+				<setting name="titleweight" value="bold"/>
+				<setting name="titleactivecolor" value="0x000000"/>
+				<setting name="titleovercolor" value="0x000000"/>
+			</settings>
+			
+			<elements>
+				</elements>
+		</component>
+
+		<component name="tooltip">
+			<settings>
+				<setting name="fontcase" value="normal"/>
+				<setting name="fontcolor" value="0xbbbbbb"/>
+				<setting name="fontsize" value="11"/>
+				<setting name="fontweight" value="normal"/>
+				<setting name="activecolor" value="0xffffff"/>
+				<setting name="overcolor" value="0xffffff"/>
+			</settings>
+			
+			<elements>
+				</elements>
+		</component>
+
+  </components>
+</skin>

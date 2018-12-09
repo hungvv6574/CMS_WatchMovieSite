@@ -1,0 +1,192 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div id="pagination" style="margin-top: 120px;">
+    @if ((Model.ListSearchFilms != null && Model.ListSearchFilms.Count > 0)
+        || (Model.ListSearchShow != null && Model.ListSearchShow.Count > 0)
+        || (Model.ListSearchTrailer != null && Model.ListSearchTrailer.Count > 0))
+    {
+        <input id="totalPage" name="totalPage" value="@Model.TotalPage" type="hidden" />    
+        <div id="show-content1" class="content" style="margin-right: 10px;"></div>
+        <br class="clear_both">
+    }
+          
+    @if (Model.ListSearchFilms != null && Model.ListSearchFilms.Count > 0)
+    {
+        <div class="slider_box_sim">
+            <br class="clear_both">
+            <h2 class="title_h1_st1">
+                <a href="@Url.Action("Index", "HomeCategory", new {@alias = "phim-le", @id = 2})" title="Phim">Phim</a>
+            </h2>                   
+            <p class="search_text_re">TỪ KHÓA "<span style="font-weight:bold">@Model.Keyword</span>" - Kết quả 1 - @Model.ListSearchFilms.Count trong tồng số @Model.ListSearchFilms.Count kết quả của phim</p>
+            <br class="clear_both">   
+            <div>
+                <ul class="fix-margin-li">
+                    <li>
+                        @for (int i = 0; i < Model.ListSearchFilms.Count; i++)
+                        {
+                            var item = Model.ListSearchFilms[i];
+                            var url = Url.Action("FilmView", "HomeView", new {alias = item.Alias, id = item.SearchId});
+                            <div class="slide_child_div_dt item">
+                                <a href="@url" title="@item.Title">
+                                    <img src="@item.Images" alt="@item.TitleEnglish" title="@item.Title">
+                                    <p class="title_film_child">
+                                        <span class="orange_color">@item.TitleEnglish</span>
+                                        <span>@item.Title</span>
+                                    </p>      
+                                </a>  
+                                <div title="Item @i Description" style="display: none" class="tooltip_description">
+                                    <a href="@url" title="@item.Title">@item.Title</a>
+                                    <div class="film-info">   
+                                        <span>Chuyên mục: </span>
+                                        <label>@item.CategoryNames</label>  
+                                        <br>
+                                        <span>Tag: </span>
+                                        <label>@item.Tags</label>
+                                    </div>
+                                    <div class="film-body">
+                                        <p>@item.Sumary</p>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </li>
+                </ul>
+            </div>
+        </div>
+    }   
+    
+    @if (Model.ListSearchTrailer != null && Model.ListSearchTrailer.Count > 0)
+    {
+        <div class="slider_box_sim">
+            <br class="clear_both">
+            <h2 class="title_h1_st1">
+                <a href="@Url.Action("Index", "HomeTrailer", new {@alias = "trailer", @id = 6})" title="Trailer">Trailer</a>
+            </h2>                   
+            <p class="search_text_re">TỪ KHÓA "<span style="font-weight:bold">@Model.Keyword</span>" - Kết quả 1 - @Model.ListSearchTrailer.Count trong tồng số @Model.ListSearchTrailer.Count kết quả của TRAILER</p>
+            <br class="clear_both">   
+            <div>
+                <ul class="fix-margin-li">
+                    <li>
+                        @for (int i = 0; i < Model.ListSearchTrailer.Count; i++)
+                        {
+                            var item = Model.ListSearchTrailer[i];
+                            var url = Url.Action("FilmView", "HomeView", new {alias = item.Alias, id = item.SearchId});
+                            <div class="slide_child_div_dt item">
+                                <a href="@url" title="@item.Title">
+                                    <img src="@item.Images" alt="@item.TitleEnglish" title="@item.Title">
+                                    <p class="title_film_child">
+                                        <span class="orange_color">@item.TitleEnglish</span>
+                                        <span>@item.Title</span>
+                                    </p>      
+                                </a>  
+                                <div title="Item @i Description" style="display: none" class="tooltip_description">
+                                    <a href="@url" title="@item.Title">@item.Title</a>
+                                    <div class="film-info">   
+                                        <span>Chuyên mục: </span>
+                                        <label>@item.CategoryNames</label>  
+                                        <br>
+                                        <span>Tag: </span>
+                                        <label>@item.Tags</label>
+                                    </div>
+                                    <div class="film-body">
+                                        <p>@item.Sumary</p>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </li>
+                </ul>
+            </div>
+        </div>
+    }     
+    
+    @if (Model.ListSearchShow != null && Model.ListSearchShow.Count > 0)
+    {
+        <div class="slider_box_sim">
+            <br class="clear_both">
+            <h2 class="title_h1_st1">
+                <a href="@Url.Action("Index", "HomeShow", new {@alias = "shows", @id = 4})" title="TV Show">TV Show</a>
+            </h2>                   
+            <p class="search_text_re">TỪ KHÓA "<span style="font-weight:bold">@Model.Keyword</span>" - Kết quả 1 - @Model.ListSearchShow.Count trong tồng số @Model.ListSearchShow.Count kết quả của TV Show</p>
+            <br class="clear_both">   
+            <div>
+                <ul class="fix-margin-li">
+                    <li>
+                        @for (int i = 0; i < Model.ListSearchShow.Count; i++)
+                        {
+                            var item = Model.ListSearchShow[i];
+                            var url = Url.Action("FilmView", "HomeView", new {alias = item.Alias, id = item.SearchId});
+                            <div class="slide_child_div_dt item">
+                                <a href="@url" title="@item.Title">
+                                    <img src="@item.Images" alt="@item.TitleEnglish" title="@item.Title">
+                                    <p class="title_film_child">
+                                        <span class="orange_color">@item.TitleEnglish</span>
+                                        <span>@item.Title</span>
+                                    </p>      
+                                </a>  
+                                <div title="Item @i Description" style="display: none" class="tooltip_description">
+                                    <a href="@url" title="@item.Title">@item.Title</a>
+                                    <div class="film-info">   
+                                        <span>Chuyên mục: </span>
+                                        <label>@item.CategoryNames</label>   
+                                        <br>
+                                        <span>Tag: </span>
+                                        <label>@item.Tags</label>
+                                    </div>
+                                    <div class="film-body">
+                                        <p>@item.Sumary</p>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </li>
+                </ul>
+            </div>
+        </div>
+    }     
+                               
+    @if ((Model.ListSearchFilms != null && Model.ListSearchFilms.Count > 0)
+        || (Model.ListSearchShow != null && Model.ListSearchShow.Count > 0)
+        || (Model.ListSearchTrailer != null && Model.ListSearchTrailer.Count > 0))
+    {
+        <br class="clear_both">
+        <div id="show-content2" class="content" style="margin-right: 10px;"></div>  
+        <script type="text/javascript">
+            $(document).ready(function ()
+            {
+                var pageIndex = '@Model.PageIndex';
+                $('#show-content1, #show-content2').bootpag({
+                    total: parseInt($("#totalPage").val()),
+                    page: parseInt(pageIndex),
+                    maxVisible: 5,
+                    leaps: true,
+                    firstLastUse: true,
+                    first: 'Đầu',
+                    last: 'Cuối',
+                    href: "?trang={{number}}",
+                    wrapClass: 'pagination',
+                    activeClass: 'active',
+                    disabledClass: 'disabled',
+                    nextClass: 'next',
+                    prevClass: 'prev',
+                    lastClass: 'last',
+                    firstClass: 'first'
+                });
+
+                $("#pagination .item").tooltip({
+                    'arrow_top_offset': 100,
+                    'opacity': 1,
+                    'dialog_content_selector': '.tooltip_description'
+                });
+            });
+        </script> 
+        }
+        else{
+             <p class="search_text_re">KHÔNG TÌM THẤY DỮ LIỆU THEO TỪ KHÓA "<span style="font-weight:bold">@Model.Keyword</span>"</p>    
+        }    
+</div> 
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+    });
+</script>

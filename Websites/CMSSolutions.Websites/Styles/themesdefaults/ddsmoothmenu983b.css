@@ -1,0 +1,143 @@
+.ddsmoothmenu {
+	font: 12px Verdana;
+	width: 100%;
+}
+.ddsmoothmenu ul {
+	z-index: 2000;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	float:left;
+}
+/*Top level list items*/
+.ddsmoothmenu ul li {
+	position: relative;
+	display: inline;
+	float: left;
+}
+.ddsmoothmenu ul li.mar-r20 {
+	margin-right:18px;
+}
+.ie8 .ddsmoothmenu ul li.mar-r20 {
+	margin-right:10px;
+}
+/**********************/
+.downarrowclass{display:none;}
+a.movie_menu_fa{background-image:url(/Images/themes/movie_menu_fa.png);}
+a.movies_menu_fa{background-image:url(/Images/themes/movies_menu_fa.png);}
+a.show_menu_fa{background-image:url(/Images/themes/show_menu_fa.png);}
+a.tv_menu_fa{background-image:url(/Images/themes/tv_menu_fa.png);}
+a.trailer_menu_fa{background-image:url(/Images/themes/trailer_menu_fa.png);}
+a.req_menu_fa{background-image:url(/Images/themes/req_menu_fa.png);}
+a.free_menu_fa{background-image:url(/Images/themes/free_menu_fa.gif); background-position:center top;  margin-top: -15px;}
+a.req_menu_fa:hover{background-position:center top;}
+a.clip_menu_fa{background-image:url(/Images/themes/clip_menu_fa.png);min-width:52px;text-align:center;}
+a.clip_menu_fa:hover{background-position:center top;}
+a.dune_menu_fa{background-image:url(/Images/themes/dune_menu_fa.png);min-width:52px;text-align:center;}
+a.dune_menu_fa:hover{background-position:center top;}
+a.jj_menu_fa{background-image:url(/Images/themes/jj_menu_fa.png);min-width:52px;text-align:center;}
+a.jj_menu_fa:hover{background-position:center top;}
+/**********************/
+.menu_fa_text {
+    display: block;
+    font-family: "SFUGillSansRegular";
+    font-size: 14px;
+    line-height: 25px;
+    padding-bottom: 1px;
+    padding-top: 39px;
+	background-repeat:no-repeat;
+	background-position:center bottom;
+	padding-right:0 !important;
+}
+.menu_fa_text:hover {
+	background-position:center top;
+}
+.ie8 .menu_fa_text{font-size: 16px !important; line-height:28px; height:28px;}
+.menu_fa_ul{
+	top:61px !important;
+	background-color:#f3f3f3;
+	width:300px;
+}
+/*Top level menu link items style*/
+.ddsmoothmenu ul li a {
+	display: block;
+	text-decoration: none;
+}
+* html .ddsmoothmenu ul li a { /*IE6 hack to get sub menu links to behave correctly*/
+	display: inline-block;
+}
+.ddsmoothmenu ul li a:link, .ddsmoothmenu ul li a:visited {
+	color: #44619d;
+}
+.ddsmoothmenu ul li a.selected,.ddsmoothmenu ul li a.active { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+	/*background: #f0f0f0;*/
+	background-position:center top;
+	color: #44619d;     /*#44619d;*/
+}
+.ddsmoothmenu ul li a:hover {
+	color: #e74c3c;
+}
+/*1st sub level menu*/
+.ddsmoothmenu ul li ul {
+	position: absolute;
+	left: 0;
+	display: none; /*collapse all sub menus to begin with*/
+	visibility: hidden;
+}
+/*Sub level menu list items (undo style from Top level List Items)*/
+.ddsmoothmenu ul li ul li {
+	display: list-item;
+	float: left;
+}
+.ddsmoothmenu ul li ul li a {
+	background-color: #f4f4f4;
+	color: #999999;
+
+}
+.ddsmoothmenu ul li ul li a:hover {
+	background-color: #44619d;
+	color: #FFF;
+}
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.ddsmoothmenu ul li ul li ul {
+	top: 0;
+}
+/* Sub level menu links style */
+.ddsmoothmenu ul li ul li a {
+	width: 140px; /*width of sub menus*/
+	padding: 5px;
+	margin: 0;
+	font-size:12px;
+	font-family: "SFUGillSansRegular";
+}
+.ie8 .ddsmoothmenu ul li ul li a {
+    font-size:12px;
+}
+/* Holly Hack for IE \*/
+* html .ddsmoothmenu {
+	height: 1%;
+} /*Holly Hack for IE7 and below*/
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass {
+	position: absolute;
+	right: 0;
+	top: 0px;
+}
+.rightarrowclass {
+	position: absolute;
+	top: 6px;
+	right: 5px;
+}
+/* ######### CSS for shadow added to sub menus  ######### */
+
+.ddshadow { /*shadow for NON CSS3 capable browsers*/
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+}
+.toplevelshadow { /*shadow opacity for NON CSS3 capable browsers. Doesn't work in IE*/
+	opacity: 0.8;
+}

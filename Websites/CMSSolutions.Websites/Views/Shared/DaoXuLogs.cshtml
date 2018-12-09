@@ -1,0 +1,80 @@
+﻿@model CMSSolutions.Websites.Models.DataViewerModel
+
+<div class="bg-daoxu">
+    <div style="padding-left: 8px;">
+        <ul class="profi-menu">
+            <li>
+                <a class="@(Model.DataType == 0 ? "active" : string.Empty)" href="@Url.Action("ShowInformations", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">GIỚI THIỆU</a>
+            </li>
+            <li>
+                <a class="@(Model.DataType == 1 ? "active" : string.Empty)" href="@Url.Action("Index", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">SỰ KIỆN</a>
+            </li>
+            <li>
+                <a class="@(Model.DataType == 2 ? "active" : string.Empty)" href="@Url.Action("ShowLogs", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">LOG NHẬN THƯỞNG</a>
+            </li>
+            <li>
+                <a class="@(Model.DataType == 3 ? "active" : string.Empty)" href="@Url.Action("ShowHelps", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">HƯỚNG DẪN</a>
+            </li>
+        </ul>
+    </div>
+    <div class="clear_both w960_h10"></div>
+    @if (Model.Customer != null)
+    {
+        <div style="text-align: center; line-height: 25px">
+            <p style="line-height:20px;color:#333;margin-top:10px;">
+                Chào <strong class="orange_color">@Model.Customer.FullName</strong> ! 
+                Mã số tài khoản của bạn là <strong class="orange_color">@Model.Customer.CustomerCode</strong>
+            </p>
+            Tham gia mua sắm hoặc hoàn thành nhiệm vụ tại <a class="orange_color" target="_blank" title="nạp vip" href="@Url.Action("Index", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">KÊNH ĐÀO XU</a> để nhận ngay VIPXU
+            <br> 
+            <div class="orange_color">MUA CÀNG NHIỀU NHẬN QUÀ CÀNG LỚN</div>
+        </div>
+    }
+    <div>
+        <br class="clear_both">
+        <div class="log-pur-inf" id="page_index">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <th scope="col">SỰ KIỆN</th>
+                        <th scope="col">NGÀY BẮT ĐẦU</th>
+                        <th scope="col">NGÀY KẾT THÚC</th>
+                        <th scope="col">VIPXU THƯỞNG</th>
+                    </tr>
+                    @if (Model.ListHistoryDownload == null || Model.ListHistoryDownload.Rows.Count <= 0)
+                    {
+                        <tr>
+                            <td style="text-align: center" colspan="4">Không có dữ liệu</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        
+                        foreach (System.Data.DataRow row in Model.ListHistoryDownload.Rows)
+                        {
+                            var start = row["StartDate"].ToString();
+                            var end = row["EndDate"].ToString();
+                            <tr>
+                                <td>@row["Title"]</td>
+                                <td>@(Convert.ToDateTime(start).ToString(CMSSolutions.Websites.Extensions.Constants.DateTimeFomatFull))</td>
+                                <td>@(DateTime.Parse(end).ToString(CMSSolutions.Websites.Extensions.Constants.DateTimeFomatFull))</td>
+                                <td>@row["VipXu"]</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <br class="clear_both">
+            <div class="paging">&nbsp;</div> <br class="clear_both">
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+        $(".content_left").hide();
+        $(".content_right").hide();
+    });
+</script>

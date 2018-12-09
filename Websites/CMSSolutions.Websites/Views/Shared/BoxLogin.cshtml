@@ -1,0 +1,90 @@
+﻿@using CMSSolutions.Configuration
+@using CMSSolutions.Security.Cryptography
+@{
+    string fullName = "";
+    var userId = 0;
+    try
+    {
+        HttpCookie authCookie = Request.Cookies[CMSSolutions.Websites.Extensions.Constants.GlobalFullName];
+        if (authCookie != null && !string.IsNullOrEmpty(authCookie.Value))
+        {
+            fullName = EncryptionExtensions.Decrypt(KeyConfiguration.PublishKey, authCookie.Value);
+        }
+
+
+        authCookie = Request.Cookies[CMSSolutions.Websites.Extensions.Constants.GlobalUserId];
+        if (authCookie != null && !string.IsNullOrEmpty(authCookie.Value))
+        {
+            userId = Convert.ToInt32(EncryptionExtensions.Decrypt(KeyConfiguration.PublishKey, authCookie.Value));
+        }
+    }
+    catch (Exception)
+    {
+
+    }
+}
+
+<div class="pull-right menu-top">
+    <a title="Trở thành thành viên VIP để loại bỏ quảng cáo" href="javascript: void(0);" onclick="javascript: checkLogin();" class="mh-btn-ntt">NẠP VIP</a>			
+    <a href="@Url.Action("Index","HomeSupport")" title="Hỗ trợ" class="_support_a2">Hỗ trợ</a>
+    <a rel="nofollow" class="skype_chat_a" title="Hỗ trợ skype" href="skype:viphd.vn.01?chat">&nbsp;</a>
+    <a class="icon-facebook" target="_blank" title="Hỗ trợ facebook" href="https://www.facebook.com/viphd.vn">&nbsp;</a> 
+    @if (userId > 0)
+    {
+        <span class="hello-user">Xin chào:</span>
+        <a class="login_txt" href="@Url.Action("UserHistories1", "HomeCustomer")">
+            <img id="imgvip" style="margin-right: 5px;" src="">@fullName
+        </a>    
+        <a href="@Url.Action("UserMessages", "HomeCustomer")" class="profile_notification relative">
+			<img src="/Images/themes/mail_icon.png" style="float: left;  margin: 6px 0 0 10px;">
+        </a>  
+        <a class="login_txt" href="@Url.Action("UserLogout", "Home")"><span>| Logout</span></a>
+        
+        <script type="text/javascript">
+            $(document).ready(function () {
+                checkVip();
+            });
+        </script> 
+    }
+    else
+    {
+        <a class="bt_register_a register-window" onclick="javascript: dialogBox('#registerBox');" href="javascript: void(0);">Đăng ký</a>						
+        <a class="bt_login_a big-link login-window" onclick="javascript: dialogBox('#loginBox');" href="javascript: void(0);">Đăng Nhập</a>  
+    }
+    <br class="clear_both">
+</div>
+ 
+<script type="text/javascript">
+    function checkVip() {
+        $("#imgvip").hide();
+        $.ajax({
+            url: '@Url.Action("GetVip", "Home")',
+            type: 'POST',
+            dataType: 'json',
+            success: function(result) {
+                if (result.Status == true) {
+                    $("#imgvip").attr("src", "/Images/themes/vip-ico.png");
+                    $("#imgvip").show();
+                }
+            }
+        });
+    }
+    
+    function checkLogin() {   
+        var data = $("#loginCustomer").find("input").serialize();
+        $.ajax({
+            url: '@Url.Action("CheckLogin", "Home")',
+            data: data,
+            type: 'POST',
+            dataType: 'json',
+            success: function(result) {
+                if (result.Status != true) {
+                    dialogBox('#loginBox');
+                    return;
+                }
+                var url = '@Url.Action("Index","HomeVipXu")';
+                window.location = url;
+            }
+        });
+    }
+</script>     

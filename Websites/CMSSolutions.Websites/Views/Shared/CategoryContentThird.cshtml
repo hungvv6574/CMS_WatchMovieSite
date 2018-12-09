@@ -1,0 +1,61 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div class="slider_box_sim">
+    <h2 class="title_h1_st1">
+        <a href="@Model.UrlNext"> @Model.Title</a>
+    </h2>
+    <br class="clear_both">  
+    <div id="@Model.SliderName" style="position: relative; top: 0px; left: 0px; width: 680px; height: 510px; overflow: hidden; ">
+        <div id="filmData_@Model.Type" u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 700px;height: 510px;overflow: hidden;">
+           @Html.Raw(Model.HtmlFilmLengthEpisodes)
+        </div> 
+        <span u="arrowleft" class="jssora12l" style="top: 46%; left: 0px;"></span>
+        <span u="arrowright" class="jssora12r" style="top: 46%; right: 4px;"></span>
+    </div> 
+    <a href="@Model.UrlNext" class="see_more_a_link">@Model.TextNext</a>  
+    <div class="clear_with_border_bot w630_h2"></div>
+    <br class="clear_both">
+</div> 
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        initSliderOption("@Model.SliderName");
+        $("#filmData_@Model.Type .item").tooltip({
+            'arrow_top_offset': 100,
+            'opacity': 1,
+            'dialog_content_selector': '.tooltip_description'
+        });
+        //showFilmThird();
+    });
+    
+    @*function showFilmThird() {
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("GetFilmByType", "Home")',
+            data: { type: '@Model.Type' },
+            dataType: 'JSON',
+            beforeSend: function() {
+                var html = "<div id='loading' style='width: 100%;text-align: center;margin-top: 30%;'><img width='100' src='/Images/themes/loading1.gif' /></div>";
+                setTimeout(function () {
+                    $('#filmData_@Model.Type').find("#loading").remove();
+                }, 20000);
+                $("#filmData_@Model.Type").html(html);
+            },
+            success: function(resultList) {
+                $('#filmData_@Model.Type').find("#loading").remove();
+                var n = resultList.Data.length;     
+                if (n > 0) {   
+                    $("#filmData_@Model.Type").html(resultList.Data);
+                    initSliderOption("@Model.SliderName");    
+                    $("#filmData_@Model.Type .item").tooltip({
+                        'arrow_top_offset': 100,
+                        'opacity': 1,
+                        'dialog_content_selector': '.tooltip_description'
+                    });
+                } else {
+                    var html = "<li>Không có dữ liệu</li>";
+                    $("#filmData_@Model.Type").html(html);
+                }
+            }
+        });
+    }*@
+</script>

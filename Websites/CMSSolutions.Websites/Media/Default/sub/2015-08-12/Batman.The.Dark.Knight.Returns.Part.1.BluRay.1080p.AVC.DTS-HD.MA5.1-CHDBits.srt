@@ -1,0 +1,2983 @@
+﻿1
+00:01:04,680 --> 00:01:07,968
+<i>Bruce. Anh đang cố tăng tốc quá đấy.
+Chiếc xe sẽ không làm được.</i>
+
+2
+00:01:08,120 --> 00:01:09,326
+Tôi sẽ làm từ từ.
+
+3
+00:01:13,320 --> 00:01:15,368
+<i>Thôi đi,
+tôi đã chiếm quyền điều khiển bằng máy tính.</i>
+
+4
+00:01:21,600 --> 00:01:22,761
+Đừng nghĩ thế là xong.
+
+5
+00:01:22,920 --> 00:01:26,561
+<i>Đồ ngốc,
+anh muốn tự tử sao?</i>
+
+7
+00:01:59,400 --> 00:02:02,165
+<i>Màn kết thúc ngoạn mục
+cho vòng loại giải đua Neumann.</i>
+
+8
+00:02:02,320 --> 00:02:05,642
+<i>Trông như một quan tài rực cháy
+cho tỷ phú Bruce Wayne.</i>
+
+9
+00:02:05,800 --> 00:02:08,326
+Nhưng Wayne đã thoát ra được ở
+giây cuối cùng...
+
+10
+00:02:08,520 --> 00:02:10,488
+...và chỉ chịu một số vết bỏng nhỏ.
+
+11
+00:02:11,560 --> 00:02:14,530
+Vụ thảm sát tàn bạo một nhóm nữ tu tối qua...
+
+12
+00:02:14,680 --> 00:02:19,925
+...là vụ mới nhất trong chuỗi hành vi tội ác
+dã man của băng Mutant.
+
+13
+00:02:20,480 --> 00:02:24,246
+Tỷ lệ tội phạm tăng cao,
+thành phố đang trở thành địa ngục...
+
+14
+00:02:24,400 --> 00:02:27,131
+...và có vẻ không ai làm được gì để
+ngăn cản chuyện này.
+
+15
+00:02:27,280 --> 00:02:30,443
+Lại một lời đe dọa nữa từ băng Mutants...
+
+16
+00:02:30,600 --> 00:02:34,241
+...đối với ngài Ủy viên 70 tuổi sắp về hưu,
+James Gordon...
+
+17
+00:02:34,400 --> 00:02:36,368
+...người đã đáp lại:
+
+18
+00:02:36,520 --> 00:02:42,209
+Tôi còn làm công việc này một tháng nữa,
+và tôi sẽ vui được đóng đinh băng Mutants.
+
+19
+00:02:42,360 --> 00:02:45,489
+Nếu chúng muốn hạ tôi, tôi rất vui lòng.
+
+20
+00:02:45,680 --> 00:02:46,806
+Đến mà hạ tôi đi.
+
+21
+00:02:46,960 --> 00:02:49,566
+Tình cờ trùng với dịp nghỉ hưu của Gordon...
+
+22
+00:02:49,720 --> 00:02:54,487
+...tối nay đánh dấu kỷ niệm 10 năm kể từ lần cuối
+Batman xuất hiện.
+
+23
+00:02:54,640 --> 00:02:57,405
+Phần lớn các khán giả trẻ tuổi sẽ nghĩ
+ông chỉ là một huyền thoại...
+
+24
+00:02:57,560 --> 00:03:00,609
+...nhiều người khác sẽ vẫn tranh luận
+xem cuộc chiến đơn độc chống tội phạm này...
+
+25
+00:03:00,760 --> 00:03:02,330
+...là đúng hay sai...
+
+26
+00:03:02,480 --> 00:03:07,771
+...nhưng tôi hy vọng dù anh ấy đang ở đâu,
+anh ấy đang nâng cốc chúc mừng với những người bạn tốt.
+
+27
+00:03:08,800 --> 00:03:12,646
+Mừng 10 năm và cuối cùng tôi cũng tham gia cùng anh.
+
+28
+00:03:20,920 --> 00:03:23,400
+Vụ đường đua của anh thật mạo hiểm.
+
+29
+00:03:23,560 --> 00:03:25,005
+Để giữ cho máu tiếp tục chảy thôi.
+
+30
+00:03:25,160 --> 00:03:27,606
+Miễn là phần lớn nó còn trong người anh là được.
+
+31
+00:03:29,640 --> 00:03:30,971
+Lo cho tôi sao?
+
+32
+00:03:31,120 --> 00:03:34,522
+Cứ cho là tôi mừng vì anh chịu đựng được việc
+Batman nghỉ hưu...
+
+33
+00:03:34,680 --> 00:03:37,251
+...và tôi hy vọng anh có thể tiếp tục như thế.
+
+34
+00:03:37,440 --> 00:03:40,125
+<i>Một số nhân viên chính quyền đã cho rằng
+Ban của Gordon...</i>
+
+35
+00:03:40,320 --> 00:03:41,810
+<i>...có thể giúp giảm tình trạng bạo lực...</i>
+
+36
+00:03:41,960 --> 00:03:45,851
+<i>...của băng Mutants, khi mà tên thủ lĩnh bí ẩn của
+băng Mutant Leader đã liên tục lặp lại..</i>
+
+37
+00:03:46,000 --> 00:03:48,731
+<i>....việc ngài Ủy viên là một mục tiêu của chúng.</i>
+
+38
+00:03:48,880 --> 00:03:51,008
+Anh không lo cho tôi đấy chứ?
+
+39
+00:03:51,640 --> 00:03:54,371
+Không hơn so với lo cho cả thành phố.
+
+40
+00:03:54,520 --> 00:03:56,249
+Mọi người đã bỏ cuộc, Jim.
+
+41
+00:03:56,880 --> 00:04:00,009
+Họ đang lẩn trốn, nhắm mắt làm ngơ.
+
+42
+00:04:00,160 --> 00:04:05,405
+Đây là thời điểm đáng sợ. Còn băng Mutants,
+chúng không phải bọn tội phạm thường gặp trên phố.
+
+43
+00:04:05,560 --> 00:04:09,121
+Một tên trộm, hắn nhắm tới cái ví.
+Thế là hợp lý.
+
+44
+00:04:09,280 --> 00:04:12,329
+Còn những đứa nhóc này, là bạo lực ngẫu nhiên.
+
+45
+00:04:12,520 --> 00:04:17,731
+-Không có chút nhân tính nào.
+-Nghe như ai đó tôi đã từng đối phó.
+
+46
+00:04:18,240 --> 00:04:21,130
+Tạ ơn Chúa là hắn vẫn giữ im lặng.
+
+47
+00:04:22,440 --> 00:04:25,125
+Nhớ anh đã dẫn dắt chúng tôi thế nào
+khi đó chứ?
+
+48
+00:04:25,320 --> 00:04:29,006
+giả như nó là champagne.
+
+49
+00:04:30,800 --> 00:04:33,565
+Bù đắp cho khoảng thời gian đã mất từ đó.
+
+50
+00:04:34,320 --> 00:04:37,244
+-Làm nó dễ dàng hơn.
+-Làm cái gì dễ dàng hơn?
+
+51
+00:04:37,400 --> 00:04:41,405
+-Nghỉ hưu.
+-Giờ mọi chuyện đã khác, Bruce.
+
+52
+00:04:41,560 --> 00:04:46,805
+Chính quyền, công chúng,
+họ không còn đứng về phía anh nữa.
+
+53
+00:04:49,320 --> 00:04:52,802
+-Gần đây có nói chuyện với Dick không?
+-Anh biết là tôi không mà.
+
+54
+00:04:52,960 --> 00:04:54,769
+Thật đáng tiếc anh không giữ liên lạc với cậu ta.
+
+55
+00:04:54,920 --> 00:04:58,402
+Đó đã có thể là một bờ vai để dựa vào,
+sau những gì đã xảy ra với Jason.
+
+56
+00:05:00,760 --> 00:05:03,570
+Kết thúc ở đây thôi, Jim.
+
+57
+00:05:19,960 --> 00:05:23,203
+Ngày phán xét đang tới, người anh em.
+
+62
+00:06:32,920 --> 00:06:34,001
+Này, hắn thấy chúng ta rồi.
+
+63
+00:06:34,200 --> 00:06:36,441
+Đừng vào thẳng, Billy. 
+Đi quanh, vòng ra sau hắn.
+
+64
+00:06:36,600 --> 00:06:40,127
+Cắt xẻ chút nào.
+Cho hắn thấy chúng ta kinh tớm thế nào.
+
+65
+00:06:40,280 --> 00:06:43,250
+Tao không biết đâu, lão này trông to vãi.
+Nhìn xem.
+
+66
+00:06:45,680 --> 00:06:49,765
+-Vào đi nào.
+-Trời ơi, mày, lão này thích thế.
+
+67
+00:06:50,400 --> 00:06:53,688
+-Vậy thì sao? Cắt xẻ chút thôi.
+-Vào đi.
+
+68
+00:06:53,840 --> 00:06:54,921
+Không.
+
+69
+00:06:55,080 --> 00:06:56,570
+Không thể làm khi người ta thích được.
+
+70
+00:06:56,778 --> 00:06:59,613
+Thôi đi, hãy đến khu vui chơi.
+
+71
+00:07:20,720 --> 00:07:23,405
+Nhìn cậu bé kìa.
+
+72
+00:07:23,560 --> 00:07:26,689
+Con sẽ làm gì nếu bắt được nó, Bruce?
+
+73
+00:08:16,240 --> 00:08:19,449
+Cậu chủ Bruce.
+Cậu đã làm hệ thống kêu báo động.
+
+74
+00:08:19,680 --> 00:08:22,126
+Chứng mộng du này có thể là một vấn đề...
+
+75
+00:08:22,920 --> 00:08:26,606
+...đặc biệt với những người có thói quen
+ngủ về đêm như chúng ta.
+
+76
+00:08:27,840 --> 00:08:29,126
+Cậu chủ?
+
+77
+00:08:30,320 --> 00:08:32,448
+Chỉ nhớ lại một lời hứa thôi, Alfred.
+
+78
+00:08:32,600 --> 00:08:36,321
+- Là gì vậy?
+- Không bao giờ nữa.
+
+79
+00:08:39,280 --> 00:08:41,044
+Xin lỗi đã làm bác thức giấc.
+
+80
+00:08:41,520 --> 00:08:42,760
+Cậu đã cạo râu khi nào vậy?
+
+81
+00:08:49,600 --> 00:08:52,365
+Vẫn cảm nhận được làn sóng nhiệt kỷ lục
+này ở Gotham...
+
+82
+00:08:52,520 --> 00:08:55,603
+...nhiệt độ đang lên tới hơn 90 độ F,
+thưa các bạn.
+
+83
+00:08:55,800 --> 00:08:59,043
+Nhưng những cơn mưa sẽ sớm tới
+và chấm dứt đợt nắng nóng này.
+
+85
+00:09:09,840 --> 00:09:11,490
+Nghĩ hắn sẽ quan tâm đến thời tiết sao?
+
+86
+00:09:11,640 --> 00:09:14,849
+Tôi không nghĩ gã này quan tâm đến điều gì
+trong một thời gian dài.
+
+87
+00:09:15,320 --> 00:09:17,209
+Chắc điên cũng có lúc thôi.
+
+88
+00:09:17,360 --> 00:09:19,044
+Gã này thậm chí còn chẳng đổ mồ hôi. Nhìn hắn xem.
+
+89
+00:09:19,240 --> 00:09:21,004
+Anh đi mà nhìn. Hắn làm tôi phát ốm.
+
+90
+00:09:28,800 --> 00:09:30,290
+Đừng hồi hộp, Harvey.
+
+91
+00:09:30,440 --> 00:09:33,922
+Bác sĩ Willing và tôi đã làm tốt,
+cả trong lẫn ngoài.
+
+92
+00:09:34,080 --> 00:09:35,969
+Bác sĩ Wolper, tôi phải đồng ý.
+
+93
+00:09:36,120 --> 00:09:43,129
+Về tâm lý, tôi tin rằng anh đã sẵn sàng
+đối mặt với thế giới và nói, "Này, tôi ổn."
+
+94
+00:09:44,400 --> 00:09:46,129
+Anh trông cũng rất tuyệt nữa.
+
+95
+00:09:49,280 --> 00:09:53,001
+Harvey Dent, hãy gặp Harvey Dent.
+
+96
+00:09:55,760 --> 00:09:58,889
+À, có vẻ như bệnh nhân cần
+chút thuyết phục hơn.
+
+97
+00:09:59,040 --> 00:10:00,963
+Đã từ lâu cả hai mặt mới khớp nhau.
+
+98
+00:10:01,160 --> 00:10:06,644
+- Đó là một trong những ca phẫu thuật tốt nhất của tôi, Harvey.
+- Hai mặt đều khớp.
+
+99
+00:10:09,200 --> 00:10:11,407
+Anh trông hoàn toàn bình thường.
+
+100
+00:10:11,560 --> 00:10:16,361
+-Tôi không biết phải nói gì.
+-Nói cám ơn.
+
+101
+00:10:16,680 --> 00:10:21,720
+Tôi không thể diễn tả hết được lòng biết ơn
+với bác sĩ phẫu thuật cho tôi, bác sĩ Herbert Willing...
+
+102
+00:10:21,880 --> 00:10:26,363
+...và bác sĩ tâm lý của tôi,
+bác sĩ Bartholomew Wolper.
+
+103
+00:10:26,560 --> 00:10:28,927
+Tôi không mong đợi người dân thành phố Gotham...
+
+104
+00:10:29,080 --> 00:10:31,526
+...sẽ tha thứ cho tội lỗi của tôi chỉ sau một đêm...
+
+105
+00:10:31,680 --> 00:10:35,002
+...tôi chỉ mong họ sẽ cho tôi một cơ hội thứ hai.
+
+106
+00:10:35,160 --> 00:10:36,366
+Harvey. Anh cảm thấy thế nào?
+
+107
+00:10:36,520 --> 00:10:38,488
+Tại sao chúng tôi nên tin lần này khác biệt?
+
+108
+00:10:38,640 --> 00:10:42,645
+- Anh có lo lắng khi phải bắt đầu lại từ đầu không?
+- Có thật Two-Face đã ra đi?
+
+109
+00:10:48,760 --> 00:10:52,606
+Đó là những lời cuối của Harvey Dent
+trước khi anh ta biến mất.
+
+110
+00:10:52,760 --> 00:10:56,003
+Công tố viên quận một thời,
+sau đó được biết đến với cái tên Two-Face...
+
+111
+00:10:56,160 --> 00:10:59,846
+...ngay lập tức đã thoát được sự giám sát
+khi vừa được thả ra ngày hôm nay...
+
+112
+00:11:00,000 --> 00:11:01,843
+...khỏi viện Arkham.
+
+113
+00:11:02,000 --> 00:11:05,004
+Một cặp vợ chồng bị sát hại trong lúc ngủ
+đã được tìm thấy sáng nay.
+
+114
+00:11:05,160 --> 00:11:10,200
+Wayne, người tài trợ cho việc cải tạo Dent,
+đã nói điều này chỉ vài ngày trước khi Dent được thả:
+
+115
+00:11:10,360 --> 00:11:15,002
+Là một thành phố, chúng ta phải cho Harvey
+mọi cơ hội có thể để tái hòa nhập cộng đồng.
+
+116
+00:11:15,160 --> 00:11:19,131
+Chúng ta phải tin tưởng chúng ta có thể đánh bại
+con quỷ dữ của chính mình.
+
+117
+00:11:19,320 --> 00:11:22,881
+Sau tình huống hôm nay,
+Wayne không bình luận được gì.
+
+118
+00:11:23,040 --> 00:11:26,567
+Tỷ lệ giết người trên đường tàu điện ngầm
+của thành phố đã đạt mức cao kỷ lục.
+
+119
+00:11:26,720 --> 00:11:28,643
+Bắt cóc và sát hại trẻ em...
+
+120
+00:11:28,800 --> 00:11:31,406
+...một ranh giới mà băng Mutants
+giờ đã bước qua.
+
+121
+00:11:31,560 --> 00:11:35,929
+Mặc dù gia đình đã trả tiền chuộc,
+băng Mutants vẫn lấy mạng cậu bé.
+
+122
+00:11:36,080 --> 00:11:38,447
+Việc này đánh dấu một bước tiến triển đáng sợ...
+
+123
+00:11:38,600 --> 00:11:42,207
+...trong nhóm mà nhiều người gọi là những tên tội phạm
+khủng khiếp nhất thành phố Gotham...
+
+124
+00:11:42,360 --> 00:11:44,647
+...từng có kể từ sau khi Joker xuất hiện.
+
+125
+00:11:46,640 --> 00:11:49,883
+Tối nay là vở diễn Mặt nạ Zorro--
+
+127
+00:12:11,080 --> 00:12:14,129
+-chỉ có thể coi rằng Two-Face
+sẽ trở lại con đường tội phạm.
+
+128
+00:12:14,280 --> 00:12:17,284
+4 người bị giết trong một cuộc tấn công vô nghĩa-
+
+129
+00:12:19,480 --> 00:12:24,930
+-bạo hành và sự khủng khiếp mà cậu bé tội nghiệp
+đã phải hứng chịu.
+
+130
+00:12:25,080 --> 00:12:28,880
+Bão đang tới, như cơn thịnh nộ 
+của Thần linh sắp giáng xuống Gotham.
+
+131
+00:12:36,240 --> 00:12:40,564
+Anh có kiềm chế tôi,
+nhưng anh quá yếu.
+
+132
+00:12:50,720 --> 00:12:53,610
+<i>Trong tâm hồn anh hiểu rõ.</i>
+
+133
+00:12:58,680 --> 00:13:01,206
+<i>Anh không là gì hơn một cái vỏ rỗng.</i>
+
+134
+00:13:12,720 --> 00:13:15,166
+<i>Một cái bẫy rỉ sét.</i>
+
+135
+00:13:43,280 --> 00:13:46,045
+<i>Đã đến lúc.</i>
+
+136
+00:14:06,480 --> 00:14:09,689
+Đến đây cho ấm nào Mẹ.
+
+137
+00:14:10,520 --> 00:14:12,522
+Không, làm ơn.
+
+138
+00:14:15,600 --> 00:14:20,640
+Con cần Mẹ.
+Nói nhẹ nhàng và làm con cảm thấy an toàn nào.
+
+139
+00:14:37,440 --> 00:14:40,284
+Lê cái mông vào xe đi.
+Chúng ta đi.
+
+140
+00:14:40,480 --> 00:14:43,370
+Làm ơn, Silk. Không phải mặt.
+
+141
+00:14:46,000 --> 00:14:49,766
+Cô làm tôi đau lòng đấy, Jeannie.
+Cô không biết nghề kiếm cơm của tôi là gì à.
+
+142
+00:14:49,920 --> 00:14:52,764
+Này anh, kiếm chỗ khác đi.
+Tôi vừa mới rửa xe xong.
+
+143
+00:14:52,920 --> 00:14:55,605
+Im mẹ mày mồm và lái đi.
+
+144
+00:14:55,760 --> 00:14:58,843
+Thế giới cá lớn nuốt cá bé mà.
+
+145
+00:14:59,040 --> 00:15:01,441
+Này, Jeannie,
+mày sẽ có thêm một lỗ mũi nữa đấy.
+
+146
+00:15:02,800 --> 00:15:03,881
+Cái quái gì vậy?
+
+147
+00:15:04,040 --> 00:15:07,931
+Có gì đó trên nóc xe.
+Thằng nào muốn chơi tao sao?
+
+148
+00:15:16,200 --> 00:15:19,090
+Ôi trời ơi, trời ơi, khởi động đi chứ.
+
+149
+00:15:31,520 --> 00:15:34,171
+Tuyệt, tớ đâu có muốn ướt như chuột lột thế này.
+
+150
+00:15:34,320 --> 00:15:36,641
+Thôi nào, chúng ta sẽ đi tắt qua đây.
+
+151
+00:15:40,080 --> 00:15:41,684
+Tớ không biết nữa.
+
+152
+00:15:41,840 --> 00:15:43,444
+Tớ nghe nói bọn Mutants tụ tập ở đây.
+
+153
+00:15:43,600 --> 00:15:45,602
+Dũng cảm lên nào, Michelle?
+
+154
+00:15:45,760 --> 00:15:47,683
+Trong này còn tốt hơn ngoài kia chứ.
+
+155
+00:15:47,880 --> 00:15:49,803
+Ít nhất đèn còn sáng.
+
+156
+00:15:49,960 --> 00:15:51,769
+Carrie?
+
+1
+00:00:13,870 --> 00:00:25,872
+Translated by pikeman - phudeviet.org
+
+157
+00:15:52,720 --> 00:15:55,451
+Đừng sợ.
+Lát nữa là lại sáng thôi.
+
+159
+00:16:00,880 --> 00:16:04,009
+Chân gà, thật ngon.
+Cắt ra nào.
+
+160
+00:16:04,160 --> 00:16:06,083
+Ôi Chúa ơi, Carrie. Á!
+
+161
+00:16:06,240 --> 00:16:10,404
+Tao nhận con bé hơn. Làm việc nào.
+
+162
+00:16:14,280 --> 00:16:18,285
+-Cái gì? Cái gì vừa xảy ra?
+-Tay tao. Có gì đâm vào tay tao.
+
+163
+00:16:18,440 --> 00:16:21,091
+Có gì chuyển động, tao sẽ--
+
+164
+00:16:26,360 --> 00:16:28,249
+Mày đâu rồi?
+
+165
+00:16:52,560 --> 00:16:56,884
+<i>Nhắc lại, tất cả các đơn vị,
+một vụ cướp đang diễn ra, ở Quỹ tín dụng Gotham.</i>
+
+166
+00:17:14,080 --> 00:17:16,242
+Anh nhìn thấy chiếc xe kia chứ?
+Nó vừa đi hướng ngược lại.
+
+167
+00:17:16,400 --> 00:17:18,562
+Quên đi.
+Chúng ta sẽ lỡ mất chiếc này mất.
+
+168
+00:17:27,640 --> 00:17:29,847
+Chết tiệt, thằng khốn đó lái được đấy.
+
+169
+00:17:32,200 --> 00:17:36,444
+-Cái quái gì kia?
+-Giờ tôi không thể nhìn được, nhóc.
+
+170
+00:17:38,200 --> 00:17:40,043
+Trên kia kìa. Thật là quái dị.
+
+171
+00:17:42,440 --> 00:17:44,408
+Cậu phải nói cho tôi hay-- Trời ơi....
+
+172
+00:17:52,080 --> 00:17:53,844
+Anh đang đi chậm lại?
+
+173
+00:17:54,000 --> 00:17:56,207
+Phải. Chúng ta sắp được xem trình diễn, nhóc.
+
+174
+00:18:22,480 --> 00:18:24,164
+Đó là Batman.
+
+175
+00:18:33,600 --> 00:18:36,888
+Tôi chưa từng nghĩ ông ấy là thật. Nhìn kìa.
+
+176
+00:18:40,160 --> 00:18:42,481
+Những gã đó là của tôi.
+
+177
+00:18:43,320 --> 00:18:47,120
+-Cậu nghe ông ấy rồi đấy.
+-Anh điên sao? Tôi sẽ vào.
+
+178
+00:18:47,280 --> 00:18:49,089
+Cậu sẽ không muốn làm thế đâu, nhóc.
+
+179
+00:18:53,560 --> 00:18:55,210
+Batman chắc phải già rồi.
+
+180
+00:18:55,400 --> 00:18:58,768
+-Turk nói hắn đã giết Batman.
+-Ừ, thằng Turk chém gió kinh lắm.
+
+181
+00:19:07,480 --> 00:19:12,281
+-Sàn có vẻ không an toàn.
+-Sống nguy hiểm mà. Im đi.
+
+182
+00:19:24,960 --> 00:19:26,689
+Ở đó.
+
+183
+00:19:46,600 --> 00:19:49,490
+Thật là lạ, trước đây hắn chưa bao giờ 
+gây tiếng động.
+
+184
+00:20:12,320 --> 00:20:14,084
+Cẩn thận. Mày sẽ bắn phải--
+
+185
+00:20:14,240 --> 00:20:18,928
+Mackie? Ừ, tao nghĩ là tao bắn rồi.
+Nhưng tao vẫn không thấy-- !
+
+186
+00:20:36,280 --> 00:20:38,203
+Tất cả đứng yên.
+
+187
+00:21:09,560 --> 00:21:12,484
+Ông đã bị bắt.
+Ông vừa làm người đàn ông đó què chân.
+
+188
+00:21:12,640 --> 00:21:14,449
+Hắn còn trẻ, rồi hắn sẽ lại đi được.
+
+189
+00:21:14,600 --> 00:21:17,683
+Nhưng nỗi sợ hãi vẫn sẽ còn đó, phải không?
+
+190
+00:21:19,400 --> 00:21:23,450
+-Tôi nói thật đấy. Tránh xa anh ta ra.
+-Ông ấy đã kiên nhẫn với cậu lắm rồi đấy, nhóc.
+
+191
+00:21:23,600 --> 00:21:25,364
+Thật mừng vì ông trở lại, Bat.
+
+192
+00:21:25,520 --> 00:21:28,171
+-Ra xe chúng tìm đi, nhóc. Xem có hàng không.
+-Đau.
+
+193
+00:21:28,320 --> 00:21:30,288
+Tôi không chịu được.
+
+194
+00:21:32,240 --> 00:21:35,722
+-Tôi không thể tin được.
+-Không ở trong xe chúng.
+
+195
+00:21:35,880 --> 00:21:37,848
+Có chiếc xe thứ 2 ở ngân hàng sao?
+
+196
+00:21:38,000 --> 00:21:41,368
+-Phải, một chiếc xe cũ. Tôi đã không nghĩ--
+-Anh thường sẽ không nghĩ được thế.
+
+197
+00:21:41,520 --> 00:21:44,000
+Ông biết không, tôi đã từng gặp ông 1 lần.
+
+198
+00:21:44,160 --> 00:21:47,767
+Nhiều năm trước, tôi chỉ là một lính mới
+như cậu nhóc khờ kia, và--
+
+199
+00:21:47,920 --> 00:21:50,400
+Bảo với Gordon chúng tôi cần nói chuyện.
+
+200
+00:21:51,200 --> 00:21:52,531
+Chắc rồi, Bat.
+
+201
+00:21:52,680 --> 00:21:55,411
+Nhưng làm sao ông ấy liên lạc với ông...?
+
+202
+00:21:59,960 --> 00:22:02,964
+À, phải, giờ mình nhớ rồi.
+
+203
+00:22:03,120 --> 00:22:06,647
+Có nhiều tin tức sáng nay về việc
+nhìn thấy một sinh vật to giống dơi...
+
+204
+00:22:06,840 --> 00:22:09,366
+...trên khắp thành phố tối qua.
+Các bạn không nghĩ rằng--?
+
+205
+00:22:09,520 --> 00:22:12,729
+1 bọn trộm, bị thương nặng--
+
+206
+00:22:12,880 --> 00:22:15,611
+Một con thú hoang gầm gừ.
+
+207
+00:22:15,760 --> 00:22:18,206
+-Chắc chắn là người sói.
+-Đó là một quái vật bay...
+
+208
+00:22:18,360 --> 00:22:22,604
+-...có cánh và răng nanh.
+-Nhìn kiểu gì vậy, Michelle. Đó rõ ràng là một người đàn ông.
+
+209
+00:22:22,760 --> 00:22:25,001
+Nhưng ông ta phải, cao đến hơn 3 mét.
+
+210
+00:22:25,560 --> 00:22:29,326
+2 đứa trẻ bị bắt cóc đã được tìm thấy ở
+một nhà kho bên bờ sông...
+
+211
+00:22:29,480 --> 00:22:33,121
+...cùng với 6 thành viên của băng Mutant
+bị thương nặng.
+
+212
+00:22:33,280 --> 00:22:38,684
+Những đứa trẻ miêu tả kẻ tấn công bọn đó là
+"một người đàn ông ăn mặc như Dracula."
+
+213
+00:22:39,240 --> 00:22:41,447
+Chúng ta sẽ giết lão Gordon già.
+
+214
+00:22:41,600 --> 00:22:44,046
+Chúng ta sẽ chặt hắn ra. Chúng ta sẽ xay hắn.
+
+215
+00:22:44,200 --> 00:22:45,884
+Chúng ta sẽ tắm máu hắn.
+
+216
+00:22:46,040 --> 00:22:48,611
+Chính tay ta sẽ giết tên ngốc, Batman.
+
+217
+00:22:48,800 --> 00:22:53,089
+Ta sẽ lọc thịt hắn khỏi xương và ăn sạch.
+
+218
+00:22:53,240 --> 00:22:54,651
+Đừng gọi bọn ta là băng đảng.
+
+219
+00:22:54,800 --> 00:22:55,926
+Đừng gọi bọn ta là tội phạm.
+
+220
+00:22:56,080 --> 00:22:58,287
+Bọn ta là luật pháp.
+
+221
+00:22:58,480 --> 00:23:01,211
+Thành phố Gotham thuộc về Mutants.
+
+222
+00:23:06,120 --> 00:23:09,567
+Thân chủ của tôi không bị buộc tội gì cả.
+
+223
+00:23:09,720 --> 00:23:11,324
+Tôi để những thứ này ở đâu đây?
+
+224
+00:23:11,480 --> 00:23:15,121
+Người của ông không tìm thấy tiền ăn cắp,
+ông cũng không có nhân chứng chứng tỏ ông ấy...
+
+225
+00:23:15,280 --> 00:23:18,727
+...liên quan đến vụ cướp, và nói rằng ông ấy chịu
+đánh đập tàn bạo thì vẫn còn là nhẹ.
+
+226
+00:23:18,880 --> 00:23:21,008
+Batman làm gãy xương đùi ông ấy.
+
+227
+00:23:21,160 --> 00:23:23,561
+Hình như mình vẫn còn kẹo thì phải.
+
+228
+00:23:23,720 --> 00:23:25,165
+À đây rồi.
+
+229
+00:23:25,320 --> 00:23:30,406
+Tôi yêu cầu ông giải quyết vấn đề này ngay.
+Thân chủ của tôi là nạn nhân ở đây.
+
+230
+00:23:30,560 --> 00:23:33,211
+Xong. Merkel, mang giấy thả cho nạn nhân ở đây.
+
+231
+00:23:33,360 --> 00:23:36,250
+-Thưa ngài?
+-Whoa, whoa, whoa. Đợi đã.
+
+232
+00:23:36,400 --> 00:23:38,926
+Thân chủ của tôi cũng cần được bảo vệ.
+
+233
+00:23:39,080 --> 00:23:41,321
+Cậu nghe rồi đấy, Merkel.
+
+234
+00:23:42,200 --> 00:23:43,281
+Kẹo cao su không?
+
+235
+00:23:46,640 --> 00:23:50,850
+Nếu cậu định tự tử thì
+tôi có một bí quyết gia truyền đấy.
+
+236
+00:23:51,000 --> 00:23:53,082
+Nó chậm rãi và đau đớn. Cậu chắc hẳn sẽ thích.
+
+237
+00:23:58,080 --> 00:23:59,411
+Bệnh viện Wayne đây.
+
+238
+00:24:00,560 --> 00:24:06,044
+Đợi 1 lát, đó là Ủy viên Gordon.
+Chắc chắn là gọi hỏi chi tiết về đám tang rồi.
+
+239
+00:24:06,920 --> 00:24:08,126
+Vâng, thưa ngài.
+
+240
+00:24:09,400 --> 00:24:12,768
+Ông thả hắn ngay sao? Thú vị đấy.
+
+241
+00:24:20,000 --> 00:24:24,130
+Tôi vẫn là người được thừa hưởng gia tài trong
+di chúc của cậu, phải không?
+
+242
+00:24:47,280 --> 00:24:49,567
+Face? Có ai ở đây không?
+
+243
+00:24:58,160 --> 00:25:02,563
+Two-Face đã chuyển sang bước tiếp theo rồi.
+Hắn đủ thông minh để biết ta sẽ lần theo dấu hắn.
+
+244
+00:25:02,720 --> 00:25:04,609
+Ngưoi thì không.
+
+245
+00:25:05,120 --> 00:25:08,124
+Giờ hãy cho ta biết hắn định làm gì.
+
+246
+00:25:08,280 --> 00:25:11,363
+Tránh xa tôi ra. Tôi có quyền.
+
+247
+00:25:14,680 --> 00:25:18,207
+Đúng, mày có quyền. Khá nhiều quyền lợi.
+
+248
+00:25:18,360 --> 00:25:20,442
+Mày cũng đang chảy máu đến chết.
+
+249
+00:25:20,600 --> 00:25:26,209
+Và ngay lúc này, ta là người duy nhất trên thế giới
+có thể đưa ngươi đến bệnh viện kịp lúc.
+
+250
+00:25:26,360 --> 00:25:31,207
+Do đó ngươi quyết định nói sớm hay muộn là tùy thôi.
+
+251
+00:25:34,560 --> 00:25:37,564
+Ngài Ủy viên, ông cần xem cái này.
+
+252
+00:25:43,000 --> 00:25:44,843
+Theo tôi.
+
+253
+00:25:54,360 --> 00:25:55,805
+Ông ấy đã thiết lập lại nó sao?
+
+254
+00:25:55,960 --> 00:25:57,962
+Không còn cách nào khác để liên lạc với ông ấy sao?
+
+255
+00:25:58,120 --> 00:26:00,521
+- Ít nhất là cả tá.
+- Vậy thì tại sao?
+
+256
+00:26:01,480 --> 00:26:05,280
+Để tất cả cùng biết. Bật nó lên.
+
+257
+00:26:06,440 --> 00:26:09,922
+Gã này là 1 tên phát xít. Hắn không quan tâm
+đến quyền công dân.
+
+258
+00:26:10,080 --> 00:26:12,731
+Tôi biết, và mọi người cũng hiểu.
+
+262
+00:26:31,280 --> 00:26:33,647
+2 chiếc trực thăng bị ăn trộm tối qua.
+
+263
+00:26:33,800 --> 00:26:37,771
+1 chiếc trực thăng chiến đấu hiện đại,
+chiếc còn lại là 1 chiếc trực thăng cũ thừa của quân đội.
+
+264
+00:26:37,920 --> 00:26:40,730
+-Chắc chắn là Two-Face.
+-Tay sai của hắn không biết gì nhiều.
+
+265
+00:26:40,880 --> 00:26:44,282
+Dù Dent có lên kế hoạch gì,
+nó cũng sẽ tiến hành vào tối mai.
+
+266
+00:26:44,440 --> 00:26:47,410
+Chắc rồi. Đó là ngày thứ 3
+thứ 2 của tháng.
+
+267
+00:26:47,560 --> 00:26:51,201
+Và theo như Two-Face nói thì chuyện đó
+sẽ lớn gấp đôi những gì bất cứ ai có thể tưởng tượng.
+
+268
+00:26:51,360 --> 00:26:54,045
+Hắn cũng quấn băng lại mặt của mình.
+
+269
+00:26:54,200 --> 00:26:56,601
+-Không để ai nhìn thấy hắn.
+-Tại sao?
+
+270
+00:26:56,800 --> 00:26:59,929
+Hắn đã làm gì với bản thân chứ?
+Anh không nghĩ hắn...?
+
+271
+00:27:00,720 --> 00:27:04,122
+Có thể. Giờ hắn cào cả 2 mặt của đồng xu.
+
+272
+00:27:04,280 --> 00:27:07,363
+Cứ như hắn đã bị thôn tính hoàn toàn bới
+phần bóng tối trong mình.
+
+273
+00:27:07,560 --> 00:27:10,484
+Cũng không phải không có khả năng hắn sẽ tự làm
+bản thân mình bị thương.
+
+274
+00:27:10,640 --> 00:27:13,405
+Khó mà cưỡng lại sự thôi thúc từ trong thâm tâm
+như thế.
+
+275
+00:27:13,560 --> 00:27:15,961
+Chúng ta vẫn đang nói về Dent sao?
+
+276
+00:27:17,880 --> 00:27:20,850
+Anh biết không phải chỉ bắt được Harvey
+là xong.
+
+277
+00:27:21,000 --> 00:27:22,570
+Giờ còn phức tạp hơn.
+
+278
+00:27:22,720 --> 00:27:24,643
+-Anh đã đánh động bọn--
+-Băng Mutants.
+
+279
+00:27:24,800 --> 00:27:27,167
+Chúng tiếp theo trong danh sách của tôi.
+Nhưng chuyện gì trước phải làm trước.
+
+280
+00:27:27,320 --> 00:27:29,891
+1 mục tiêu cần đến 2 chiếc trực thăng...
+
+281
+00:27:30,080 --> 00:27:32,765
+...lớn gấp đôi những gì mọi người có thể....
+
+282
+00:27:36,240 --> 00:27:39,005
+Tòa Thị Chính Gotham.
+
+283
+00:27:39,520 --> 00:27:43,320
+Merv, tôi hoàn toàn tin là
+Harvey Dent vô tội.
+
+284
+00:27:43,480 --> 00:27:46,450
+Nhưng không có gì chắc chắn là anh ta không
+tiếp tục trở lại con đường tội phạm.
+
+285
+00:27:46,640 --> 00:27:49,962
+<i>Tôi biết nói thế nghe có vẻ khó hiêu với mọi người,
+nên hãy để tôi giải thích.</i>
+
+286
+00:27:50,120 --> 00:27:53,203
+<i>Các bạn biết đấy, tất cả đều là do anh chàng Batman này.</i>
+
+287
+00:27:53,400 --> 00:27:56,927
+<i>Các hành vi có thể coi là tâm thần
+của ông ta như một cái lưới...</i>
+
+288
+00:27:57,080 --> 00:27:59,447
+<i>...bẫy những tâm hồn yếu đuối dễ bị kích động
+như Harvey...</i>
+
+289
+00:27:59,600 --> 00:28:03,650
+<i>...bắt họ phải đáp lại,
+trao đổi những điểm giống nhau.</i>
+
+290
+00:28:03,800 --> 00:28:07,168
+<i>Các bạn có thể nói Batman
+tự tạo ra kẻ thù cho mình....</i>
+
+291
+00:28:07,320 --> 00:28:12,121
+<i>...thực hiện những hành vi tội phạm thông qua
+những kẻ được gọi là kẻ ác làm đại diện.</i>
+
+292
+00:28:12,280 --> 00:28:16,171
+<i>Nói cách khác,
+kẻ ác thực sự ở đây là Batman.</i>
+
+293
+00:28:49,600 --> 00:28:50,931
+- Rút lui, rút lui!
+- Ôi trời--
+
+294
+00:29:17,600 --> 00:29:21,446
+Có tin tức cho biết có vụ nổ ở
+Tòa Thị chính Gotham.
+
+295
+00:29:27,160 --> 00:29:30,642
+Người dân của Gotham. Đây là Harvey Dent.
+
+296
+00:29:30,800 --> 00:29:34,327
+Xin lỗi đã làm gián đoạn
+thú vui xem TV của các bạn.
+
+297
+00:29:34,480 --> 00:29:38,769
+<i>Lúc này đây, tôi đang ngồi trên nóc 
+Tòa Thị chính Gotham xinh đẹp...</i>
+
+298
+00:29:38,960 --> 00:29:44,330
+<i>...với 2 quả bom đủ lớn để làm
+cả 2 tòa tháp thành đống gạch vụn.</i>
+
+299
+00:29:44,480 --> 00:29:50,522
+Các bạn có 22 phút để cứu chúng.
+Cái giá của tôi đưa ra là $22 triệu.
+
+300
+00:31:12,640 --> 00:31:15,564
+-Chuyện gì đang xảy ra vậy?
+-Cơn ác mộng yêu thích của ngươi.
+
+301
+00:31:15,720 --> 00:31:17,245
+Chắc phải kéo dài cả tiếng.
+
+302
+00:31:25,920 --> 00:31:30,926
+-Làm thế nào để dừng lại?
+-Dừng nó? Lẽ ra nó không được chạy chứ.
+
+303
+00:31:31,080 --> 00:31:32,889
+Two-Face đã nói dối ngươi.
+
+304
+00:31:33,040 --> 00:31:36,840
+Hắn nói chúng tôi chỉ cần lấy tiền và chạy.
+Bom chỉ là để dọa người thôi.
+
+305
+00:31:37,040 --> 00:31:40,044
+Hắn muốn chết.
+Và mang theo hàng nghìn người theo mình.
+
+306
+00:31:40,200 --> 00:31:44,171
+-Ông dừng nó lại được không?
+-Không chắc. Cứ cầu Chúa đi.
+
+307
+00:33:12,040 --> 00:33:14,725
+Cho ta xem. Ngươi đã làm gì?
+
+308
+00:33:15,560 --> 00:33:17,722
+Không.
+
+309
+00:33:26,120 --> 00:33:28,930
+Tôi vẫn chơi khi nào còn có thể.
+
+310
+00:33:29,080 --> 00:33:32,050
+Khi mà anh và bác sĩ có trò cười cho mình.
+
+311
+00:33:32,200 --> 00:33:36,683
+Anh có thể khiến tất cả mọi người cười
+khi nhìn vào tôi.
+
+312
+00:33:36,840 --> 00:33:40,208
+-Giả vờ rằng tôi trông bình thường.
+-Anh nghĩ--?
+
+313
+00:33:40,360 --> 00:33:44,206
+Thôi đi.
+Cứ nhìn tôi và cười đi.
+
+314
+00:33:44,360 --> 00:33:48,888
+Kết thúc đi.
+Ít nhất thì giờ cả hai mặt khớp nhau rồi, phải không?
+
+315
+00:33:49,040 --> 00:33:52,249
+Hãy nhìn tôi và cười đi.
+
+316
+00:33:52,960 --> 00:33:56,931
+Chúng ta đang đùa gì đây chứ? 
+Họ không thể chữa cho tôi.
+
+317
+00:33:57,080 --> 00:34:00,084
+Không gì có thể thay đổi bản chất của tôi.
+
+318
+00:34:01,240 --> 00:34:03,561
+Anh và tôi đều vậy.
+
+319
+00:34:08,560 --> 00:34:12,451
+Tôi nghĩ nhìn nhận sự trở lại của Batman chỉ
+trên phương diện thể chất là hoàn toàn sai lầm.
+
+320
+00:34:12,600 --> 00:34:16,491
+Tôi nghĩ đó là tính biểu tượng trỗi dậy
+trong khi ý chí của 1 người bình thường phản đối.
+
+321
+00:34:16,640 --> 00:34:18,847
+Sự tái sinh của một linh hồn Mỹ.
+
+322
+00:34:19,000 --> 00:34:20,889
+Rồi, chém gió vừa thôi, Lana.
+
+323
+00:34:21,040 --> 00:34:24,442
+Điều duy nhất mà Batman tượng trưng là
+tâm lý bạo lực khác thường.
+
+324
+00:34:24,600 --> 00:34:26,762
+Người này nguy hiểm với tất cả cư dân thành phố.
+
+325
+00:34:26,920 --> 00:34:31,687
+-Không thể nguy hiểm được bằng bọn tội phạm, phải không?
+-Batman biết chính xác anh ấy đang làm gì.
+
+326
+00:34:31,880 --> 00:34:35,965
+Thì bọn phát xít lúc nào chả thế.
+Xin lỗi, Morrie và Lana, chúng ta hết giờ rồi.
+
+327
+00:34:36,120 --> 00:34:39,329
+Nhưng tôi chắc cuộc tranh luận này còn lâu mới kết thúc.
+
+328
+00:34:43,840 --> 00:34:45,763
+-Ngài Ủy viên.
+-Ông Hudson.
+
+329
+00:34:45,920 --> 00:34:49,845
+Ông ra ngoài muộn vậy?
+Không an toàn đâu, kể cả với cảnh sát cấp cao như ông.
+
+330
+00:34:50,000 --> 00:34:54,449
+-Vợ tôi quên mua giá đỗ.
+-Nghe như bà ấy có thực đơn tốt cho ông đấy.
+
+331
+00:34:54,600 --> 00:34:56,204
+Ăn ít thịt đỏ thôi, ông biết đấy.
+
+332
+00:34:56,760 --> 00:34:59,411
+Giờ ai cũng là bác sĩ cả sao.
+
+333
+00:34:59,560 --> 00:35:01,562
+Buổi tối tốt lành nhé.
+
+334
+00:35:32,400 --> 00:35:38,043
+1 nhóm cha mẹ có tên là Hiệp hội các bà mẹ
+đã ký một đơn đề nghị ở văn phòng thị trưởng hôm nay...
+
+335
+00:35:38,200 --> 00:35:40,521
+...cũng như Hiệp hội bảo vệ quyền lợi nạn nhân...
+
+336
+00:35:40,680 --> 00:35:43,763
+...cả hai đều kêu gọi tuyên bố
+chống lại Batman.
+
+337
+00:35:43,920 --> 00:35:46,082
+Thị trưởng đã nói với giới báo chí chiều nay.
+
+338
+00:35:46,240 --> 00:35:49,642
+Chúng tôi vẫn đang hội ý về việc này.
+Vẫn đang hội ý.
+
+339
+00:35:49,800 --> 00:35:54,169
+<i>Các hành động bạo lực chống lại tội phạm
+tiếp tục gia tăng ở Gotham.</i>
+
+340
+00:35:54,320 --> 00:35:56,368
+<i>Trong số đó có những vụ của Batman...</i>
+
+341
+00:35:56,520 --> 00:36:00,002
+<i>...và còn lại có phải do lấy cảm hứng từ ông
+hay không, thật khó nói.</i>
+
+342
+00:36:00,160 --> 00:36:04,051
+Batman? Tôi nghĩ ông ấy cũng được đấy.
+Ông ta đá đít đúng người mà.
+
+343
+00:36:04,200 --> 00:36:06,726
+Đánh những kẻ cần bị đánh.
+Hiểu ý tôi không?
+
+344
+00:36:06,880 --> 00:36:09,247
+Tiếp theo tôi muốn thấy ông ta
+đập chủ nhà tôi 1 trận.
+
+345
+00:36:09,400 --> 00:36:13,166
+Chuyện này làm tôi phát ốm, những hành động
+vi phạm nghiêm trọng quyền con người như vậy.
+
+346
+00:36:13,320 --> 00:36:17,405
+Chúng ta cần phải nỗ lực giúp họ 
+tái hòa nhập xã hội...
+
+347
+00:36:17,560 --> 00:36:19,562
+...chứ không phải liên hoan vì họ bị trừng phạt.
+
+348
+00:36:19,720 --> 00:36:24,089
+Chúng ta phải kiên nhẫn.
+Xin lỗi? Không, tôi chưa từng sống ở thành phố này.
+
+349
+00:36:24,280 --> 00:36:26,282
+Đợi 1 lát, tôi vừa nhận được tin này.
+
+350
+00:36:26,440 --> 00:36:30,923
+"Ủy viên James Gordon
+đã bị bắn chết."
+
+351
+00:36:31,120 --> 00:36:33,441
+Đợi đã, tôi xin lỗi. Tôi đọc nhầm.
+
+352
+00:36:33,600 --> 00:36:37,764
+"Ủy viên Gordon đã bắn chết một thành viên
+17 tuổi của băng Mutant."
+
+353
+00:36:37,960 --> 00:36:41,089
+<i>Gordon bị tấn công không xa căn hộ của ông
+ở khu phía Tây.</i>
+
+354
+00:36:41,240 --> 00:36:42,571
+Thật đáng buồn.
+
+355
+00:36:42,760 --> 00:36:46,207
+17 tuổi.
+
+358
+00:36:55,040 --> 00:36:57,771
+Whoa. Pizza ăn liền.
+
+359
+00:37:17,080 --> 00:37:19,367
+Robin sao.
+
+360
+00:37:19,520 --> 00:37:21,602
+Gordon sẽ nghỉ hưu cuối tuần này...
+
+361
+00:37:21,800 --> 00:37:24,280
+...trong khi thị trưởng vẫn chưa công bố
+người thay thế ông.
+
+362
+00:37:24,440 --> 00:37:27,728
+Tôi vẫn đang thăm dò ý kiến.
+Vẫn thăm dò ý kiến.
+
+363
+00:37:27,880 --> 00:37:31,851
+Tin tức giải trí,
+Giám đốc hãng truyền thông Galaxy James Olsen...
+
+364
+00:37:32,000 --> 00:37:35,766
+...đảm bảo với khán giả rằng việc những biên kịch
+truyền hình đình công, giờ đã là năm thứ 4...
+
+365
+00:37:35,920 --> 00:37:37,729
+...sẽ không ảnh hưởng tới các chương trình của ông.
+
+366
+00:37:38,160 --> 00:37:42,848
+Phát ngôn viên của gia đình chủ hãng Ridley Chewing Gum
+đã cho biết băng Mutants...
+
+367
+00:37:43,000 --> 00:37:47,608
+...đã bắt cóc Kevin Ridley,
+đứa con trai 2 tuổi sẽ thừa kế gia sản nhà Ridley.
+
+368
+00:37:51,200 --> 00:37:52,850
+Muốn nghe tiếng thằng bé lần nữa không?
+
+369
+00:37:53,040 --> 00:37:55,850
+Làm như chúng ta nói. Các người có 1 giờ.
+
+370
+00:38:00,480 --> 00:38:02,926
+Ôi trời. Thằng nhóc ị ra quần rồi.
+
+371
+00:38:03,080 --> 00:38:06,641
+Nín thở đi. Khi nào có tiền chuộc,
+Chúng ta vứt thằng bé đi ngay mà.
+
+372
+00:38:36,200 --> 00:38:40,046
+-Bỏ nó ra khỏi người tao. Bỏ nó ra.
+-Bình tĩnh nào, chỉ là 1 con dơi thôi mà.
+
+373
+00:38:44,040 --> 00:38:45,201
+Tránh ra.
+
+374
+00:38:52,040 --> 00:38:55,089
+Lẽ ra mày nên tránh ra, Spot.
+
+375
+00:39:00,720 --> 00:39:04,167
+Lùi lại không tao sẽ giết nó.
+Tin tao đi, tao sẽ làm đấy.
+
+376
+00:39:12,560 --> 00:39:14,722
+Ta tin ngươi mà.
+
+377
+00:39:37,520 --> 00:39:39,761
+Không tệ.
+
+378
+00:39:40,480 --> 00:39:43,563
+Ngươi biết ta là ai không?
+
+379
+00:39:43,720 --> 00:39:47,930
+- Tôi đang ở đâu thế này? Tôi không thấy gì cả.
+- Ta là cơn ác mộng khủng khiếp nhất của ngươi.
+
+380
+00:39:48,080 --> 00:39:50,924
+Cơn ác mộng sẽ làm ngươi thức dậy nửa đêm
+gào thét gọi mẹ.
+
+381
+00:39:51,080 --> 00:39:53,606
+Tôi nghĩ tôi đang chảy máu. Có gì trên đầu tôi vậy?
+
+382
+00:39:53,760 --> 00:39:55,888
+Trong căn hộ đó ngươi có 1 kho vũ khí khá đấy.
+
+383
+00:39:56,080 --> 00:39:57,730
+Vũ khí chiến đấu.
+
+384
+00:39:57,880 --> 00:40:00,451
+Nói cho ta biết ngươi lấy chúng ở đâu.
+
+385
+00:40:00,600 --> 00:40:05,128
+Bình tĩnh nào, tôi sẽ nói.
+Nhưng không có cảnh sát, và tôi được đi. Đồng ý chứ?
+
+386
+00:40:05,280 --> 00:40:10,286
+Vị trí của ngươi không thích hợp để thương thuyết.
+Để ta cho ngươi thấy.
+
+498
+00:40:23,741 --> 00:40:27,119
+Theo thống kê, không, nơi đó còn không đáng
+để chuyển tới đâu.
+
+499
+00:40:27,287 --> 00:40:30,205
+Đừng lo, đến khu nhà tiếp theo sẽ dễ bắt taxi ngay mà.
+
+500
+00:40:33,293 --> 00:40:35,919
+-Nếu chúng ta tới được khu nhà tiếp theo.
+-Em bình tĩnh đi nào?
+
+501
+00:40:36,087 --> 00:40:38,005
+Chúng có thể ngửi thấy mùi sợ hãi đấy.
+
+502
+00:40:44,929 --> 00:40:47,055
+Bắt quả tang nhé.
+
+504
+00:40:49,893 --> 00:40:51,184
+Nhìn này.
+
+505
+00:40:51,352 --> 00:40:52,477
+Cái quái gì vậy?
+
+506
+00:40:52,645 --> 00:40:55,814
+Tao chỉ làm ăn lương thiện ở đây thôi.
+Tránh xa tao ra.
+
+507
+00:41:03,531 --> 00:41:05,574
+Cứ tự nhiên.
+
+508
+00:41:31,851 --> 00:41:38,815
+Đã nhiều năm cống hiến. Quân của tôi,
+đất nước tôi, đó là tất cả những gì tôi quan tâm.
+
+509
+00:41:44,405 --> 00:41:46,865
+Ông đã bán vũ khí cho bọn Mutants.
+
+510
+00:41:48,952 --> 00:41:50,202
+Vợ tôi...
+
+511
+00:41:51,621 --> 00:41:53,205
+...cô ấy đang chết dần.
+
+512
+00:41:53,373 --> 00:41:57,125
+Và sau bao nhiêu năm đó,
+họ sẽ không chi trả cho việc điều trị.
+
+513
+00:41:57,961 --> 00:42:02,255
+Ông cấp cho chúng đủ hỏa lực để khơi mào
+1 cuộc chiến tranh nhỏ.
+
+514
+00:42:02,674 --> 00:42:06,635
+Nếu chúng muốn chiến tranh, chúng sẽ có.
+
+515
+00:42:09,222 --> 00:42:12,391
+Cách tốt để kết thúc sự nghiệp của mình đấy, đại tướng.
+
+517
+00:42:26,322 --> 00:42:28,407
+Thủ lĩnh nói cần tất cả, lên đi.
+
+518
+00:42:28,574 --> 00:42:31,368
+Rồi. Chắc chúng ta sẽ có nhiều thời gian
+nghe diễn thuyết.
+
+519
+00:42:31,536 --> 00:42:34,037
+Không có diễn thuyết gì đâu mày, chiến tranh đấy.
+
+520
+00:42:34,205 --> 00:42:36,206
+Bãi rác, 1 tiếng nữa. Lên đi.
+
+521
+00:42:36,374 --> 00:42:40,252
+-Rồi rồi.
+-Bãi rác.
+
+524
+00:43:02,650 --> 00:43:04,901
+-Cậu chủ Bruce?
+-Còn ai vào đây nữa?
+
+525
+00:43:05,069 --> 00:43:09,114
+-Tất nhiên, nhưng tín hiệu đến từ--
+-Đã lâu không lái cái này ra ngoài.
+
+526
+00:43:09,282 --> 00:43:12,868
+Vẫn ngon lắm. Như mới hôm qua vậy.
+
+527
+00:43:16,873 --> 00:43:18,915
+Họ gọi chúng ta là 1 băng đảng.
+
+528
+00:43:19,083 --> 00:43:22,461
+Họ nghĩ chúng ta chỉ là những đứa nhóc ồn ào.
+
+529
+00:43:22,628 --> 00:43:25,839
+Chỉ khi họ chết trong tay chúng ta 
+thì họ mới biết rằng...
+
+530
+00:43:26,007 --> 00:43:29,217
+...thành phố Gotham thuộc về Mutants.
+
+532
+00:43:35,808 --> 00:43:37,976
+Lấy súng, lấy bom.
+
+533
+00:43:38,144 --> 00:43:44,399
+Tấn công vào trụ sở cảnh sát và giết. giết.
+Mang về cho ta đầu của lão Gordon.
+
+534
+00:43:44,567 --> 00:43:46,860
+Ta sẽ mang nó đi dạo phố.
+
+535
+00:43:47,028 --> 00:43:50,405
+Còn Batman,
+kẻ nghĩ có thể đấu lại chúng ta.
+
+536
+00:43:50,573 --> 00:43:54,910
+Ta sẽ bẻ gãy tứ chi hắn.
+
+538
+00:44:10,093 --> 00:44:14,346
+Mutants. Đầu hàng ngay hoặc bị tiêu diệt.
+
+539
+00:44:29,237 --> 00:44:31,279
+Chúng thậm chí còn chẳng đợi lệnh.
+
+540
+00:44:31,447 --> 00:44:33,532
+Lũ trẻ ngày nay, chả tôn trọng người già gì cả.
+
+544
+00:46:15,218 --> 00:46:17,427
+Đạn cao sư.
+
+545
+00:46:25,436 --> 00:46:28,813
+Với đống sắt thép này mà
+mày thậm chí còn không định dùng nó để giết người?
+
+546
+00:46:28,981 --> 00:46:31,233
+Nó chỉ là 1 cái vỏ để giữ mày an toàn sao?
+
+547
+00:46:32,235 --> 00:46:33,360
+Sao thế hả?
+
+548
+00:46:33,527 --> 00:46:35,779
+Mày không dám làm thế sao?
+
+549
+00:46:35,947 --> 00:46:38,490
+Mày là đồ hèn nhát.
+
+550
+00:46:38,658 --> 00:46:41,243
+Ra ngoài này và đối mặt với ta như 1 người đàn ông.
+
+551
+00:46:41,786 --> 00:46:46,581
+Ta sẽ giết mày. Ta sẽ ăn tim mày.
+Chứng tỏ rằng mày hạ được ta xem.
+
+552
+00:46:47,041 --> 00:46:49,793
+Hãy chứng tỏ mày có thể chiến đấu bằng chính đôi tay mình.
+
+553
+00:46:49,961 --> 00:46:53,171
+Ra đây nào, mày làm tao chán rồi đấy.
+
+554
+00:46:55,049 --> 00:46:58,385
+Cậu chủ, cậu không định....
+
+555
+00:47:00,429 --> 00:47:03,556
+Hắn đang trong thời kỳ sung mãn nhất.
+Hắn sẽ giết cậu mất.
+
+556
+00:47:03,724 --> 00:47:06,226
+Đó là cách duy nhất mà tôi biết.
+
+559
+00:47:31,168 --> 00:47:32,502
+Thế chứ, hạ hắn đi.
+
+562
+00:47:53,024 --> 00:47:55,400
+Ha! Mày chậm chạp quá.
+
+564
+00:48:05,244 --> 00:48:07,245
+Không.
+
+566
+00:48:24,138 --> 00:48:28,141
+-Thế thôi sao? Mệt rồi hả, lão già?
+-Im đi.
+
+575
+00:49:46,595 --> 00:49:48,763
+Đừng chết mà, đừng chết, đừng chết.
+
+576
+00:49:52,893 --> 00:49:55,186
+Tốt quá, ông vẫn sống.
+
+577
+00:49:56,856 --> 00:49:57,939
+Giờ thì dậy đi chứ.
+
+579
+00:50:09,285 --> 00:50:10,827
+Đi nào.
+
+582
+00:50:36,729 --> 00:50:41,107
+Bé ngoan. Cảm ơn. Giờ chạy về nhà đi.
+
+584
+00:51:00,836 --> 00:51:03,880
+Làm ơn đi, cô bé.
+Cháu đang chắn đường bộ cảm biến đấy.
+
+585
+00:51:04,089 --> 00:51:06,799
+Uhn! Cẩn thận.
+Xe xóc quá.
+
+586
+00:51:06,967 --> 00:51:08,134
+Không sao.
+
+587
+00:51:08,302 --> 00:51:11,679
+Con quay hồi chuyển đã ổn định lại rồi.
+
+588
+00:51:11,847 --> 00:51:14,891
+Ngon. Đây là cái gì vậy?
+
+589
+00:51:15,684 --> 00:51:18,978
+-Dick gọi nó là Batmobile.
+-Cậu chủ.
+
+590
+00:51:19,146 --> 00:51:21,606
+Nhóc phải nói gì đó chứ.
+
+591
+00:51:21,774 --> 00:51:24,609
+Cháu thích nó. Giờ thì nín thở đi.
+
+595
+00:51:38,249 --> 00:51:40,124
+Cháu học cái đó ở đâu?
+
+596
+00:51:42,419 --> 00:51:44,212
+Tên cháu là gf?
+
+597
+00:51:45,130 --> 00:51:48,508
+Carrie. Carrie Kelley.
+
+598
+00:51:49,885 --> 00:51:51,469
+Robin.
+
+599
+00:51:53,305 --> 00:51:56,432
+-Ta là Bruce.
+-Cậu chủ, cậu đang nói mê sao.
+
+600
+00:51:56,600 --> 00:51:59,769
+Từ giờ cậu nên giữ im lặng.
+Chúng ta sắp tới bệnh viện rồi.
+
+601
+00:51:59,937 --> 00:52:02,063
+Không, Alfred, không đến bệnh viện.
+
+602
+00:52:02,231 --> 00:52:03,606
+Về hang.
+
+603
+00:52:03,774 --> 00:52:05,650
+-Nhưng cậu--
+-Về hang.
+
+604
+00:52:08,028 --> 00:52:10,572
+Và Robin đến với chúng ta.
+
+607
+00:53:12,509 --> 00:53:14,677
+Cẩn thận cái tay.
+
+608
+00:53:22,061 --> 00:53:23,394
+Ông ấy đi đâu vậy?
+
+609
+00:53:24,021 --> 00:53:26,689
+Tìm lại sức mạnh của cậu ấy.
+
+610
+00:54:15,364 --> 00:54:17,573
+Ngươi đâu rồi?
+
+611
+00:54:27,334 --> 00:54:29,919
+Ta chưa xong đâu.
+
+612
+00:54:30,504 --> 00:54:33,381
+Và ngươi cũng chưa xong với ta đâu.
+
+613
+00:54:52,735 --> 00:54:55,903
+Ngươi không bao giờ xong với ta được.
+
+615
+00:55:02,286 --> 00:55:06,164
+Ông ta là một con quái vật, đánh thẳng vào nền tảng
+của nền dân chủ của chúng ta.
+
+616
+00:55:06,331 --> 00:55:09,917
+Còn đâu những nguyên tắc đã khiến quốc gia này 
+thành đất nước cao quý nhất thế giới?
+
+617
+00:55:10,127 --> 00:55:14,714
+Tôi ngạc nhiên nếu không thấy ai khác giống ông ấy.
+Mọi người phát ốm vì phải sợ hãi rồi.
+
+618
+00:55:14,882 --> 00:55:16,632
+Ông ấy đang đòi lại những gì của chúng ta.
+
+619
+00:55:16,800 --> 00:55:19,927
+Không ít phản ứng về sự trở lại của Batman.
+
+620
+00:55:20,095 --> 00:55:23,055
+Tối nay, chúng ta sẽ phân tích ảnh hưởng 
+của việc này đến xã hội.
+
+621
+00:55:23,223 --> 00:55:26,726
+Đến từ Metropolis, chủ biên của tờ
+Nhật báo Hành tinh, Lana Lang.
+
+622
+00:55:26,894 --> 00:55:28,978
+Và từ Gotham,
+nhà tâm lý học nổi tiếng...
+
+623
+00:55:29,146 --> 00:55:34,400
+...và tác giả của cuốn sách bán chạy "Hey, I'm Okay"
+Bác sĩ Bartholomew Wolper.
+
+624
+00:55:34,568 --> 00:55:38,738
+Bác sĩ Wolper, ông cho rằng Batman chịu trách nhiệm
+trong việc kích động những tội phạm mà ông ta chống lại.
+
+625
+00:55:38,906 --> 00:55:42,241
+Tuy nhiên tỷ lệ tội phạm ở Gotham đã giảm mạnh
+sau khi ông ấy trở lại.
+
+626
+00:55:42,409 --> 00:55:44,744
+-Ông có giải thích gì.
+-Tôi mừng vì anh hỏi thế, Ted.
+
+627
+00:55:44,912 --> 00:55:48,664
+Hãy tưởng tượng tâm lý đám đông như một
+tấm đệm lớn,
+
+628
+00:55:48,832 --> 00:55:53,127
+Batman đánh mạnh vào đó, và nó bật lại.
+
+629
+00:55:53,295 --> 00:55:55,671
+Do đó những số liệu giai đoạn đầu
+chưa nói lên được điều gì.
+
+630
+00:55:55,839 --> 00:55:57,715
+Mà trong thời gian dài...
+
+631
+00:55:57,883 --> 00:56:01,427
+...cả một thế hệ thanh niên sẽ bị cuốn theo cái ma trận...
+
+632
+00:56:01,595 --> 00:56:04,305
+...trong sự ảo tưởng tự lừa dối mình của Batman.
+
+633
+00:56:04,473 --> 00:56:08,726
+Trong trường hợp này,
+Batman có thể bị xem là một tệ nạn của xã hội.
+
+634
+00:56:08,894 --> 00:56:11,229
+Đó là điều ngớ ngẩn nhất mà tôi từng nghe
+từ trước tới nay.
+
+635
+00:56:11,396 --> 00:56:15,525
+Cô Lang, cô có lẽ là người ủng hộ
+lớn nhất cho Batman.
+
+636
+00:56:15,692 --> 00:56:19,403
+Sao cô có thể bỏ qua cho những hành vi
+rõ ràng là phạm pháp đó?
+
+637
+00:56:19,571 --> 00:56:22,281
+Còn quyền công tố thì sao?
+Quyền công dân thì sao?
+
+638
+00:56:22,449 --> 00:56:24,617
+Ted, chúng ta sống dưới bóng đêm của tội phạm.
+
+639
+00:56:24,785 --> 00:56:29,539
+Cam chịu là nạn nhân của nỗi sợ hãi,
+của bạo lực, của một xã hội bất lực.
+
+640
+00:56:29,706 --> 00:56:35,419
+1 người đã đứng lên cho chúng ta biết sức mạnh
+đã, đang và sẽ luôn ở trong tay chính chúng ta.
+
+641
+00:56:35,587 --> 00:56:37,338
+Đã bao năm, chúng ta bị đàn áp.
+
+642
+00:56:37,506 --> 00:56:40,925
+Người đàn ông này đã cho chúng ta thấy
+chúng ta có thể vùng lên.
+
+644
+00:57:01,154 --> 00:57:04,866
+Tổng công 83 thành viên của băng Mutant
+đã bị bắt giữ...
+
+645
+00:57:05,033 --> 00:57:07,869
+...phần lớn bị thương vì đạn hay mảnh đạn.
+
+646
+00:57:08,036 --> 00:57:11,789
+Trong số những tên này,
+có kẻ được gọi là Thủ lĩnh băng Mutants.
+
+647
+00:57:11,957 --> 00:57:15,626
+Batman là thằng hèn. Tao đã bẻ gãy xương nó.
+
+648
+00:57:15,794 --> 00:57:20,214
+Giờ, đội quân Mutant của tao sẽ tới
+càn quét thành phố Gotham.
+
+649
+00:57:20,799 --> 00:57:24,510
+Chúng ta sẽ tới vì thủ lĩnh.
+Chúng ta sẽ giết Gordon.
+
+650
+00:57:24,678 --> 00:57:30,725
+Chúng ta sẽ san phẳng Gotham và nếm máu của nó.
+Chuẩn bị chiến tranh đi.
+
+651
+00:57:30,893 --> 00:57:36,105
+Toàn bộ vụ Mutants này là kết quả của 
+sự thiếu năng lực của Ủy viên Gordon...
+
+652
+00:57:36,273 --> 00:57:38,482
+...và các hành động khủng bố của Batman.
+
+653
+00:57:38,650 --> 00:57:41,485
+Để giải quyết những vấn đề này,
+Phó thị trưởng Stevenson và tôi...
+
+654
+00:57:41,653 --> 00:57:45,281
+...tự hào tuyên bố việc bổ nhiệm
+Đại úy Ellen Yindel...
+
+655
+00:57:45,449 --> 00:57:48,075
+...thay thế cho Gordon sau khi ông nghỉ hưu.
+
+656
+00:57:48,243 --> 00:57:51,203
+Đại úy Yindel rất không đồng ý với 
+hành động của Batman...
+
+657
+00:57:51,371 --> 00:57:55,207
+...và sau khi lên chức sẽ
+toàn lực bắt giữ hắn.
+
+658
+00:57:55,375 --> 00:57:57,543
+Thêm nữa, ngay sau buổi họp báo này...
+
+659
+00:57:57,711 --> 00:58:02,673
+...tôi sẽ ngồi nói chuyện riêng với thủ lĩnh
+băng Mutant để thương lượng về việc hòa giải.
+
+660
+00:58:02,841 --> 00:58:05,468
+Cô nghĩ sao, Trish?
+Thị trưởng điên rồi sao?
+
+661
+00:58:05,636 --> 00:58:09,430
+Không đâu, Ted. Tôi nghĩ độ tín nhiệm đối với
+ngài thị trưởng sẽ tăng vọt...
+
+662
+00:58:09,598 --> 00:58:12,558
+...đặc biệt là khi ông ấy thành công trong
+việc thương thuyết với Mutants.
+
+663
+00:58:12,726 --> 00:58:15,978
+Hơn nữa, việc tỏ rõ thái độ cứng rắn với Batman,
+và chọn một người phụ nữ...
+
+664
+00:58:16,146 --> 00:58:19,857
+...làm giám đốc sở cảnh sát kế nhiệm,
+Tôi nghĩ chúng ta đang thấy một thị trưởng hoàn toàn mới.
+
+665
+00:58:20,025 --> 00:58:21,984
+Thông minh trong quan hệ với công chúng,
+
+667
+00:58:33,455 --> 00:58:35,831
+Ông chắc là muốn làm thế này chứ?
+
+668
+00:58:35,999 --> 00:58:38,250
+E hèm. Tôi, ừm--
+
+669
+00:58:38,961 --> 00:58:42,588
+Ít ra ông cũng không cần làm thế một mình.
+Tôi có thể vào cùng ông.
+
+670
+00:58:42,756 --> 00:58:45,883
+Không, tôi phải giải quyết chuyện này.
+
+671
+00:58:46,051 --> 00:58:48,678
+Đó là kết quả của cuộc thăm dò ý kiến cử tri.
+
+672
+00:58:56,895 --> 00:58:59,438
+Xin chào ngài Thị trưởng.
+
+675
+00:59:20,377 --> 00:59:21,961
+Ngài Thị trưởng đã chết.
+
+676
+00:59:22,129 --> 00:59:24,964
+Thủ lĩnh Mutant đã phải trở lại phòng giam.
+
+677
+00:59:25,132 --> 00:59:29,927
+Sự im lặng đáng sợ trải khắp thành phố,
+như Gotham đang chuẩn bị cho cuộc tấn công.
+
+678
+00:59:30,095 --> 00:59:34,640
+Ngài Phó Thị trưởng-- Xin lỗi.
+Thị trưởng Stevenson, có điều muốn nói.
+
+679
+00:59:34,808 --> 00:59:37,143
+Nếu như có bất cứ thành viên nào của bă--
+
+680
+00:59:37,310 --> 00:59:42,732
+tổ chức Mutants đang nghe, tôi khẩn cầu,
+thành phố vẫn sẵn sàng thương lượng.
+
+681
+00:59:42,899 --> 00:59:46,569
+Cậu đã trải qua nhiều chuyện quá.
+Chắc lúc đó đầu óc cậu không được tỉnh táo.
+
+682
+00:59:46,737 --> 00:59:48,654
+Tôi biết chính xác mình đang làm gì.
+
+683
+00:59:48,822 --> 00:59:53,034
+-Mang cô bé đến đây?
+-Cô bé hoàn hảo. Thông minh, dũng cảm.
+
+684
+00:59:53,201 --> 00:59:56,370
+Với sự giúp đỡ của cô bé, tôi có thể kết thúc vụ
+Mutant một lần và mãi mãi.
+
+685
+00:59:56,538 --> 00:59:58,914
+Tất cả đều bắt nguồn từ thủ lĩnh của chúng.
+Chúng tôn thờ hắn.
+
+686
+00:59:59,082 --> 01:00:04,086
+-Có lẽ khả năng phán đoán của cậu đã suy giảm.
+-Lần trước tôi đã cố đối đầu với sự man rợ của hắn.
+
+687
+01:00:04,254 --> 01:00:09,675
+-Đó là lỗi của tôi, lẽ ra tôi phải thông minh hơn.
+-Được rồi, cậu chủ, vậy tôi nói thẳng vậy.
+
+688
+01:00:09,843 --> 01:00:13,054
+Cậu đã quên chuyện xảy ra với Jason rồi sao?
+
+689
+01:00:17,059 --> 01:00:19,685
+Tôi không bao giờ quên chuyện xảy ra với Jason.
+
+690
+01:00:19,853 --> 01:00:23,647
+Cậu bé là một chiến sĩ giỏi.
+Cậu bé làm tôi tự hào.
+
+691
+01:00:25,400 --> 01:00:27,318
+Nhưng cuộc chiến vẫn phải tiếp tục.
+
+692
+01:00:27,486 --> 01:00:28,861
+Robin.
+
+693
+01:00:29,029 --> 01:00:30,738
+Việc tập luyện của cháu sẽ bắt đầu từ mai.
+
+694
+01:00:31,239 --> 01:00:33,074
+Sẽ phải mất hàng tuần để chuẩn bị
+sẵn sàng được cho cháu.
+
+695
+01:00:33,241 --> 01:00:34,867
+Nhưng ta có một việc cho cháu, tối nay.
+
+696
+01:00:35,035 --> 01:00:38,621
+Dám thay đổi kế hoạch của ta dù chỉ một chút,
+không theo hướng dẫn của ta...
+
+697
+01:00:39,206 --> 01:00:41,415
+...cháu sẽ bị sa thải.
+
+698
+01:00:53,220 --> 01:00:56,931
+Batman, hắn gớm lắm.
+Hắn ném Spike xuyên qua cái biển đó đấy.
+
+699
+01:00:57,099 --> 01:01:00,476
+Ừ, cũng ngầu phết đấy, Rob.
+
+700
+01:01:00,644 --> 01:01:02,353
+Thủ lĩnh đã hạ được Batman.
+
+701
+01:01:02,521 --> 01:01:05,106
+Thủ lĩnh nói vậy, nhưng giờ thủ lĩnh đang ở tù, Don.
+
+702
+01:01:05,273 --> 01:01:07,566
+Không phòng giam nào giữ được thủ lĩnh lâu đâu.
+
+703
+01:01:10,278 --> 01:01:14,281
+-Hướng kia.
+-Ồ, ngon.
+
+704
+01:01:14,449 --> 01:01:18,494
+-Màu mè.
+-Chân gà, ngon lành.
+
+705
+01:01:18,662 --> 01:01:20,579
+Gái này hợp gu tao đấy, Rob.
+
+706
+01:01:20,747 --> 01:01:21,997
+Mày đi chỗ khác chơi.
+
+707
+01:01:22,165 --> 01:01:23,415
+Nhóc ở lớp Mutant mẫu giáo sao.
+
+708
+01:01:23,583 --> 01:01:26,335
+Thủ lĩnh sẽ lấy đầu mày 
+vì dám chạm vào tao đấy, thằng kia.
+
+709
+01:01:26,503 --> 01:01:29,171
+Vậy sao, vậy nhóc là người của Thủ lĩnh à.
+
+710
+01:01:29,923 --> 01:01:32,550
+Vậy sao? Bọn mày cũng là Mutant đấy nhỉ.
+
+711
+01:01:32,717 --> 01:01:35,511
+Chúng ta là Mutant. Chúng ta cắt xẻ.
+
+712
+01:01:35,679 --> 01:01:38,222
+Chắc rồi. Thế nên bọn mày phải đến chỗ
+đường ống nước.
+
+713
+01:01:38,390 --> 01:01:40,766
+Sao cũng được. Tao không dễ chơi đâu.
+
+715
+01:01:43,019 --> 01:01:44,770
+Con bé không dễ chơi.
+
+716
+01:01:45,355 --> 01:01:49,233
+-Ống nước nào? Mày nói cái gì vậy?
+-Không nghe ra à, bọn ngốc.
+
+717
+01:01:49,401 --> 01:01:51,902
+-Chỉ thành viên mới được nghe.
+-Chúng ta là Mutant.
+
+718
+01:01:52,070 --> 01:01:55,030
+-Ống nước nào?
+-Đường ống nước.
+
+719
+01:01:55,198 --> 01:01:57,158
+Sông Đông số 40.
+
+720
+01:01:57,325 --> 01:02:00,661
+Chú ý. Đây là lệnh đấy.
+
+721
+01:02:00,829 --> 01:02:03,539
+Chắc rồi, tao biết về đường ống nước rồi.
+
+722
+01:02:03,707 --> 01:02:07,001
+Ừ, bọn mày vừa nghe tao nói xong còn gì.
+
+723
+01:02:07,669 --> 01:02:10,296
+Ngon đấy, Rob.
+
+724
+01:02:10,463 --> 01:02:12,464
+Im đi và đi thôi.
+
+725
+01:02:14,676 --> 01:02:19,597
+Tôi không quan tâm dù có là mẹ anh ta có bầu đi chăng nữa.
+Chúng ta cần tất cả chuẩn bị chiến đấu. Ngay.
+
+727
+01:02:21,683 --> 01:02:24,518
+-Tôi có thể làm gì cho cô?
+-Tôi đến báo cáo nhận nhiệm vụ.
+
+728
+01:02:24,686 --> 01:02:28,397
+-Cô đến sớm vài ngày đấy, đại úy.
+-Bất cứ nhiệm vụ nào, thưa ngài.
+
+729
+01:02:28,565 --> 01:02:32,151
+Xin lỗi. Chẳng còn gì nhiều ngoài việc chờ đợi.
+
+730
+01:02:32,319 --> 01:02:34,778
+Nhưng chào đón cô tới ngồi đợi ở đây.
+
+731
+01:02:35,697 --> 01:02:38,032
+Tôi đã đọc hồ sơ của cô, Yindel.
+
+732
+01:02:38,200 --> 01:02:40,868
+-Cô là một cảnh sát tốt.
+-Cám ơn ngài.
+
+733
+01:02:41,036 --> 01:02:43,954
+Thật ra ông đã luôn là anh hùng trong mắt tôi
+từ hồi bé.
+
+734
+01:02:44,122 --> 01:02:47,458
+Điều duy nhất tôi không hiểu là chúng ta
+khác xa Batman đến thế nào.
+
+735
+01:02:48,043 --> 01:02:50,628
+Chúng ta đừng nói về Batman được không.
+
+736
+01:02:51,296 --> 01:02:55,966
+-Tất nhiên tao nghe chuyện về đường ống nước rồi.
+-Cái éo gì mày chả nghe rồi.
+
+737
+01:02:58,553 --> 01:03:03,182
+Tôi không hiểu sao ông có thể hỗ trợ loại anh hùng
+giấu mặt như vậy. Nhiệm vụ của ông là thi hành luật pháp.
+
+738
+01:03:03,350 --> 01:03:04,350
+Không, cảm ơn.
+
+739
+01:03:05,352 --> 01:03:08,187
+Vợ tôi bắt tôi bỏ thuốc.
+
+740
+01:03:10,190 --> 01:03:15,486
+Tôi chắc cô đã từng nghe những lão già cổ hủ như tôi
+kể về Trân Châu cảng phải không? Phần lớn là chúng tôi nói dối.
+
+741
+01:03:15,654 --> 01:03:17,613
+Cứ như thể chúng tôi nhảy vọt đến...
+
+742
+01:03:17,781 --> 01:03:20,074
+...và đuổi theo bọn Phát xít
+ngay sau khi chuyện xảy ra.
+
+743
+01:03:20,242 --> 01:03:22,368
+Sự thật là, chúng tôi đã sợ cứng đờ cả người.
+
+744
+01:03:22,535 --> 01:03:24,995
+Tin đồn lan rất nhanh, chúng tôi thì chẳng
+có lấy một đội quân.
+
+745
+01:03:25,163 --> 01:03:29,500
+Chúng tôi thậm chí đã trùm chăn trốn dưới gầm giướng.
+
+746
+01:03:30,293 --> 01:03:33,879
+Và rồi chúng tôi nghe tổng thống Roosevelt
+nói trên radio.
+
+747
+01:03:34,047 --> 01:03:37,007
+Giọng nói đó, mạnh mẽ và chắc chắn...
+
+748
+01:03:37,175 --> 01:03:41,345
+...biến nỗi sợ hãi của chúng tôi
+thành tinh thần chiến đấu.
+
+749
+01:03:41,888 --> 01:03:44,515
+Ông ấy là lý do chúng tôi chiến thắng trong 
+cuộc chiến.
+
+750
+01:03:49,729 --> 01:03:53,315
+Mày chưa nghe nói đến đường ống nước sao?
+Thủ lĩnh bảo tất cả phải đến.
+
+751
+01:03:53,483 --> 01:03:56,277
+Bọn tao nghe rồi. Đang trên đường đến đây.
+
+752
+01:03:58,154 --> 01:03:59,822
+Nhiều năm sau, có báo cáo này được tiết lộ...
+
+753
+01:03:59,990 --> 01:04:02,825
+...rằng Roosevelt đã biết vụ Trân Châu cảng
+sẽ xảy ra...
+
+754
+01:04:02,993 --> 01:04:06,829
+...và cứ để nó xảy ra.
+Điều đó cứ quấn lấy đầu tôi cả mấy ngày.
+
+755
+01:04:06,997 --> 01:04:10,040
+Thật khủng khiếp nếu đó là sự thật.
+
+756
+01:04:10,208 --> 01:04:13,627
+Một lần nữa, đó là thứ đã đưa chúng tôi tới chiến tranh.
+
+757
+01:04:13,795 --> 01:04:15,838
+Nhiều người đã chết.
+
+758
+01:04:16,006 --> 01:04:19,091
+Nhưng cuối cùng đã cứu được hàng triệu người.
+
+759
+01:04:19,843 --> 01:04:22,094
+Tôi cứ nghĩ tới nghĩ lui như vậy...
+
+760
+01:04:22,262 --> 01:04:24,054
+...cho đến khi tôi nhận ra...
+
+761
+01:04:24,222 --> 01:04:26,849
+...chuyện đó quá lớn để tôi có thể phán xét.
+
+762
+01:04:27,017 --> 01:04:28,934
+Ông ấy quá vĩ đại.
+
+763
+01:04:29,102 --> 01:04:32,604
+Tôi vẫn không thấy chuyện này có liên quan
+gì đến Batman.
+
+764
+01:04:32,772 --> 01:04:34,023
+Có thể một ngày nào đó cô sẽ hiểu.
+
+766
+01:04:35,859 --> 01:04:38,235
+Sếp, ngài nên xem chuyện này.
+
+767
+01:04:39,821 --> 01:04:42,364
+-Đi đâu đây?
+-Mang chiếc xe trở lại hang.
+
+768
+01:04:42,532 --> 01:04:46,660
+-Việc tối nay của cháu đã xong.
+-Làm sao bác biết kế hoạch có được không?
+
+769
+01:04:56,129 --> 01:05:00,299
+Phải có đến hàng nghìn tên.
+Tại sao? Tại sao lại ở đó?
+
+770
+01:05:00,467 --> 01:05:04,011
+-Bởi vì tôi muốn chúng ở đó.
+-Phải điều cả quân đội đến mới bao vây được chúng.
+
+771
+01:05:04,179 --> 01:05:05,846
+Tôi có thể gọi lực lượng Vệ binh Quốc gia.
+
+772
+01:05:06,014 --> 01:05:08,891
+Không. Ông không thể bắt giữ tất cả được.
+
+773
+01:05:09,059 --> 01:05:12,644
+Cách duy nhất kết thúc chuyện này là đánh bại chúng.
+Sỉ nhục chúng.
+
+774
+01:05:13,188 --> 01:05:17,232
+Tôi trông cậy vào ông đấy, Jim.
+Một lần cuối.
+
+775
+01:05:19,986 --> 01:05:24,531
+Anh có con chứ, sĩ quan Thompson, số hiệu 5861 ?
+
+776
+01:05:25,283 --> 01:05:28,369
+-Im đi.
+-Chỉ hỏi thôi mà.
+
+777
+01:05:28,536 --> 01:05:30,996
+Tôi yêu trẻ con lắm. Thế còn vợ thì sao?
+
+778
+01:05:31,164 --> 01:05:35,876
+Anh có một người vợ nhỏ ngọt ngào
+đang ở nhà một mình sao, 5861 ?
+
+779
+01:05:36,044 --> 01:05:39,713
+-Tao bảo im đi.
+-Thompson. Ra hít thở không khí trong lành đi.
+
+780
+01:05:40,256 --> 01:05:42,341
+Rất hân hạnh.
+
+781
+01:05:44,719 --> 01:05:51,475
+-Đến đây chào sao, lão già?
+-Không, ta đến để tạm biệt.
+
+787
+01:07:14,017 --> 01:07:16,727
+Batman. Hiện thân đi.
+
+788
+01:07:16,895 --> 01:07:19,688
+Đối mặt với ta, đồ ngốc, và ta sẽ giết mày.
+
+789
+01:07:19,856 --> 01:07:23,233
+Ta sẽ cho mày thấy ai là kẻ thống trị 
+thành phố Gotham này.
+
+790
+01:07:23,401 --> 01:07:26,403
+Được rồi, nhóc. Cho ta thấy đi.
+
+792
+01:07:40,335 --> 01:07:43,337
+Mày yếu rồi, lão già. Lại còn chậm nữa.
+
+793
+01:07:43,505 --> 01:07:47,966
+Đúng vậy, nhưng trong bùn lầy này thì chúng ta
+đều chậm chạp cả.
+
+794
+01:07:53,723 --> 01:07:56,266
+Và ngươi cũng không sáng sủa cho lắm.
+
+795
+01:08:20,500 --> 01:08:21,583
+Cái gì vậy?
+
+796
+01:08:21,751 --> 01:08:23,877
+Chỉ là một vết cắt phía trên mắt thôi.
+
+797
+01:08:24,796 --> 01:08:27,297
+Nó sẽ chảy máu.
+
+798
+01:08:32,303 --> 01:08:35,055
+A. Mày thấy không, Don? Batman gớm lắm.
+
+800
+01:08:36,683 --> 01:08:39,476
+-Thủ lĩnh sa lầy rồi.
+-Thủ lĩnh sẽ điên lên đấy, Rob.
+
+801
+01:08:39,644 --> 01:08:42,729
+Ông ấy sẽ hạ Batman, rồi mày xem.
+
+804
+01:09:28,943 --> 01:09:29,985
+Cù ta à?
+
+805
+01:09:30,153 --> 01:09:32,237
+Đó là bó dây thần kinh cơ Delta.
+
+806
+01:09:32,405 --> 01:09:35,324
+Có thể không đau, nhưng ngươi sẽ không thể
+di chuyển cánh tay đó một thời gian.
+
+808
+01:09:48,004 --> 01:09:50,547
+Toi rồi. Batman toi rồi.
+
+809
+01:09:50,715 --> 01:09:52,758
+Batman không dễ chơi đâu. Để rồi xem.
+
+810
+01:09:55,762 --> 01:09:58,972
+Mày xong đời rồi, lão già.
+
+811
+01:09:59,849 --> 01:10:01,183
+Ngươi vẫn không hiểu sao, nhóc.
+
+812
+01:10:01,351 --> 01:10:04,061
+Đây không phải là một vũng bùn.
+
+813
+01:10:09,484 --> 01:10:12,319
+Đây là một bàn mổ.
+
+814
+01:10:14,072 --> 01:10:15,364
+Và ta là bác sĩ phẫu thuật.
+
+818
+01:10:54,237 --> 01:10:57,823
+Băng Mutants đã chết.
+Đây là bộ mặt mới của pháp luật.
+
+819
+01:10:57,990 --> 01:10:59,783
+Chúng ta là hội Những người con của Batman.
+
+820
+01:10:59,951 --> 01:11:02,536
+Tôi phạm ở Gotham hãy chuẩn bị
+xuống địa ngục đi.
+
+821
+01:11:02,704 --> 01:11:03,995
+Đã thành công.
+
+822
+01:11:05,957 --> 01:11:09,710
+Chúng ta bắt giữ khoảng một nửa số bọn chúng,
+không có kháng cự chút nào.
+
+823
+01:11:09,877 --> 01:11:12,379
+Những kẻ chạy trốn tách ra thành những
+băng nhóm nhỏ hơn.
+
+824
+01:11:12,547 --> 01:11:15,465
+Ta sẽ giải quyết bọn chúng sau.
+
+825
+01:11:15,633 --> 01:11:18,552
+Anh phải làm việc đó một mình thôi.
+Chúc may mắn, Bruce.
+
+826
+01:11:18,720 --> 01:11:20,804
+Anh sẽ cần đến nó đấy.
+
+827
+01:11:34,986 --> 01:11:37,195
+Đã bảo rồi, tôi có làm gì đâu.
+
+828
+01:11:53,546 --> 01:11:57,966
+Những trường hợp dân phòng tự phát lấy cảm hứng
+từ Batman đang tăng mạnh.
+
+829
+01:11:58,134 --> 01:12:01,720
+Những con người bình thường chiến đấu
+cho khu vực mình sinh sống.
+
+830
+01:12:02,263 --> 01:12:04,306
+Cậu thấy sao, cậu chủ?
+
+831
+01:12:04,474 --> 01:12:07,350
+Tôi biết lẽ ra tôi nên sợ hãi.
+Nhưng đây là khu phố của tôi.
+
+832
+01:12:07,518 --> 01:12:10,187
+Gã đó cướp của một quý cô ngay trước
+cửa hàng của tôi.
+
+833
+01:12:11,481 --> 01:12:13,648
+Như mới hôm qua vậy.
+
+834
+01:12:13,941 --> 01:12:18,487
+Đúng như tôi đã cảnh báo, Batman đã ảnh hưởng
+đến đầu óc giới trẻ Gotham.
+
+835
+01:12:18,654 --> 01:12:21,281
+Tiêm nhiễm những thứ như
+"Những người con của Batman"...
+
+836
+01:12:21,449 --> 01:12:25,577
+...với một lời biện hộ 
+cho những hành vi bạo lực phản xã hội này.
+
+837
+01:12:26,120 --> 01:12:28,830
+Batman? Tôi phát mệt khi phải nghe về ông ta rồi.
+
+838
+01:12:28,998 --> 01:12:32,542
+Sao ông ta không để mọi thứ diễn ra bình thường,
+như hầu hết chúng ta?
+
+840
+01:12:34,128 --> 01:12:36,171
+1 nhóm những kẻ tâm thần quay sang chống
+tội phạm...
+
+841
+01:12:36,339 --> 01:12:38,965
+...thay vì chúng ta,
+và các người muốn đổ lỗi cho Batman?
+
+843
+01:12:41,761 --> 01:12:47,015
+Đừng mong đợi tuyên bố gì tiếp theo.
+Những người con của Batman không diễn thuyết.
+
+844
+01:12:47,183 --> 01:12:49,017
+-Chúng tôi hành động.
+-Batman...?
+
+845
+01:12:49,185 --> 01:12:52,771
+-Thành phố Gotham thuộc về Batman.
+-Batman.
+
+846
+01:12:52,939 --> 01:12:54,648
+Batman
+
+847
+01:12:55,316 --> 01:12:58,276
+thân mến,

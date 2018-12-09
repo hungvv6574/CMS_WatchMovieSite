@@ -1,0 +1,2857 @@
+﻿1
+00:00:00,148 --> 00:00:02,485
+<i>"Agents of S.H.I.E.L.D."
+những tập trước...</i>
+
+2
+00:00:02,511 --> 00:00:04,387
+Có rất nhiều điều anh muốn
+kể về bố của em.
+
+3
+00:00:04,435 --> 00:00:06,659
+Đem con gái tôi tới đây.
+
+4
+00:00:08,095 --> 00:00:10,363
+Muốn thăng tiến trong HYDRA,
+cô sẽ cần phải kết bạn.
+
+5
+00:00:10,431 --> 00:00:13,233
+Tôi lo cho cô ấy.
+Cô ấy nói dối rất tệ.
+
+6
+00:00:13,300 --> 00:00:15,802
+Vâng, lòng trung thành của tôi là với HYDRA.
+
+7
+00:00:15,869 --> 00:00:17,637
+- Nó là gì ấy nhỉ?
+- Không chắc.
+
+8
+00:00:17,705 --> 00:00:20,506
+Coulson giao cho tôi tháng trước,
+để tìm ra sự trùng hợp.
+
+9
+00:00:20,574 --> 00:00:21,741
+Tôi không tìm được gì cả.
+
+10
+00:00:22,910 --> 00:00:25,645
+Những kí tự này ở trên khối Obelisk,
+bây giờ nó là một kiệt tác.
+
+11
+00:00:25,713 --> 00:00:27,413
+Lấy được bức họa đó
+có thể sẽ cho câu trả lời.
+
+12
+00:00:27,481 --> 00:00:29,582
+Chào Raina. Gần đây cô
+có lấy một thứ từ tôi.
+
+13
+00:00:29,650 --> 00:00:31,618
+Đưa cho tôi khối Obelisk.
+
+14
+00:00:31,685 --> 00:00:35,695
+Cô có 48 tiếng.
+Đồng hồ...bắt đầu điểm.
+
+15
+00:00:40,060 --> 00:00:43,496
+<i>Thế giới này đầy rẫy
+những người tìm kiếm sự thay đổi</i>
+
+16
+00:00:43,564 --> 00:00:46,933
+hy vọng để trở thành một cái gì đó khác,
+cái gì đó tốt hơn.
+
+17
+00:00:47,001 --> 00:00:51,871
+Vậy nên phản ứng đầu tiên của tôi
+khi nghe tin Pete tham gia Hải Quân là,
+
+18
+00:00:51,872 --> 00:00:53,473
+"Giỡn hả bưởi?!"
+
+19
+00:00:56,944 --> 00:00:59,879
+Ý tôi là, cái tên suy đồi này làm
+trong Hải Quân ư?
+
+20
+00:00:59,947 --> 00:01:03,116
+Họ có điều tra tiểu sử không vậy?
+
+21
+00:01:03,183 --> 00:01:06,352
+Vì tôi chỉ có hai từ để nói...
+"Tijuana 09"
+
+22
+00:01:07,588 --> 00:01:09,489
+Phải, H-bomb hiểu tôi đang nói gì mà.
+
+23
+00:01:11,058 --> 00:01:14,994
+Các anh có gì khác nặng đô hơn
+ở quầy bar đó không?
+
+24
+00:01:15,062 --> 00:01:17,230
+Xin lỗi bà, chỉ có champagne thôi.
+
+25
+00:01:17,298 --> 00:01:20,833
+Nhưng trong trường hợp này,
+thay đổi là một điều tốt.
+
+26
+00:01:20,901 --> 00:01:24,070
+Mariya, em là một cô gái siêu cá tính.
+
+27
+00:01:24,138 --> 00:01:27,340
+Và Pete, cậu sẽ mãi là chàng trai của tôi.
+
+28
+00:01:27,408 --> 00:01:32,011
+Vậy nên, mọi người, hãy nâng ly
+cho Pete và Mariya, nhà Leitners.
+
+29
+00:01:32,079 --> 00:01:33,880
+Nhà Leitners.
+
+30
+00:01:49,963 --> 00:01:53,833
+Chuyện gì vậy?
+
+31
+00:01:53,901 --> 00:01:55,435
+Ai đó cứu với!!!
+
+32
+00:01:55,502 --> 00:02:00,840
+Làm ơn!! Ai đó giúp chúng tôi!
+
+33
+00:02:03,977 --> 00:02:06,679
+8 người chết.
+
+34
+00:02:06,747 --> 00:02:08,014
+<i>Những người còn lại?</i>
+
+35
+00:02:08,082 --> 00:02:11,851
+Vài người ốm, những người còn lại sợ,
+nhưng hầu hết là còn sống.
+
+36
+00:02:11,919 --> 00:02:13,219
+<i>Thật đáng thất vọng.</i>
+
+37
+00:02:13,287 --> 00:02:16,756
+<i>Quay lại ngay lập tức để
+gửi báo cáo trực tiếp.</i>
+
+38
+00:02:16,824 --> 00:02:19,292
+<i>Tiến sĩ Whitehall sẽ không hài lòng</i>
+
+39
+00:02:19,360 --> 00:02:22,095
+<i>khi biết tin rằng, một lần nữa,
+chúng ta đã thất bại đâu.</i>
+
+40
+00:02:25,466 --> 00:02:28,501
+- 8 chết, 6 người là Hải Quân.
+- Tất cả đều từ một bộ phận chống lại HYDRA.
+
+41
+00:02:28,569 --> 00:02:30,737
+Có biết hung khí không?
+
+42
+00:02:30,804 --> 00:02:33,906
+Không, nhưng những ảnh hưởng
+có vẻ giống từ khối Obelisk.
+
+43
+00:02:33,974 --> 00:02:37,210
+Thứ mà chúng ta cho rằng
+đang nằm trong tay HYDRA.
+
+44
+00:02:40,381 --> 00:02:44,436
+- Nghe được gì từ mối liên lạc Hải Quân không?
+- Bặt vô âm tín.
+
+45
+00:02:44,503 --> 00:02:46,786
+Có khi nào chúng ta có thể tìm lối vào không?
+Có thể là đùa giỡn một chút?
+
+46
+00:02:46,854 --> 00:02:50,623
+Cả một hạm đội ở đó.
+Đây là những người của họ.
+
+47
+00:02:50,691 --> 00:02:52,992
+Không ai khác ngoài những
+người đứng đầu CDC và Hải Quân.
+(CDC : Trung tâm kiểm soát dịch bệnh)
+
+48
+00:02:53,060 --> 00:02:54,427
+đặt chân vào trong đó cả.
+
+49
+00:02:54,495 --> 00:02:55,728
+Thôi rồi. Thế là ngõ cụt.
+
+50
+00:02:55,796 --> 00:02:57,130
+Thế còn đặc vụ Simmons?
+Cô ấy đang ở trong HYDRA.
+
+51
+00:02:57,197 --> 00:02:58,264
+Có khi nào cô ấy có chút thông tin?
+
+52
+00:02:58,332 --> 00:03:02,602
+- Vẫn đang đợi cô ấy liên lạc.
+- Thưa sếp, đó là gì vậy?
+
+53
+00:03:02,669 --> 00:03:07,807
+Vẽ vớ vẩn ấy mà.
+Nếu khối Obelisk quay trở lại cuộc chơi,
+
+54
+00:03:07,875 --> 00:03:11,944
+chúng ta cần biết kí tự này nghĩa là gì.
+Cô có tiến triển gì không?
+
+55
+00:03:12,012 --> 00:03:14,080
+Tôi có nhờ đến mối liên lạc ở Rising Tide
+
+56
+00:03:14,148 --> 00:03:15,915
+về bức tranh mà ta phục chế ở Miami.
+
+57
+00:03:15,983 --> 00:03:17,617
+Nhưng không ai từng nhìn thấy
+thứ gì giống như thế cả.
+
+58
+00:03:17,684 --> 00:03:19,452
+Tiếp tục tìm đi.
+Rồi sẽ có gì đó.
+
+59
+00:03:19,520 --> 00:03:21,053
+Vậy còn cái mà anh đưa tôi?
+
+60
+00:03:21,121 --> 00:03:22,922
+Sao anh không nói cho tôi nguồn của anh,
+rồi tôi sẽ lần theo?
+
+61
+00:03:22,990 --> 00:03:25,358
+- Tôi e đó là tuyệt mật.
+- Dù gì anh cũng là sếp.
+
+62
+00:03:25,426 --> 00:03:27,427
+Anh có thể giải mật không?
+
+63
+00:03:27,494 --> 00:03:29,929
+- Tôi có thể, nhưng sẽ không đâu.
+- Sao không?
+
+64
+00:03:29,997 --> 00:03:33,032
+Tôi đã trả lời rồi, Skye.
+
+65
+00:03:33,100 --> 00:03:36,002
+Không. Anh nói vòng vo.
+Có sự khác biệt đấy.
+
+66
+00:03:36,069 --> 00:03:41,274
+Thì đó là sự khác biệt
+mà tôi thấy thoải mái.
+
+67
+00:03:41,341 --> 00:03:42,708
+Nhưng nếu cô còn chất vấn
+về thẩm quyền của tôi,
+
+68
+00:03:42,776 --> 00:03:45,278
+chúng ta sẽ có một cuộc nói chuyện khác.
+
+69
+00:03:45,345 --> 00:03:48,181
+Cuộc nói chuyện mà cô sẽ không thích.
+Rõ chưa?
+
+70
+00:03:49,383 --> 00:03:50,683
+Vâng, thưa sếp.
+
+71
+00:03:57,925 --> 00:04:01,861
+Anh biết không, giấu bí mật với cô ấy
+sẽ không có kết cục tốt đẹp đâu.
+
+72
+00:04:12,806 --> 00:04:16,142
+Viên đạn này mà bay thấp hơn nửa inch,
+
+73
+00:04:16,210 --> 00:04:18,978
+thì chúng ta sẽ không có
+cuộc nói chuyện này đâu.
+
+74
+00:04:19,046 --> 00:04:23,249
+- Chắc hôm nay là ngày may mắn của tôi.
+- Và là ngày cuối cùng của Big Rick.
+
+75
+00:04:23,317 --> 00:04:29,856
+- Xin các anh, không phải ở đây.
+- Chỉ vì ông đề nghị tử tế thôi đấy.
+
+76
+00:04:30,856 --> 00:04:36,856
+Biên dịch :
+Nông Nấm, Kiet Nguyen, Vũ Trần Bảo Long, Dat Tang.
+
+77
+00:04:44,471 --> 00:04:46,005
+Tôi biết thế này là bất ngờ.
+
+78
+00:04:46,073 --> 00:04:49,442
+Chúng tôi nhờ cậy ông vì sự thận trọng.
+Chuyện quái gì đây hả bác sĩ?
+
+79
+00:04:49,510 --> 00:04:52,578
+Thứ lỗi.
+Sẽ chỉ tốn chút thời gian thôi.
+
+80
+00:04:52,646 --> 00:04:57,416
+Tôi đã nói gì về việc làm gián đoạn
+khi tôi đang làm việc?
+
+81
+00:04:57,484 --> 00:05:00,353
+Những người này muốn kín đáo.
+
+82
+00:05:00,420 --> 00:05:02,455
+Tôi đang gặp rắc rối.
+
+83
+00:05:02,523 --> 00:05:06,225
+Tôi lại tưởng cô mang tin tốt
+đến cho tôi cơ.
+
+84
+00:05:06,293 --> 00:05:07,760
+Tôi cần lấy lại khối Obelisk...
+
+85
+00:05:09,229 --> 00:05:11,864
+...tạm thời thôi, chỉ cần cho đến khi
+tôi có thể thu xếp những việc khác.
+
+86
+00:05:11,932 --> 00:05:13,199
+Thế còn chuyện của chúng ta?
+
+87
+00:05:13,267 --> 00:05:16,736
+Sau từng đấy năm, tôi nghĩ
+cô phải tôn trọng tôi hơn chứ.
+
+88
+00:05:16,803 --> 00:05:19,238
+- Làm ơn, tôi cầu xin ông.
+- Đừng xin xiếc cả.
+
+89
+00:05:19,306 --> 00:05:21,707
+Nó làm tôi nhớ lại hồi
+tôi tìm thấy cô
+
+90
+00:05:21,775 --> 00:05:23,209
+chết đói ở ngoài đường,
+
+91
+00:05:23,277 --> 00:05:26,212
+với mấy câu chuyện cổ tích vớ vẩn
+mà bà cô kể cho cô.
+
+92
+00:05:26,280 --> 00:05:27,947
+Ông nói ông sẽ biến chúng thành sự thật.
+
+93
+00:05:28,015 --> 00:05:30,316
+- Cô nói cô sẽ đem về con gái của tôi.
+- Và tôi đã làm vậy.
+
+94
+00:05:30,384 --> 00:05:32,218
+Cô đem cho tôi một bức ảnh
+và một lời hứa.
+
+95
+00:05:32,286 --> 00:05:34,053
+Tôi vẫn đang chỉ có bức ảnh thôi.
+
+96
+00:05:35,389 --> 00:05:37,557
+Ai muốn nó?
+
+97
+00:05:39,826 --> 00:05:44,497
+Ai đã làm cô phải sợ thế này, Raina?
+
+98
+00:05:46,500 --> 00:05:50,269
+Daniel Whitehall.
+
+99
+00:05:51,738 --> 00:05:53,940
+Cô sợ hắn hơn tôi ư?
+
+100
+00:05:54,007 --> 00:05:57,810
+Không, làm ơn.
+Ông ta rất quyền lực.
+
+101
+00:05:57,878 --> 00:06:01,847
+- Ông ta có rất nhiều thủ đoạn
+- Hắn ta là kẻ mổ thịt!
+
+102
+00:06:01,915 --> 00:06:03,749
+Và ông thì là gì?
+
+103
+00:06:03,817 --> 00:06:08,321
+Tôi chỉ là người đang cố gắng
+gắn kết gia đình trở lại.
+
+104
+00:06:08,388 --> 00:06:10,523
+Ông lại mất kiểm soát rồi.
+
+105
+00:06:12,225 --> 00:06:15,695
+Ông cần tôi mà.
+Ông rất khó để kiểm soát nổi.
+
+106
+00:06:15,762 --> 00:06:20,823
+Nếu không cẩn thận,
+ông sẽ mãi mãi mất Skye.
+
+107
+00:06:20,867 --> 00:06:23,736
+- Nếu cô ấy nhìn thấy ông như thế này...
+- Chẳng sao cả.
+
+108
+00:06:23,804 --> 00:06:27,340
+Tôi sẽ không bao giờ thấy nó
+nếu cô không đem nó về với tôi.
+
+109
+00:06:28,475 --> 00:06:30,876
+Tôi là người duy nhất...có thể.
+
+110
+00:06:30,944 --> 00:06:34,647
+Và giờ tôi không thể...thở.
+
+111
+00:06:46,860 --> 00:06:48,260
+Đó là thứ duy nhất
+
+112
+00:06:48,328 --> 00:06:51,631
+có thể khiến con bé hiểu...
+hiểu được tôi.
+
+113
+00:06:53,967 --> 00:06:56,235
+Tôi không giao nộp nó được đâu.
+Tôi rất tiếc.
+
+114
+00:06:56,303 --> 00:07:02,575
+- Daniel Whitehall sẽ xé xác tôi mất.
+- Đúng vậy.
+
+115
+00:07:02,643 --> 00:07:05,811
+Cô nên quay trở lại văn phòng
+của hắn và cầu xin đi.
+
+116
+00:07:05,879 --> 00:07:10,115
+Có thể hắn sẽ mềm yếu do tuổi tác.
+
+117
+00:07:19,426 --> 00:07:23,396
+Tôi rất muốn đem Skye về cho ông.
+
+118
+00:07:25,332 --> 00:07:27,733
+Đấy không phải tên của nó.
+
+119
+00:07:32,873 --> 00:07:35,975
+Này bác sĩ.
+Làm nốt chỗ này đi được chưa?
+
+120
+00:07:42,249 --> 00:07:46,185
+Lạy chúa.
+Bình tĩnh lại đi.
+
+121
+00:07:50,957 --> 00:07:54,293
+Bò ở phương nào mà
+cho ra sữa đỏ vậy?
+
+122
+00:07:54,361 --> 00:07:57,296
+Không biết.
+Hồ sơ chỉ ghi là "Bessie".
+
+123
+00:07:57,364 --> 00:08:00,200
+Hai người, đi theo tôi.
+
+124
+00:08:07,007 --> 00:08:09,375
+Xem kĩ đống này đi.
+
+125
+00:08:16,817 --> 00:08:21,153
+- Ôi chúa ơi.
+- Gì vậy?
+
+126
+00:08:21,221 --> 00:08:24,724
+Đấy là Daniel Whitehall.
+
+127
+00:08:26,526 --> 00:08:29,128
+Một trong những thủ lĩnh mới của HYDRA.
+
+128
+00:08:29,196 --> 00:08:30,596
+Chúc một ngày tốt lành.
+
+129
+00:08:30,664 --> 00:08:33,666
+Tôi mời mọi người lên đây
+vì tôi cần sự giúp đỡ.
+
+130
+00:08:33,734 --> 00:08:36,502
+Chúng tôi gần đây đã thử nghiệm
+đảo ngược hoạt tính
+
+131
+00:08:36,570 --> 00:08:38,537
+của một vật thể ngoài hành tinh,
+
+132
+00:08:38,605 --> 00:08:41,173
+dùng mô tế bào của một nạn nhân.
+
+133
+00:08:41,241 --> 00:08:44,243
+Không may, kết quả không như mong đợi.
+
+134
+00:08:44,311 --> 00:08:45,411
+Nhưng có những điểm tích cực.
+
+135
+00:08:45,479 --> 00:08:48,514
+Nhiều người chết là kẻ thù của HYDRA.
+
+136
+00:08:48,582 --> 00:08:50,816
+Vài người chúng ta có thể
+vừa lòng với những thắng lợi nho nhỏ đó.
+
+137
+00:08:50,884 --> 00:08:55,855
+Còn lại có nguyện vọng lớn hơn,
+thậm chí là cả niềm đam mê.
+
+138
+00:08:55,922 --> 00:08:58,257
+Người sáng lập của chúng ta,
+ông ấy đã có khối Tasseract.
+
+139
+00:08:58,325 --> 00:09:00,593
+Đối với tôi, đó sẽ là nói giảm nói tránh
+
+140
+00:09:00,660 --> 00:09:04,330
+khi nói rằng tôi đã chờ đợi
+cả đời để sở hữu khối Obelisk,
+
+141
+00:09:04,397 --> 00:09:06,799
+để khai thác sức mạnh của nó.
+
+142
+00:09:06,867 --> 00:09:12,145
+- Tiến sĩ Simmons, phải không?
+- Vâng.
+
+143
+00:09:12,739 --> 00:09:15,674
+Bakshi nói với tôi rằng bản thân cô
+cũng có niềm đam mê với mấy thứ này.
+
+144
+00:09:15,742 --> 00:09:19,512
+Theo quan điểm của cô,
+Tiến sĩ Lingenfelter sai ở đâu?
+
+145
+00:09:20,579 --> 00:09:23,816
+Tôi không hoàn toàn cho rằng cô ta sai.
+
+146
+00:09:23,884 --> 00:09:26,285
+Đó là một người trong chúng ta.
+Làm ơn nói rõ đi.
+
+147
+00:09:26,353 --> 00:09:32,424
+Chỉ là chúng ta đang đối mặt với
+công nghệ ngoài Trái Đất.
+
+148
+00:09:32,492 --> 00:09:35,339
+Kim loại vũ trụ tiếp xúc với
+cơ chế sinh học trên một cấp độ tế bào
+
+149
+00:09:35,340 --> 00:09:38,898
+theo một cách mà không thể
+tái tạo nếu không có bản mẫu.
+
+150
+00:09:38,965 --> 00:09:41,300
+Nhưng nếu chúng ta có được Obelisk,
+
+151
+00:09:41,368 --> 00:09:44,503
+có thể biến nó thành vũ khí không?
+
+152
+00:09:47,541 --> 00:09:52,511
+- Tôi nghĩ vậy. Có.
+- Tuyệt vời.
+
+153
+00:09:52,579 --> 00:09:54,814
+Tôi muốn mọi người sẵn sàng cho việc đó.
+
+154
+00:09:57,050 --> 00:10:00,052
+Ông ta biết tên cô.
+
+155
+00:10:00,120 --> 00:10:02,688
+Anh có biết điều đó nghĩa là gì không?
+
+156
+00:10:02,756 --> 00:10:07,560
+Chúng ta có thể giết hàng triệu người,
+có khi là hàng tỷ.
+
+157
+00:10:07,627 --> 00:10:10,996
+Hơi bị được đấy, phải không?
+
+158
+00:10:19,402 --> 00:10:22,371
+Đừng phiền nếu tôi đứng đây.
+
+159
+00:10:22,439 --> 00:10:24,673
+Skye vừa lấy bức họa
+từ phòng thí nghiệm à?
+
+160
+00:10:24,741 --> 00:10:29,511
+Mack có một vóc dáng
+rất ấn tượng, phải thế không?
+
+161
+00:10:29,579 --> 00:10:31,981
+- Đi đi.
+- Không, thật đấy.
+
+162
+00:10:32,048 --> 00:10:33,482
+Nhìn mà xem.
+Trông rất ra dáng đàn ông.
+
+163
+00:10:35,285 --> 00:10:36,752
+Ừ, rõ ràng là tôi đồng ý,
+
+164
+00:10:36,820 --> 00:10:38,754
+nhưng cô chỉ là tiềm thức thôi.
+
+165
+00:10:40,023 --> 00:10:42,158
+Sao chứ? Tôi có thể nói thế mà.
+Chẳng có ý gì đâu.
+
+166
+00:10:42,225 --> 00:10:44,193
+Chỉ là sự quan sát thông thường thôi.
+
+167
+00:10:44,261 --> 00:10:45,861
+- Không, tôi biết mà.
+- Ừ.
+
+168
+00:10:45,929 --> 00:10:47,763
+Vậy sao cô cứ nhìn chằm chằm thế?
+
+169
+00:10:47,831 --> 00:10:49,632
+Bởi vì anh vừa thừa nhận
+tôi không có thật.
+
+170
+00:10:49,699 --> 00:10:51,100
+Ôi, làm ơn.
+
+171
+00:10:51,168 --> 00:10:53,335
+Tôi không tự nói chuyện
+với bản thân lần nữa đâu.
+
+172
+00:10:53,403 --> 00:10:55,437
+Fitz, đây là một điều tốt.
+
+173
+00:10:55,505 --> 00:10:58,107
+Giờ anh đã có bạn,
+những người bạn thật sự.
+
+174
+00:10:58,175 --> 00:11:01,143
+- Anh đâu cần tôi nữa.
+- Phải, nhưng tôi nhớ cô.
+
+175
+00:11:01,211 --> 00:11:05,514
+Ý tôi là...tôi vẫn nhớ cô ấy.
+
+176
+00:11:05,582 --> 00:11:08,884
+Nhưng cô ấy đã bỏ đi
+và tiếp tục sống.
+
+177
+00:11:09,552 --> 00:11:12,988
+Có lẽ đây chính là lúc
+anh làm điều tương tự.
+
+178
+00:11:29,639 --> 00:11:30,906
+Đứa bé mập thật đấy.
+
+179
+00:11:30,974 --> 00:11:33,976
+Cái này như một bức tranh tôn giáo,
+phải vậy không?
+
+180
+00:11:34,044 --> 00:11:37,379
+Phải, khi người ngoài hành tinh
+vẽ nguệch ngoạc ở mặt sau,
+
+181
+00:11:37,447 --> 00:11:40,115
+giống kiểu làm mất đi
+sự che chở của chúa vậy.
+
+182
+00:11:40,183 --> 00:11:41,717
+Tôi ước mình biết nó là gì.
+
+183
+00:11:41,785 --> 00:11:43,853
+Chỉ huy cũng chẳng giúp được mấy.
+
+184
+00:11:43,920 --> 00:11:45,487
+Anh nghĩ tôi đã sai khi thúc giục?
+
+185
+00:11:45,555 --> 00:11:47,356
+Không, ngược lại, tôi hoàn toàn đồng ý.
+
+186
+00:11:47,424 --> 00:11:49,925
+Làm tôi nhớ lại cách tôi thường
+khống chế người phụ nữ cũ của tôi.
+
+187
+00:11:49,993 --> 00:11:51,694
+- Không giống thế đâu.
+- Không à?
+
+188
+00:11:51,761 --> 00:11:54,029
+Vậy tại sao lại đặt mình
+vào vị trí của Coulson?
+
+189
+00:11:54,097 --> 00:11:56,832
+Vì Coulson luôn khác thường.
+Anh ta thường rất khó gần.
+
+190
+00:11:56,900 --> 00:12:00,169
+Nói cho cô biết,
+vợ cũ tôi cũng giống vậy...
+
+191
+00:12:00,237 --> 00:12:02,938
+lúc nào cũng giữ bí mật.
+Làm tôi luôn điên tiết.
+
+192
+00:12:03,006 --> 00:12:05,716
+Chỉ có một cách để
+kiểm soát những người như vậy.
+
+193
+00:12:05,966 --> 00:12:07,199
+Đào sâu hơn nữa.
+
+194
+00:12:07,267 --> 00:12:09,835
+Xâm nhập vào sự riêng tư của họ
+cho đến khi họ phát điên lên.
+
+195
+00:12:09,903 --> 00:12:12,838
+Hay đấy.
+Cảm ơn vì lời khuyên, chàng trai đã li dị.
+
+196
+00:12:12,906 --> 00:12:15,675
+Tôi chỉ đang nói là có vài điều
+Coulson không muốn
+
+197
+00:12:15,676 --> 00:12:18,444
+để cho cô biết.
+Cô nên tìm hiểu xem.
+
+198
+00:12:18,512 --> 00:12:21,380
+- Vậy anh gợi ý xem?
+- Ừ thì, tôi không biết rõ lắm.
+
+199
+00:12:21,448 --> 00:12:23,482
+Nhưng có bạn trai HYDRA của cô
+ở tầng dưới kìa,
+
+200
+00:12:23,550 --> 00:12:25,257
+bắt đầu từ hắn được đó.
+
+201
+00:12:29,356 --> 00:12:34,593
+- Lâu lắm mới thấy em, anh ngạc nhiên đấy.
+- Không phải về chuyện đó.
+
+202
+00:12:36,029 --> 00:12:37,229
+Thôi mà, Skye.
+
+203
+00:12:37,297 --> 00:12:41,000
+Đừng giả bộ là em không nghĩ
+đến những gì anh nói.
+
+204
+00:12:41,067 --> 00:12:42,935
+Tôi khá chắc anh là người cuối cùng
+
+205
+00:12:43,003 --> 00:12:44,603
+tôi muốn nói chuyện về bố của tôi.
+
+206
+00:12:44,671 --> 00:12:46,071
+Không nếu như em muốn tìm ông ấy.
+
+207
+00:12:46,139 --> 00:12:48,174
+Bố mẹ tôi bị giết ở tỉnh Hồ Nam,
+
+208
+00:12:48,241 --> 00:12:50,176
+cùng với những người khác ở làng.
+
+209
+00:12:50,243 --> 00:12:53,879
+- Đó không phải là chuyện đã xảy ra.
+- Tôi biết anh đang làm gì.
+
+210
+00:12:53,947 --> 00:12:55,347
+Anh chỉ muốn giúp em thôi.
+
+211
+00:12:55,415 --> 00:12:58,217
+Không. Anh đang khai thác
+điểm yếu rồi cố xoáy sâu vào thôi.
+
+212
+00:12:58,285 --> 00:13:01,020
+Anh đã nói rồi.
+Anh sẽ không bao giờ nói dối em...
+
+213
+00:13:02,756 --> 00:13:04,456
+- ...không còn nữa.
+- Được thôi.
+
+214
+00:13:04,524 --> 00:13:07,560
+Nếu anh đang thành thật, hãy nói
+nguồn thông tin đó ở đâu ra.
+
+215
+00:13:07,627 --> 00:13:09,328
+Hả?
+
+216
+00:13:09,396 --> 00:13:10,796
+Nếu như anh có thông tin về bố tôi,
+
+217
+00:13:10,864 --> 00:13:12,431
+nói cho tôi biết thông tin đó ở đâu ra...
+Việc đó dễ mà.
+
+218
+00:13:15,901 --> 00:13:17,403
+Raina.
+
+219
+00:13:20,674 --> 00:13:22,842
+Cô ta biết ông ấy, Skye.
+
+220
+00:13:22,909 --> 00:13:25,477
+Không, tôi tin rằng anh nghĩ vậy thôi.
+
+221
+00:13:25,545 --> 00:13:28,647
+Anh không hiểu sao?
+Raina chơi anh rồi.
+
+222
+00:13:28,715 --> 00:13:32,384
+Cô ta tìm thấy điểm yếu của anh và
+dùng nó để chơi lại anh.
+
+223
+00:13:32,452 --> 00:13:34,086
+- Skye...
+- Im đi, Ward.
+
+224
+00:13:34,154 --> 00:13:37,356
+Tôi không muốn nghe thêm điều gì
+về chuyện đó nữa cả.
+
+225
+00:13:39,492 --> 00:13:42,294
+Tốt.
+
+226
+00:13:44,998 --> 00:13:46,899
+Nói cho tôi biết anh có biết gì
+về cái này không.
+
+227
+00:13:46,967 --> 00:13:49,268
+Lần đâu anh thấy nó
+là khi chúng ta ở Belarus ...
+
+228
+00:13:49,336 --> 00:13:51,170
+Anh với em...và sau đó,
+
+229
+00:13:51,238 --> 00:13:52,872
+Garrett bắt đầu khắc thứ đó lên kính.
+
+230
+00:13:53,239 --> 00:13:58,711
+Garrett tự khắc thứ này à?
+Ông ta có nói nó là gì không?
+
+231
+00:13:58,778 --> 00:14:01,013
+Không, nhưng ông ta rất khó hiểu
+
+232
+00:14:01,081 --> 00:14:03,849
+từ khi ông ta được tiêm
+GH-formula vào người.
+
+233
+00:14:05,619 --> 00:14:12,858
+Những cái đó...
+không phải của em, phải không?
+
+234
+00:14:15,028 --> 00:14:17,897
+Tốt.
+
+235
+00:14:17,964 --> 00:14:21,133
+Tốt lắm, vì một khi Garrett đã bắt đầu,
+ông ta sẽ không thể ngừng.
+
+236
+00:14:21,201 --> 00:14:23,068
+Ông ta có thể khắc nó
+ở khắp mọi nơi.
+
+237
+00:14:23,136 --> 00:14:26,672
+- ...trên tường, sàn.
+<i>- Trên bàn anh ta...</i>
+
+238
+00:14:26,740 --> 00:14:27,973
+Thành thật mà nói,
+
+239
+00:14:28,041 --> 00:14:29,608
+anh gần như nhẹ nhõm
+khi S.H.I.E.L.D xử lý ông ta.
+
+240
+00:14:29,676 --> 00:14:32,144
+Garrett mà anh biết đã không còn
+kể từ khi thứ đó xuất hiện.
+
+241
+00:14:32,212 --> 00:14:33,879
+Bất cứ điều gì thay thế ông ấy,
+
+242
+00:14:33,947 --> 00:14:38,276
+anh không nghĩ nó có nghĩa là sự sống sót.
+
+243
+00:15:08,415 --> 00:15:11,150
+HYDRA theo đuổi công nghệ công nghệ WMD
+(Vũ khí huỷ diệt hàng loạt) của người ngoài hành tinh.
+
+244
+00:15:11,217 --> 00:15:15,487
+Phải nhanh chóng hành động để ngăn chặn
+thảm hoạ tuyệt chủng hàng loạt.
+
+245
+00:15:15,555 --> 00:15:18,824
+Đang chờ chỉ dẫn tiếp theo.
+
+246
+00:15:18,892 --> 00:15:19,925
+Tacos cá.
+
+247
+00:15:34,240 --> 00:15:38,177
+Lý do anh không nói nguồn của anh
+là vì anh chính là nó.
+
+248
+00:15:38,244 --> 00:15:40,145
+Dù sao thì, cứ vào đi.
+
+249
+00:15:40,213 --> 00:15:44,951
+Làm ơn, tôi biết anh mà,
+nên cứ nói thật với tôi.
+
+250
+00:15:46,152 --> 00:15:49,121
+- Anh ổn chứ?
+- Tôi vẫn ổn.
+
+251
+00:15:49,189 --> 00:15:52,057
+Bởi khi Garrett bắt đầu viết thứ đó,
+ông ta trở nên điên khùng.
+
+252
+00:15:52,125 --> 00:15:54,025
+Tôi thấy cô đã nói chuyện với Ward.
+
+253
+00:15:55,962 --> 00:15:58,831
+Tôi đã nói rồi...Tôi ổn.
+May đang trông chừng tôi.
+
+254
+00:15:58,898 --> 00:16:01,667
+Anh đã bắt đầu việc đó khi nào?
+
+255
+00:16:01,735 --> 00:16:04,370
+Đêm đầu tiên khi tôi thấy Garrett viết...
+
+256
+00:16:04,437 --> 00:16:06,805
+nó cứ như kích hoạt gì đó trong tôi.
+
+257
+00:16:06,873 --> 00:16:11,443
+- Vậy anh điều gì đã gây ra chuyện đó?
+- Chắc là GH-formula.
+
+258
+00:16:11,511 --> 00:16:14,813
+Garrett và tôi đều bị tiêm...
+không phải là trùng hợp.
+
+259
+00:16:14,881 --> 00:16:17,249
+Đúng, nhưng tôi cũng vậy,
+và tôi vẫn chưa viết thứ gì như vậy.
+
+260
+00:16:17,317 --> 00:16:19,051
+Điều đó hoặc là tốt,
+
+261
+00:16:19,119 --> 00:16:21,587
+hoặc là một chuyện
+đáng sợ hoàn toàn khác,
+
+262
+00:16:21,654 --> 00:16:24,890
+Vì vậy mà chúng tôi phải "Giám sát" cô.
+
+263
+00:16:24,958 --> 00:16:29,728
+Khoan. "Giám sát"?
+Từ hay quá đấy.
+
+264
+00:16:29,796 --> 00:16:30,896
+Chúng tôi không nói cho cô biết
+
+265
+00:16:30,964 --> 00:16:33,565
+bởi chúng tôi muốn quan sát kín đáo.
+
+266
+00:16:33,633 --> 00:16:35,367
+Để xem nó có kích hoạt
+thứ gì đó trong cô không.
+
+267
+00:16:35,435 --> 00:16:36,902
+Vậy, mấy người đã đặt...kiểu như
+
+268
+00:16:36,970 --> 00:16:39,705
+- cái camera ẩn nhỏ xíu vào giường tôi?
+- Không phải trong giường cô.
+
+269
+00:16:39,773 --> 00:16:42,274
+Nhưng tôi nghĩ cô đang
+nhầm chủ đề rồi.
+
+270
+00:16:42,342 --> 00:16:45,811
+- Tôi không có phản ứng vậy.
+- Đúng vậy.
+
+271
+00:16:45,879 --> 00:16:47,913
+Tôi tin Garrett và tôi
+có phản ứng tiêu cực
+
+272
+00:16:47,981 --> 00:16:49,448
+với DNA của người ngoài hành tinh
+trong người chúng tôi.
+
+273
+00:16:49,516 --> 00:16:54,119
+Có thể cô không có...
+vì nó đã có sẵn trong cô rồi.
+
+274
+00:16:54,187 --> 00:16:56,655
+Phải, kiểu như tôi là
+người ngoài hành tinh chứ gì.
+
+275
+00:16:58,591 --> 00:17:01,360
+Khoan đã.
+Anh nói tôi là người ngoài hành tinh ư?
+
+276
+00:17:01,428 --> 00:17:04,630
+- Nó chỉ là giả thiết...
+- Không, giả thiết là cái khoa học sử dụng
+
+277
+00:17:04,697 --> 00:17:06,165
+để chứng minh thứ gì đó trong tự nhiên.
+
+278
+00:17:06,232 --> 00:17:08,634
+Còn đây là anh đang nói
+tôi có thể là người ngoài hành tình!
+
+279
+00:17:08,701 --> 00:17:11,570
+Đây không phải là chuyện mà anh
+coi như chẳng có gi to tát được.
+
+280
+00:17:11,638 --> 00:17:15,040
+- Tôi đang cố không làm cô lo sợ.
+- Vậy ư, đoán thử xem, sai lầm hoàn toàn.
+
+281
+00:17:15,308 --> 00:17:20,245
+- Coulson, anh có điện thoại ở đường dây 1.
+- Không đúng lúc cho lắm.
+
+282
+00:17:20,313 --> 00:17:22,680
+Anh sẽ muốn nghe cuộc gọi này đấy.
+
+283
+00:17:25,851 --> 00:17:28,854
+- Xin chào.
+- Hi vọng tôi không làm gián đoạn gì.
+
+284
+00:17:28,922 --> 00:17:30,989
+<i>Bằng cách nào đó,
+tôi lại nghi ngờ đó là lí do.</i>
+
+285
+00:17:31,057 --> 00:17:32,057
+Cô muốn gì, Raina?
+
+286
+00:17:33,059 --> 00:17:34,293
+Gặp mặt.
+
+287
+00:17:34,360 --> 00:17:37,429
+Anh và tôi có chuyện để bàn bạc,
+đặc vụ Coulson.
+
+288
+00:17:37,497 --> 00:17:40,599
+<i>Vấn đề này khá là cấp bách.</i>
+
+289
+00:17:45,851 --> 00:17:47,439
+<i>Mọi người, nghe đây.</i>
+
+290
+00:17:47,507 --> 00:17:49,575
+Tôi cần tất cả bước ra khỏi bàn của mình
+
+291
+00:17:49,642 --> 00:17:51,443
+và đặt tay ra sau lưng.
+
+292
+00:17:51,511 --> 00:17:53,846
+<i>Giữ tất cả tránh xa điện thoại
+và máy tính bảng.</i>
+
+293
+00:17:53,913 --> 00:17:55,848
+Hỡi quý vị, chúng ta có gián điệp,
+
+294
+00:17:55,915 --> 00:17:59,351
+ngay đây, ngay trong cở sở của chúng ta.
+
+295
+00:18:00,587 --> 00:18:02,154
+Ai đó đã gửi tin nhắn cho S.H.I.E.L.D.
+
+296
+00:18:02,222 --> 00:18:03,922
+ngay trước thanh thiên bạch nhật.
+
+297
+00:18:03,990 --> 00:18:05,824
+<i>Tôi là chuyên gia để tìm ra họ.</i>
+
+298
+00:18:05,892 --> 00:18:10,095
+Bakshi ở đây...
+Anh ta sẽ làm họ phải đau khổ.
+
+299
+00:18:10,163 --> 00:18:13,799
+Đến khi đó...
+không ai được rời khỏi đây.
+
+300
+00:18:16,939 --> 00:18:19,768
+HYDRA không tha thứ cho bọn phản bội.
+
+301
+00:18:19,835 --> 00:18:21,903
+<i>Ai mà bị bắt gặp gian dối</i>
+
+302
+00:18:21,971 --> 00:18:23,505
+<i>sẽ bị trừng phạt thích đáng.</i>
+
+303
+00:18:24,272 --> 00:18:26,941
+Tiến sĩ Jemma Simmons.
+
+304
+00:18:27,009 --> 00:18:29,311
+Lý lịch khá là ấn tượng đó ...
+
+305
+00:18:29,378 --> 00:18:31,646
+Học viện S.H.I.E.L.D, đứng đầu lớp,
+
+306
+00:18:31,714 --> 00:18:33,682
+2 bằng tiến sĩ chuyên ngành,
+
+307
+00:18:33,749 --> 00:18:37,252
+Còn đề cập cả việc cô dành thời gian
+đi thực địa như một đặc vụ S.H.I.E.L.D.
+
+308
+00:18:37,320 --> 00:18:39,988
+- Phải không?
+- Trong thời gian ngắn thôi.
+
+309
+00:18:40,056 --> 00:18:43,024
+Không. Cô mới chỉ ở
+HYDRA trong thời gian ngắn.
+
+310
+00:18:43,092 --> 00:18:45,293
+Nhưng dường như cô đã
+gắn bó với S.H.I.E.L.D.
+
+311
+00:18:45,361 --> 00:18:48,363
+trong một thời gian hoặc suốt cả cuộc đời cô.
+
+312
+00:18:50,099 --> 00:18:52,467
+Công bằng mà nói, chẳng phải
+đặc vụ HYDRA nào
+
+313
+00:18:52,468 --> 00:18:53,435
+cũng từng là đặc vụ của S.H.I.E.L.D. sao?
+
+314
+00:18:53,502 --> 00:18:56,805
+Đó là những người làm việc cho S.H.I.E.L.D.
+rất lâu trước khi nó sụp đổ.
+
+315
+00:18:56,872 --> 00:18:58,940
+Nhưng không có chứng cứ nào
+về việc cô ủng hộ HYDRA.
+
+316
+00:18:59,008 --> 00:19:00,775
+trong khi S.H.I.E.L.D vẫn tồn tại.
+
+317
+00:19:00,843 --> 00:19:04,312
+Thực tế, dường như cô là một
+đặc vụ S.H.I.E.L.D. gương mẫu...
+
+318
+00:19:04,380 --> 00:19:07,449
+có khi bây giờ vẫn vậy.
+
+319
+00:19:09,385 --> 00:19:14,340
+- Tôi trung thành với HYDRA.
+- Tôi sẽ đánh giá việc đó.
+
+320
+00:19:22,298 --> 00:19:24,666
+Thưa cô...có thứ này cô cần xem.
+
+321
+00:19:24,734 --> 00:19:26,267
+Khoan, khoan. Đó...
+Đó không phải của tôi.
+
+322
+00:19:26,335 --> 00:19:28,198
+T-Tôi chưa bao giờ thấy nó trước đây!
+
+323
+00:19:28,295 --> 00:19:31,072
+Tôi còn không biết nó là gì!
+Cái đó...Tôi...
+
+324
+00:19:50,343 --> 00:19:52,611
+<i>Vẫn không có gì.</i>
+
+325
+00:19:52,678 --> 00:19:54,546
+<i>- Nghe rõ.
+- Cô yêu cầu hơi quá.</i>
+
+326
+00:19:54,614 --> 00:19:58,083
+Thức ăn của tôi...
+phải chịu đựng sự xâm nhập này sao?
+
+327
+00:19:58,150 --> 00:19:59,517
+Chúng ta đã bàn rồi mà.
+
+328
+00:19:59,585 --> 00:20:01,853
+Ông và nhân viên của ông sẽ được
+đền đáp vì sự giúp đỡ của ông.
+
+329
+00:20:01,921 --> 00:20:05,223
+Đang đến, hướng 4h.
+
+330
+00:20:05,291 --> 00:20:06,925
+<i>Cô gái nhỏ bé trong áo đầm hoa?</i>
+
+331
+00:20:06,993 --> 00:20:09,861
+Đó là người mà mọi người
+làm ầm lên à?
+
+332
+00:20:22,441 --> 00:20:27,712
+- Rất vui được gặp anh, đặc vụ Coulson.
+- Raina.
+
+333
+00:20:39,458 --> 00:20:42,594
+Tôi lo rằng anh sẽ không
+chấp nhận lời mời của tôi...
+
+334
+00:20:42,662 --> 00:20:46,264
+nhưng dường như tôi
+không phải là người duy nhất
+
+335
+00:20:46,332 --> 00:20:48,711
+đang mong chờ cuộc gặp mặt sắp tới.
+
+336
+00:20:49,969 --> 00:20:54,172
+- Cô ta tấn công dữ dội nhỉ?
+- Tất nhiên.
+
+337
+00:20:54,240 --> 00:20:56,608
+Cô nói có chuyện nguy cấp cần bàn bạc,
+
+338
+00:20:56,676 --> 00:20:57,809
+vì vậy tôi ở đây đây.
+
+339
+00:20:57,877 --> 00:21:00,645
+Dù sao thì, cô sẽ đưa cho tôi thứ tôi cần.
+
+340
+00:21:01,713 --> 00:21:04,449
+Anh đã thay đổi, đặc vụ Coulson.
+
+341
+00:21:04,517 --> 00:21:06,584
+Tuỳ vào hoàn cảnh, từ lần trước,
+
+342
+00:21:06,652 --> 00:21:08,820
+cô đã bắt tôi vào trong cái máy phục hồi trí nhớ.
+
+343
+00:21:08,888 --> 00:21:11,089
+Tôi chỉ muốn giúp thôi.
+
+344
+00:21:11,157 --> 00:21:14,426
+Cô muốn giúp?
+Nói tôi biết tìm khối Obelisk ở đâu.
+
+345
+00:21:14,493 --> 00:21:17,162
+Tôi e là không đủ khả năng giúp anh.
+
+346
+00:21:17,829 --> 00:21:22,934
+Chiêu đó không hiệu quả với tôi đâu.
+Tôi thấy thứ đó có thể làm gì rồi.
+
+347
+00:21:23,002 --> 00:21:25,537
+Nó quá nguy hiểm ở thế giới này.
+
+348
+00:21:25,604 --> 00:21:27,339
+Anh chỉ mới thấy sự khởi đầu thôi.
+
+349
+00:21:27,406 --> 00:21:32,310
+Chỉ vì thứ gì đó quá mạnh mẽ
+không có nghĩa là nó nguy hiểm.
+
+350
+00:21:32,378 --> 00:21:34,679
+Trong trường hợp này, nó giống
+cái chết và huỷ diệt hơn.
+
+351
+00:21:34,747 --> 00:21:36,514
+Anh phải tin tôi, đặc vụ Coulson...
+
+352
+00:21:36,582 --> 00:21:39,551
+chúng ta đều muốn cùng một thứ.
+
+353
+00:21:39,618 --> 00:21:41,686
+Trừ khi đó là dấu chấm
+cho cuộc nói chuyện này.
+
+354
+00:21:41,754 --> 00:21:43,188
+Mà tôi chắc là chúng ta chưa muốn kết thúc.
+
+355
+00:21:44,255 --> 00:21:48,093
+Anh rất biết cách khiến một cô gái
+cảm thấy vô cùng đặc biệt.
+
+356
+00:21:48,160 --> 00:21:50,628
+Chỉ khi tôi nghi ngờ cô ta có gì đó trong tay áo.
+
+357
+00:21:50,696 --> 00:21:53,932
+Trong ví tôi thì đúng hơn.
+
+358
+00:21:53,999 --> 00:21:58,303
+Ngay lúc này, HYDRA đang tìm kiếm gián điệp
+trong hàng ngũ của chúng.
+
+359
+00:21:58,371 --> 00:22:02,073
+Tôi tự hỏi chuyện gì sẽ xảy ra với đặc vụ Simmons...
+
+360
+00:22:06,612 --> 00:22:10,077
+nếu nó rơi vào tay kẻ xấu.
+
+361
+00:22:12,620 --> 00:22:16,513
+Mọi chuyện sẽ ổn thôi.
+
+362
+00:22:22,495 --> 00:22:24,729
+Cô đang lo lắng sao?
+
+363
+00:22:24,797 --> 00:22:27,332
+Có lẽ nó liên quan đến
+
+364
+00:22:27,400 --> 00:22:31,603
+việc cô rình rập tôi.
+
+365
+00:22:31,670 --> 00:22:34,105
+Bakshi đã báo với tôi rằng
+cô và Kenneth là đồng nghiệp.
+
+366
+00:22:34,173 --> 00:22:38,176
+Chúng tôi cùng làm việc
+trong vài nhiệm vụ, đúng vậy.
+
+367
+00:22:38,244 --> 00:22:39,577
+Chà, có vài người tin rằng
+
+368
+00:22:39,645 --> 00:22:41,212
+hắn không chỉ đơn phương độc mã.
+
+369
+00:22:41,280 --> 00:22:43,915
+Cô thông đồng với Kenneth hả?
+
+370
+00:22:43,983 --> 00:22:46,317
+Không.
+
+371
+00:22:47,617 --> 00:22:50,869
+Cô có để màn hình cong
+trên bàn làm việc của Kenneth không?
+
+372
+00:22:51,253 --> 00:22:53,792
+Không.
+
+373
+00:22:53,859 --> 00:22:55,860
+Cô nói dối không được giỏi,
+đúng thế không?
+
+374
+00:22:55,928 --> 00:22:58,496
+Có lẽ tôi nên kiểm tra
+ổ cứng của cô,
+
+375
+00:22:58,564 --> 00:22:59,798
+để xem tôi kiếm được gì.
+
+376
+00:22:59,865 --> 00:23:02,267
+Cứ tự nhiên. Chẳng có gì
+ngoài tài liệu của HYDRA cả.
+
+377
+00:23:02,334 --> 00:23:04,068
+Nên là vậy đấy.
+
+378
+00:23:04,136 --> 00:23:07,705
+Tôi muốn cô ghi nhớ vài điều,
+đặc vụ Simmons...
+
+379
+00:23:07,773 --> 00:23:12,343
+HYDRA ở bất cứ đâu.
+
+380
+00:23:15,714 --> 00:23:18,482
+Tiếp tục đi.
+
+381
+00:23:22,054 --> 00:23:25,323
+- Tôi không thích bị đe dọa đâu.
+- Đây không phải là đe dọa.
+
+382
+00:23:25,391 --> 00:23:27,592
+Chỉ là một việc thiện chí thôi.
+
+383
+00:23:27,660 --> 00:23:31,496
+Tôi không muốn làm gì hơn
+ngoài việc xóa bức ảnh đó.
+
+384
+00:23:31,564 --> 00:23:35,266
+Và đổi lại, cô muốn gì?
+
+385
+00:23:35,334 --> 00:23:39,003
+Từ anh ư?
+Chẳng gì cả.
+
+386
+00:23:40,573 --> 00:23:43,641
+Nhưng tôi cần đưa Skye đi với tôi.
+
+387
+00:23:45,544 --> 00:23:48,947
+Gì cơ?
+Chuyện khỉ gì vậy?
+
+388
+00:23:49,014 --> 00:23:50,415
+Và tại sao...
+
+389
+00:23:50,483 --> 00:23:52,584
+cô nghĩ tôi sẽ để chuyện này
+diễn ra được chứ?
+
+390
+00:23:52,651 --> 00:23:55,086
+Để ngăn chặn nhân viên của HYDRA
+
+391
+00:23:55,154 --> 00:23:59,757
+nhận được những e-mail tự động
+với bức ảnh đó.
+
+392
+00:24:06,999 --> 00:24:09,701
+Anh có 2 phút,
+
+393
+00:24:09,768 --> 00:24:13,638
+sau đó, tôi không thể làm gì cả.
+
+394
+00:24:13,706 --> 00:24:15,673
+Cô định đưa Skye tới đâu?
+
+395
+00:24:17,685 --> 00:24:20,816
+Tới nơi mà cô ta luôn muốn đến...
+
+396
+00:24:22,014 --> 00:24:25,083
+...để gặp bố cô ta.
+
+397
+00:24:26,719 --> 00:24:30,288
+- Cô ta nói dối đấy.
+- Ward nói Raina biết ông ấy.
+
+398
+00:24:30,356 --> 00:24:32,323
+Đây không thể là trùng hợp được.
+
+399
+00:24:32,391 --> 00:24:35,393
+Vậy...cô đang làm việc
+cho bố của Skye à?
+
+400
+00:24:35,461 --> 00:24:40,231
+Tôi chỉ muốn đưa ra lựa chọn
+sáng suốt nhất trong tình huống khó khăn này thôi.
+
+401
+00:24:40,299 --> 00:24:42,700
+Bằng cách đe dọa mạng sống
+một trong những đặc vụ của tôi?
+
+402
+00:24:42,768 --> 00:24:47,739
+Bằng cách cho phép một người
+tìm hiểu xem cô ta thực sự là ai.
+
+403
+00:24:47,806 --> 00:24:49,908
+Đó là những gì Skype đã
+tìm kiếm suốt đời mình.
+
+404
+00:24:49,975 --> 00:24:53,077
+Tự hỏi cô ta đi, đặc vụ Coulson.
+
+405
+00:24:53,145 --> 00:24:56,981
+Cô ta ở đây, không phải
+cô ta đang lắng nghe sao?
+
+406
+00:24:57,049 --> 00:25:00,552
+<i>Skye cần biết bố cô ta
+yêu cô ta đến mức nào,</i>
+
+407
+00:25:00,619 --> 00:25:04,435
+<i>rằng cô ta được đưa đi
+trái với ý muốn của mình,</i>
+
+408
+00:25:04,470 --> 00:25:07,859
+<i>và bố cô ta dành cả đời
+để tìm kiếm cô ta.</i>
+
+409
+00:25:08,752 --> 00:25:11,930
+Mặc cho anh có thay đổi thế nào,
+đặc vụ Coulson.
+
+410
+00:25:11,997 --> 00:25:14,299
+Trong sâu thẳm, anh vẫn là một người tốt.
+
+411
+00:25:14,366 --> 00:25:16,467
+Một người tốt sẽ không có ý định
+
+412
+00:25:16,535 --> 00:25:18,770
+giữ đứa con gái khỏi bố của nó.
+
+413
+00:25:18,837 --> 00:25:24,008
+<i>Đặc biệt là khi rất nhiều điều
+đang bị đe dọa.</i>
+
+414
+00:25:24,076 --> 00:25:27,412
+Anh sắp hết giờ rồi đấy.
+
+415
+00:25:31,417 --> 00:25:33,184
+Hãy cho Skye những gì cô ta luôn muốn...
+
+416
+00:25:35,318 --> 00:25:38,326
+hoặc không thì đặc vụ Simmons sẽ chết.
+
+417
+00:25:44,891 --> 00:25:47,123
+Còn lâu nhé.
+
+418
+00:25:48,767 --> 00:25:51,202
+- Bình tĩnh đi, Skye.
+- Cô không nghe sao?
+
+419
+00:25:51,270 --> 00:25:53,371
+Nếu tôi không ra ngoài đó,
+Simmons sẽ chết.
+
+420
+00:25:53,439 --> 00:25:54,572
+Coulson có kế hoạch rồi.
+
+421
+00:25:54,640 --> 00:25:57,142
+Anh ta cũng khắc những kí tự
+đó trên bàn làm việc,
+
+422
+00:25:57,177 --> 00:26:00,029
+nên có lẽ phán quyết của anh ta
+không giống như trước.
+
+423
+00:26:00,064 --> 00:26:02,634
+Tôi bảo bình tĩnh đi.
+
+424
+00:26:03,682 --> 00:26:06,584
+Nghe này, chưa phải quá muộn đâu.
+Chúng ta có thể cứu cánh được.
+
+425
+00:26:06,652 --> 00:26:08,953
+Sẽ không ai bị thương cả.
+
+426
+00:26:14,994 --> 00:26:17,228
+<i>Làm ơn.</i>
+
+427
+00:26:55,903 --> 00:26:59,406
+Cô ta đây rồi. Bắt cô ta đi!
+
+428
+00:27:35,629 --> 00:27:39,245
+Chuyện gì đang xảy ra vậy?
+
+429
+00:27:39,313 --> 00:27:42,681
+Đừng lo.
+Coulson có kế hoạch.
+
+430
+00:27:43,051 --> 00:27:44,251
+Tôi không thể tin là
+
+431
+00:27:44,319 --> 00:27:47,154
+anh sẽ hi sinh một
+trong những đặc vụ của mình
+
+432
+00:27:47,222 --> 00:27:49,523
+Chúng tôi đều mạo hiểm
+trong công việc này.
+
+433
+00:27:49,591 --> 00:27:54,094
+- Trong trường hợp của cô, nó không hiệu quả.
+- Tôi không có lựa chọn.
+
+434
+00:27:54,162 --> 00:27:59,399
+Đàn violin đang gảy,
+nhưng không ai lắng nghe, cưng ạ.
+
+435
+00:27:59,467 --> 00:28:03,837
+- Ai bắt cô làm việc này?
+- HYDRA.
+
+436
+00:28:03,905 --> 00:28:07,708
+Họ muốn khối Obelisk,
+nhưng cô không có nó.
+
+437
+00:28:07,776 --> 00:28:12,446
+- Bố của Skye có.
+- Ông ta sẽ không dừng lại đến khi gặp cô ấy.
+
+438
+00:28:12,514 --> 00:28:18,051
+Cô sợ ông ta...
+và không sợ dễ dàng như thế.
+
+439
+00:28:18,119 --> 00:28:20,888
+Ông ta rất nguy hiểm.
+
+440
+00:28:22,824 --> 00:28:24,725
+Anh sẽ không tin
+vào những giai thoại đâu.
+
+441
+00:28:24,793 --> 00:28:26,860
+Vậy, giờ ta đã xác minh
+
+442
+00:28:26,928 --> 00:28:32,099
+ông già Skye không phải
+ông bố của năm, gì nữa?
+
+443
+00:28:32,167 --> 00:28:33,333
+Đưa tôi đi.
+
+444
+00:28:35,003 --> 00:28:39,373
+- Làm ơn.
+- Xin lỗi. Hết chỗ rồi.
+
+445
+00:28:39,440 --> 00:28:44,478
+Một khi tôi ra khỏi cánh cửa đó,
+Whitehall sẽ giết tôi.
+
+446
+00:28:44,546 --> 00:28:48,812
+Có thể vậy. Hoặc...
+
+447
+00:28:49,017 --> 00:28:51,552
+Có lẽ cô và tôi sẽ
+làm việc cùng nhau sau mọi chuyện.
+
+448
+00:28:51,619 --> 00:28:54,221
+- Cái gì?
+- Sau đó đường ai nấy đi.
+
+449
+00:28:58,293 --> 00:29:03,430
+- Anh sẽ sử dụng tôi để tìm Whitehall.
+- Ông ta sẽ cố tìm cô.
+
+450
+00:29:03,498 --> 00:29:05,499
+Có hay không thì chúng tôi
+vẫn cứu cô khi ông ta ấn nút,
+
+451
+00:29:05,567 --> 00:29:09,002
+đó là cách cô gọi, tùy vào
+việc cô tỏ ra hữu dụng như thế nào.
+
+452
+00:29:09,070 --> 00:29:12,906
+Cô có thể bắt đầu bằng việc
+nói chúng tôi biết làm sao để tìm bố của Skye.
+
+453
+00:29:13,124 --> 00:29:14,358
+<i>Tôi không muốn tỏ ra vô ơn,</i>
+
+454
+00:29:14,426 --> 00:29:16,260
+<i>mà bởi tôi thực sự biết ơn,
+nhưng cô là ai?</i>
+
+455
+00:29:16,328 --> 00:29:17,695
+Bobbi Morse.
+
+456
+00:29:17,762 --> 00:29:20,731
+Coulson gửi tôi xâm nhập vào HYDRA
+và để mắt tới cô.
+
+457
+00:29:20,799 --> 00:29:22,199
+Chà, cô làm quá tốt, thật đấy.
+
+458
+00:29:22,267 --> 00:29:23,968
+- Cô cũng vậy.
+- Xin lỗi về điều đó.
+
+459
+00:29:24,035 --> 00:29:26,070
+Tôi phải đánh giá những
+vấn đề an ninh khác đang trong cuộc chơi.
+
+460
+00:29:26,137 --> 00:29:27,237
+Phải, như mọi điệp viên HYDRA
+
+461
+00:29:27,305 --> 00:29:30,174
+- việc nhận email sẽ phá tan vỏ ngụy trang?
+- Phải, lộ ngay.
+
+462
+00:29:30,241 --> 00:29:32,076
+Tôi e là không có cách nào
+tôi đi được ra cửa trước.
+
+463
+00:29:32,143 --> 00:29:34,511
+Được rồi, đừng lo.
+Tất cả những gì ta phải là là lên mái nhà.
+
+464
+00:29:34,579 --> 00:29:36,647
+Đã có sẵn một đội
+giải cứu đang chờ.
+
+465
+00:29:36,715 --> 00:29:38,782
+Được rồi, cứ chờ ở đây.
+Kế hoạch là thế.
+
+466
+00:29:38,850 --> 00:29:40,985
+Được chứ?
+
+467
+00:29:44,522 --> 00:29:46,757
+Chúng ta đang gặp nguy hiểm.
+
+468
+00:29:46,825 --> 00:29:50,126
+Tôi cần anh bỏ nhiệm vụ
+và làm theo giao thức 6-8-5.
+
+469
+00:29:55,634 --> 00:29:56,567
+Là cô ta.
+
+470
+00:29:59,104 --> 00:30:00,237
+- Tôi đã bảo có kế hoạch mà.
+- Tôi biết.
+
+471
+00:30:00,305 --> 00:30:04,541
+- Tôi xin lỗi, nhưng...
+- Được rồi, lên mái nhà đi. Đi đi.
+
+472
+00:30:15,421 --> 00:30:17,851
+Họ ở đâu?
+
+473
+00:30:21,726 --> 00:30:22,993
+Chúng ta bị bẫy rồi.
+
+474
+00:30:23,061 --> 00:30:25,963
+Góc Tây Nam!
+Nhắc lại, góc Tây Nam!
+
+475
+00:30:27,966 --> 00:30:29,566
+Cúi xuống!
+
+476
+00:30:37,375 --> 00:30:38,642
+Chạy đi!
+
+477
+00:30:41,131 --> 00:30:43,761
+Không có ai ở đây!
+
+478
+00:31:02,667 --> 00:31:05,736
+Chào mừng quay lại,
+đặc vụ Simmons.
+
+479
+00:31:05,804 --> 00:31:08,439
+Trip, rất vui được gặp anh.
+
+480
+00:31:09,941 --> 00:31:13,110
+Cô rất biết cách tạo ấn tượng
+lần đầu tiên, Đặc vụ Morse.
+
+481
+00:31:13,178 --> 00:31:15,713
+- Làm ơn, "Bobbi" thôi.
+- Thứ lỗi vì đã hỏi,
+
+482
+00:31:15,780 --> 00:31:18,182
+nhưng nếu cô có thể
+xâm nhập vào Hydra,
+
+483
+00:31:18,249 --> 00:31:20,217
+tại sao lại cần tôi vào?
+
+484
+00:31:20,285 --> 00:31:21,685
+Vỏ bọc của tôi cho phép
+truy cập vào an ninh của Hydra,
+
+485
+00:31:21,753 --> 00:31:22,953
+nhưng chẳng cái nào
+là dự án cấp cao cả.
+
+486
+00:31:23,021 --> 00:31:26,223
+Nên tôi sợ là tôi đã tốn công vô ích.
+
+487
+00:31:26,291 --> 00:31:29,626
+- Không hẳn.
+- Ổ cứng của tôi.
+
+488
+00:31:29,694 --> 00:31:31,228
+Tôi đã lấy sau cuộc trò chuyện ở WC.
+
+489
+00:31:31,296 --> 00:31:33,997
+Có vẻ như nó sẽ có ích.
+
+490
+00:31:34,065 --> 00:31:37,067
+Ồ. Tôi thích cô đó.
+
+491
+00:31:37,135 --> 00:31:40,523
+Cargo đang hỗ trợ, và chúng ta
+đã dọn sạch không phận của Hydra.
+
+492
+00:31:40,570 --> 00:31:42,440
+<i>Đã rõ, SHIELD-218.</i>
+
+493
+00:31:42,475 --> 00:31:44,837
+<i>- Chào cô.
+- Chào.</i>
+
+494
+00:31:44,937 --> 00:31:48,779
+<i>Nhiệm vụ hoàn thành.
+Quay trở về căn cứ.</i>
+
+495
+00:31:52,350 --> 00:31:55,219
+Cô yêu cầu tôi, Coulson
+để cô đi dễ dàng.
+
+496
+00:31:55,286 --> 00:32:00,324
+- Tôi không yêu cầu.
+- Chúc may mắn ngoài đó, tình yêu ạ.
+
+497
+00:32:02,427 --> 00:32:05,929
+Địa chỉ Raina đưa cho ta
+chỉ cách đây vài tòa nhà.
+
+498
+00:32:05,997 --> 00:32:09,232
+Và tôi nghĩ cô ta đã
+chọn nơi đó vì bầu không khí.
+
+499
+00:32:13,538 --> 00:32:15,839
+Còn nhớ những gì
+Lumley nói về Skye không?
+
+500
+00:32:15,907 --> 00:32:18,776
+"Cô ấy đi đến đâu,
+cái chết theo đến đó"?
+
+501
+00:32:18,843 --> 00:32:21,578
+Có, đó là một câu nói không quên nổi.
+
+502
+00:32:21,646 --> 00:32:24,014
+Nghe này, chúng ta biết bố của Skye
+đã tìm cô ấy suốt thời gian qua.
+
+503
+00:32:24,082 --> 00:32:27,885
+Nếu ông ta chính là
+kẻ mà Lumley sợ thì sao?
+
+504
+00:32:29,087 --> 00:32:31,655
+- Chắc là bẫy, phải không?
+- Có thể thế.
+
+505
+00:32:31,723 --> 00:32:34,324
+Tôi cần anh bật chế độ giám sát.
+May, kiểm tra máy quét.
+
+506
+00:32:34,392 --> 00:32:37,194
+Đảm bảo là cảnh sát địa phương
+không tuần tra khu vực này.
+
+507
+00:32:37,262 --> 00:32:39,096
+Và, Skye...
+
+508
+00:32:40,532 --> 00:32:43,100
+Skye đâu?
+
+509
+00:33:06,549 --> 00:33:08,383
+Xin chào?
+
+510
+00:33:09,051 --> 00:33:11,919
+Có ai ở đây không?
+
+511
+00:33:11,987 --> 00:33:16,491
+Ông muốn gặp mặt.
+Tôi đây.
+
+512
+00:33:42,264 --> 00:33:45,166
+Ông đã đi đâu?
+
+513
+00:34:13,829 --> 00:34:19,088
+- Vậy là ông ta đã ở đây.
+- Phải.
+
+514
+00:34:21,336 --> 00:34:25,440
+Tôi chỉ muốn nhìn thoáng qua.
+
+515
+00:34:25,807 --> 00:34:29,010
+Cô đã có một ngày đã đời, nhỉ?
+
+516
+00:34:34,716 --> 00:34:37,952
+Chúng ta sẽ tìm thấy ông ta.
+Được rồi.
+
+517
+00:34:40,022 --> 00:34:42,899
+<i>Được rồi.</i>
+
+518
+00:34:56,772 --> 00:34:59,106
+<i>Vậy, đây là tình huống
+ôm tập thể phải không?</i>
+
+519
+00:34:59,174 --> 00:35:02,210
+- Anh tìm được gì sao?
+- Nơi này đã bị dọn sạch...
+
+520
+00:35:02,277 --> 00:35:04,579
+Chắc chắn do đi quá vội.
+Đặc vụ May đang kiểm tra phòng cuối.
+
+521
+00:35:04,646 --> 00:35:06,581
+Anh đã uống rượu đấy à?
+
+522
+00:35:06,648 --> 00:35:09,650
+Tôi đang làm việc.
+Phải duy trì vỏ bọc chứ.
+
+523
+00:35:09,718 --> 00:35:12,286
+Ngụy trang cái gì...Ron Burgundy?
+
+524
+00:35:12,654 --> 00:35:15,056
+Tôi có thể hiểu tại sao
+cô ấy làm anh thất vọng.
+
+525
+00:35:15,123 --> 00:35:17,725
+Đặc vụ May,
+có dấu hiệu nào của ông ta không?
+
+526
+00:35:17,793 --> 00:35:21,075
+<i>Không. Nhưng có thứ
+này anh cần xem.</i>
+
+527
+00:35:25,400 --> 00:35:29,804
+Trông như một con dao nhỏ,
+có lẽ là dao mổ.
+
+528
+00:35:29,872 --> 00:35:32,573
+Và khá là mạnh bạo.
+
+529
+00:35:32,641 --> 00:35:36,043
+- Bất cứ ai gây nên chuyện này...
+- Chúng ta đều biết là ai.
+
+530
+00:35:48,824 --> 00:35:51,826
+Xem ông ta đã làm gì này.
+
+531
+00:35:51,894 --> 00:35:54,128
+Tôi không thể tin được.
+
+532
+00:35:54,196 --> 00:35:57,798
+Không, không, không,...
+
+533
+00:35:57,866 --> 00:36:02,103
+- Ông ta là...
+- Quái vật.
+
+534
+00:36:07,376 --> 00:36:09,944
+<i>Đây là SHIELD-218,
+xin chỉ thị cho phép hạ cánh.</i>
+
+535
+00:36:10,012 --> 00:36:12,046
+<i>Anh được phép hạ cánh, SHIELD-218.</i>
+
+536
+00:36:16,684 --> 00:36:19,387
+<i>Chào mừng về nhà,
+Đặc vụ Simmons.</i>
+
+537
+00:36:19,454 --> 00:36:22,093
+Chỉ huy Coulson.
+
+538
+00:36:22,224 --> 00:36:24,959
+Tôi mừng vì cô quay lại.
+
+539
+00:36:25,027 --> 00:36:27,061
+Tôi chỉ mừng vì vẫn còn sống.
+
+540
+00:36:27,129 --> 00:36:28,496
+Nếu không có Đặc vụ Morse, tôi...
+
+541
+00:36:28,564 --> 00:36:32,166
+- Bobbi.
+- Bobbi, phải.
+
+542
+00:36:32,234 --> 00:36:34,702
+Nếu không có Bobbi,
+tôi sẽ không bao giờ thoát được.
+
+543
+00:36:34,770 --> 00:36:38,005
+Có lẽ là bị tẩy não, rất vui
+được tuân lệnh người ai cũng biết.
+
+544
+00:36:38,073 --> 00:36:39,273
+<i>Cô ấy thật tuyệt vời.</i>
+
+545
+00:36:39,341 --> 00:36:41,642
+Đó là vì sao tôi yêu cầu
+cô ấy gia nhập đội.
+
+546
+00:36:49,319 --> 00:36:50,585
+Đi đi.
+
+547
+00:36:54,923 --> 00:36:57,558
+Đặc vụ Triplett, Morse.
+
+548
+00:37:06,868 --> 00:37:09,003
+Chào, Fitz.
+
+549
+00:37:09,671 --> 00:37:12,787
+Simmons.
+
+550
+00:37:14,843 --> 00:37:17,378
+Là cô thật ư?
+
+551
+00:37:17,446 --> 00:37:21,916
+Đương nhiên rồi.
+Không thì là ai?
+
+552
+00:37:35,831 --> 00:37:37,932
+Anh thế nào?
+
+553
+00:37:40,535 --> 00:37:43,404
+Cảm ơn.
+
+554
+00:37:43,472 --> 00:37:47,008
+Chào. Lâu rồi không gặp, Barbara.
+
+555
+00:37:47,075 --> 00:37:49,310
+Đừng bắt đầu như thế nữa chứ.
+
+556
+00:37:49,378 --> 00:37:52,013
+Chào.
+
+557
+00:37:52,080 --> 00:37:53,114
+Cô sao rồi?
+
+558
+00:37:53,181 --> 00:37:54,882
+Anh biết đấy,
+làm gián điệp ở Hydra,
+
+559
+00:37:54,950 --> 00:37:57,179
+phải diễn cứng nhắc và độc ác.
+
+560
+00:37:57,275 --> 00:37:58,886
+Cô biết điều gì tôi muốn lúc này không?
+
+561
+00:37:58,954 --> 00:38:01,437
+- 3 ly martini ô liu.
+- Ô liu. Phải.
+
+562
+00:38:01,472 --> 00:38:03,124
+<i> Bobbi?</i>
+
+563
+00:38:04,824 --> 00:38:08,095
+Chào Hunter. Bộ đồ đẹp đấy.
+
+564
+00:38:08,163 --> 00:38:11,832
+"Bộ đồ đẹp đấy"? Thật đấy à?
+Cô bắt đầu như thế ư?
+
+565
+00:38:11,900 --> 00:38:13,734
+Cô đã làm gì với tóc cô?
+
+566
+00:38:13,802 --> 00:38:17,071
+- Đã nghe đến việc làm gián điệp chưa?
+- Tôi thích tóc vàng hoe hơn.
+
+567
+00:38:17,139 --> 00:38:18,406
+Tôi không làm nó cho anh ngắm.
+
+568
+00:38:18,473 --> 00:38:20,841
+Mới hai giây thôi...
+đã có tông giọng thế này rồi.
+
+569
+00:38:20,909 --> 00:38:23,044
+Đây không phải tông giọng.
+Đây là giọng của tôi
+
+570
+00:38:23,111 --> 00:38:24,845
+khi tôi bực mình với những người vô lý.
+
+571
+00:38:24,913 --> 00:38:26,647
+Chuyện là sao vậy?
+
+572
+00:38:26,715 --> 00:38:29,784
+Hunter đã kể cho anh chuyện về
+cô vợ quỷ dữ của anh ta chưa?
+
+573
+00:38:29,851 --> 00:38:32,563
+Suốt ngày...
+Chết tiệt.
+
+574
+00:38:32,656 --> 00:38:35,156
+Có ai muốn nói cho tôi cô ta
+làm cái khỉ gì ở đây không?
+
+575
+00:38:35,223 --> 00:38:37,940
+- Bobbi là một trong những đặc vụ giỏi nhất của ta.
+- Ồ, vui ghê cơ!
+
+576
+00:38:37,965 --> 00:38:39,593
+Thế có phiền nói cho tôi
+tôi đang làm gì ở đây không?
+
+577
+00:38:39,661 --> 00:38:41,028
+Dễ thôi...tôi đã chứng nhận anh.
+
+578
+00:38:41,096 --> 00:38:45,493
+- Tại sao cô lại làm cái trò khỉ đó?!
+- Chơi đẹp đi.
+
+579
+00:38:54,710 --> 00:38:58,079
+Thật vui khi Simmons quay lại.
+
+580
+00:39:00,749 --> 00:39:03,017
+Cũng là vì sao cô nên ở dưới đó.
+
+581
+00:39:03,085 --> 00:39:04,852
+Tôi biết anh sẽ đuổi theo ông ta.
+
+582
+00:39:04,920 --> 00:39:06,821
+- Skye...
+- Không, được rồi. Tôi hiểu rồi.
+
+583
+00:39:06,888 --> 00:39:08,255
+Ông ấy là người xấu.
+
+584
+00:39:08,323 --> 00:39:11,391
+Và ngay lúc này ông ấy có
+khối Obelisk, cũng là điều tồi tệ.
+
+585
+00:39:13,361 --> 00:39:14,462
+Anh biết không, tôi đã
+dành cả đời mình
+
+586
+00:39:14,529 --> 00:39:16,797
+thắc mắc ông ấy là ai
+và tại sao ông ấy bỏ đi.
+
+587
+00:39:16,865 --> 00:39:20,701
+Nhưng sau hôm nay,
+tôi không còn quan tâm nữa.
+
+588
+00:39:20,769 --> 00:39:24,004
+Tất cả những gì tôi để tâm
+là việc ta ngăn cản ông ta,
+
+589
+00:39:24,072 --> 00:39:26,140
+và tôi chỉ muốn cho anh biết rằng
+
+590
+00:39:26,208 --> 00:39:31,879
+- dù mất bao lâu, tôi vẫn sẽ tham gia.
+- Thật vui được biết vậy.
+
+591
+00:39:31,947 --> 00:39:33,247
+Nếu chúng ta sẽ thực hiện việc đó,
+
+592
+00:39:33,315 --> 00:39:35,983
+anh phải hoàn toàn
+trung thực với tôi kể từ bây giờ...
+
+593
+00:39:36,051 --> 00:39:38,753
+không còn bí mật,
+không còn ngăn cách,
+
+594
+00:39:38,820 --> 00:39:41,155
+và đương nhiên là không còn
+camera ẩn nữa.
+
+595
+00:39:41,223 --> 00:39:44,391
+Dù chuyện gì xảy ra,
+anh nói với tôi...không ngoại lệ gì cả.
+
+596
+00:39:44,459 --> 00:39:47,528
+- Được rồi.
+- Được.
+
+597
+00:39:47,596 --> 00:39:50,965
+Có lẽ nên bắt đầu luôn.
+
+598
+00:40:06,314 --> 00:40:09,183
+Vậy, đây là những gì
+anh làm ở trên này.
+
+599
+00:40:09,251 --> 00:40:14,588
+- Nó là cái tôi đã làm hôm qua.
+- Anh đùa à.
+
+600
+00:40:14,656 --> 00:40:18,726
+Tôi không biết cách nào khác
+để diễn tả, nhưng nó cần được khắc.
+
+601
+00:40:18,794 --> 00:40:21,262
+Có phải nó cứ...
+xuất hiện trong tâm trí anh,
+
+602
+00:40:21,329 --> 00:40:25,099
+- như kiểu ảo mộng không?
+- Không. Nó chỉ...
+
+603
+00:40:25,167 --> 00:40:28,369
+cứ xảy ra,
+và thực sự rất nản
+
+604
+00:40:28,436 --> 00:40:30,738
+vì dù tôi có khắc bao nhiêu,
+
+605
+00:40:30,806 --> 00:40:34,275
+nó vẫn không có nghĩa gì với tôi.
+Tôi thậm chí còn không có giả thiết gì.
+
+606
+00:40:37,144 --> 00:40:38,646
+Tôi có.
+
+607
+00:40:41,950 --> 00:40:43,785
+Nó là một bản đồ.
+
+608
+00:40:45,132 --> 00:40:47,600
+Phòng thí nghiệm đã bị
+tháo dỡ trong tiếng trước.
+
+609
+00:40:47,667 --> 00:40:50,169
+- Phần cơ sở vật chất còn lại?
+- Không lâu sau đó.
+
+610
+00:40:51,237 --> 00:40:55,174
+Tôi không thể giúp ngoài việc để ý
+tất cả những hộp đồ.
+
+611
+00:40:55,242 --> 00:40:57,847
+Xin lỗi đã chen ngang.
+
+612
+00:40:57,882 --> 00:41:00,211
+- Sẽ chỉ tốn chút thời gian thôi.
+- Khử hắn ta đi!
+
+613
+00:41:00,246 --> 00:41:01,821
+Làm ơn, nhỏ giọng xuống.
+
+614
+00:41:01,856 --> 00:41:04,542
+Mọi người...Mọi người hãy giữ bình tĩnh.
+
+615
+00:41:04,577 --> 00:41:06,552
+Hãy cùng cố gắng
+và giữ bình tĩnh nào.
+
+616
+00:41:16,830 --> 00:41:19,899
+Xin lỗi.
+
+617
+00:41:21,635 --> 00:41:23,824
+Cố gắng giữ bình tĩnh.
+
+618
+00:41:31,011 --> 00:41:33,509
+Tôi nghe nói anh
+đang tìm kiếm thứ này.
+
+619
+00:41:37,584 --> 00:41:39,518
+Khối Obelisk.
+
+620
+00:41:39,586 --> 00:41:42,955
+Theo ngôn ngữ bản địa của nó,
+nó được gọi là The Diviner (Vật chiêm tinh),
+
+621
+00:41:43,023 --> 00:41:47,126
+một trong rất nhiều chi tiết nhỏ
+mà tôi biết về thứ này.
+
+622
+00:41:47,443 --> 00:41:49,311
+Anh có thể chỉ cho tôi
+cách sử dụng nó?
+
+623
+00:41:49,379 --> 00:41:53,182
+Còn hơn thế, tôi sẽ dạy
+anh cách để sống sót.
+
+624
+00:41:53,249 --> 00:41:56,051
+Và tại sao anh lại làm vậy?
+
+625
+00:41:56,119 --> 00:42:02,570
+Chúng ta có chung một kẻ thù...
+kẻ tên Phil Coulson.
+
+626
+00:42:02,605 --> 00:42:06,762
+Tôi nghĩ có lẽ cùng nhau,
+anh và tôi có thể giết hắn ta...
+
+627
+00:42:09,081 --> 00:42:12,133
+...cùng với, anh biết đó,
+tất cả những người khác.
+
+628
+00:42:12,246 --> 00:42:14,305
+Biên dịch :
+Nông Nấm, Kiet Nguyen, Vũ Trần Bảo Long, Dat Tang.
+

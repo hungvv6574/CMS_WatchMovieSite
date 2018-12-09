@@ -1,0 +1,157 @@
+﻿@*<div id="mediaplayer"></div>
+<script type="text/javascript" src="http://jwpsrv.com/library/5ZiBAudiEeSSyg4AfQhyIQ.js"></script>      
+<script type="text/javascript">
+    $(document).ready(function () {
+        //addPlayer();
+        jwplayer.key = "bqXTMu3sw4ed4TTCRQCNd9dO1S2BIU9RhGXFUzLV+OY=";
+        jwplayer('mediaplayer').setup({
+            //image: "http://content.jwplatform.com/thumbs/3XnJSIm4-640.jpg",
+            //file: "http://content.jwplatform.com/videos/3XnJSIm4-kNspJqnJ.mp4",
+            //tracks: [{
+            //    file: 'http://assets-jp.jwpsrv.com/tracks/2UEDrDhv.txt',
+            //    label: 'English',
+            //    kind: 'captions'
+            //}],
+            
+            //tracks: [{ 
+            //    file: "http://assets-jp.jwpsrv.com/tracks/2UEDrDhv.txt", 
+            //    label: "English",
+            //    kind: "captions",
+            //    "default": true 
+            //},{ 
+            //    file: "/assets/captions-fr.vtt", 
+            //    kind: "captions",
+            //    label: "French"
+            //}]
+            
+
+            //image: "http://s1-www.ltvimg.com/cdn/farfuture/A4Ot5zIiiX6I0zhJTvqF9xyAg6frFcAuXu3YpmtQUzc/mtime:1388777784/sites/default/files/vast-preoll.png",
+            //file: "http://content.bitsontherun.com/videos/bkaovAYt-640.mp4",
+            
+            
+           // playlist: "http://localhost:1500/Advertising/playlist.rss",
+            image: "http://viphd.vn/Media/Default/BannerSlider/carrie.jpg",
+            file: "http://content.bitsontherun.com/videos/bkaovAYt-640.mp4",
+            skipoffset: 5,
+            advertising: {
+                client: "vast", 
+                tag: "http://demo.tremorvideo.com/proddev/vast/vast1RegularLinear.xml"
+            },
+
+
+            //related: {
+            //    file: "http://content.jwplatform.com/related/C4lp6Dtd.xml",
+            //    onclick: "link"
+            //},
+            
+            //autostart: true,
+            
+            //image: "http://content.bitsontherun.com/thumbs/C4lp6Dtd-640.jpg",
+            //sources: [{
+            //    file: "http://content.bitsontherun.com/videos/C4lp6Dtd-640.mp4",
+            //    label: "360p SD",
+            //    "default": "true"
+            //}, {
+            //    file: "http://content.bitsontherun.com/videos/C4lp6Dtd-1280.mp4",
+            //    label: "720p HD"
+            //}],
+            //playlist: [{
+            //    image: "http://viphd.vn/Media/Default/BannerSlider/carrie.jpg",
+            //    sources: [
+            //      { file: "http://playertest.longtailvideo.com/adaptive/bbbfull/bbbfull.m3u8" }
+            //    ]
+            //}],
+            //playlist: [{
+            //    'sources': [
+            //      {
+            //          image: "http://viphd.vn/Media/Default/BannerSlider/carrie.jpg",
+            //          file: 'ftp://static-viphd.com/Files/27042015/Dragon.Blade.2015.SUBBED.720p.WEB-DL.H264-REALHD/Dragon.Blade.2015.SUBBED.720p.WEB-DL.H264-REALHD-muxed.mp4'
+            //          ,mediaid: "67890"
+            //      }
+            //      //  ,
+            //      //{
+            //      //    file: 'http://61253621.r.cdnsun.net/61253621/_definst_/mp4:61253621/myvideo.mp4/playlist.m3u8',
+            //      //    mediaid: "67890"
+            //      //}
+            //    ]
+            //}],
+            
+            width: '100%',
+            height: "100%",
+            aspectratio: '16:9',
+            stretching: 'fill ',
+            skin: "stormtrooper",
+            mute: 'false',
+            primary: 'flash',
+            flashplayer: "http://viphd.vn/Scripts/jwplayer/jwplayer.flash.swf",
+            //captions: {
+            //    back: false,
+            //    color: '#FFFFFF',
+            //    fontfamily: "Arial",
+            //    fontsize: 18,
+            //    fontOpacity: 100,
+            //    backgroundColor: "#FFFF00",
+            //    backgroundOpacity: 0,
+            //    edgeStyle: "depressed",
+            //    windowColor: "#000000",
+            //    windowOpacity: 0
+            //},
+
+           // hien thi theo man hinh 
+            //hlslabels: {
+            //    "2500": "High",
+            //    "1000": "Medium"
+            //},
+            //advertising: {
+            //    client: "vast",
+            //    schedule: "http://localhost:1500/Advertising/demovmap.xml"
+            //}
+            //advertising: {
+            //    client: "vast",
+            //    schedule: {
+            //        preroll: {
+            //            tag: "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/preroll.xml",
+            //            offset: "pre",
+            //            skipoffset: '5'
+            //        },
+            //        overlay: {
+            //            tag: "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml",
+            //            offset: 5,
+            //            type: "nonlinear"
+            //        }
+            //    },
+            //    companiondiv: {
+            //        id: "rectangle",
+            //        width: 300,
+            //        height: 250
+            //    }
+            //}
+            //logo cong ty
+            //logo: {
+            //    file: 'http://viphd.vn/Media/Default/Logo/Newlogo.png',
+            //    link: 'http://viphd.vn/'
+            //},
+             //sharing
+            //sharing: {
+            //    code: encodeURI("<iframe src='http://example.com/embed/12345.html' />"),
+            //    link: "http://example.com/page/12345/"
+            //} ,
+            //rtmp: {
+            //    bufferlength: 0.1
+            //},
+            //advertising: {
+            //    admessage: "Your video won't play for xx seconds",
+            //    client: "vast",
+            //    schedule: "http://localhost:1500/Advertising/demovmaptag.xml"
+            //}
+        });
+        
+    
+    });
+    //http://support.jwplayer.com/customer/portal/articles/1409745-display-related-videos
+    //http://support.jwplayer.com/customer/portal/articles/1413113-configuration-options-reference
+    
+
+    
+</script>  
+        *@

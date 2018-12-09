@@ -1,0 +1,49 @@
+﻿@charset "utf-8";
+/*add new*/
+@font-face {
+	font-family: 'Conv_SFUHelveticaRegular';
+	src: url('fonts/SFUHelveticaRegular.eot');
+	src: local('☺'), url('fonts/SFUHelveticaRegular.woff') format('woff'), url('fonts/SFUHelveticaRegular.ttf') format('truetype'), url('fonts/SFUHelveticaRegular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_SFUHelveticaBold';
+	src: url('fonts/SFUHelveticaBold.eot');
+	src: local('☺'), url('fonts/SFUHelveticaBold.woff') format('woff'), url('fonts/SFUHelveticaBold.html') format('truetype'), url('fonts/SFUHelveticaBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Helvetica Neue';
+	src: url('fonts/SFUHelveticaLight.eot');
+	src: local('☺'), url('fonts/SFUHelveticaLight.woff') format('woff'), url('fonts/SFUHelveticaLight.html') format('truetype'), url('fonts/SFUHelveticaLight.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_SFUHelveticaCondensed';
+	src: url('fonts/SFUHelveticaCondensed.eot');
+	src: local('☺'), url('fonts/SFUHelveticaCondensed.woff') format('woff'), url('fonts/SFUHelveticaCondensed.ttf') format('truetype'), url('fonts/SFUHelveticaCondensed.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_SFUHelveticaLightOblique';
+	src: url('fonts/SFUHelveticaLightOblique.eot');
+	src: local('☺'), url('fonts/SFUHelveticaLightOblique.woff') format('woff'), url('fonts/SFUHelveticaLightOblique.ttf') format('truetype'), url('fonts/SFUHelveticaLightOblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon/icomoon.eot');
+	src:url('fonts/icomoon/icomoond41d.eot?#iefix') format('embedded-opentype'),
+		url('fonts/icomoon/icomoon.woff') format('woff'),
+		url('fonts/icomoon/icomoon.ttf') format('truetype'),
+		url('fonts/icomoon/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

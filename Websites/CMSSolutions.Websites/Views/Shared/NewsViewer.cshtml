@@ -1,0 +1,70 @@
+﻿@using CMSSolutions.Websites.Extensions
+<div class="box_div_right_view">
+    <h3 class="title_h1_st2">TIN TỨC</h3>
+    <div class="blo-news">
+        <p class="title-news">
+            <a href="javascript:void(0)" id="all" class="new_hot_all" onclick="show_news_hot('all');" >
+                <span>Tất Cả</span>
+            </a>
+            <a href="javascript:void(0)" id="@((int)FixCategories.Events)" class="new_hot_@((int)FixCategories.Events)" onclick="show_news_hot(@((int)FixCategories.Events))">
+                <span>Sự kiện</span>
+            </a>
+            <a href="javascript:void(0)" id="@((int)FixCategories.News)" class="new_hot_@((int)FixCategories.News)" onclick="show_news_hot(@((int)FixCategories.News))">
+                <span>Tin tức</span>
+            </a>
+            <a href="javascript:void(0)" id="@((int)FixCategories.Recruitment)" class="new_hot_@((int)FixCategories.Recruitment)" onclick="show_news_hot(@((int)FixCategories.Recruitment))">
+                <span>Tuyển dụng</span>
+            </a>   
+        </p>      
+        <ul class="blo-news-ul" id="show_new_hot"></ul>        
+    </div>
+</div>   
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        var page = '';
+        if (page != 'news') {
+            $(".new_hot_all").addClass("active");
+        }
+        var page = '';
+        var pagram = "";
+        if (page != 'news') {
+            pagram = "all";
+        } else if (page == 'news') {
+            pagram = "all";
+        }
+        show_news_hot(pagram);
+    });
+    
+    function show_news_hot($div) {
+        $(".new_hot_all").removeClass("active");
+        var id = $(".new_hot_" + $div).attr('id');
+        if ($div == id) {
+            $('.title-news').find(".active").removeClass("active");
+            $(".new_hot_" + $div).addClass("active");
+        }
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("GetNewsByCategory", "Home")',
+            data: { category: id },
+            dataType: 'JSON',
+            beforeSend: function() {
+                var html = "<div id='loading' style='margin-left:90px;'><img width='100' src='/Images/themes/loading1.gif' /></div>";
+                setTimeout(function () {
+                    $('#show_new_hot').find("#loading").remove();
+                }, 20000);
+                $("#show_new_hot").html(html);
+            },
+            success: function(resultList) {
+                $('#show_new_hot').find("#loading").remove();
+                var n = resultList.Data.length;     
+                if (n > 0) {   
+                    $("#show_new_hot").html(resultList.Data);
+                } else {
+                    var html = "<li>Không có dữ liệu</li>";
+                    $("#show_new_hot").html(html);
+                }
+            }
+        });
+    }
+</script>

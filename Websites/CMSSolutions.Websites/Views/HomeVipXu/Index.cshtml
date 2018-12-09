@@ -1,0 +1,478 @@
+﻿@model CMSSolutions.Websites.Models.PaymentModel
+     
+<div class="profi-cat-left">
+    <ul class="profi-menu">
+        <li>
+            <a href="@Url.Action("VipXuInfo", "HomeVipXu")" class="@(Model.PageName == 0 ? "active" : string.Empty)">THÔNG TIN</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index", "HomeVipXu")" class="@(Model.PageName == 1 ? "active" : string.Empty)">Nạp VIP!</a>
+        </li>
+        <li>
+            <a href="@Url.Action("LogDoiXu", "HomeVipXu")" class="@(Model.PageName == 2 ? "active" : string.Empty)">Log đổi xu</a>
+        </li>
+        <li>
+            <a href="@Url.Action("LogNapVip", "HomeVipXu")" class="@(Model.PageName == 3 ? "active" : string.Empty)">Log nạp VIP</a>
+        </li>
+    </ul>  
+
+    <div id="page_index">
+         
+        <p class="title_type_payment">
+            <img src="/Images/themes/makhuyenmai_icon.png">
+            <strong class="orange_color title_type">MÃ KHUYẾN MÃI</strong>
+        </p>  
+        <form id="active-free-code">
+             <ul class="ul-pos-for" id="submit_code">
+                 <li class="li-pos-for" style="padding-left:210px;" id="active_redeem_li">
+                     <span class="span-pos-for">Mã khuyến mãi của bạn :</span>
+                     <input type="text" class="validate[required]" value="" id="txtFreeCode" name="txtFreeCode" style="margin-right:10px;width:130px;">
+                     <button class="see_a-bnt2" onclick="javascript: validateActiveFreeCode();" type="button" id="btnActiveCode">Kích hoạt</button>
+                 </li>
+             </ul>
+        </form>     
+
+        <p class="title_type_payment">
+            <img src="/Images/themes/SMS_icon.png"><strong class="orange_color title_type">NẠP QUA SMS</strong>
+        </p>
+        <div class="pm_sms_note">
+            <em>Hiện tại chỉ hỗ trợ cho mạng Mobifone, Vinaphone, Viettel, VietnamMobile</em>     
+        </div> 
+        <div class="pm_sms">
+            <div class="pm_sms_day orange_color">Hướng dẫn: </div> 
+            <div class="log-pur-group pm_w400">
+                <p>
+                    <strong class="orange_color">VIPXU HD</strong> gửi <strong class="orange_color">@((int)CMSSolutions.Websites.Extensions.ShortCode.DauSo8376)</strong> (3.000đ/SMS)
+                </p>
+            </div>
+        </div>
+        <div class="pm_sms">
+            <div class="pm_sms_day orange_color">VIP 1 ngày: </div> 
+            <div class="log-pur-group pm_w400">
+                <p>
+                    <strong class="orange_color">VIPXU @Model.CustomerCode</strong> gửi <strong class="orange_color">@((int)CMSSolutions.Websites.Extensions.ShortCode.DauSo8576)</strong> (5.000đ/SMS)
+                </p>
+            </div>
+        </div>
+        <div class="pm_sms">
+            <div class="pm_sms_day orange_color">VIP 3 ngày: </div> 
+            <div class="log-pur-group pm_w400">
+                <p>
+                    <strong class="orange_color">VIPXU @Model.CustomerCode</strong> gửi <strong class="orange_color">@((int)CMSSolutions.Websites.Extensions.ShortCode.DauSo8676)</strong> (10.000đ/SMS)
+                </p>
+            </div>
+        </div>
+        <div class="pm_sms">
+            <div class="pm_sms_day orange_color">VIP 5 ngày: </div>
+            <div class="log-pur-group pm_w400">
+                <p>
+                    <strong class="orange_color">VIPXU @Model.CustomerCode</strong> gửi <strong class="orange_color">@((int)CMSSolutions.Websites.Extensions.ShortCode.DauSo8776)</strong> (15.000đ/SMS)
+                </p>
+            </div>
+        </div>   
+
+        <div class="log-pur-group clear_both">
+            <p style="font-style:italic;">
+                Để kích hoạt lại <span id="qdg3hf_3" class="qdg3hf">tin</span> nhắn sai cú pháp, vui lòng nhập mã phản hồi từ tin nhắn của bạn.
+            </p>  
+            <form id="active-sms-code">
+                <ul class="ul-pos-for" id="submit_sms">
+                    <li class="li-pos-for" style="padding-left:140px;" id="active_sms_li">
+                        <span class="span-pos-for orange_color">Nhập mã giao dịch:</span>
+                        <input type="text" class="validate[required]" value="" id="TransactionCode" name="TransactionCode" style="margin-right:10px;width:130px;">
+                        <button class="see_a-bnt2" onclick="javascript: validateActiveSmsCode();" type="button">Kích hoạt</button>
+                    </li>
+                </ul> 
+            </form>
+        </div> 
+
+        <p class="title_type_payment">
+            <img src="/Images/themes/thecao_icon.png">
+            <strong class="orange_color title_type">Bước 1: NẠP QUA THẺ CÀO &amp; EPAY VNPT</strong>
+        </p>
+        <ul class="mh-donate-4tab">
+            <li>
+                <img width="238" height="148" src="/Images/themes/thecao.png" alt=" " id="pm_thecao">
+                <p style="line-height: 24px; font-size: 18px;" class="orange_color">Thẻ Cào ĐT &amp; Thẻ Game</p>
+            </li>
+            <li>
+                <img width="238" height="148" src="/Images/themes/EPAY VNPT.jpg" alt=" " id="pm_smartlink">
+                <p style="line-height: 24px; font-size: 18px;" class="orange_color">Thẻ ATM</p>
+            </li>
+        </ul>
+        <div style="display: none" class="mh-content-prod-text mh-donate-page pm_tc_sl_frame pm_tc_sl_thecao">
+            <p class="title_h1_st2">
+                <img width="12" height="10" style="vertical-align:middle;margin-right: 10px;" src="/Images/themes/btn-arr-install.png">Đổi VIPXU
+            </p>
+
+            <form id="card-form"> 
+                <ul class="ul-pos-for">
+                    <li class="li-pos-for">
+                        <span class="span-pos-for">Loại thẻ<label class="required">(*)</label></span>
+                        <div style="float:left" class="styled-select">
+                            <select id="CardTypes" name="CardTypes" onchange="change_CardTypes();">
+                                @if (Model != null && Model.ListCardTypes != null)
+                                {
+                                    foreach (var item in Model.ListCardTypes)
+                                    {
+                                        <option value="@item.Code">@item.Name</option>
+                                    }
+                                }
+                            </select>
+                        </div>
+                    </li>
+                    <li class="li-pos-for" id="serial">
+                        <span style="white-space:nowrap" class="span-pos-for">Số seri<label class="required">(*)</label></span>
+                        <input id="SeriNumber" name="SeriNumber" type="text"/>
+                    </li>
+                    <li class="li-pos-for">
+                        <span style="white-space:nowrap" class="span-pos-for">Mã thẻ cào<label class="required">(*)</label></span>
+                        <input id="PinCode" name="PinCode" type="text" class="validate[required]"/>
+                    </li>   
+                    <li class="li-pos-for">
+                        <span class="span-pos-for">Mã xác thực<label class="required">(*)</label></span>
+                        <input name="Captcha" id="Captcha" style="width: 140px" class="validate[required, maxSize[10]] capcha" type="text">
+                        <a href="javascript: getCapcha();" title="Đổi mã xác nhận">
+                            <img align="absmiddle" border="0" id="recaptcha" alt="Đổi mã xác nhận" title="Đổi mã xác nhận">
+                        </a>
+                        <a href="javascript: getCapcha();">
+                            <img width="14" height="15" src="/Images/themes/reload-cap.png">
+                        </a> 
+                    </li> 
+                    <li class="li-pos-for" id="buy_card">
+                        <button class="see_a-bnt2" type="button" id="btnSave" name="btnSave" onclick='javascript: validateCard();'>Xác nhận</button>
+                    </li>
+                </ul>
+            </form>     
+        </div>
+        <p class="pm_note">
+            <em>Lưu ý: Khi gặp sự cố vui lòng liên hệ 
+                <strong class="orange_color">hotro@viphd.vn</strong> để được hỗ trợ
+            </em>
+        </p>
+        <div style="display: none" class="mh-content-prod-text mh-donate-page pm_tc_sl_frame pm_tc_sl_smartlink">
+            <p class="title_h1_st2">
+                <img width="12" height="10" style="vertical-align:middle" src="/Images/themes/btn-arr-install.png">Nạp tiền qua hệ thống <span id="y0f2d_4" class="y0f2d">VNPT EPAY</span>
+            </p>   
+            <form id="payment-form">
+                <ul class="ul-pos-for">
+                    <li class="li-pos-for">
+                        <span class="span-pos-for">Số tiền<label class="required">(*)</label></span>
+                        <div class="styled-select">
+                            <select id="Amount" name="Amount">
+                                <option value="50000">50.000</option>
+                                <option value="100000">100.000</option>
+                                <option value="300000">300.000</option>  
+                                <option value="500000">500.000</option>  
+                                <option value="1000000">1.000.000</option>                   
+                            </select>
+                        </div>
+                    </li>   
+                    <li class="li-pos-for">
+                        <span class="span-pos-for">Ngân hàng<label class="required">(*)</label></span> 
+                        <div class="styled-select">
+                            <select class="form-control" id="BankCode" name="BankCode">
+                                @if (Model != null && Model.ListBankCards != null)
+                                {
+                                    foreach (var item in Model.ListBankCards)
+                                    {
+                                        <option value="@item.BankCode">@item.BankName</option>
+                                    }
+                                } 
+                            </select>
+                        </div>
+                    </li>
+                    <li class="li-pos-for">
+                        <span class="span-pos-for">Mã xác thực<label class="required">(*)</label></span>
+                        <input name="txtCaptcha" id="txtCaptcha" style="width: 140px" class="validate[required, maxSize[10]] capcha" type="text">
+                        <a href="javascript: getCapcha();" title="Đổi mã xác nhận">
+                            <img align="absmiddle" border="0" id="recaptcha2" alt="Đổi mã xác nhận" title="Đổi mã xác nhận">
+                        </a>
+                        <a href="javascript: getCapcha();">
+                            <img width="14" height="15" src="/Images/themes/reload-cap.png">
+                        </a> 
+                    </li>          
+                    <li class="li-pos-for" id="active_sml_li">
+                        <button type="button" class="see_a-bnt2" onclick='javascript: validateBank();'>Xác nhận</button>
+                    </li>
+                </ul>       
+            </form>    
+            <div style="float:left;width:148px;margin-right:20px;">
+                <p class="orange_color" style="font-size:18px;">Hỗ trợ thanh toán</p>
+                <br>
+                <p>
+                    <a href="javascript:void(0)">
+                        <img width="170" height="90" border="0" src="/Images/themes/EPAY VNPT.jpg" alt=" ">
+                    </a>
+                </p>
+            </div>
+            <div style="float:left;padding-left:30px;;border-left:solid 1px #CDCDCD;">
+                <img width="445" height="200" src="/Images/themes/list-banks.jpg">
+            </div>
+        </div>
+
+        <div>
+            <p style="clear: both; line-height: 24px; font-size: 18px;" class="orange_color">* Tỉ lệ quy đổi</p>
+            <table width="730" cellspacing="0" cellpadding="0" border="0" class="styled-table">
+                <tbody>
+                    <tr> 
+                        <th width="180" scope="row">Số tiền</th>
+                        <td valign="top" align="center">10.000</td>
+                        <td valign="top" align="center">20.000</td>
+                        <td valign="top" align="center">30.000</td>
+                        <td valign="top" align="center">50.000</td>
+                        <td valign="top" align="center">100.000</td>
+                        <td valign="top" align="center">200.000</td>
+                        <td valign="top" align="center">300.000</td>
+                        <td valign="top" align="center">500.000</td>
+                    </tr>
+                    <tr>
+                        <th width="180" scope="row">VIPXU</th> 
+                        <td valign="top" align="center">100</td>
+                        <td valign="top" align="center">200</td>
+                        <td valign="top" align="center">300</td>
+                        <td valign="top" align="center">500</td>
+                        <td valign="top" align="center">1.000</td>
+                        <td valign="top" align="center">2.000</td>
+                        <td valign="top" align="center">3.000</td>
+                        <td valign="top" align="center">5.000</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div> 
+
+        <div class="mh-content-prod-text mh-donate-page" id="tab2">
+            <div class="clear_with_border_bot w960_h20" style="margin-bottom:10px;"></div>
+            <p class="title_h1_st2">
+                <img width="12" height="10" style="vertical-align:middle" src="/Images/themes/btn-arr-install.png">Chọn gói VIP
+            </p>
+            <p>Bạn vui lòng chọn gói VIP (Đơn vị: VIPXU)</p>
+            <div class="slide_child_div_dt">
+                <a href="javascript:void(0)" onclick="javascript: doExchange(15, 200);" title="Bạn cần có 200 VIPXU để mua gói VIP (15 ngày)">
+                    <img class="img-size" src="/Images/themes/15day.png">
+                </a>
+            </div>
+            <div class="slide_child_div_dt">
+                <a href="javascript:void(0)" onclick="javascript: doExchange(50, 500);" title="Bạn cần có 500 VIPXU để mua gói VIP (50 ngày)">
+                    <img class="img-size" src="/Images/themes/50day.png">
+                </a>
+            </div>
+            <div class="slide_child_div_dt">
+                <a href="javascript:void(0)" onclick="javascript: doExchange(100, 1000);" title="Bạn cần có 1000 VIPXU để mua gói VIP (100 ngày)">
+                    <img class="img-size" src="/Images/themes/100day.png">
+                </a>
+            </div>
+            <div class="slide_child_div_dt">
+                <a href="javascript:void(0)" onclick="javascript: doExchange(300, 3000);" title="Bạn cần có 3000 VIPXU để mua gói VIP (300 ngày)">
+                    <img class="img-size" src="/Images/themes/300day.png">
+                </a>
+            </div>
+        </div> 
+    </div>
+</div>  
+
+<div id="messageConfirm" class="reveal-modal medium" style="top: 1033px; opacity: 1; visibility: visible;">
+    <form id="exchangeVipXu">
+        <div class="reveal-modal-cont">
+            <div class="reveal-modal-logo">
+                <img src="/Media/Default/Logo/Logonew.png" width="69" height="67">
+            </div>
+            <div class="reveal-modal-child">
+                <div class="reveal-modal-child">
+                    Bạn cần có <span id="showVipXu"></span> VIPXU để mua gói VIP (<span id="showDay"></span> ngày)     
+                    <input type="hidden" id="txtExchangeDay" name="txtExchangeDay" value="0"/>
+                </div>
+            </div>
+            <br class="clear_both">
+        </div>   
+        <div class="clear_both"></div>  
+        <div class="reveal-modal-child">
+            <div style="float:right; padding-top:15px">
+                <button onclick="javascript: savePayment();" type="button">Đồng ý</button>
+                <button onclick="$('.close-reveal-modal').click()" type="button">Hủy</button>
+            </div>
+        </div>
+        <a class="close-reveal-modal" style="display: none;">×</a>   
+    </form>
+</div>   
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#card-form").validationEngine();
+        $("#payment-form").validationEngine();
+        $("#active-free-code").validationEngine();
+        $("#active-sms-code").validationEngine();
+        
+        $("#pm_thecao").click(function () {
+            $("#pm_smartlink").removeClass("pm_img_active");
+            $("#pm_thecao").addClass("pm_img_active");
+            $(".pm_tc_sl_smartlink").css("display", "none");
+            $(".pm_tc_sl_thecao").css("display", "block");
+        });
+        $("#pm_smartlink").click(function () {
+            $("#pm_thecao").removeClass("pm_img_active");
+            $("#pm_smartlink").addClass("pm_img_active");
+            $(".pm_tc_sl_thecao").css("display", "none");
+            $(".pm_tc_sl_smartlink").css("display", "block");
+        });
+
+        var customerCode = '@Model.CustomerCode';
+        if (customerCode == '' || customerCode == null) {
+            dialogBox('#loginBox');
+        }
+        var url = '@Model.Url';
+        var status = '@Model.Status';
+        var messages = '@Html.Raw(Model.Messages)'; 
+        if (status != null && status != '' && status == 'True') {
+            window.showMessages(messages);
+            window.location.href = url;
+        }
+    });
+
+    function validateCard() {
+        var rt = $("#card-form").validationEngine('validate');
+        if (rt) {
+            window.showLoading("Vui lòng chờ hệ thống xử lý.");
+            var data = $("#card-form").find("input, select").serialize();
+            $.ajax({
+                url: '@Url.Action("CardPayment", "HomeVipXu")',
+                data: data,
+                type: 'POST',
+                dataType: 'json',
+                success: function (result) {
+                    window.closeLoading();
+                    window.showMessages(result.Data);
+                    if (result.Status == true) {
+                        window.getCapcha();
+                        window.location.href = url;
+                    }
+                },
+                error: function (request, status, error) {
+                    window.closeLoading();
+                    window.showMessages(request.responseText);
+                }
+            });
+        }
+    }
+
+    function validateActiveFreeCode() {
+        var rt = $("#active-free-code").validationEngine('validate');
+        if (rt) {
+            window.showLoading("Vui lòng chờ hệ thống xử lý.");
+            var data = $("#active-free-code").find("input").serialize();
+            $.ajax({
+                url: '@Url.Action("ActiveCode", "HomeVipXu")',
+                data: data,
+                type: 'POST',
+                dataType: 'json',
+                success: function (result) {
+                    window.closeLoading();
+                    window.showMessages(result.Data);
+                    if (result.Status == true) {  
+                        window.getCapcha();
+                        window.location.href = url;
+                    }
+                },
+                error: function (request, status, error) {
+                    window.closeLoading();
+                    window.showMessages(request.responseText);
+                }
+            });
+        }
+    }
+    
+    function validateActiveSmsCode() {
+        var rt = $("#active-sms-code").validationEngine('validate');
+        if (rt) {
+            window.showLoading("Vui lòng chờ hệ thống xử lý.");
+            var data = $("#active-sms-code").find("input").serialize();
+            $.ajax({
+                url: '@Url.Action("ActiveSmsCode", "HomeVipXu")',
+                data: data,
+                type: 'POST',
+                dataType: 'json',
+                success: function (result) {
+                    window.closeLoading();
+                    window.showMessages(result.Data);
+                    if (result.Status == true) {
+                        window.getCapcha();
+                        window.location.href = url;
+                    }
+                },
+                error: function (request, status, error) {
+                    window.closeLoading();
+                    window.showMessages(request.responseText);
+                }
+            });
+        }
+    }
+
+    function change_CardTypes() {
+        if ($("#CardTypes").val() == "MGC") {
+            $("#serial").hide();
+        }
+        else {
+            $("#serial").show();
+        }
+    }
+    
+    function validateBank() {
+        var rt = $("#payment-form").validationEngine('validate');
+        if (rt) {
+            window.showLoading("Vui lòng chờ hệ thống xử lý.");
+            var data = $("#payment-form").find("input, select").serialize();
+            $.ajax({
+                url: '@Url.Action("BankPayment", "HomeVipXu")',
+                data: data,
+                type: 'POST',
+                dataType: 'json',
+                success: function (result) {
+                    window.closeLoading();
+                    if (result.Status == true) {
+                        if (result.Url == null || result.Url == '') {
+                            window.showMessages("Bạn thông cảm chúng tôi đang tạm thời giới hạn chức năng này.");
+                        } else {
+                            window.location = result.Url;
+                        } 
+                    }
+                    else {
+                        window.showMessages(result.Data);
+                    }
+                },
+                error: function (request, status, error) {
+                    window.closeLoading();
+                    window.showMessages(request.responseText);
+                }
+            });
+        }
+    }
+      
+    function doExchange(number, vipxu) {
+        $("#showDay").text(number);
+        $("#txtExchangeDay").val(number);
+        $("#showVipXu").text(vipxu);
+        dialogBox('#messageConfirm');
+    }
+
+    function savePayment() {
+        $('#over, .reveal-modal').fadeOut(300, function () {
+            $('#over').remove();
+        });
+        window.showLoading("Vui lòng chờ hệ thống xử lý.");
+        var data = $("#exchangeVipXu").find("input").serialize();
+        $.ajax({
+            url: '@Url.Action("ExchangeDay", "HomeVipXu")',
+            data: data,
+            type: 'POST',
+            dataType: 'json',
+            success: function (result) {
+                window.closeLoading();
+                window.showMessages(result.Data);
+            },
+            error: function (request, status, error) {
+                window.closeLoading();
+                window.showMessages(request.responseText);
+            }
+        });
+    }
+</script> 

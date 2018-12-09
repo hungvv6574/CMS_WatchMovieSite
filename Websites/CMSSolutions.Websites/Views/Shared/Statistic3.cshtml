@@ -1,0 +1,99 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div class="list_category">
+    <h3 class="title_h1_st2">@Model.Title</h3>
+    <a href="javascript:void(0)" id="tab_show_date" onclick="show_status(1)" class="title_tabs_a active">NGÀY</a>
+    <a href="javascript:void(0)" id="tab_show_week" onclick="show_status(2)" class="title_tabs_a">TUẦN</a>
+    <a href="javascript:void(0)" id="tab_show_month" onclick="show_status(3)" class="title_tabs_a">THÁNG</a>
+    <div id="show_date" class="content_mCustomScrollbar_bo content_mCustomScrollbar list_category-sidebar"></div>
+    <div id="show_week" class="content_mCustomScrollbar_bo content_mCustomScrollbar list_category-sidebar"></div>
+    <div id="show_month" class="content_mCustomScrollbar_bo content_mCustomScrollbar list_category-sidebar"></div>
+    <br class="clear_both">               
+</div>       
+
+<script type="text/javascript">     
+    $(document).ready(function() {
+        $("#show_week").hide();
+        $("#show_month").hide();
+        showStatisticalShow('show_date', 1);
+        showStatisticalShow('show_week', 2);
+        showStatisticalShow('show_month', 3);
+        $(window).load(function () {
+            $("#show_date").mCustomScrollbar({
+                theme: "dark-thick",
+				scrollInertia:900,
+				scrollEasing:"easeOutQuint",
+				mouseWheel:true,
+				mouseWheelPixels: 500
+            });
+
+            $("#show_week").mCustomScrollbar({
+                theme: "dark-thick",
+				scrollInertia:900,
+				scrollEasing:"easeOutQuint",
+				mouseWheel:true,
+				mouseWheelPixels: 500
+            });
+            $("#show_month").mCustomScrollbar({
+                theme: "dark-thick",
+				scrollInertia:900,
+				scrollEasing:"easeOutQuint",
+				mouseWheel:true,
+				mouseWheelPixels: 500
+            });
+        }); 
+    });
+    
+    function show_status(id) {
+        if (id == 1) {
+            $("#tab_show_date").addClass("active");
+            $("#tab_show_week").removeClass("active");
+            $("#tab_show_month").removeClass("active");
+
+            $("#show_date").show();
+            $("#show_week").hide();
+            $("#show_month").hide();
+        } else if (id == 2) {
+            $("#tab_show_date").removeClass("active");
+            $("#tab_show_week").addClass("active");
+            $("#tab_show_month").removeClass("active");
+
+            $("#show_date").hide();
+            $("#show_week").show();
+            $("#show_month").hide();
+        } else if (id == 3) {
+            $("#tab_show_date").removeClass("active");
+            $("#tab_show_week").removeClass("active");
+            $("#tab_show_month").addClass("active");
+
+            $("#show_date").hide();
+            $("#show_week").hide();
+            $("#show_month").show();
+        }
+    }
+    
+    function showStatisticalShow(name, index) {
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("GetFilmByType", "Home")',
+            data: { type: '@Model.Type', statistical: index },
+            dataType: 'JSON',
+            beforeSend: function () {
+                var html = "<div id='loading' style='width: 100%;text-align: center;margin-top: 30%;'><img width='100' src='/Images/themes/loading1.gif' /></div>";
+                setTimeout(function () {
+                    $("#" + name).find("#loading").remove();
+                }, 20000);
+                $("#" + name).html(html);
+            },
+            success: function (resultList) {
+                $("#" + name).find("#loading").remove();
+                var n = resultList.Data.length;
+                if (n > 0) {
+                    $("#" + name).html(resultList.Data);
+                } else {
+                    var html = "<p>Không có dữ liệu</p>";
+                    $("#" + name).html(html);
+                }
+            }
+        });
+    }
+</script> 

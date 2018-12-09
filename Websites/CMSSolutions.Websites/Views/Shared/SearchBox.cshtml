@@ -1,0 +1,102 @@
+﻿@using CMSSolutions.Websites.Extensions
+<div class="search_box hidden-xs hidden-sm">
+    @using (Html.BeginForm("Index", "HomeSearch", FormMethod.Get, new {@id = "frmSearch"}))
+    {
+        <input type="text" class="sf" style="width: 200px;" id="keyword" name="keyword" placeholder="Nhập từ khóa tìm kiếm"/>
+        <input type="submit" id="btnSearch" class="sb" value="" />  
+    }
+</div>     
+<br class="clear_both">     
+           
+<script type="text/javascript">
+    var isSelected = false;
+    $(document).ready(function () {
+        $("#keyword").autocomplete({
+            source: function(request, response) {
+                var keyword = $("#keyword").val();
+                $.ajax({
+                    url: "@Url.Action("Search", "Home")",
+                    data: { 'keyword': keyword },
+                    type: 'POST',
+                    dataType: 'JSON',
+                    success: function(data) {
+                        response($.map(data, function(item) {
+                            return {
+                                label: item.Title + " (" + item.TitleEnglish + ")",
+                                value: item.Title,
+                                img: item.Images,
+                                url: "http://viphd.vn/xem-phim/" + item.Alias + "/f" + item.SearchId + ".html",
+                                //sumary: item.Sumary.substring(0, 80) + "..."
+                            };
+                        }));
+                    },
+                    error: function(ex, textStatus, errorThrown) {
+                        window.showMessages("Bộ tìm kiếm đang nâng cấp vui lòng thử lại sau.");
+                    }
+                });
+            },
+            minLength: 2,
+            select: function(event, ui) {
+                if (ui.item != null) {
+                    $('#keyword').val(ui.item.label);
+                }
+                isSelected = true;
+                return false;
+            },
+            change: function(event, ui) {
+                if (ui.item != null) {
+                    $('#keyword').val(ui.item.label);
+                }
+                isSelected = true;
+                return false;
+            },
+            open: function (e, ui) {
+                $(".ui-autocomplete").mCustomScrollbar({
+                    theme: "dark-thick",
+                    autoExpandScrollbar: true
+                });
+            },
+            close: function (e, ui) {
+                $(".ui-autocomplete").mCustomScrollbar("destroy");
+            }
+        });
+        
+        if ($("#keyword").data()) {
+            var ac = $("#keyword").data('ui-autocomplete');
+            if (ac) {
+                ac._renderItem = function (ul, item) {
+                    var source = item.label;
+                    var term = $("#keyword").val();
+                    term = term.replace(/(\s+)/, "(<[^>]+>)*$1(<[^>]+>)*");
+                    var pattern = new RegExp("(" + term + ")", "gi");
+                    source = source.replace(pattern, "<mark>$1</mark>");
+                    source = source.replace(/(<mark>[^<>]*)((<[^>]+>)+)([^<>]*<\/mark>)/, "$1</mark>$2<mark>$4");
+            
+                    return $("<li>").data("item.autocomplete", item)
+                        .append("<div class='show-search-result'><a href='" + item.url + "'><div class='search-result-img'><img width='60' height='80' src='" + item.img + "'></div><span>" + source + "</span><br/><div></a>")
+                        .appendTo(ul);
+                    
+                    //return $("<li>").data("item.autocomplete", item)
+                    //    .append("<div class='show-search-result'><a href='" + item.url + "'><div class='search-result-img'><img width='60' height='80' src='" + item.img + "'></div><span>" + source + "</span><br/><p style='color: #7C7E7F;'>" + item.sumary + "</p><div></a>")
+                    //    .appendTo(ul);
+                };
+            }
+        }
+
+        $("#btnSearch").click(function () {
+            if ($('#keyword').val() == '') {
+                return false;
+            }
+        });
+        
+        $("#keyword").keyup(function (e) {
+            if (e.which == 13) {
+                if ($('#keyword').val() == '') {
+                    return;
+                }
+
+                $("#frmSearch").submit();
+            }
+        });
+    });
+</script>

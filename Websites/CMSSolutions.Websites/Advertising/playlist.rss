@@ -1,0 +1,11 @@
+﻿<rss version="2.0" xmlns:jwplayer="http://rss.jwpcdn.com/">
+  <channel>  
+    <item>
+      <title>Sintel Trailer</title>
+      <description>Sintel is a fantasy CGI from the Blender Open Movie Project.</description>
+      <jwplayer:image>http://viphd.vn/Media/Default/BannerSlider/carrie.jpg</jwplayer:image>
+      <jwplayer:source file="rtmp://static-viphd.com:1683/vod/mp4:films/20150616/Deoksuri.5.2014/Deoksuri.5.2014.MP4" />
+      <jwplayer:track file="http://viphd.vn/Advertising/Fury.2014.BluRay.srt" label="Tiếng Việt" kind="captions" default="true" />
+    </item>
+  </channel>
+</rss>

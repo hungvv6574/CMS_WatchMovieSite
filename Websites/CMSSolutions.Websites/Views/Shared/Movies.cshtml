@@ -1,0 +1,135 @@
+﻿@using CMSSolutions.Websites.Extensions
+@model CMSSolutions.Websites.Models.DataViewerModel  
+<script type="text/javascript" src="/Scripts/jwplayer/jwplayer.js"></script>  
+<div class="banner_player" id="movefilm">
+     <div id="mediaplayer"></div>
+</div>  
+     
+@if (Model.FilmDetails != null)
+{
+    <input type="hidden" id="txtData" value="@Model.JwplayerKey"/>
+    <input type="hidden" id="txtData1" value="@Model.UrlSwitch"/>   
+    <input type="hidden" id="txtData2" value="@Model.FilmDetails.EncodeImageThumb"/>
+    <input type="hidden" id="txtData3" value="@Model.FilmDetails.EncodeSubtitle"/>
+    <input type="hidden" id="txtData4" value="@Model.DataType"/>
+    <input type="hidden" id="txtData5" value="@Model.Url"/>    
+    <input type="hidden" id="txtData6" value="@Model.Skin"/>
+    <input type="hidden" id="txtData7" value="@Model.AdvertisementsPath"/>
+
+    <script type="text/javascript">
+        var publish = $("#txtData").val();
+        var publish1 = $("#txtData1").val();
+        var publish2 = $("#txtData2").val();
+        var publish3 = $("#txtData3").val();
+        var publish4 = $("#txtData4").val();
+        var publish5 = $("#txtData5").val();
+        var publish6 = $("#txtData6").val();
+        var publish7 = $("#txtData7").val();
+        var customerCode = '@Model.CustomerCode';
+    </script> 
+    
+    if (Model.FilmDetails.IsClip)
+    {
+        <script type="text/javascript">
+            $(document).ready(function () {
+                if (customerCode == '' || customerCode == null) {
+                    dialogBox('#loginBox');
+                } else {
+                    playerMovie(publish, publish4, publish5, publish2, publish3, publish6, publish7);
+                }
+            });
+        </script>
+    }
+    else
+    {
+        <div class="banner_player" id="showbannerfilm">
+            <div class="banner_player_img">
+                <img alt="@Model.FilmDetails.FilmName" src="@Model.FilmDetails.ImageThumb">
+            </div>
+            <div style="z-index:999">    
+                <div class="info_film-div">
+                    <div class="info_film-img">
+                        <img alt="@Model.FilmDetails.FilmName" src="@Model.FilmDetails.ImageIcon">
+                    </div>
+                    <div class="info_film-show">
+                        <div itemprop="name">
+                            <h2 class="h2-en">@Model.FilmDetails.FilmNameEnglish</h2>
+                            <h2>@Model.FilmDetails.FilmName</h2>
+                        </div>
+                        <div class="content_mCustomScrollbar_4 content_mCustomScrollbar info_film-sidepalyer mCustomScrollbar _mCS_1" itemprop="description" style="height: 85%;">
+                            @Html.Raw(Model.FilmDetails.Contents)          
+                        </div>
+                        <div class="info_film-link">
+                            <span>Lượt xem: @Model.FilmDetails.ViewCount</span>  
+                            @if (!string.IsNullOrEmpty(Model.Url))
+                            {
+                                <span id="btn_xemngay2" class="btn_span">Trailer</span>
+                            }     
+                            @if (!string.IsNullOrEmpty(Model.UrlSwitch))
+                            {
+                                <span id="btn_xemngay" class="btn_span">Xem phim</span>
+                            }  
+                        </div>
+                    </div>
+                    <div class="info_film-dt">
+                        <div class="content_mCustomScrollbar_4 content_mCustomScrollbar info_film-cat_dt_film mCustomScrollbar _mCS_2">
+                            <div style="position:relative; height:100%; overflow:hidden; max-width:100%;">
+                                <div style="position: relative; top: 0px;">
+                                    <ul>
+                                        <li><span>Năm phát hành:</span> @Model.FilmDetails.ReleaseYear</li>
+                                        <li><span>Đánh giá phim:</span> @Model.FilmDetails.CommentCount</li>
+                                        <li><span>Đạo diễn:</span> <a href="#">@Model.FilmDetails.DirectorName</a></li>
+                                        <li><span>Diễn viên:</span> @Model.FilmDetails.ActorNames</li>
+                                        <li><span>Quốc gia:</span> <a href="#">@Model.FilmDetails.CountryName</a></li>
+                                        <li><span>Thể loại:</span> @Model.FilmDetails.FilmTypeNames</li>
+                                        <li><span>Upload bởi:</span> @Model.FilmDetails.FullName</li>
+                                        <li><span>Thời lượng:</span> @Model.FilmDetails.Time</li>
+                                    </ul>
+                                </div>
+                                <div class="mCSB_scrollTools" style="position: absolute; display: block;">
+                                    <div>
+                                        <div  style="position: absolute; height: 109px; top: 27px;" oncontextmenu="return false;">
+                                            <div style="position: relative; line-height: 109px;"></div>
+                                        </div>
+                                        <div class="mCSB_draggerRail"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clear_both"></div>
+                </div>
+            </div>      
+        </div>
+    
+        <script type="text/javascript">  
+            $(document).ready(function () {
+                $("#showbannerfilm").show();
+                $("#movefilm").hide();
+            });
+    
+            $("#btn_xemngay").click(function () {
+                if (customerCode == '' || customerCode == null) {
+                    dialogBox('#loginBox');
+                } else {
+                    $("#showbannerfilm").hide();
+                    $("#movefilm").show();
+                    playerMovie(publish, publish4, publish1, publish2, publish3, publish6, publish7);
+                }
+                
+            });
+
+            $("#btn_xemngay2").click(function () {
+                if (customerCode == '' || customerCode == null) {
+                    dialogBox('#loginBox');
+                } else {
+                    $("#showbannerfilm").hide();
+                    $("#movefilm").show();
+                    playerMovie(publish, '@((int)LinkType.Youtube)', publish5, publish2, publish3, publish6, publish7);
+                } 
+            });
+        </script> 
+    }    
+}                   
+
+<div class="clear_both"></div>    

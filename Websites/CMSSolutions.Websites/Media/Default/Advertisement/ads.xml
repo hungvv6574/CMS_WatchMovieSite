@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<vplugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ad>
+    <link>ads-child.xml</link>
+    <type>tags</type>
+    <id>pre-blueseed</id>
+    <click />
+    <duration>15</duration>
+    <position>0</position>
+    <skip>5</skip>
+  </Ad>
+  <Ad>
+    <link>ads-child.xml</link>
+    <type>tags</type>
+    <id>pre-blueseed</id>
+    <click />
+    <duration>15</duration>
+    <position>0</position>
+    <skip>5</skip>
+  </Ad>
+</vplugin>

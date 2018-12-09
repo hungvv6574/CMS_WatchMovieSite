@@ -1,0 +1,156 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div id="search" class="slider_box_sim">    
+    @Html.Raw(Model.Breadcrumb)  
+    <br class="clear_both">   
+    <form id="showSearch" action="@Url.Action("Index", "HomeClip", new { @alias = Model.CurrentCategory.Alias, @id = Model.CurrentCategory.Id })" method="GET">
+        <div class="menu_choose-sub">
+            <ul>
+                <li>
+                    <div class="styled-select">  
+                        <select id="theloaiphim" name="theloaiphim">
+                            <option value="0">Thể loại</option>     
+                            @foreach (var item in Model.ListFilmTypes)
+                            {
+                                if (item.Id == Model.SelectedFilmTypes)
+                                {
+                                    <option selected="selected" value="@item.Id">@item.Name</option>  
+                                    continue;
+                                }
+                                <option value="@item.Id">@item.Name</option>
+                            }   
+                        </select>
+                    </div>
+                </li>
+                <li>
+                    <div class="styled-select">
+                        <select id="sortOrder" name="sortOrder">
+                            @foreach (var item in Model.SearchOrderBy)
+                            {
+                                if (item.Value == Model.SelectedOrderBy)
+                                {
+                                    <option selected="selected" value="@item.Value">@item.Text</option>  
+                                    continue;
+                                }
+                                <option value="@item.Value">@item.Text</option>
+                            } 
+                        </select>
+                    </div>
+                </li>
+                <li>
+                    <a onclick="javascript: changeSort('@((int)CMSSolutions.Websites.Extensions.SearchSortBy.DESC)');" title="Giảm dần" class="btn_down @(Model.SelectedSortBy == 2 ? "active_down" : "")">Giảm dần</a>
+                </li>
+                <li>
+                    <a onclick="javascript: changeSort('@((int)CMSSolutions.Websites.Extensions.SearchSortBy.ASC)');" title="Tăng dần" class="btn_up @(Model.SelectedSortBy == 1 ? "active_down" : "")">Tăng dần</a>
+                </li>
+                <li>
+                    <a href="javascript: void(0);" onclick="javascript: clickFimlSearch();" class="btn_search">Tìm kiếm</a>
+                </li>
+            </ul>   
+            <input type="hidden" name="sortBy" id="sortBy" value="@Model.SelectedSortBy"/>
+        </div>  
+    </form>       
+
+    @if (Model.ListFilms != null && Model.ListFilms.Count > 0)
+    {
+        <div id="pagination">
+            <br class="clear_both">
+            <input id="totalPage" name="totalPage" value="@Model.TotalPage" type="hidden" />    
+            <div id="show-content1" class="content" style="margin-right: 10px;"></div>
+            <br class="clear_both">   
+            <div>  
+                <ul class="first-and-second-carousel jcarousel-skin-tango member-item">
+                    <li>  
+                        @for (int i = 0; i < Model.ListFilms.Count; i++)
+                        {
+                            var item = Model.ListFilms[i];
+                            var url = Url.Action("FilmView", "HomeView", new { alias = item.FilmAlias, id = item.Id });
+
+                            <div class="slide_childs item"> 
+                                <a href="@url" title="@item.FilmName">
+                                    <img src="@item.ImageIcon" alt="@item.FilmName" title="@item.FilmNameEnglish" />
+                                    <p class="title_film_child">    
+                                        <span class="orange_color">@item.FilmNameEnglish</span>      
+                                        <span>@item.FilmName</span>
+                                    </p>  
+                                </a>
+                                <div class="tooltip_description" style="display:none" title="Item @i Description">     
+                                    <a title="@item.FilmName" href="@url">@item.FilmName</a> 
+                                    <div class="film-info">
+                                        <span>Số tập: </span><label>@item.EpisodeCount</label><br />
+                                        <span>Thể loại phim: </span><label>@item.FilmTypeNames</label><br />
+                                        <span>Quốc gia: </span><label>@item.CountryName</label><br />
+                                        <span>Thời lượng: </span><label>@item.Time</label><br />
+                                        <span>Dung lượng: </span><label>@item.Capacity</label>
+                                        <div class="film-body">
+                                            <p>@item.Summary</p>    
+                                        </div>  
+                                    </div>
+                                </div>
+                            </div> 
+                        }  
+                    </li>  
+                </ul> 
+            </div>    
+            <br class="clear_both">
+            <div id="show-content2" class="content" style="margin-right: 10px;"></div>
+        </div>   
+          
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var pageIndex = '@Model.PageIndex';
+                $('#show-content1, #show-content2').bootpag({
+                    total: parseInt($("#totalPage").val()),
+                    page: parseInt(pageIndex),
+                    maxVisible: 5,
+                    leaps: true,
+                    firstLastUse: true,
+                    first: 'Đầu',
+                    last: 'Cuối',
+                    href: "?trang={{number}}",
+                    wrapClass: 'pagination',
+                    activeClass: 'active',
+                    disabledClass: 'disabled',
+                    nextClass: 'next',
+                    prevClass: 'prev',
+                    lastClass: 'last',
+                    firstClass: 'first'
+                });
+
+                $("#pagination .item").tooltip({
+                    'arrow_top_offset': 100,
+                    'opacity': 1,
+                    'dialog_content_selector': '.tooltip_description'
+                });
+            });
+        </script> 
+    }
+    else
+    {
+        <div class="list_category-child"> Không có dữ liệu </div>
+    }
+    <br class="clear_both">
+</div>  
+
+<script type="text/javascript">  
+    $(document).ready(function () {
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+    });
+    function changeSort(status) {
+        $("#sortBy").val(status);
+        if (status == 1) {
+            $(".btn_down").addClass("active_down");
+            $(".btn_up").removeClass("active_down");
+        }
+
+        if (status == 2) {
+            $(".btn_down").removeClass("active_down");
+            $(".btn_up").addClass("active_down");
+        }
+        $("#showSearch").submit();
+    }
+
+    function clickFimlSearch() {
+        $("#showSearch").submit();
+    }
+</script>

@@ -1,0 +1,50 @@
+﻿@using CMSSolutions.Websites.Extensions
+@{
+    Style.IncludeBootstrap();
+    Style.IncludeJQueryUI();
+    Style.IncludeJQueryValidate();
+    Style.IncludeFancyBox();
+    Style.IncludeThemes();
+    
+    Script.IncludeJQuery();
+    Script.IncludeBootstrap();
+    Script.IncludeJQueryValidate();
+    Script.IncludeFancyBox();
+    Script.IncludeThemes();
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+
+    @RenderMetas()
+    @RenderStyles()
+    @RenderHeadScripts()
+
+</head>
+<body>
+    <div id="divWrapContent">
+        @Display(WorkContext.Layout.Content)
+    </div>
+
+    @RenderFootScripts()
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var height = $("#divWrapContent").height();
+            var viewPortHeight = $(window).height() - 50;
+            if (height > viewPortHeight) {
+                height = viewPortHeight;
+            } else {
+                if (height > viewPortHeight) {
+                    height = viewPortHeight;
+                }
+            }
+            
+            parent.top.$.fancybox.current.height = height;
+            parent.top.$.fancybox.update();
+        });
+    </script>
+</body>
+</html>

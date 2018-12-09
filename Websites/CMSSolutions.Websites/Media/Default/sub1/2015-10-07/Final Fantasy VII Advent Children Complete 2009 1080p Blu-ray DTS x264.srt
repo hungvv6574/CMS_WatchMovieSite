@@ -1,0 +1,3382 @@
+﻿1
+00:00:01,668 --> 00:00:04,728
+Gởi những ai đã từng yêu thương thế giới này...
+
+2
+00:00:04,938 --> 00:00:07,736
+...và đã từng chung vai sát cánh vì nó:
+
+3
+00:00:07,941 --> 00:00:12,844
+Một lần nữa hãy cùng hợp sức lại.
+
+4
+00:01:30,792 --> 00:01:36,008
+498 Năm Trước
+
+5
+00:01:37,022 --> 00:01:38,590
+Tại sao loài người lại phiền phức thế nhỉ?
+
+6
+00:01:40,512 --> 00:01:43,718
+Các người vứt bỏ đi mọi thứ gây dựng, để rồi làm lại từ đầu.
+
+7
+00:01:44,290 --> 00:01:47,207
+Như thể điều đó sẽ tạo nên một sự khác biệt cuối cùng.
+
+8
+00:01:51,988 --> 00:01:55,037
+Tôi cứ nghĩ rằng chúng tôi đều không muốn đối mặt với quá khứ không tốt của mình,
+
+9
+00:01:55,768 --> 00:01:58,345
+Chúng tôi thà bỏ đi quá khứ.
+
+10
+00:01:58,755 --> 00:02:03,037
+Để tìm thấy thứ gì đó giá trị trong đống tàn tích và
+xây dựng tương lai mới với những thứ đó.
+
+11
+00:02:04,217 --> 00:02:06,421
+Và đó là lí do vì sao anh lại dấu " Người " đúng không?
+
+12
+00:02:07,582 --> 00:02:08,599
+Để bỏ đi quá khứ?
+
+13
+00:02:11,496 --> 00:02:14,952
+Chúng tôi cố giải thoát mình khỏi một vấn đề nghiêm trọng hơn.
+
+14
+00:02:16,293 --> 00:02:18,445
+Ý anh không phải là căng bệnh đó chứ?
+
+15
+00:02:19,273 --> 00:02:22,481
+Nhưng chính các người đã mang nó đến nơi đây trước tiên .
+
+16
+00:02:24,267 --> 00:02:25,514
+Tôi biết.
+
+17
+00:02:25,990 --> 00:02:30,570
+Tôi đoán ông đúng thật là người có trí nhớ kém quá đấy.
+
+18
+00:02:31,915 --> 00:02:34,301
+Không , Không phải tôi.
+
+19
+00:02:35,207 --> 00:02:37,711
+Anh thấy đấy , Tôi đơn giản chỉ phải quên đi nó.
+
+20
+00:02:50,928 --> 00:02:52,588
+2 tuần trước.
+
+21
+00:02:53,013 --> 00:02:55,938
+<i>Tseng! Coi này.</i>
+
+22
+00:02:56,122 --> 00:02:56,749
+<i>Hm?</i>
+
+23
+00:02:59,708 --> 00:03:01,300
+<i>Là khoáng chất.</i>
+
+24
+00:03:02,111 --> 00:03:04,375
+<i>Không phải là một dấu hiệu tốt nhỉ?</i>
+
+25
+00:03:05,547 --> 00:03:07,538
+Ai thèm quan tâm chứ?
+Chỉ là cái thứ vớ vẩn .
+
+26
+00:03:07,750 --> 00:03:09,445
+<i>Reno, Trực thăng.</i>
+
+27
+00:03:10,219 --> 00:03:11,777
+Có ngay đây.
+
+28
+00:03:27,661 --> 00:03:29,322
+<i>Whoa!</i>
+
+29
+00:03:29,530 --> 00:03:31,521
+<i>Reno, Nhanh lên!</i>
+
+30
+00:03:33,634 --> 00:03:34,931
+<i>Reno!</i>
+
+31
+00:03:35,135 --> 00:03:37,365
+<i>Bọn quái nào thế ?</i>
+
+32
+00:03:41,909 --> 00:03:43,501
+<i>Elena!</i>
+
+33
+00:03:45,045 --> 00:03:46,842
+<i>Đi thôi! Ra khỏi đây mau!</i>
+
+34
+00:03:54,699 --> 00:03:56,004
+<i>Tseng!</i>
+
+35
+00:04:09,035 --> 00:04:11,520
+<i>Cuối cùng anh cũng sẽ đưa bà ấy trở lại.</i>
+
+36
+00:04:41,655 --> 00:04:43,452
+<i>Lifestream</i>
+
+37
+00:04:43,657 --> 00:04:47,616
+<i>Là cái bao quanh hành tinh này mà chúng tôi gọi là dòng chảy sinh mệnh...</i>
+
+38
+00:04:47,828 --> 00:04:52,765
+<i>... mang sự sống đến mọi thứ trên thế giới này</i>
+
+39
+00:04:54,134 --> 00:04:57,467
+<i>Tập đoàn năng lượng Shinra đã tìm ra cách...</i>
+
+40
+00:04:57,671 --> 00:05:01,505
+<i>... dùng Lifestream
+như một nguồn năng lượng</i>
+
+41
+00:05:01,708 --> 00:05:07,510
+<i>Nhờ có nguồn năng lượng của Shinra, chúng tôi đã có thể sống một cách rất thoải mái</i>
+
+42
+00:05:07,714 --> 00:05:11,775
+<i>nhưng phải chăng chúng tôi đã lấy dần đi sự sống của hành tinh này?</i>
+
+43
+00:05:11,985 --> 00:05:15,216
+<i>Rất nhiều người đã nghĩ như thế.</i>
+
+44
+00:05:16,456 --> 00:05:22,884
+<i>Shinra đã dùng sức mạnh của mình để ngăn cản bất cứ kẻ nào cản lối của họ</i>
+
+45
+00:05:24,197 --> 00:05:29,260
+<i>Shinra thành lập một nhóm những chiến binh đặc biệt được gọi là SOLDIER.</i>
+
+46
+00:05:30,070 --> 00:05:33,164
+<i>Và tất cả thành viên của SOLDIER đều được cấy tế bào của Jenova </i>
+
+47
+00:05:33,373 --> 00:05:36,740
+<i>Rất lâu trước đây, Jenova là một thảm hoạ rơi xuống trái đất</i>
+
+48
+00:05:36,943 --> 00:05:41,242
+<i>... và đã cố gắng phá huỷ đi hành tinh này</i>
+
+49
+00:05:41,815 --> 00:05:44,682
+<i>Nhưng có một thành viên của SOLDIER
+tên là Sephiroth...</i>
+
+50
+00:05:44,885 --> 00:05:48,013
+<i>... hắn mạnh nhất trong số những chiến binh.</i>
+
+51
+00:05:48,221 --> 00:05:52,817
+<i>Nhưng khi hắn nhận ra rằng hắn được tạo ra từ những thí nghiệm khủng khiếp...</i>
+
+52
+00:05:53,026 --> 00:05:56,291
+<i>... hắn bắt đầu căm thù ShinRa.</i>
+
+53
+00:05:56,496 --> 00:06:01,433
+<i>Và sau đó, qua thời gian,
+hắn bắt đầu căm ghét mọi thứ.</i>
+
+54
+00:06:04,658 --> 00:06:09,061
+<i>ShinRa và những thành viên khác cố gắng ngăn cản hắn.</i>
+
+55
+00:06:09,262 --> 00:06:11,230
+<i>Sephiroth, là kẻ ghét hành tinh này nhiều đến nỗi...</i>
+
+56
+00:06:11,431 --> 00:06:15,162
+<i>... hắn muốn làm cho nó biến mất mãi mãi</i>
+
+57
+00:06:15,368 --> 00:06:18,166
+<i>Và mọi người đã cố gắng ngăn hắn làm điều đó.</i>
+
+58
+00:06:18,805 --> 00:06:21,672
+<i>Đã có rất nhiều cuộc chiến diễn ra.</i>
+
+59
+00:06:22,709 --> 00:06:27,169
+<i>Mỗi cuộc chiến như thế diễn ra,
+chỉ mang lại nhiều nỗi buồn hơn.</i>
+
+60
+00:06:27,380 --> 00:06:33,012
+<i>Cũng như một người nào đó ta yêu được trở lại với dòng sông sự sống.</i>
+
+61
+00:06:34,554 --> 00:06:37,148
+<i>Và rồi điều gì đến cũng phải đến.</i>
+
+62
+00:06:37,357 --> 00:06:40,086
+<i>Ngày định mệnh.</i>
+
+63
+00:06:40,292 --> 00:06:45,500
+<i>Cuối cùng, Tự bản thân hành tinh này cũng tham gia vào trận chiến để dành lại những điều đẹp đẽ
+vốn có .</i>
+
+64
+00:06:45,501 --> 00:06:49,932
+<i>Nó đã dùng Lifestream
+như một thứ vũ khí...</i>
+
+65
+00:06:50,136 --> 00:06:53,299
+<i>... và khi nó tuôn trào ra khỏi mặt đất...</i>
+
+66
+00:06:53,506 --> 00:06:57,340
+<i>... tất cả những cuộc chiến,
+tất cả những tham vọng cùng nỗi đau thương...</i>
+
+67
+00:06:57,544 --> 00:07:00,479
+<i>... mọi thứ đều bị cuốn trôi đi.</i>
+
+68
+00:07:05,867 --> 00:07:09,826
+<i>"Đau thương là cái giá phải trả cho sự kết thúc "</i>
+
+69
+00:07:10,038 --> 00:07:13,565
+<i>Đã 2 năm trôi qua kể từ ngày họ kể tôi nghe điều đó</i>
+
+70
+00:07:13,566 --> 00:08:02,099
+<i>Đi nào, đi nào.</i>
+
+71
+00:08:02,823 --> 00:08:05,330
+Whoa.
+
+72
+00:08:11,323 --> 00:08:12,537
+Chị ơi ,ta đi thôi.
+
+73
+00:08:15,360 --> 00:08:16,960
+Này, các cháu chạy đâu thế?
+
+74
+00:08:34,016 --> 00:08:40,979
+<i>Nhưng có vẻ như hành tinh này giận dữ hơn điều ta đã nghĩ.</i>
+
+75
+00:08:46,650 --> 00:08:48,980
+<i>Họ gọi đó Geostigma.</i>
+
+76
+00:08:52,990 --> 00:08:54,690
+Marlene này?
+
+77
+00:08:54,950 --> 00:08:56,240
+Nó trông thế nào vậy?
+
+78
+00:08:59,830 --> 00:09:01,240
+Làm ơn...
+
+79
+00:09:01,890 --> 00:09:04,560
+...Làm ơn đừng mang Denzel đi.
+
+80
+00:09:12,380 --> 00:09:15,760
+Sáng nay, theo báo cáo của uỷ ban thành phố đã cho thấy rằng,
+
+81
+00:09:15,880 --> 00:09:20,260
+sự tập trung của dòng  Lifestream trên bầu khí quyển đã tụt xuống mức 100 cách đây 2 năm.
+
+82
+00:09:20,430 --> 00:09:24,220
+và gây tác động xấu đến con người
+
+83
+00:09:24,520 --> 00:09:26,100
+Ngoài ra đám khí độc xung quanh Trụ sở chính của tập đoàn Shindra
+
+84
+00:09:27,040 --> 00:09:29,600
+cũng như các lò phản ứng của công ty Mako
+Anh ấy không còn ở đây nữa.
+
+85
+00:09:30,030 --> 00:09:32,420
+để ngăn cản sự tấn công của Geostigma
+
+86
+00:09:32,570 --> 00:09:34,100
+Uỷ ban khuyên bạn 
+
+87
+00:09:34,280 --> 00:09:37,780
+không nên tới gần trụ sở chính và lò phản ững
+
+88
+00:09:38,910 --> 00:09:43,120
+Phần tiếp theo. Liệu Shinra có thể gánh được tránh nhiệm về tài chính đang gặp khủng hoảng hay không?
+
+89
+00:09:45,540 --> 00:09:46,910
+Cloud...
+
+90
+00:09:47,290 --> 00:09:49,040
+anh đang ở đâu?
+
+91
+00:10:01,640 --> 00:10:03,720
+Xin chào ,Dịch Vụ Giao Hàng Strike xin nghe nghe.
+
+92
+00:10:03,760 --> 00:10:05,300
+Bạn đặt hàng, chúng tôi chuyển...
+
+93
+00:10:07,310 --> 00:10:09,140
+Tôi có thể hỏi ai đang gọi được không ạ?
+
+94
+00:10:14,820 --> 00:10:16,820
+Vâng, em nhớ anh chứ.
+
+95
+00:10:38,090 --> 00:10:40,430
+<i>Bạn nhận được cuộc gọi từ Reno.
+Anh ta đang ở Healin.</i>
+
+96
+00:10:40,510 --> 00:10:42,260
+<i>anh ta nói có việc cho anh đấy.</i>
+
+97
+00:10:42,510 --> 00:10:45,010
+<i>Cloud,giờ anh sao rồi?</i>
+
+98
+00:10:45,680 --> 00:10:48,020
+<i>Bạn không có thêm tin nhắn nào .</i>
+
+99
+00:11:57,010 --> 00:12:00,760
+Này, Kadaj?
+Đó có phải là nơi anh ấy sống không?
+
+100
+00:12:01,920 --> 00:12:02,760
+Ừ.
+
+101
+00:12:03,340 --> 00:12:05,840
+Em có nghĩ anh ấy vui khi gặp chúng ta không?
+
+102
+00:12:05,970 --> 00:12:06,830
+Không có chuyện đó đâu.
+
+103
+00:12:07,100 --> 00:12:08,890
+Đừng có khóc chứ , Yazoo.
+
+104
+00:12:09,680 --> 00:12:12,020
+Nhưng " Người " có ở với anh ấy không?
+
+105
+00:12:13,390 --> 00:12:15,020
+Có lẽ không.
+
+106
+00:12:15,690 --> 00:12:17,060
+Thôi nào, đừng khóc, Loz.
+
+107
+00:12:23,610 --> 00:12:25,700
+Chờ đã nào, hắn đến rồi kìa.
+
+108
+00:13:05,320 --> 00:13:07,070
+" Người " ở đâu?
+
+109
+00:13:11,660 --> 00:13:13,450
+Chúng tôi biết anh đã dấu bà ấy , người anh em.
+
+110
+00:13:22,840 --> 00:13:25,630
+Đừng có nói với ta là ngươi đang đang dẫn bọn ta đến đó nhé??
+
+111
+00:13:26,010 --> 00:13:28,260
+Vì ta nghĩ ngươi có " Người " ở đó.
+
+112
+00:13:29,260 --> 00:13:31,190
+Không cần quát lên thế.
+
+113
+00:13:32,890 --> 00:13:35,020
+Ta không muốn nói chuyện với ngươi nữa .
+
+114
+00:13:36,440 --> 00:13:38,140
+Đưa máy cho ông ta đi.
+
+115
+00:15:02,230 --> 00:15:04,270
+Có lẽ mình không thể qua khỏi.
+
+116
+00:15:08,650 --> 00:15:12,360
+<i>Sao thế anh bạn ngố, là tôi, Barret đây!</i>
+
+117
+00:15:12,450 --> 00:15:15,140
+<i> Dầu , Cloud ạ!
+Tôi vừa mới khám phá ra một mỏ dầu lớn chưa từng thấy luôn ! </i>
+
+118
+00:15:15,250 --> 00:15:18,790
+ Công việc cũng gần xong rồi, tôi sẽ rời khỏi đó và sớm về nhà gặp lại Marlene thôi 
+
+119
+00:15:18,830 --> 00:15:20,960
+cậu nói cho nó biết nhé ,được chứ ,anh chàng khó tính.
+
+120
+00:15:24,920 --> 00:15:26,150
+Reno vừa gọi lại.
+
+121
+00:15:27,340 --> 00:15:29,090
+Anh ta bảo có chuyện khẩn cấp, và nghe giọng có vẻ lạ lắm...
+
+122
+00:15:29,670 --> 00:15:33,430
+Cẩn thận nhé, được chứ.
+
+123
+00:16:00,000 --> 00:16:02,240
+Được rồi.
+
+124
+00:16:02,790 --> 00:16:04,670
+Anh giỏi lắm.
+
+125
+00:16:13,930 --> 00:16:15,840
+Trông bảnh lắm đó Rude.
+
+126
+00:16:24,210 --> 00:16:27,480
+Tốt, cậu vẫn chiến đấu như một SOLDIER ngày nào.
+
+127
+00:16:35,950 --> 00:16:38,160
+Cậu vẫn chưa mất đi kĩ năng của mình.
+
+128
+00:16:45,170 --> 00:16:46,870
+Rufus Shinra?
+
+129
+00:16:48,210 --> 00:16:49,630
+Tôi có nên cảm thấy thương hại ông không nhỉ?
+
+130
+00:16:54,910 --> 00:16:56,070
+Trong vụ nổ đó...
+
+131
+00:16:56,090 --> 00:16:57,130
+Ông muốn gì ở tôi
+
+132
+00:16:57,180 --> 00:16:57,970
+Tôi đã thoát được ra khỏi đó...
+
+133
+00:16:58,010 --> 00:16:59,180
+Những kẻ đã tấn công tôi là ai?
+
+134
+00:16:59,180 --> 00:16:59,370
+trước khi nó đổ sập...
+Những kẻ đã tấn công tôi là ai?
+
+135
+00:16:59,370 --> 00:16:59,680
+trước khi nó đổ sập...
+
+136
+00:16:59,680 --> 00:17:00,550
+Tôi đi đây!
+trước khi nó đổ sập...
+
+137
+00:17:00,550 --> 00:17:00,720
+Tôi đi đây!
+
+138
+00:17:04,020 --> 00:17:06,020
+Chúng tôi cần sự trợ giúp của cậu, Cloud ạ.
+
+139
+00:17:06,150 --> 00:17:07,070
+Tôi không có hứng thú.
+
+140
+00:17:07,070 --> 00:17:07,270
+Tôi biết tập đoàn Shinra nợ hành tinh này quá nhiều.
+Tôi không có hứng thú.
+
+141
+00:17:07,270 --> 00:17:11,690
+Tôi biết tập đoàn Shinra nợ hành tinh này quá nhiều.
+
+142
+00:17:12,070 --> 00:17:15,150
+Chính tôi và tập đoàn của mình...
+
+143
+00:17:15,240 --> 00:17:18,240
+...là những kẻ đã đặt thế giới này vào tình trạng đáng tiếc như thế.
+
+144
+00:17:18,490 --> 00:17:22,410
+Vì việc đó nên trách nhiệm của tôi là phải thiết lập lại mọi thứ về với trật tự vốn có.
+
+145
+00:17:22,490 --> 00:17:23,580
+Tôi vẫn còn ở ngoài đấy nhé!
+
+146
+00:17:23,750 --> 00:17:25,580
+Và trước tiên.
+
+147
+00:17:25,870 --> 00:17:29,500
+là tổ chức một cuộc điều tra về sự thức tỉnh của Sephiroth.
+
+148
+00:17:30,670 --> 00:17:32,170
+Đã 2 năm trôi qua...
+
+149
+00:17:32,460 --> 00:17:37,090
+...giờ đây nhân loại lại phải đối mặt với một hiểm hoạ khác. Nó là gì chứ?
+
+150
+00:17:38,510 --> 00:17:44,100
+À, đó là điều khá dễ đoán...là Geostigma.
+
+151
+00:17:44,930 --> 00:17:49,770
+...và chúng tôi có lý do để tin rằng chính Sephiroth là người chịu trách nhiệm về việc này.
+
+152
+00:17:51,400 --> 00:17:55,070
+Người dân đổ trách nhiệm cho năng lượng Mako..
+
+153
+00:17:55,150 --> 00:17:59,280
+..lò phản ứng Mako, cho rằng Lifestream là nguyên nhân gây ra căn bệnh này.
+
+154
+00:17:59,660 --> 00:18:02,410
+Tuy nhiên, phải chăng trách nhiệm đó đã đặt sai chỗ?
+
+155
+00:18:02,620 --> 00:18:05,750
+Lifestream đã cùng tồn tại với hành tinh này trong một khoảng thời gian dài.
+
+156
+00:18:05,830 --> 00:18:09,960
+Ngay cả năng lượng Mako cũng là một phần của cuộc sống chúng ta trong 40 năm qua.
+
+157
+00:18:10,210 --> 00:18:11,920
+Và còn nữa..
+
+158
+00:18:12,000 --> 00:18:15,300
+Không có ghi nhận nào nói về Geostigma trong lịch sử.
+
+159
+00:18:16,130 --> 00:18:17,130
+Cho nên..
+
+160
+00:18:17,470 --> 00:18:21,140
+Cái gì đã xảy ra làm biến đổi hoàn toàn những điều đó trong suốt thời gian qua?
+
+161
+00:18:21,550 --> 00:18:23,930
+Tôi chỉ có thể nghĩ đến một điều.
+
+162
+00:18:24,680 --> 00:18:26,310
+Đó là sự trỗi dậy của Sephiroth.
+
+163
+00:18:26,480 --> 00:18:27,600
+Sephiroth đã chết.
+
+164
+00:18:27,680 --> 00:18:29,810
+Đúng vậy, nhưng còn linh hồn của hắn thì sao?
+
+165
+00:18:30,520 --> 00:18:33,250
+Điều gì sẽ xảy ra nếu bằng cách nào đó hắn hoà mình vào dòng chảy sinh mệnh ...
+
+166
+00:18:33,420 --> 00:18:36,480
+..cùng tuôn chảy theo hành tinh này?
+
+167
+00:18:38,360 --> 00:18:42,320
+Tôi biết, đó đơn thuần là sự suy đoán của tôi thôi.
+
+168
+00:18:42,450 --> 00:18:45,490
+Nhưng khả năng đó vẫn có thể xảy ra ,đúng không?
+
+169
+00:18:45,990 --> 00:18:49,620
+Và chúng ta không thể chữa được căn bệnh này cho đến khi chúng ta biết được sự thật.
+
+170
+00:18:50,500 --> 00:18:52,500
+Cho nên chúng tôi đã hành động.
+
+171
+00:18:52,630 --> 00:18:55,670
+chúng tôi đã tìm kiếm các dấu vết của Sephiroth.
+
+172
+00:18:55,920 --> 00:18:57,170
+Chúng tôi đã đến đó.
+
+173
+00:18:58,590 --> 00:19:00,170
+Cậu biết nơi đó chứ?
+
+174
+00:19:00,260 --> 00:19:02,430
+Tại Miệng Núi Lửa Phía Bắc ( Northern Crater ).
+
+175
+00:19:02,850 --> 00:19:04,430
+Và cậu nghĩ chúng tôi đã tìm được gì chứ?
+
+176
+00:19:05,850 --> 00:19:07,310
+Bình tĩnh nào.
+
+177
+00:19:07,850 --> 00:19:10,350
+Chúng tôi chẳng tìm được gì cả.
+
+178
+00:19:12,190 --> 00:19:15,360
+Tuy nhiên, kế hoạch không suôn sẻ như dự đoán.
+
+179
+00:19:16,400 --> 00:19:17,690
+Chúng tôi bị...
+
+180
+00:19:18,030 --> 00:19:19,860
+...ngăn cản bởi..
+
+181
+00:19:21,410 --> 00:19:22,700
+Chạy đi!
+
+182
+00:19:31,210 --> 00:19:32,156
+<i>Tseng!</i>
+
+183
+00:19:34,790 --> 00:19:36,380
+Kadaj và đồng bọn của hắn.
+
+184
+00:19:37,840 --> 00:19:39,210
+Kadaj?
+
+185
+00:19:39,340 --> 00:19:41,880
+Chúng cũng đang theo dõi cậu đấy.
+
+186
+00:19:42,050 --> 00:19:44,050
+Nếu bọn chúng đã tìm ra được cậu.
+
+187
+00:19:44,180 --> 00:19:45,390
+Hãy để tôi yên.
+
+188
+00:19:45,510 --> 00:19:47,880
+Đừng nghĩ rằng anh có thể giữ được bí mật với chúng tôi.
+
+189
+00:19:48,020 --> 00:19:48,850
+Oh.
+
+190
+00:19:49,390 --> 00:19:53,900
+Sợi dây ràng buộc giữa Sephiroth với anh cũng chặt như với chúng tôi, Cloud ạ.
+
+191
+00:19:54,560 --> 00:19:59,650
+Những gì Kadaj đã làm là những thứ cần thiết để chuẩn bị cho "thời khắc" ấy.
+
+192
+00:19:59,740 --> 00:20:02,820
+Chúng ta là mối đe doạ đang ngăn cản bước đi của hắn.
+
+193
+00:20:03,160 --> 00:20:04,410
+"Thời khắc" ư?
+
+194
+00:20:06,120 --> 00:20:07,740
+Sephiroth...
+
+195
+00:20:09,580 --> 00:20:10,580
+...hồi sinh.
+
+196
+00:20:10,700 --> 00:20:11,870
+Ông nói xong chưa?
+
+197
+00:20:11,960 --> 00:20:14,040
+Tóm lại là
+
+198
+00:20:14,670 --> 00:20:19,420
+Để chiến đấu lại bọn Kadaj, chúng tôi cần cậu gia nhập đội.
+
+199
+00:20:20,050 --> 00:20:24,760
+Liệu cậu có tham gia cùng chúng tôi không? Cựu thành viên của SOLDIER, Cloud?
+
+200
+00:20:26,720 --> 00:20:28,050
+chỉ còn là những kỉ niệm thôi.
+
+201
+00:20:32,100 --> 00:20:35,900
+" Người " là cái thứ vớ vẩn gì thế?
+
+202
+00:20:36,020 --> 00:20:37,230
+Tại sao cậu hỏi vậy?
+
+203
+00:20:37,900 --> 00:20:40,190
+Kadaj có đề cập đến chuyện gì ư?
+
+204
+00:20:40,440 --> 00:20:41,780
+Rufus.
+
+205
+00:20:42,610 --> 00:20:44,280
+Ông đang che dấu chuyện gì đó đúng không?
+
+206
+00:20:45,070 --> 00:20:48,910
+Tôi không bao giờ giữ bí mật cả, nhất là với bằng hữu.
+
+207
+00:20:50,330 --> 00:20:53,870
+Anh chắc rất muốn biết nhiều hơn về căn bệnh đúng không?
+
+208
+00:20:54,330 --> 00:20:57,120
+Nhất là vì số phận những đứa trẻ mồ côi đang sống ở nhà cậu.
+
+209
+00:20:59,290 --> 00:21:03,130
+Chắc chắn cậu sẽ rất thích khi nhìn thấy nụ cười trở lại trên gương mặt chúng.
+
+210
+00:21:03,590 --> 00:21:09,720
+Cuối cùng tất cả những điều chúng tôi muốn là xây dựng lại thế giới này, Cloud ạ!
+
+211
+00:21:18,560 --> 00:21:19,150
+Nhưng tôi.
+
+212
+00:21:19,270 --> 00:21:24,110
+Thôi nào Cloud. Nghĩ kĩ đi. Chúng ta có thể cùng nhau xây dựng lại Shindra.
+
+213
+00:21:25,650 --> 00:21:27,150
+Tôi không hứng thú.
+
+214
+00:21:27,990 --> 00:21:28,990
+-Reno!
+-Ôi Reno!
+
+215
+00:21:52,720 --> 00:21:55,020
+Anh Cloud sống ở đây hả chị?
+
+216
+00:21:55,680 --> 00:21:57,020
+Chị đoán thế.
+
+217
+00:22:05,690 --> 00:22:06,650
+Cái gì đây chị?
+
+218
+00:22:26,170 --> 00:22:29,720
+Nó giống như của Denzel vậy, anh Cloud cũng mắc bệnh hả chị?
+
+219
+00:22:31,800 --> 00:22:33,300
+Tại sao anh ấy lại không nói gì chứ?
+
+220
+00:22:33,390 --> 00:22:35,890
+Anh ấy bỏ đi vì anh ấy biết mình bị bệnh ư?
+
+221
+00:22:36,180 --> 00:22:38,350
+Anh ấy chỉ muốn...chiến đấu một mình thôi.
+
+222
+00:22:38,440 --> 00:22:39,310
+Chiến đấu?
+
+223
+00:22:39,390 --> 00:22:40,230
+Không phải.
+
+224
+00:22:43,320 --> 00:22:45,070
+Chị không nghĩ anh ấy sẽ..
+
+225
+00:22:45,900 --> 00:22:46,980
+chị Tifa?
+
+226
+00:22:50,110 --> 00:22:51,070
+Về nhà nào, Marlene.
+
+227
+00:22:53,870 --> 00:22:55,910
+Ko được, anh Cloud vẫn chưa về đây?
+
+228
+00:23:00,500 --> 00:23:01,580
+Chị biết mà cưng.
+
+229
+00:23:05,250 --> 00:23:06,380
+Chị cũng nhớ anh ấy.
+Yeah!
+
+230
+00:23:08,130 --> 00:23:10,930
+Vậy chúng ta chờ anh ấy về nhé.
+
+231
+00:23:11,180 --> 00:23:12,760
+Rồi tất cả chúng ta sẽ cùng về nhà!
+
+232
+00:23:13,260 --> 00:23:16,137
+Vẫn chưa đến khi anh ấy nhận được một bài học.
+
+233
+00:23:16,137 --> 00:23:16,680
+À há!
+Vẫn chưa đến khi anh ấy nhận được một bài học.
+
+234
+00:23:16,680 --> 00:23:17,866
+À há!
+
+235
+00:23:21,060 --> 00:23:23,770
+Bây giờ chúng ta chỉ phải tìm được Elena và thủ lĩnh.
+
+236
+00:23:26,610 --> 00:23:28,440
+Những công nhân khác có cho cậu biết được điều gì không?
+
+237
+00:23:28,570 --> 00:23:30,070
+Không, vẫn chẳng có gì.
+
+238
+00:23:35,450 --> 00:23:39,620
+Ai có thể ngờ, các công nhân cũ của Shinra đã quay trở lại làm việc
+
+239
+00:23:40,120 --> 00:23:41,620
+Đó mới là sự cống hiến
+
+240
+00:23:41,750 --> 00:23:44,290
+Tớ bảo cậu thế nào chúng ta cũng bắt đầu thuận lợi mà.
+
+241
+00:23:45,000 --> 00:23:48,630
+Uhm, chúng ta những kẻ còn sống sót phải chuộc lại lỗi lầm cho điều đó.
+
+242
+00:23:51,170 --> 00:23:53,130
+Đã 2 năm rồi nhỉ.
+
+243
+00:23:55,220 --> 00:23:57,760
+Nó dường như còn dài hơn thế ấy chứ.
+
+244
+00:23:59,470 --> 00:24:01,310
+Đúng là một cơn ác mộng, nhỉ?
+
+245
+00:24:01,770 --> 00:24:04,230
+Thế giới cũng sắp tàn rồi.
+
+246
+00:24:04,480 --> 00:24:06,610
+Và chúng ta cũng là một phần của nó.
+
+247
+00:24:09,480 --> 00:24:10,820
+Nghĩ kĩ lại..
+
+248
+00:24:10,940 --> 00:24:13,320
+Chúng ta cần phải chuộc lại lỗi lầm đó như thế nào ?
+
+249
+00:24:14,780 --> 00:24:17,660
+Càng tệ hơn là thủ lĩnh không có mặt ở đây.
+
+250
+00:24:19,330 --> 00:24:20,580
+Elena nữa
+
+251
+00:24:24,330 --> 00:24:26,170
+Hi vọng họ còn sống.
+
+252
+00:24:26,330 --> 00:24:27,630
+Chắc chắn họ còn sống.
+
+253
+00:24:28,250 --> 00:24:30,340
+Tseng cũng giống như ngài chủ tịch vậy.
+
+254
+00:24:30,840 --> 00:24:32,470
+Họ luôn vượt qua được những nguy hiểm
+
+255
+00:24:33,180 --> 00:24:34,680
+Chắc chắn như vậy ,cậu biết đấy.
+
+256
+00:24:35,050 --> 00:24:36,470
+Cậu nói đúng đấy!
+
+257
+00:24:45,190 --> 00:24:47,100
+Tìm thấy ngươi rồi
+
+258
+00:24:59,200 --> 00:25:00,660
+Nhà thờ ư?
+
+259
+00:25:03,290 --> 00:25:05,370
+Ừm ,em biết chỗ đố
+
+260
+00:25:06,290 --> 00:25:08,290
+Em sẽ chờ ở đó.
+
+261
+00:26:36,800 --> 00:26:40,550
+Số điện thoại bạn vừa gọi tới Sector 7 hiện không liên lạc được.
+
+262
+00:26:41,890 --> 00:26:45,640
+Số điện thoại bạn vừa gọi tới Sector 7 hiện không liên lạc được.
+
+263
+00:26:46,980 --> 00:26:50,810
+Số điện thoại bạn vừa gọi tới Sector 7 hiện không liên lạc được
+
+264
+00:26:52,060 --> 00:26:55,940
+Số điện thoại bạn vừa gọi tới Sector 7 hiện không liên lạc được
+
+265
+00:26:57,190 --> 00:27:00,990
+Số điện thoại bạn vừa gọi tới Sector 7 hiện không liên lạc được
+
+266
+00:27:36,150 --> 00:27:37,110
+Cloud?
+
+267
+00:27:37,230 --> 00:27:39,530
+Thật ngạc nhiên? Anh chưa bao giờ gọi điện cả.
+
+268
+00:27:39,860 --> 00:27:41,200
+Có gì không ổn à.
+
+269
+00:27:44,280 --> 00:27:45,320
+Cloud?
+
+270
+00:27:46,530 --> 00:27:47,950
+Em không phải..
+
+271
+00:27:48,910 --> 00:27:52,210
+Thế em là ai vậy, tại sao có điện thoại của Cloud?
+
+272
+00:27:52,830 --> 00:27:54,210
+Em không biết.
+
+273
+00:27:54,880 --> 00:27:56,130
+Em là ai thế?
+
+274
+00:27:57,670 --> 00:27:59,050
+Em không biết
+
+275
+00:27:59,380 --> 00:28:03,550
+Em không biết. làm ơn, em không biết mình đang làm gì, em không làm chuyện này.
+
+276
+00:28:06,220 --> 00:28:08,720
+Này, em đang khóc đấy à?
+
+277
+00:28:17,100 --> 00:28:19,360
+Này, em không sao chứ?
+
+278
+00:28:20,220 --> 00:28:22,520
+Cloud! Cloud , anh có ở đó không?
+
+279
+00:28:30,080 --> 00:28:31,080
+Này.
+
+280
+00:28:37,210 --> 00:28:38,340
+Em không sao chứ?
+
+281
+00:29:14,020 --> 00:29:14,500
+Ê này!
+
+282
+00:29:21,880 --> 00:29:23,960
+Ta rất ghét những kẻ dối trá.
+
+283
+00:29:24,220 --> 00:29:27,470
+Tôi xin lỗi.
+Lần này cậu sẽ có được sự thật.
+
+284
+00:29:27,720 --> 00:29:29,720
+Vật cậu tìm đã rớt khỏi trực thăng...
+
+285
+00:29:29,850 --> 00:29:31,760
+Khi chúng tôi chạy trốn sự truy đuổi của cậu.
+
+286
+00:29:32,270 --> 00:29:34,140
+Chúng tôi rất tiếc vì đã bất cẩn.
+
+287
+00:29:35,190 --> 00:29:37,140
+Thật thế chứ?
+
+288
+00:29:37,690 --> 00:29:39,100
+Tôi thề.
+
+289
+00:29:41,020 --> 00:29:43,320
+được thôi.Vậy hãy thề trước chúng đi.
+
+290
+00:29:50,530 --> 00:29:51,830
+Tại sao cậu lại làm thế?
+
+291
+00:29:51,990 --> 00:29:54,300
+Ta cần sức mạnh của " Người ".
+
+292
+00:29:54,440 --> 00:29:58,670
+Ngày hợp nhất đang đến gần, và bọn ta cần bà ấy.
+
+293
+00:29:59,540 --> 00:30:00,670
+Hợp Nhất ư?
+
+294
+00:30:01,250 --> 00:30:04,670
+Anh chị em của ta, những người mang trong mình tế bào của "Người", sẽ hợp nhất lại.
+
+295
+00:30:04,960 --> 00:30:07,340
+Và cùng nhau , chúng ta sẽ trả thù hành tinh này.
+
+296
+00:30:07,930 --> 00:30:10,510
+Chúng ta đã gửi thư mời đến tất cả
+
+297
+00:30:11,260 --> 00:30:15,930
+Nhưng..ngươi biết đấy, một số người đã từ bỏ hay trốn tránh khỏi lời mời danh dự đó
+
+298
+00:30:16,100 --> 00:30:17,140
+Thư mời?
+
+299
+00:30:17,980 --> 00:30:19,100
+Là căn bệnh đó
+
+300
+00:30:19,940 --> 00:30:22,270
+Nhưng ngươi cũng biết hết rồi mà
+
+301
+00:30:23,110 --> 00:30:24,780
+Phần còn lại của " Người "
+
+302
+00:30:24,860 --> 00:30:27,530
+đã hòa trộn vào dòng Lifestream và tạo nên căn bệnh đó.
+
+303
+00:30:28,280 --> 00:30:30,860
+Bà ấy làm quá nhiều điều cho bọn ta
+
+304
+00:30:31,370 --> 00:30:33,370
+mà bọn ta đến giờ vẫn chưa biết được phải tìm bà ấy ở đâu
+
+305
+00:30:35,330 --> 00:30:37,020
+Nhưng bọn ta có thể làm được gì chứ
+
+306
+00:30:39,210 --> 00:30:41,960
+khi bọn ta chỉ là phần còn sót lại của " Người ".
+
+307
+00:30:42,090 --> 00:30:45,170
+Cho đến khi bọn ta tìm được " Người " và nhận được tế bào của bà ấy
+
+308
+00:30:45,260 --> 00:30:47,130
+Thì bọn ta đã không phân tán như bây giờ.
+
+309
+00:30:47,970 --> 00:30:50,880
+Geostigma và phần còn lại của bà ấy vẫn chưa đủ.
+
+310
+00:30:51,160 --> 00:30:54,220
+vẫn chưa đủ cho sự hợp nhất hoàn toàn.
+
+311
+00:30:54,390 --> 00:30:55,560
+ý cậu là gì?
+
+312
+00:30:57,730 --> 00:31:02,060
+Ông...chắc cũng đã nhận được sự cảnh báo rồi nhỉ ?
+
+313
+00:31:38,800 --> 00:31:40,350
+ồ, xin lỗi nhé.
+
+314
+00:31:43,060 --> 00:31:44,940
+Geostigma!
+
+315
+00:31:50,040 --> 00:32:20,120
+Các người không thể sống yên ở trong nhà được sao hả ?
+
+316
+00:32:38,585 --> 00:32:40,678
+Tôi đã nói tôi sẽ sống cuộc sống của hai chúng ta.
+
+317
+00:32:42,556 --> 00:32:43,040
+Đúng là nói dễ hơn làm nhỉ.
+
+318
+00:32:43,040 --> 00:32:44,820
+Ờờ...
+Đúng là nói dễ hơn làm nhỉ.
+
+319
+00:32:44,820 --> 00:32:45,170
+Ờờ...
+
+320
+00:32:45,500 --> 00:32:48,500
+Vạy cậu muốn gia nhập vào lực lượng SOLDIER sao? Chờ đấy nhé!
+
+321
+00:32:48,590 --> 00:32:50,250
+Ê này, cậu ổn chứ?
+
+322
+00:32:50,340 --> 00:32:53,760
+À này, cậu sẽ làm gì khi chúng ta đến Midgar thế?
+
+323
+00:32:54,180 --> 00:32:56,430
+Chúng ta là bạn mà, đúng không?
+
+324
+00:33:04,310 --> 00:33:06,520
+Ông tài xế, dừng lại sau phiến đá kia đi.
+
+325
+00:33:06,810 --> 00:33:08,650
+Cloud, chúng ta ra khỏi đây thôi!
+
+326
+00:33:12,070 --> 00:33:14,620
+Niềm tự hào của tôi, giấc mơ của tôi.
+
+327
+00:33:15,910 --> 00:33:17,700
+Giờ nó là của cậu đấy.
+
+328
+00:33:18,560 --> 00:33:19,950
+Cậu sẽ là
+
+329
+00:33:22,040 --> 00:33:24,120
+Là một phần cuộc sống của tôi.
+
+330
+00:33:26,359 --> 00:33:27,130
+Tôi đã thề...
+
+331
+00:33:27,130 --> 00:33:27,582
+Tôi sẽ không bao giờ quên.
+Tôi đã thề...
+
+332
+00:33:27,582 --> 00:33:30,500
+Tôi sẽ không bao giờ quên.
+
+333
+00:33:31,710 --> 00:33:32,670
+Tôi đã cố.
+
+334
+00:33:33,630 --> 00:33:34,720
+nhưng tôi.
+
+335
+00:33:42,060 --> 00:33:44,310
+Đừng giả vờ đau khổ nữa.
+
+336
+00:33:45,940 --> 00:33:49,060
+Tại sao lại sợ hãi khi mà sự căm giận còn chưa xuất hiện
+
+337
+00:33:50,330 --> 00:33:52,190
+Hãy đối mặt với nó, Cloud à.
+
+338
+00:33:53,020 --> 00:33:54,790
+Cuối cùng thì
+
+339
+00:33:56,240 --> 00:33:57,820
+ngươi cũng chỉ là một con rối vô giá trị thôi.
+
+340
+00:34:25,350 --> 00:34:26,850
+Muốn chơi với ta không?
+
+341
+00:34:30,610 --> 00:34:32,270
+Ta đoán chắc là không.
+
+342
+00:34:34,980 --> 00:34:36,280
+" Người " đâu rồi?
+
+343
+00:34:44,830 --> 00:34:45,790
+Hôi quá.
+
+344
+00:34:47,960 --> 00:34:49,460
+Ê này! " Người " đang ở đâu?
+
+345
+00:34:49,540 --> 00:34:50,920
+Chẳng có ai ở đây cả.
+
+346
+00:34:52,590 --> 00:34:55,210
+Được thôi. Vậy chơi với ta nào.
+
+347
+00:35:09,140 --> 00:35:10,890
+Ha, cái này sẽ vui đây.
+
+348
+00:36:27,050 --> 00:36:28,050
+Chị Tifa.
+
+349
+00:36:56,830 --> 00:36:58,840
+Bà ấy không có ở đây.
+
+350
+00:37:00,590 --> 00:37:01,920
+Anh không có khóc!
+
+351
+00:37:03,970 --> 00:37:04,880
+Ok, hiểu rồi.
+
+352
+00:37:05,430 --> 00:37:06,590
+Mang con nhóc theo hả.
+
+353
+00:37:11,395 --> 00:37:12,919
+Chúng ta ở đâu thế này?
+
+354
+00:38:11,990 --> 00:38:12,660
+Cloud...
+
+355
+00:38:14,200 --> 00:38:14,830
+Chạy đi.
+
+356
+00:38:33,260 --> 00:38:35,680
+Mình xin lỗi về chuyện lúc nãy.
+
+357
+00:38:37,200 --> 00:38:37,850
+Không sao mà.
+
+358
+00:38:37,850 --> 00:38:38,940
+Cảm ơn nhé.
+Không sao mà.
+
+359
+00:38:38,940 --> 00:38:46,940
+Không sao mà.
+
+360
+00:38:47,360 --> 00:38:48,530
+Em trai mình.
+
+361
+00:38:50,950 --> 00:38:52,620
+Nó đã mất.
+
+362
+00:38:54,910 --> 00:38:56,200
+Mình hiểu rồi.
+
+363
+00:38:57,410 --> 00:39:00,370
+Này, tớ biết cậu cũng mắc bệnh.
+
+364
+00:39:01,540 --> 00:39:03,290
+Đi thôi, họ sẽ chữa cho chúng ta.
+
+365
+00:40:07,980 --> 00:40:09,110
+Anh về trễ.
+
+366
+00:40:09,440 --> 00:40:10,780
+Ai đã làm chuyện này?
+
+367
+00:40:13,240 --> 00:40:14,910
+Hắn không có nói.
+
+368
+00:40:16,363 --> 00:40:17,955
+Marlene?!
+
+369
+00:40:26,630 --> 00:40:27,460
+Khốn kiếp
+
+370
+00:41:37,990 --> 00:41:40,030
+Anh biết không, anh nặng quá đấy.
+
+371
+00:41:40,700 --> 00:41:44,040
+Không phải có vài đứa nhỏ sống cùng với anh à?
+
+372
+00:41:44,500 --> 00:41:46,040
+Chẳng có đứa nào ở đây cả.
+
+373
+00:41:50,340 --> 00:41:51,540
+Ngươi không quan tâm đến chúng à.
+
+374
+00:41:55,170 --> 00:41:56,050
+Tôi chỉ...
+
+375
+00:42:06,780 --> 00:42:08,560
+ÀÀàà.. anh đúng là một gã khó chịu đấy.
+
+376
+00:42:22,080 --> 00:42:24,580
+Tifa bảo anh mang em về nhà, nhóc ạ.
+
+377
+00:42:27,250 --> 00:42:28,250
+Bám chặt vào.
+
+378
+00:43:03,830 --> 00:43:05,740
+Vậy ai sẽ chữa cho chúng ta thế?
+
+379
+00:43:09,120 --> 00:43:10,040
+Mình không biết
+
+380
+00:43:13,170 --> 00:43:16,750
+Không sao cả, dù sao cũng chẳng thay đổi được gì.
+
+381
+00:43:35,480 --> 00:43:37,900
+Coi thứ anh ta giấu kìa.
+
+382
+00:43:40,280 --> 00:43:43,320
+Nguồn năng lược hình thành từ dòng Lifestream.
+
+383
+00:43:46,370 --> 00:43:51,160
+Những viên Material này sẽ cho chúng ta một sức mạnh mới.
+
+384
+00:43:53,500 --> 00:43:54,040
+Vậy đó là những món quà của " Người " cho chúng ta đúng không?
+
+385
+00:43:54,040 --> 00:43:57,095
+Có phải chúng là những món quà từ Người?
+Vậy đó là những món quà của " Người " cho chúng ta đúng không?
+
+386
+00:43:57,095 --> 00:43:57,500
+Có phải chúng là những món quà từ Người?
+Anh nói đúng rồi đấy.
+
+387
+00:43:57,500 --> 00:43:57,670
+Anh nói đúng rồi đấy.
+
+388
+00:43:57,670 --> 00:43:59,111
+Có lẽ vậy
+Anh nói đúng rồi đấy.
+
+389
+00:43:59,111 --> 00:43:59,670
+Có lẽ vậy
+
+390
+00:43:59,969 --> 00:44:02,473
+Vậy anh ta cũng giấu cả " Người " luôn à?
+
+391
+00:44:03,340 --> 00:44:05,800
+Không, là mấy tên ở Shinra cơ.
+
+392
+00:44:06,430 --> 00:44:10,810
+Che giấu bí mật là sở trường của bọn Shinra mà.
+
+393
+00:44:12,060 --> 00:44:16,110
+Vậy ta sẽ kiểm tra bất kì nơi nào, bất kì việc gì có liên quan đến Shindra.
+
+394
+00:44:16,520 --> 00:44:20,530
+Sớm muộn gì, chúng ta cũng sẽ được giúp đỡ.
+
+395
+00:44:21,320 --> 00:44:23,780
+Ôi em trai, anh không thể chờ thêm được nữa.
+
+396
+00:44:25,620 --> 00:44:27,160
+Nhưng trước tiên.
+
+397
+00:44:28,200 --> 00:44:30,540
+Chúng ta cần phải nói chuyện với anh ấy.
+
+398
+00:44:31,410 --> 00:44:34,460
+Hắn giả vờ như không phải là một thành viên trong gia đình chúng ta.
+
+399
+00:44:35,420 --> 00:44:38,130
+Hắn làm ta thất vọng quá.
+
+400
+00:44:46,550 --> 00:44:47,510
+Đúng thế!
+
+401
+00:45:08,580 --> 00:45:10,410
+Renod và Rude đang tìm bọn trẻ.
+
+402
+00:45:15,920 --> 00:45:19,670
+Anh cũng bị Geostima, đúng không?
+
+403
+00:45:21,170 --> 00:45:24,340
+Và anh nghĩ chẳng sao khi mình bỏ cuộc và chết. Đúng không?
+
+404
+00:45:29,510 --> 00:45:30,760
+Thì ra là thế.
+
+405
+00:45:31,770 --> 00:45:33,430
+Không có thuốc chữa đâu.
+
+406
+00:45:33,980 --> 00:45:36,770
+Nhưng điều đó cũng không chặn được quyết tâm của Denzel, phải không?
+
+407
+00:45:37,440 --> 00:45:39,610
+Đừng chạy trốn, ta hãy cùng nhau chống chọi với nó.
+
+408
+00:45:39,770 --> 00:45:42,360
+Ta có thể giúp đỡ lẫn nhau, em biết chúng ta có thể.
+
+409
+00:45:46,200 --> 00:45:49,280
+Em nghĩ có lẽ điều đó chỉ được thực hiện bởi một gia đình thực sự.
+
+410
+00:45:49,450 --> 00:45:50,620
+Tifa..
+
+411
+00:45:52,330 --> 00:45:54,620
+Anh không thể giúp được gì cho ai nữa.
+
+412
+00:45:55,750 --> 00:45:58,960
+Cả gia đình anh, bạn bè anh...
+
+413
+00:45:59,630 --> 00:46:00,790
+Không ai cả.
+
+414
+00:46:03,317 --> 00:46:05,217
+Dilly-dally, shilly-shally...
+
+415
+00:46:10,157 --> 00:46:12,751
+Dilly-dally, shilly-shally...
+
+416
+00:46:13,810 --> 00:46:16,480
+Tôi nghĩ cô ấy muốn anh hãy tiến lên, anh bạn.
+
+417
+00:46:16,980 --> 00:46:17,880
+Anh có tìm thấy chúng không?
+
+418
+00:46:18,165 --> 00:46:20,531
+Không, chỉ có một manh mối duy nhất.
+
+419
+00:46:20,734 --> 00:46:23,362
+Bọn Kadaj đã đưa bọn nhỏ đi.
+
+420
+00:46:24,150 --> 00:46:25,320
+Bọn chúng đang ở đâu?
+
+421
+00:46:25,400 --> 00:46:27,110
+Đang ở căn cứ của bọn chúng
+
+422
+00:46:28,490 --> 00:46:29,320
+Thành Phố Bị Lãng Quên.  
+
+423
+00:46:43,210 --> 00:46:47,840
+" Người " đã ban cho ta một món quà đặc biệt.
+
+424
+00:46:48,340 --> 00:46:50,340
+Sức mạnh để chiến đấu.
+
+425
+00:46:51,080 --> 00:46:53,680
+Chống lại hành tinh chỉ mang lại đau khổ cho loài người.
+
+426
+00:46:57,140 --> 00:47:00,850
+Bà ấy gửi món quà này tới tất cả những hậu duệ của người.
+
+427
+00:47:01,860 --> 00:47:02,940
+Đúng vậy.
+
+428
+00:47:04,360 --> 00:47:06,690
+Ta và các em là đồng loại của nhau.
+
+429
+00:47:07,740 --> 00:47:08,982
+Số phận định đoạt chúng ta là anh em của nhau...
+
+430
+00:47:08,982 --> 00:47:09,320
+...Khi chúng ta thừa hưởng sức mạnh của bà tuôn chảy trong dòng Lifestream.
+Số phận định đoạt chúng ta là anh em của nhau...
+
+431
+00:47:09,320 --> 00:47:13,112
+...Khi chúng ta thừa hưởng sức mạnh của bà tuôn chảy trong dòng Lifestream.
+
+432
+00:47:15,290 --> 00:47:15,990
+Nhưng.
+
+433
+00:47:18,160 --> 00:47:20,710
+Hành tinh này không thích chuyện đó.
+
+434
+00:47:21,960 --> 00:47:25,000
+Tất cả những điều nó làm chỉ để giữ chúng ta lại.
+
+435
+00:47:26,210 --> 00:47:31,220
+Đó là lý do tại sao chúng ta phải chịu sự đau đớn, trong tim chúng ta chứa đầy sự ngờ vực.
+
+436
+00:47:34,050 --> 00:47:35,890
+Giờ thì, ta sẽ chữa lành cho các em.
+
+437
+00:47:36,890 --> 00:47:39,390
+Và chúng ta sẽ cùng nhau đi gặp " Người ".
+
+438
+00:47:39,770 --> 00:47:44,190
+Rồi chúng ta liên kết lại như một gia đình, và chiến đấu chống lại hành tinh này!
+
+439
+00:47:49,110 --> 00:47:50,740
+Hãy làm như ta bảo.
+
+440
+00:48:37,950 --> 00:48:39,200
+Denzel
+
+441
+00:48:43,540 --> 00:48:44,620
+Denzel!
+
+442
+00:48:56,850 --> 00:48:58,140
+" Người " có thấy không?
+
+443
+00:48:59,260 --> 00:49:01,970
+Tất cả những người anh em mới của con.
+
+444
+00:49:03,600 --> 00:49:05,980
+Họ sẽ trở thành cánh tay của con.
+
+445
+00:49:06,100 --> 00:49:08,150
+Cho đến khi con tìm được Người
+
+446
+00:49:47,440 --> 00:49:48,650
+Anh đã đến.
+
+447
+00:49:51,230 --> 00:49:54,280
+Mặc dù trông anh rất mệt mỏi, huh?
+
+448
+00:49:55,650 --> 00:49:57,200
+Đó là một dấu hiệu tốt.
+
+449
+00:49:59,200 --> 00:50:00,450
+Vậy...
+
+450
+00:50:01,450 --> 00:50:03,370
+...tại sao anh lại đến đây?
+
+451
+00:50:05,620 --> 00:50:09,210
+Anh nghĩ...có lẽ anh muốn được tha thứ.
+
+452
+00:50:10,540 --> 00:50:13,500
+Hơn bất cứ việc gì.
+
+453
+00:50:14,970 --> 00:50:16,220
+Bởi ai chứ?
+
+454
+00:51:06,220 --> 00:51:07,430
+Ta rất vui khi thấy điều ngươi làm đấy.
+
+455
+00:51:07,810 --> 00:51:09,190
+Ta đến chỉ vì bọn trẻ.
+
+456
+00:51:09,390 --> 00:51:12,691
+Các em thấy gã này không. Đó là anh cả của chúng ta đấy.
+
+457
+00:51:12,691 --> 00:51:12,770
+Nhưng cuối cùng thì...
+Các em thấy gã này không. Đó là anh cả của chúng ta đấy.
+
+458
+00:51:12,770 --> 00:51:14,420
+Nhưng cuối cùng thì...
+
+459
+00:51:15,628 --> 00:51:17,858
+Trong số các tín đồ hạnh phúc chúng ta...
+
+460
+00:51:19,610 --> 00:51:21,700
+Hắn là cái người ta gọi là sự xỉ nhục.
+
+461
+00:51:24,950 --> 00:51:26,240
+Anh Cloud.
+
+462
+00:53:45,840 --> 00:53:48,430
+Thấy rồi chứ? Tôi biết tôi không giúp ích được gì cả.
+
+463
+00:53:49,720 --> 00:53:52,350
+Vincent, anh biết gì về chuyện này không?
+
+464
+00:53:54,640 --> 00:53:56,230
+Tôi thường hay đến đây.
+
+465
+00:53:58,940 --> 00:54:01,400
+Và thấy những gì bọn Kadaj đang làm.
+
+466
+00:54:03,240 --> 00:54:04,610
+Căn bệnh đó.
+
+467
+00:54:08,990 --> 00:54:10,290
+Trong mỗi cơ thể chúng ta, đều có một dòng chảy như Lifestream.
+
+468
+00:54:11,080 --> 00:54:15,790
+Khi những vật chất lạ xâm nhập vào cơ thể, dòng chảy này sẽ đẩy lui chúng.
+
+469
+00:54:15,800 --> 00:54:17,000
+Có một luồng chảy xuyên qua cơ thể ta giống như Lifestream...
+
+470
+00:54:17,200 --> 00:54:19,710
+nó sẽ chiến đấu chống lại kẻ lạ mặt nguy hiểm.
+
+471
+00:54:22,014 --> 00:54:24,244
+kẻ lạ mặt ,ý anh là sao?
+
+472
+00:54:25,050 --> 00:54:28,630
+Gien của Sephiroth. Tàn tích còn lại của Jenova.
+
+473
+00:54:28,930 --> 00:54:30,470
+Gọi nó thế nào cũng được.
+
+474
+00:54:32,930 --> 00:54:33,970
+Anh biết nhiều thứ đấy.
+
+475
+00:54:34,890 --> 00:54:36,310
+Tseng và Elena.
+
+476
+00:54:37,020 --> 00:54:39,980
+Họ được mang đến đây, nửa sống nửa chết.
+
+477
+00:54:40,480 --> 00:54:42,770
+Họ đã bị tra tấn một cách tàn bạo.
+
+478
+00:54:43,900 --> 00:54:45,650
+Tôi đã làm mọi thứ có thể để cứu họ...
+
+479
+00:54:46,672 --> 00:54:48,936
+...nhưng như anh thấy đấy.
+
+480
+00:54:49,780 --> 00:54:50,990
+Bị tra tấn ư?
+
+481
+00:54:51,530 --> 00:54:52,770
+Bọn chúng đang chờ nó tới.
+
+482
+00:54:52,950 --> 00:54:55,330
+Chúng đã có trong tay đầu của Jenova.
+
+483
+00:54:56,250 --> 00:54:59,160
+Vậy là khi Kadaj nói hắn đang tìm " Người....."
+
+484
+00:54:59,330 --> 00:55:03,160
+Điềm báo đen tối từ bầu trời.
+Tai hoạ Jenova.
+
+485
+00:55:04,050 --> 00:55:07,420
+Nếu hắn muốn, hắn cũng có thể tạo thêm một Sephiroth nữa.
+
+486
+00:55:08,970 --> 00:55:10,010
+Kadaj
+
+487
+00:55:10,800 --> 00:55:11,870
+Rốt cuộc hắn là gì chứ?
+
+488
+00:55:12,930 --> 00:55:15,180
+Tôi thà không biết còn hơn.
+
+489
+00:55:27,000 --> 00:55:27,860
+Marlene!
+
+490
+00:55:28,070 --> 00:55:30,530
+Anh Cloud! Denzel và chị Tifa!
+
+491
+00:55:30,660 --> 00:55:31,860
+Chị Tifa ổn rồi.
+
+492
+00:55:32,160 --> 00:55:33,700
+Em muốn nói chuyện với chị ấy.
+
+493
+00:55:39,370 --> 00:55:40,460
+Chú có thể cho cháu mượn không?
+
+494
+00:55:42,500 --> 00:55:43,880
+Chú không có điện thoại à?
+
+495
+00:55:46,250 --> 00:55:49,370
+Vincent, anh có thể mang Marlene về với Tifa được không?
+
+496
+00:55:49,880 --> 00:55:51,970
+Tôi sẽ gặp Shinra và hỏi một số thông tin.
+
+497
+00:55:52,050 --> 00:55:52,890
+Cậu biết tôi không thể mà.
+
+498
+00:55:53,050 --> 00:55:54,050
+Nhưng tôi...
+
+499
+00:55:54,800 --> 00:55:56,140
+Quên việc đó đi anh Cloud.
+
+500
+00:55:56,260 --> 00:55:59,390
+Tại sao anh không bao giờ chăm sóc cho tụi em?
+
+501
+00:56:03,190 --> 00:56:04,190
+Marlene
+
+502
+00:56:04,900 --> 00:56:06,570
+Hãy cho anh thời gian.
+
+503
+00:56:06,690 --> 00:56:08,730
+Có một cuộc chiến trước mắt
+
+504
+00:56:08,900 --> 00:56:11,070
+Nhưng nó không chỉ đơn giản là chiến đấu
+
+505
+00:56:11,200 --> 00:56:11,900
+Em hiểu chứ?
+
+506
+00:56:12,030 --> 00:56:13,410
+Không, em không hiểu.
+
+507
+00:56:13,570 --> 00:56:17,080
+Cloud, anh có chắc chì là một cuộc chiến thôi không?
+
+508
+00:56:18,910 --> 00:56:19,910
+Bọn chúng ở đâu?
+
+509
+00:56:20,080 --> 00:56:22,040
+Đang ở căn cứ của bọn chúng
+
+510
+00:56:23,120 --> 00:56:24,250
+Thành phố bị lãng quên
+
+511
+00:56:27,960 --> 00:56:29,050
+Đi thôi.
+
+512
+00:56:35,930 --> 00:56:37,430
+Tôi phải nói chuyện với Rufus.
+
+513
+00:56:37,510 --> 00:56:38,600
+Đừng trốn chạy nữa.
+
+514
+00:56:39,810 --> 00:56:40,770
+Em biết.
+
+515
+00:56:40,930 --> 00:56:43,440
+Cho dù anh có tìm được bọn trẻ, thì anh vẫn không thể cứu được chúng.
+
+516
+00:56:43,690 --> 00:56:46,050
+Có thể điều gì đó sẽ xảy ra, cũng có thể không.
+
+517
+00:56:46,150 --> 00:56:47,520
+Điều đó làm anh sợ, đúng không?
+
+518
+00:56:47,610 --> 00:56:50,400
+Nhưng bây giờ anh cần phải suy nghĩ lại.
+Đối mặt với nó.
+
+519
+00:56:50,470 --> 00:56:53,110
+Hãy nhìn anh kìa, Anh nghĩ anh nhận hết những điều đó là cứng rắn ư.
+
+520
+00:56:53,530 --> 00:56:55,780
+Chia sẻ cuộc sống của anh với người khác khó khăn thế sao?
+
+521
+00:56:56,200 --> 00:56:57,570
+Anh không trả lời điện thoại, nhưng cũng không vứt nó đi.
+
+522
+00:57:00,660 --> 00:57:10,290
+Anh đi đi, Ajits là của anh đấy, Cloud ạ.
+
+523
+00:57:14,786 --> 00:57:18,745
+Nó là gì thế?
+Một kỷ niệm, hay chúng mình?
+
+524
+00:57:25,650 --> 00:57:29,230
+Nhưng chính anh đã khiến em chết
+
+525
+00:57:29,868 --> 00:57:32,462
+<i>Dilly-dally, shilly-shally.</i>
+
+526
+00:57:34,120 --> 00:57:36,320
+Humm, Không phải lúc này anh đã được tha thứ rồi  sao?
+
+527
+00:57:39,660 --> 00:57:42,160
+Tội lỗi có được tha thứ không?
+
+528
+00:57:43,200 --> 00:57:44,500
+Tôi chưa từng thử.
+
+529
+00:57:45,000 --> 00:57:46,080
+ý anh là..
+
+530
+00:57:47,000 --> 00:57:48,080
+Chưa từng thử sao...
+
+531
+00:57:53,210 --> 00:57:54,510
+Marlene, chúng ta về nhà nào.
+
+532
+00:57:59,100 --> 00:58:00,510
+Thôi được, tôi sẽ thử.
+
+533
+00:58:02,100 --> 00:58:05,510
+Cái điện thoại ở dưới sông.
+
+534
+00:58:22,254 --> 00:58:24,654
+<i>Là tôi, Reeve đây.</i>
+
+535
+00:58:24,856 --> 00:58:26,687
+<i>Công việc thế nào rồi?</i>
+
+536
+00:58:27,292 --> 00:58:30,659
+<i>Tôi thấy cậu chạy như bay ấy. Làm thế quái nào mà anh vẫn làm việc đó thế?</i>
+
+537
+00:58:30,862 --> 00:58:32,830
+<i>Cậu chẳng thay đổi gì cả, Cloud ạ.</i>
+
+538
+00:58:33,040 --> 00:58:33,780
+Tôi đang nghĩ cách giúp cậu.
+
+539
+00:58:33,920 --> 00:58:35,210
+Nhưng tôi nghĩ là.
+
+540
+00:58:35,340 --> 00:58:37,550
+tôi sẽ gọi lại cho cậu sau.
+
+541
+00:58:37,630 --> 00:58:39,320
+Ngạc nhiên chưa? Yuffie nè.
+
+542
+00:58:39,390 --> 00:58:41,890
+À này, trẻ em ở Wutai đều mất tích cả.
+
+543
+00:58:42,374 --> 00:58:46,401
+<i>Anh có nghe được thông tin gì không?
+Gọi lại cho em và cho em thông tin, được chứ?</i>
+
+544
+00:58:52,070 --> 00:58:55,980
+Em chưa bao giờ trách mắng anh,dù chỉ một lần.
+
+545
+00:58:56,690 --> 00:59:00,490
+Anh đã đến vì em, thế là đã quá đủ
+
+546
+00:59:40,240 --> 00:59:41,610
+Này, có nghe không đấy?
+
+547
+00:59:41,740 --> 00:59:43,120
+Bọn bay làm cái quái gì thế hả?
+
+548
+00:59:44,020 --> 00:59:44,490
+Không được chạm vào nó.
+
+549
+00:59:44,490 --> 00:59:46,000
+Nhìn tao này, tao đang nói chuyện với mày đấy?
+Không được chạm vào nó.
+
+550
+00:59:46,000 --> 00:59:49,120
+Không được chạm vào nó.
+
+551
+01:00:32,068 --> 01:00:33,729
+Denzel?
+
+552
+01:00:38,708 --> 01:00:41,336
+Denzel. Denzel!
+
+553
+01:01:02,490 --> 01:01:03,490
+Chúng ta đang làm gì à?
+
+554
+01:01:03,490 --> 01:01:03,820
+Nhìn tao này, tao đang nói chuyện với mày đấy?
+Chúng ta đang làm gì à?
+
+555
+01:01:12,620 --> 01:01:15,620
+Ta biết, " Người " ở đây.
+
+556
+01:01:16,040 --> 01:01:17,130
+Vậy sao.
+
+557
+01:01:17,428 --> 01:01:19,657
+Đây là, cái này gọi là gì nhỉ?
+
+558
+01:01:19,958 --> 01:01:21,230
+A, đài tưởng niệm.
+
+559
+01:01:21,420 --> 01:01:23,550
+Ta đánh cược là cái thứ này do Shindra xây dựng.
+
+560
+01:01:23,880 --> 01:01:26,130
+Và bọn bay nghĩ tụi này giấu thứ đó ở đây?
+
+561
+01:01:27,050 --> 01:01:28,220
+Phải không?
+
+562
+01:01:29,230 --> 01:01:32,690
+Chỉ có chúa mới biết.
+À, thì ra bọn bay cũng biết giấu thứ gì đó đấy nhỉ.
+
+563
+01:01:37,800 --> 01:01:39,558
+À ha ,thì ra các ngươi cũng đã dấu thứ gì đó rồi hả.
+
+564
+01:01:42,990 --> 01:01:45,990
+Rude! Cậu có cái miệng to lắm mà.
+
+565
+01:02:05,050 --> 01:02:06,090
+Có đau không?
+
+566
+01:02:08,687 --> 01:02:09,767
+Uhm.
+
+567
+01:02:09,767 --> 01:02:12,950
+Một chút thôi, nhưng không tệ như Denzel.
+
+568
+01:02:14,600 --> 01:02:15,770
+Có thuốc chữa không?
+
+569
+01:02:17,560 --> 01:02:18,900
+Anh không biết.
+
+570
+01:02:20,440 --> 01:02:25,280
+Sau cái chết của chị Aerith, anh đã cố gắng quá mức để tìm cách chữa cho Danzel rồi.
+
+571
+01:02:26,700 --> 01:02:28,030
+Em biết chuyện đó à?
+
+572
+01:02:28,490 --> 01:02:32,240
+Cloud, anh nên dọn dẹp bàn của mình thường xuyên hơn.
+
+573
+01:02:33,490 --> 01:02:34,790
+Có lẽ nên vậy.
+
+574
+01:02:37,000 --> 01:02:39,580
+Vậy, đó là sự thật?
+
+575
+01:02:39,670 --> 01:02:43,960
+Đó là lý do tại sao anh bỏ đi, vì không chữa được cho Denzel?
+
+576
+01:02:45,300 --> 01:02:47,630
+Hay là vì anh cũng bị bệnh?
+
+577
+01:02:49,390 --> 01:02:50,430
+Anh chỉ nghĩ rằng.
+
+578
+01:02:51,720 --> 01:02:53,760
+Anh có thể tự lo cho mình.
+
+579
+01:02:54,640 --> 01:02:56,640
+Anh đã không để cho ai làm điều đó.
+
+580
+01:02:58,020 --> 01:03:02,060
+Làm sao anh có thể chăm sóc gia đình nếu như anh không thể chăm sóc tốt cho bản thân chứ?
+
+581
+01:03:03,780 --> 01:03:06,570
+hoặc ít nhất đó củng là những lời của một người bố nên nói.
+
+582
+01:03:07,650 --> 01:03:10,280
+Anh cloud, đừng bỏ cuộc nhé.
+
+583
+01:03:14,244 --> 01:03:16,500
+You, Denzel, và Tifa luôn ở đó giúp đỡ cho anh.
+
+584
+01:03:16,660 --> 01:03:18,910
+Em, Denzel và Tifa
+
+585
+01:03:20,040 --> 01:03:22,330
+Mọi người luôn ở bên cạnh anh bất cứ khi nào anh cần
+
+586
+01:03:24,380 --> 01:03:27,840
+Còn bây giờ, đến lượt anh phải làm điều đó.
+
+587
+01:03:27,879 --> 01:03:28,925
+Ừ hứ.
+
+588
+01:03:38,940 --> 01:03:40,350
+Này Kadaj..
+
+589
+01:03:41,020 --> 01:03:42,770
+Tôi có một câu hỏi cho cậu.
+
+590
+01:03:43,400 --> 01:03:45,770
+Tôi không có câu trả lời nào cả
+
+591
+01:03:46,690 --> 01:03:52,200
+Cậu bảo là cậu cần tế bào của Jenova để có thể trở thành 1 một lần nữa. Đúng không?
+
+592
+01:03:52,370 --> 01:03:54,370
+ý cậu muốn nói gì thế?
+
+593
+01:03:55,540 --> 01:03:59,960
+Là hắn..hắn quay trở lại.
+
+594
+01:04:02,210 --> 01:04:03,880
+Sephiroth.
+
+595
+01:04:04,380 --> 01:04:05,710
+Cơn ác mộng.
+
+596
+01:04:05,800 --> 01:04:07,050
+Ai cũng nói thế.
+
+597
+01:04:07,300 --> 01:04:08,340
+ý cậu là...
+
+598
+01:04:08,590 --> 01:04:10,720
+Tôi chưa bao giờ biết Sephiroth.
+
+599
+01:04:11,300 --> 01:04:14,890
+Tôi chỉ.... cảm nhận được hắn ấy.
+
+600
+01:04:16,470 --> 01:04:17,970
+Thật là bất công.
+
+601
+01:04:18,180 --> 01:04:21,520
+Khi nghĩ đến cảnh " Người " yêu thương Sephiroth hơn .....
+
+602
+01:04:22,100 --> 01:04:23,900
+Là đồ thừa thải yếu kém nhỏ bé.
+
+603
+01:04:24,560 --> 01:04:28,400
+Bà ấy có chọn ai thì cũng không quan trọng.
+Ngươi sẽ gặp người khi mọi chuyện kết thúc.
+
+604
+01:04:28,780 --> 01:04:32,570
+" Người " đến hành tinh này sau một hành trình dài.
+
+605
+01:04:32,910 --> 01:04:36,580
+Để giải thoát vũ trụ này khỏi những tên cặn bã như ngươi.
+
+606
+01:04:37,160 --> 01:04:40,410
+Nhưng ngươi cũng biết điều đó như ta.
+
+607
+01:04:43,120 --> 01:04:46,010
+Chẳng có gì thay đổi từ lúc bà ấy đến đây.
+
+608
+01:04:46,190 --> 01:04:49,550
+Ta phải thay đổi điều đó, để bà ấy vui lòng.
+
+609
+01:04:49,630 --> 01:04:55,050
+Nếu " Người " thích...Tôi có thể làm bất cứ điều gì cho người.
+
+610
+01:04:55,140 --> 01:04:58,260
+Hmm.Cơn ác mộng lại quay về.
+
+611
+01:04:59,270 --> 01:05:04,770
+Cho đến khi nào các ngươi còn tồn tại,cơn ác mộng sẽ cứ đến rồi lại đến.
+
+612
+01:05:06,860 --> 01:05:09,440
+Lifestream chảy xuyên xuốt qua thế giới của chúng ta.
+
+613
+01:05:10,110 --> 01:05:13,570
+xuyên qua lằn ranh giữa sự sống và cái chết.
+
+614
+01:05:13,950 --> 01:05:16,950
+Nếu chu kì cuộc sống bất biến.
+
+615
+01:05:17,240 --> 01:05:20,080
+Thì lịch sử, cũng vậy, bản thân nó chắc chắn sẽ lập lại lần nữa.
+
+616
+01:05:20,910 --> 01:05:23,870
+Cho nên, mang Jenova và Sephiroth trở lại.
+
+617
+01:05:23,960 --> 01:05:26,580
+Chẳng có gì đáng sợ cả
+
+618
+01:05:27,290 --> 01:05:30,210
+Chúng ta sẽ làm những gì mà định mệnh đã an bài.
+
+619
+01:05:30,550 --> 01:05:35,090
+Chúng ta hứa chúng ta sẽ ngăn cản các ngươi lại.
+
+620
+01:05:36,470 --> 01:05:41,810
+Ông..đó có phải là lời bào chữa việc ông mang " Người " đi?
+
+621
+01:05:42,310 --> 01:05:44,640
+Ông không thấy gì hơn ngoài việc xin lỗi sao.
+
+622
+01:05:44,700 --> 01:05:45,949
+Xin lỗi ư?
+
+623
+01:05:46,810 --> 01:05:50,270
+Về chuyện này , thật sự tôi rất thích thú .
+
+624
+01:05:56,198 --> 01:05:57,549
+Tốt...
+
+625
+01:05:57,660 --> 01:06:01,990
+Thế thì chúng ta nên kết thúc tất cả chuyện này.
+
+626
+01:07:07,640 --> 01:07:09,730
+Denzel chúng ta phải ra khỏi đây thôi!
+
+627
+01:07:57,070 --> 01:07:58,190
+Xin... chào.
+
+628
+01:07:58,280 --> 01:07:59,280
+Ôi không.
+
+629
+01:08:31,098 --> 01:08:32,588
+Nó có dí theo chúng ta không?
+
+630
+01:08:32,799 --> 01:08:34,164
+Mình đâu có dám nhìn đâu.
+
+631
+01:09:12,480 --> 01:09:15,100
+Thế có vui không, hở?
+
+632
+01:09:15,230 --> 01:09:17,020
+Giờ thì đến lượt ta
+
+633
+01:09:22,749 --> 01:09:24,808
+Các ngươi gọi ngày hôm nay là ngày gì hả?!
+
+634
+01:09:27,500 --> 01:09:28,000
+Gì chứ?
+
+635
+01:09:28,000 --> 01:09:32,830
+Nếu mấy người trả Người ra sớm, mọi thứ sẽ kết thúc thôi.
+
+636
+01:09:39,166 --> 01:09:40,258
+Chết tiệt...
+
+637
+01:09:40,960 --> 01:09:44,130
+Bọn bay cần đầu của Jenova làm gì chứ hả?
+
+638
+01:09:55,560 --> 01:09:58,520
+Quên cái vụ hợp nhất của tui bay đi và hãy thực tế một chút.
+
+639
+01:09:59,570 --> 01:10:02,230
+Tất cả điều tụi ta muốn là được ở bên cạnh " Người ".
+
+640
+01:10:06,740 --> 01:10:11,580
+" Người " sẽ biết phải làm gì với thế giới này khi bà ấy ở đây.
+
+641
+01:10:12,330 --> 01:10:14,250
+Giờ thì, " Người " đang ở đâu?
+
+642
+01:10:29,350 --> 01:10:32,930
+Người...người cái quái gì chứ, chỉ là cái đầu của Jenova thôi mà.
+
+643
+01:10:33,100 --> 01:10:33,770
+Ê này.
+
+644
+01:10:34,180 --> 01:10:36,100
+Ta không cho phép ngươi nói với " Người " bằng cái giọng đó.
+
+645
+01:10:36,230 --> 01:10:37,600
+Không thể tha thứ được
+
+646
+01:10:39,230 --> 01:10:41,600
+Tụi này xin lỗi.
+
+647
+01:10:42,362 --> 01:10:43,989
+" Má " cậu tuyệt lắm...
+
+648
+01:10:44,197 --> 01:10:46,097
+Tớ đang nói cái quái gì thế nhỉ?!
+
+649
+01:11:35,482 --> 01:11:36,813
+Chị Tifa?
+
+650
+01:11:42,540 --> 01:11:43,460
+Đồ khốn kiếp.
+
+651
+01:11:57,390 --> 01:11:58,930
+Nhóc lo đi tìm mẹ đi.
+
+652
+01:11:59,000 --> 01:11:59,796
+Barret!
+
+653
+01:12:01,690 --> 01:12:03,520
+Marlene an toàn chứ?
+
+654
+01:12:17,591 --> 01:12:20,082
+Chúng ta không thể giữ được lâu hơn!
+
+655
+01:12:52,910 --> 01:12:54,910
+Tên nào sử dụng Material của em thế!
+
+656
+01:12:55,070 --> 01:12:56,410
+Bình thường thôi, bọn xấu ấy mà.
+
+657
+01:12:56,500 --> 01:12:58,087
+ohoooo!
+
+658
+01:12:59,240 --> 01:13:00,080
+Ai thế chị?
+
+659
+01:13:05,080 --> 01:13:07,920
+Cô ấy quá đẹp luôn.
+Phi thuyền Sierra của tôi đấy, model mới nhất !
+
+660
+01:13:08,840 --> 01:13:11,170
+Tôi sẽ cho cô mở rộng tầm mắt sau nhé.
+
+661
+01:13:12,260 --> 01:13:13,260
+Chỗ nào bán di động thế?
+
+662
+01:13:16,800 --> 01:13:17,510
+Ông ấy là ai thế chị?
+
+663
+01:13:18,060 --> 01:13:19,430
+Họ là bạn của chúng ta ấy mà.
+
+664
+01:13:22,430 --> 01:13:24,440
+Denzel, em có thể về quán bar được không?
+
+665
+01:13:52,630 --> 01:13:53,460
+Đủ rồi đấy!
+
+666
+01:13:56,866 --> 01:13:57,490
+Tifa!
+
+667
+01:14:03,141 --> 01:14:03,865
+Denzel!
+
+668
+01:14:26,806 --> 01:14:27,790
+Cloud!
+
+669
+01:14:38,800 --> 01:14:40,680
+xin lỗi đã để em đợi lâu.
+
+670
+01:14:40,800 --> 01:14:42,970
+Không sao mà.
+
+671
+01:14:50,020 --> 01:14:52,690
+Em ổn chứ.
+-Vâng.!
+
+672
+01:14:54,320 --> 01:14:57,110
+Marlene đã an toàn. Anh đã đưa nó về nhà rồi.
+
+673
+01:14:59,320 --> 01:15:00,780
+Anh cảm thấy dễ chịu hơn rồi.
+
+674
+01:15:05,000 --> 01:15:08,290
+Có lẽ anh đã bận tâm quá nhiều
+
+675
+01:15:13,380 --> 01:15:15,710
+em sẽ quay về quán bar,
+em sẽ đợi ở đó với Marlene nhé, anh Cloud?
+
+676
+01:15:16,260 --> 01:15:17,470
+Tụi em sẽ chờ anh.
+
+677
+01:15:20,720 --> 01:15:23,140
+Gặp lại anh sau nhé, Cloud?
+
+678
+01:16:04,970 --> 01:16:06,180
+Mình có thể làm được.
+
+679
+01:18:08,140 --> 01:18:09,510
+Này, cậu đã ở chỗ quái nào thế hả?
+
+680
+01:19:14,750 --> 01:19:18,750
+Chuyện này thật sự quá vui, ông thích con gì tiếp theo hả?
+
+681
+01:19:28,220 --> 01:19:29,220
+Người!
+
+682
+01:19:29,380 --> 01:19:31,720
+Ta muốn biết một đứa con ngoan thế nào.
+
+683
+01:19:45,018 --> 01:19:47,009
+Alley-oop!
+
+684
+01:20:05,772 --> 01:20:07,603
+woooo!
+Haiya!
+
+685
+01:20:21,721 --> 01:20:23,313
+Bay lên nào!
+
+686
+01:20:32,660 --> 01:20:33,610
+Đừng bỏ cuộc nhé!
+
+687
+01:21:12,030 --> 01:21:13,030
+Anh sẵn sàng chưa?
+
+688
+01:22:04,870 --> 01:22:05,750
+" Người "!
+
+689
+01:22:13,399 --> 01:22:14,696
+- Ông chủ, không!
+- Ông chủ, không!
+
+690
+01:22:58,720 --> 01:22:59,680
+Sếp ơi!
+
+691
+01:24:38,650 --> 01:24:40,610
+Tụi bay giỡn với nhầm người rồi.
+
+692
+01:25:32,972 --> 01:25:34,017
+Rude!
+
+693
+01:25:47,220 --> 01:25:49,470
+Không! Không! Đừng có làm việc đó với tôi chứ.
+
+694
+01:25:50,850 --> 01:25:54,081
+Hêê Rude, cậu không sao à.
+
+695
+01:25:54,081 --> 01:25:54,180
+Ừ.
+Hêê Rude, cậu không sao à.
+
+696
+01:25:54,180 --> 01:25:55,046
+Ừ.
+
+697
+01:25:55,300 --> 01:25:57,190
+Tớ không sao hết.
+
+698
+01:26:27,800 --> 01:26:29,470
+Các cậu!
+
+699
+01:28:23,170 --> 01:28:25,090
+Này đồng nghiệp.
+
+700
+01:28:26,170 --> 01:28:30,010
+Cái này công phá thế nào nhỉ?
+
+701
+01:28:31,180 --> 01:28:33,590
+Công nghệ tốt nhất của Shinra đấy.
+
+702
+01:28:33,680 --> 01:28:35,510
+À, thì ra là cậu làm nó.
+
+703
+01:28:36,390 --> 01:28:38,930
+Nếu không có vấn đề gì phát sinh, nó sẽ... <i>rực rỡ lắm đấy</i>.
+
+704
+01:28:39,060 --> 01:28:40,520
+Oh, tuyệt.
+
+705
+01:28:41,480 --> 01:28:43,480
+Tớ biết thể nào cậu cũng thích nó cho xem.
+
+706
+01:28:44,560 --> 01:28:46,940
+Có vẻ như hôm nay chúng ta phải phá vài thứ đây.
+
+707
+01:30:01,140 --> 01:30:01,850
+" Người " ơi!
+
+708
+01:30:15,575 --> 01:30:17,202
+" Người " ơi...
+
+709
+01:30:18,445 --> 01:30:20,572
+" Người " ơiiiii!
+
+710
+01:32:04,510 --> 01:32:06,680
+Đi đi,anh Cloud!
+
+711
+01:32:36,300 --> 01:32:39,260
+Anh ơi, cuối cùng ta cũng được bên cạnh " Người ".
+
+712
+01:32:40,420 --> 01:32:41,930
+Vậy giờ là chuyện gì nữa đây?
+
+713
+01:32:44,890 --> 01:32:47,100
+" Người "sẽ nói cho ta biết.
+
+714
+01:32:48,770 --> 01:32:51,600
+Ta nghĩ đồ thừa thải như ngươi thì cần gì biết.
+
+715
+01:32:54,610 --> 01:32:57,770
+Sẽ ra sao nếu ta chỉ là một con rối.
+
+716
+01:33:02,950 --> 01:33:04,610
+Rất lâu trước đây.
+
+717
+01:33:06,700 --> 01:33:07,410
+Ngươi cũng như vậy mà.
+
+718
+01:33:33,730 --> 01:33:36,440
+Cloud, em mang metarial đến cho anh nè.
+
+719
+01:33:37,570 --> 01:33:38,610
+Này cẩn thận chứ.
+
+720
+01:33:38,730 --> 01:33:40,480
+Này Cid. Đáp cái thứ tạp nham này xuống đi chứ.
+
+721
+01:33:40,570 --> 01:33:42,820
+Anh im đi, anh muốn ra thì đi mà nhảy xuống.
+Đừng có ở đó mà phê phán.
+
+722
+01:33:43,283 --> 01:33:44,807
+Anh ấy có thể giải quyết chuyện này một mình.
+
+723
+01:33:45,800 --> 01:33:46,500
+Hảảả ???
+
+724
+01:33:47,700 --> 01:33:49,830
+Kadaj là phần còn sót lại của Sephiroth.
+
+725
+01:33:50,910 --> 01:33:52,910
+Xét cho cùng thì hắn như một ấu trùng vậy.
+
+726
+01:33:53,000 --> 01:33:55,362
+Ấu trùng ấy hả? Ý anh hắn là loài sâu bọ sao?
+
+727
+01:33:55,362 --> 01:33:55,420
+Lassie,im lặng đi!
+Ấu trùng ấy hả? Ý anh hắn là loài sâu bọ sao?
+
+728
+01:33:55,420 --> 01:33:56,829
+Lassie,im lặng đi!
+
+729
+01:33:57,080 --> 01:33:59,466
+Vậy thứ bỏ đi đó sẽ biến thành Sephiroth à?
+
+730
+01:33:59,466 --> 01:33:59,500
+Anh Vincent, anh Cloud có biết điều đó về Kadaj không?
+Vậy thứ bỏ đi đó sẽ biến thành Sephiroth à?
+
+731
+01:33:59,500 --> 01:34:03,300
+Anh Vincent, anh Cloud có biết điều đó về Kadaj không?
+
+732
+01:34:04,970 --> 01:34:05,840
+Anh ấy sẽ biết thôi.
+
+733
+01:34:06,172 --> 01:34:07,901
+Có lẽ anh đúng.
+
+734
+01:34:09,390 --> 01:34:10,760
+Giờ anh ấy phải chiến đấu thôi.
+
+735
+01:34:10,890 --> 01:34:13,640
+Em chưa hiểu lắm! Có ai giải thích cho em với!
+
+736
+01:34:13,770 --> 01:34:15,100
+Đó là cuộc nói chuyện giữa những người đàn ông
+
+737
+01:34:15,350 --> 01:34:17,017
+Phân biệt đối xử. Thật là phân biệt đối xử mà.
+
+738
+01:34:17,017 --> 01:34:17,310
+Lassie, lần cuối, cô im đi được không hả!
+Phân biệt đối xử. Thật là phân biệt đối xử mà.
+
+739
+01:34:17,310 --> 01:34:19,178
+Lassie, lần cuối, cô im đi được không hả!
+
+740
+01:34:21,530 --> 01:34:22,610
+2 năm trước...
+
+741
+01:34:24,320 --> 01:34:28,030
+Trong cuộc chiến cuối cùng đó...mọi người có nhớ anh ấy mạnh mẽ đến như thế nào không?.
+
+742
+01:34:28,740 --> 01:34:33,290
+Đã 2 năm trôi qua, nhưng tôi thật sự cảm thấy anh ấy đã mất đi sức mạnh đó.
+
+743
+01:34:34,040 --> 01:34:36,670
+Nhưng giờ đây anh ấy lại tìm thấy nó một lần nữa.
+
+744
+01:34:37,250 --> 01:34:39,670
+Cậu ấy có mười phút thôi đấy.
+
+745
+01:34:39,750 --> 01:34:43,050
+Anh Cloud lúc nào cũng gặp phiền phức.
+Luôn là như thế.
+
+746
+01:34:44,300 --> 01:34:45,550
+Đó mới là CLoud chứ.
+
+747
+01:36:01,790 --> 01:36:05,750
+Ta sẽ hợp nhất, ngươi sẽ chết cho mà xem.
+
+748
+01:36:26,650 --> 01:36:29,820
+Thật vui khi gặp lại ngươi, Cloud ạ...
+
+749
+01:36:29,823 --> 01:36:29,900
+Hả??
+
+750
+01:36:45,040 --> 01:36:46,960
+Ngươi hết bệnh rồi à?
+
+751
+01:36:49,050 --> 01:36:50,510
+Thật tệ quá.
+
+752
+01:36:50,630 --> 01:36:53,510
+Sephiroth, ngươi muốn gì?
+
+753
+01:36:53,930 --> 01:36:56,810
+Những linh hồn bất hạnh của những nạn nhân của Geostigma.
+
+754
+01:36:57,600 --> 01:37:00,930
+Chúng sẽ hòa hợp vào dòng Lifestream và bao quanh hành tinh này...
+
+755
+01:37:01,390 --> 01:37:04,020
+Gặm nhấm nó...Ăn mòn nó...
+
+756
+01:37:04,900 --> 01:37:07,360
+Cái ta muốn, Cloud ạ.
+
+757
+01:37:08,440 --> 01:37:12,360
+Trải dài bóng đêm bất tận của vũ trụ lên hành tinh này cũng như mạch máu của ta...
+
+758
+01:37:13,860 --> 01:37:16,870
+Giống như " Mẹ " ta đã làm khi xưa.
+
+759
+01:37:23,870 --> 01:37:27,210
+Rồi sau đó chúng ta sẽ tìm đến một hành tinh mới...
+
+760
+01:37:27,380 --> 01:37:30,210
+Từ đất đai đó chúng ta sẽ tạo nên một tương lại tươi sáng hơn.
+
+761
+01:37:30,710 --> 01:37:32,300
+Còn hành tinh này thì sao?
+
+762
+01:37:32,840 --> 01:37:36,470
+À, chuyện đó còn tuỳ vào ngươi, Cloud ạ.
+
+763
+01:37:57,990 --> 01:37:59,240
+là cô ấy phải không?
+
+764
+01:38:44,790 --> 01:38:47,960
+Oh, ngươi tìm đâu ra sức mạnh này thế?
+
+765
+01:38:48,460 --> 01:38:50,210
+Ta không cần phải nói cho ngươi biết.
+
+766
+01:39:25,620 --> 01:39:28,500
+Ta đang nghĩ về một món quà đặc biệt dành tặng cho ngươi đây.
+
+767
+01:39:35,170 --> 01:39:37,010
+Ta sẽ cho ngươi xem nỗi tuyệt vọng nhé?
+
+768
+01:39:47,430 --> 01:39:51,150
+Quỳ xuống đi.
+Ta muốn ngươi van xin ta sự khoan dung.
+
+769
+01:41:42,720 --> 01:41:46,470
+Cảm nhận nỗi đau đi,nó có giống trước đây không, Cloud?
+
+770
+01:41:47,970 --> 01:41:52,430
+Để ta cho ngươi nhớ lại. Lần này ngươi sẽ không quên được đâu.
+
+771
+01:42:19,420 --> 01:42:22,000
+Nói cho ta biết ngươi yêu quý gì nhất.
+
+772
+01:42:23,840 --> 01:42:26,510
+Cho ta vinh dự mang nó đi nhé.
+
+773
+01:42:33,350 --> 01:42:35,690
+Vậy chuyện gì sẽ xảy ra nếu như mọi thứ đều  mất hết hi vọng?
+
+774
+01:42:36,020 --> 01:42:38,480
+Nếu là tớ, tớ sẽ không bao giờ bỏ cuộc.
+
+775
+01:42:42,070 --> 01:42:43,690
+hãy ôm chặt lấy giấc mơ.
+
+776
+01:42:44,070 --> 01:42:48,110
+Và dù có chuyện gì xảy ra cũng phải bảo vệ danh dự của một SOLDIER.
+
+777
+01:42:48,430 --> 01:42:51,020
+Wow, à quên, cậu chưa bao giờ là một SOLDIER cả.
+
+778
+01:42:51,020 --> 01:42:53,483
+Nhưng chỉ cần cảm thấy điều đó là được rồi.
+
+779
+01:42:54,910 --> 01:42:56,290
+Zack.
+
+780
+01:42:57,670 --> 01:43:00,170
+À, cậu cần giúp một tay với gã đó sao?
+
+781
+01:43:07,630 --> 01:43:11,140
+Cậu đã từng đánh bại hắn mà, đúng không?
+Lần này cũng dễ mà thôi.
+
+782
+01:43:11,496 --> 01:43:12,750
+Ừ.
+
+783
+01:43:15,930 --> 01:43:19,060
+Cloud, cậu còn nhớ điều tớ nói với cậu chứ?
+
+784
+01:43:20,060 --> 01:43:24,360
+Đúng vậy,  mình là một phần cuộc sống của cậu.
+
+785
+01:43:32,410 --> 01:43:35,910
+Ta thương hại ngươi.
+Chỉ vì ngươi chẳng hiểu điều gì cả.
+
+786
+01:43:37,580 --> 01:43:39,710
+Chẳng có gì mà ta không yêu quý cả.
+
+787
+01:44:16,370 --> 01:44:20,210
+Hãy yên nghỉ ở nơi ngươi thuộc về....trong kí ức của ta.
+
+788
+01:44:25,960 --> 01:44:27,300
+Ta sẽ..
+
+789
+01:44:28,590 --> 01:44:30,800
+Không bao giờ là ký ức cả.
+
+790
+01:45:00,928 --> 01:45:02,828
+Anh ơi...
+
+791
+01:45:05,340 --> 01:45:06,840
+Kadaj
+
+792
+01:45:21,140 --> 01:45:24,350
+Ngươi sẽ không còn phải chờ đợi thêm nữa đâu.
+
+793
+01:45:29,900 --> 01:45:32,360
+Có phải " Người " không?
+
+794
+01:45:33,700 --> 01:45:36,450
+Tất cả mọi người đang chờ đợi ngươi đấy.
+
+795
+01:47:01,381 --> 01:47:04,120
+-Oh yeah!
+-Thấy chưa, Ta đã nói với ngươi cái gì hả gã ngố?!
+
+796
+01:47:04,383 --> 01:47:06,352
+Đó là cậu bé của tôi, Cloud!
+
+797
+01:47:06,553 --> 01:47:08,680
+Đó là điều chúng ta mong đợi nhỉ, tất cả chỉ có thế.
+
+798
+01:47:08,889 --> 01:47:12,880
+Được rồi mọi người bình tĩnh nào, và nắm cho chắc coi chừng tuột quần đấy!
+
+799
+01:47:20,180 --> 01:47:23,970
+Đôi lúc, mình biết cậu vẫn ở đó mà.
+
+800
+01:47:25,230 --> 01:47:26,730
+Cảm ơn cậu.
+
+801
+01:48:07,447 --> 01:48:07,930
+Chúng ta sẽ đi cùng với nhau...
+
+802
+01:48:07,930 --> 01:48:11,150
+Hãy cùng nhau...
+Chúng ta sẽ đi cùng với nhau...
+
+803
+01:48:11,150 --> 01:48:11,178
+Chúng ta sẽ đi cùng với nhau...
+
+804
+01:48:16,030 --> 01:48:19,150
+Cùng nhau chơi đùa.
+
+805
+01:48:44,651 --> 01:48:46,278
+Anh Cloud!
+
+806
+01:48:52,520 --> 01:48:55,230
+Cloud sẽ về mà, anh ấy đã nói như thế.
+
+807
+01:49:18,510 --> 01:49:19,260
+Đi thôi.
+
+808
+01:50:44,550 --> 01:50:45,670
+Mẹ ư?
+
+809
+01:50:47,340 --> 01:50:48,340
+Lại nữa à?
+
+810
+01:50:48,800 --> 01:50:52,260
+Sao ai cũng gọi em là " Người "thế nhỉ.
+
+811
+01:50:54,390 --> 01:50:56,810
+Anh nghĩ họ phải quý em lắm.
+
+812
+01:50:58,020 --> 01:51:01,020
+Cậu bé này thì lớn quá để nhận nuôi rồi.
+
+813
+01:51:02,320 --> 01:51:07,200
+Kém may mắn rồi, anh bạn.
+Nghe có vẻ như cậu không cần ở đây đâu.
+
+814
+01:52:04,440 --> 01:52:08,501
+Đúng như chị ấy đã nói.
+CHờ ở đây và anh Cloud sẽ trở lại.
+
+815
+01:52:11,010 --> 01:52:12,510
+Chào mừng anh quay trở lại.
+
+816
+01:52:23,150 --> 01:52:24,270
+Tôi đã về.
+
+817
+01:52:28,110 --> 01:52:30,700
+Vẫn còn những đứa trẻ bị bệnh.
+
+818
+01:52:31,950 --> 01:52:32,780
+Đúng vậy.
+
+819
+01:52:39,620 --> 01:52:42,620
+Hãy chữa cho chúng nào
+
+820
+01:52:45,414 --> 01:52:47,405
+Đến đây nào. Anh ở đây này.
+
+821
+01:52:49,220 --> 01:52:50,470
+ko sao đâu.
+
+822
+01:53:43,139 --> 01:53:45,480
+- Ai còn lại cuối cùng sẽ là trứng thối!
+- Làm được rồi, chữa được rồi!
+
+823
+01:53:45,480 --> 01:53:46,650
+Hết rồi
+- Ai còn lại cuối cùng sẽ là trứng thối!
+- Làm được rồi, chữa được rồi!
+
+824
+01:53:46,650 --> 01:53:47,734
+- Ai còn lại cuối cùng sẽ là trứng thối!
+- Làm được rồi, chữa được rồi!
+
+825
+01:54:34,740 --> 01:54:38,410
+Anh thấy không, mọi chuyện rồi sẽ ổn mà!
+
+826
+01:54:59,430 --> 01:55:00,550
+Anh biết.
+
+827
+01:55:02,930 --> 01:55:03,890
+Anh không hề cô đơn.
+
+828
+01:55:06,230 --> 01:55:07,770
+Không bao giờ nữa.
+
+829
+02:05:53,750 --> 02:05:55,580
+Đây là mộ của ai vậy ạ?
+
+830
+02:05:57,590 --> 02:05:58,420
+Không phải.
+
+831
+02:05:59,590 --> 02:05:59,590
+Đây là nơi " một người anh hùng " bắt đầu cuộc hành trình của anh ấy.
+

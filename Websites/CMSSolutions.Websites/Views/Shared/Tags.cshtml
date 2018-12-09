@@ -1,0 +1,18 @@
+﻿@using CMSSolutions.Websites.Extensions
+@model CMSSolutions.Websites.Models.TagViewModel
+
+<div class="clear_with_border_bot" style="height:10px;"></div>
+<div class="box_div_like_tag">
+    <h3 class="title_h1_st2">Tag</h3>
+    <div>
+        @if (Model != null && Model.ListTags != null)
+        {
+            foreach (var item in Model.ListTags)
+            {
+                <p><a href="@Url.Action("Index","HomeSearch", new {@keyword = item.Name})">@item.Name</a><span>&nbsp;</span></p>
+            } 
+        }   
+    </div>                
+</div>
+<div class="clear"></div>    
+<div class="clear_with_border_bot" style="height:10px;"></div>

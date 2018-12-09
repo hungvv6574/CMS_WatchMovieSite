@@ -1,0 +1,105 @@
+﻿<div id="registerBox" class="reveal-modal medium register-form-pop" style="top: 77px; opacity: 1; visibility: visible;">
+    <form id="register-form">
+        <div class="reveal-modal-cont">
+            <h1 style="text-align:left;">Đăng ký</h1>
+            <div>
+                <p>Email:</p>
+                <input type="text" class="validate[required, maxSize[50]] text-dropdown ui-autocomplete-input" name="txtEmail" id="txtEmail">
+            </div> 
+            <div>
+                <p>Mật khẩu:</p>
+                <input type="password" class="validate[required, maxSize[50]] text-dropdown ui-autocomplete-input" name="txtPassword" id="txtPassword">
+            </div>
+            <div>
+                <p>Xác nhận mật khẩu:</p>
+                <input type="password" class="validate[required, maxSize[50]] text-dropdown ui-autocomplete-input" name="txtComfim" id="txtComfim">
+            </div>
+            <div>
+                <p>Họ và Tên:</p>
+                <input type="text" class="validate[required, maxSize[250]] text-dropdown ui-autocomplete-input" name="txtFullName" id="txtFullName">
+            </div>
+            <div>
+                <p>Mã xác nhận:</p>
+                <input name="txtCaptcha" id="txtCaptcha" class="validate[required, maxSize[10]] capcha" type="text">
+                <a href="javascript: getCapcha();" title="Đổi mã xác nhận">
+                    <img align="absmiddle" border="0" id="recaptcha" alt="Đổi mã xác nhận" title="Đổi mã xác nhận">
+                </a> 
+            </div>
+            <div id="show-error1"></div>
+            <div style="width: 100%">
+                <button id="btnRegister" type="button" style="margin-top:10px;">Đăng ký</button>
+            </div>
+            <br class="clear_both">
+        </div>  
+    </form>   
+
+    <a class="close-reveal-modal">×</a>
+    <div class="_login-social">
+        @using (Html.BeginForm("ExternalLogin", "Home", FormMethod.Post, new { @id = "loginSocial", ReturnUrl = ViewBag.ReturnUrl }))
+        {
+            var facebook = OAuthWebSecurity.RegisteredClientData.FirstOrDefault(x => x.DisplayName == "Facebook");
+            var google = OAuthWebSecurity.RegisteredClientData.FirstOrDefault(x => x.DisplayName == "Google");
+            @Html.AntiForgeryToken()
+            <span>Hoặc đăng nhập bằng: </span>  
+            <button class="btn-facebook" type="submit" id="btnFacebook" name="provider" value="@facebook.AuthenticationClient.ProviderName" width="21" height="21" title="Đăng nhập với @facebook.DisplayName">
+                <img title="Đăng nhập bằng Facebook" alt="Đăng nhập bằng Facebook" src="/Images/themes/f1.png">
+            </button>
+            <button class="btn-google" type="submit" name="provider" id="btnGoogle" value="@google.AuthenticationClient.ProviderName" width="21" height="21" title="Đăng nhập với @google.DisplayName">
+                <img title="Đăng nhập bằng Google" src="/Images/themes/g1.png">
+            </button>
+        }   
+    </div>
+</div>   
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#register-form").validationEngine();
+        getCapcha();
+        $('#btnRegister').click(function () {
+            if (!validate2()) {
+                return;
+            }
+
+            $("#show-error1").empty();
+            $("#btnRegister").attr("disabled", "disabled");
+            var data = $("#register-form").find("input").serialize();
+            $.ajax({
+                url: '@Url.Action("RegisterUser", "Home")',
+                data: data,
+                type: 'POST',
+                dataType: 'json',
+                success: function (result) {
+                    $("#btnRegister").removeAttr('disabled');
+                    if (result.Status != true) {
+                        $("#show-error1").html(result.Data);
+                        return;
+                    }
+                    
+                    window.location = window.location;
+                },
+                error: function (request, status, error) {
+                    $("#btnRegister").removeAttr('disabled');
+                    $("#show-error1").html(request.responseText);
+                }
+            });
+        });
+    });
+
+    function getCapcha() {
+        $.ajax({
+            url: '@Url.Action("CapchaGenerate", "Home")',
+            type: 'POST',
+            dataType: 'json',
+            success: function (result) {
+                if (result.Status) {
+                    $("#recaptcha").attr("src", result.Data);
+                    $("#recaptcha2").attr("src", result.Data);
+                } 
+            }
+        });  
+    }
+    
+    function validate2() {
+        return $("#register-form").validationEngine('validate');
+    }
+</script>

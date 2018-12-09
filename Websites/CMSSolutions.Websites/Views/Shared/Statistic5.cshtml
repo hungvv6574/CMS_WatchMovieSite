@@ -1,0 +1,47 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div class="list_category">
+    <h3 class="title_h1_st2">@Model.Title</h3>
+    <div id="trailer_data" class="content_mCustomScrollbar_bo content_mCustomScrollbar list_category-sidebar"></div>
+    <br class="clear_both">               
+</div>       
+
+<script type="text/javascript">     
+    $(document).ready(function() {
+        showStatisticalTrailer('trailer_data', 1);
+        $(window).load(function () {
+            $("#trailer_data").mCustomScrollbar({
+                theme: "dark-thick",
+				scrollInertia:900,
+				scrollEasing:"easeOutQuint",
+				mouseWheel:true,
+				mouseWheelPixels: 500
+            });    
+        }); 
+    });
+    
+    function showStatisticalTrailer(name, index) {
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("GetFilmByType", "Home")',
+            data: { type: '@Model.Type', statistical: index },
+            dataType: 'JSON',
+            beforeSend: function () {
+                var html = "<div id='loading' style='width: 100%;text-align: center;margin-top: 30%;'><img width='100' src='/Images/themes/loading1.gif' /></div>";
+                setTimeout(function () {
+                    $("#" + name).find("#loading").remove();
+                }, 20000);
+                $("#" + name).html(html);
+            },
+            success: function (resultList) {
+                $("#" + name).find("#loading").remove();
+                var n = resultList.Data.length;
+                if (n > 0) {
+                    $("#" + name).html(resultList.Data);
+                } else {
+                    var html = "<p>Không có dữ liệu</p>";
+                    $("#" + name).html(html);
+                }
+            }
+        });
+    }
+</script> 

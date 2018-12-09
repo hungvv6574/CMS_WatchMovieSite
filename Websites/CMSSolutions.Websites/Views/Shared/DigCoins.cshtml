@@ -1,0 +1,141 @@
+﻿@using CMSSolutions.Websites.Extensions
+@model CMSSolutions.Websites.Models.DataViewerModel
+<div class="bg-daoxu">
+    <div style="padding-left: 8px;">
+        <ul class="profi-menu">
+            <li>
+                <a class="@(Model.DataType == 0 ? "active" : string.Empty)" href="@Url.Action("ShowInformations", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">GIỚI THIỆU</a>
+            </li>
+            <li>
+                <a class="@(Model.DataType == 1 ? "active" : string.Empty)" href="@Url.Action("Index", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">SỰ KIỆN</a>
+            </li>
+            <li>
+                <a class="@(Model.DataType == 2 ? "active" : string.Empty)" href="@Url.Action("ShowLogs", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">LOG NHẬN THƯỞNG</a>
+            </li>
+            <li>
+                <a class="@(Model.DataType == 3 ? "active" : string.Empty)" href="@Url.Action("ShowHelps", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">HƯỚNG DẪN</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="clear_both w960_h10"></div>
+    @if (Model.Customer != null)
+    {
+        <div style="text-align: center; line-height: 25px">
+            <p style="line-height:20px;color:#333;margin-top:10px;">
+                Chào <strong class="orange_color">@Model.Customer.FullName</strong> ! 
+                Mã số tài khoản của bạn là <strong class="orange_color">@Model.Customer.CustomerCode</strong>
+            </p>
+            Tham gia mua sắm hoặc hoàn thành nhiệm vụ tại <a class="orange_color" target="_blank" title="nạp vip" href="@Url.Action("Index", "HomeDigCoins", new {@alias = "dao-xu", @id = 10})">KÊNH ĐÀO XU</a> để nhận ngay VIPXU
+            <br> 
+            <div class="orange_color">MUA CÀNG NHIỀU NHẬN QUÀ CÀNG LỚN</div>
+        </div>
+    }
+
+    <div>
+        @if (Model.ListGames != null && Model.ListGames.Count > 0)
+        {
+            <div id="pagination">
+                <input id="totalPage" name="totalPage" value="@Model.TotalPage" type="hidden" />
+                <ul class="mh-donate-4tab">
+                    @foreach (var item in Model.ListGames)
+                    {
+                        var download = Model.GetByGame(item.Id);
+                        var displayDay = Utilities.GetStatusDownload(download);
+                        <li>
+                            <a href="@item.GooglePlayUrl" target="_blank" onclick="checkDownload('@item.Id');" style="cursor: pointer">
+                                <img width="500" height="235" alt="@item.Title" src="@item.UrlBanner">
+                            </a>
+                            <div class="div_content_dao_xu">
+                                <div class="div_img_dao_xu">
+                                    <a href="@item.WebsiteUrl" style="cursor: pointer" title="@item.Title" target="_blank">
+                                        <img class="img_dao_xu" alt="@item.Title" src="@item.Logo">
+                                    </a>
+                                </div>
+                                <div class="div_text_dao_xu">
+                                    <div>
+                                        <strong>Nhiệm vụ:</strong> <strong class="orange_color"> @item.Title</strong> <br>                                                                                                      
+                                        <strong>Thưởng nhiệm vụ:</strong> <strong class="orange_color">@item.VipXu VipXu</strong> <br> 
+                                        <strong>Nhiệm vụ mới:</strong> <strong class="orange_color">@displayDay</strong>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    }
+                </ul>
+                <br class="clear_both">
+                <div id="show-content" class="content" style="margin-right: 10px;"></div>  
+                <br class="clear_both">
+            </div> 
+
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    var pageIndex = '@Model.PageIndex';
+                    var params = $(window.location).attr('search');
+                    var index = params.indexOf("trang");
+                    if (index > -1) {
+                        params = params.substring(0, index - 1);
+                    }
+
+                    if (params.indexOf("?") > -1) {
+                        params += "&" + "trang={{number}}";
+                    } else {
+                        params = "?trang={{number}}";
+                    }
+
+                    $('#show-content').bootpag({
+                        total: parseInt($("#totalPage").val()),
+                        page: parseInt(pageIndex),
+                        maxVisible: 5,
+                        leaps: true,
+                        firstLastUse: true,
+                        first: 'Đầu',
+                        last: 'Cuối',
+                        href: params,
+                        wrapClass: 'pagination',
+                        activeClass: 'active',
+                        disabledClass: 'disabled',
+                        nextClass: 'next',
+                        prevClass: 'prev',
+                        lastClass: 'last',
+                        firstClass: 'first'
+                    });
+                });
+                
+                function checkDownload(id) {
+                    var customerCode = '@(Model.Customer != null ? Model.Customer.CustomerCode : "")';
+                    if (customerCode == "" || customerCode == null) {
+                        dialogBox('#loginBox');
+                    } else {
+                        $.ajax({
+                            url: '@Url.Action("CheckDownload", "HomeDigCoins")',
+                            data: { id: id },
+                            type: 'POST',
+                            dataType: 'json',
+                            success: function (result) {
+                                if (result.Status == true) {
+                                    window.showMessages(result.Data);
+                                } else {
+                                    dialogBox('#loginBox');
+                                }
+                            }
+                        });
+                    }
+                }
+            </script> 
+        }
+        else
+        {
+            <div><p>Không có dữ liệu</p></div>
+        }     
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+        $(".content_left").hide();
+        $(".content_right").hide();
+    });
+</script>

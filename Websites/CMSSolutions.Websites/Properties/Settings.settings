@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CMSSolutions.Websites.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CMSSolutions_Websites_VipHDBankCardServices_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://bank.megapay.net.vn:10001/service.asmx</Value>
+    </Setting>
+    <Setting Name="CMSSolutions_Websites_VipHDCardServices_ServicesService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://charging-service.megapay.net.vn/CardChargingGW_V2.0/services/Services</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

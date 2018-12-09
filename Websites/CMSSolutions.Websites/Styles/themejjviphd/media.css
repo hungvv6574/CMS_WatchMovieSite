@@ -1,0 +1,59 @@
+/* Media queries */
+@media only screen and (max-width: 1379px) {
+	.mh-header, .mh-main, .mh-footer,.mh-player,.mh-banner-sld,.mh-slide-roundabout,.mh-player-ads{width:960px;}
+	.mh-player,.mh-banner-sld{height:480px;}
+	.mh-banner{height:600px;}
+	.mh-bn-left{left:-960px;}
+	.mh-bn-right{left:960px;}
+	
+	.mh-bn-left,
+	.mh-bn-right{height:570px;top:0;}
+	.mh-bn-bot{height:90px;bottom:-90px;}
+	
+	.nbs-flexisel-item img.mh-item-chi-img{}
+	.nbs-flexisel-nav-left {margin-left:7px;}
+	.seemore-a-pos {right:15px;}
+	.mh-box-sty-le{margin-right:340px;}
+	#jjplayer{height:480px;}
+	.banner_player_img img{width:962px;height:480px;}
+	.bg-banner-mask{background-image:url(/Images/jjtheme/bg-banner-mask-960.png);}
+	.mh-banner-ani{background-image:url(/Images/jjtheme/banner-ani960.png);background-position:center center;padding-top:145px;}
+	.listepisode .jcarousel-skin-tango .jcarousel-clip-horizontal,
+	.listepisode .jcarousel-skin-tango .jcarousel-item,
+	.listepisode-page-item{width:590px;}
+	.listepisode a{margin:7px 11.7px 7px 0}
+	.mh-breadcrumb-dv .title_h1_st3 {width: 590px;}
+	
+	.mh-avatar-dv{width:162px;}
+	.mh-avatar-aimg{width:160px;line-height:160px;height:160px;}
+	.mh-avatar-aimg img{width:160px;}
+	.mh-box-sty-le-le{width:170px;}
+	.mh-box-sty-le-ri{margin-left:20px;width:376px}
+	.mh-avatar-chimg{width:138px;}
+	.carousel-full-view3 > li{float:left;margin:10px 0;width:50%;}
+	.mh-tab-content.mh-wishlist-ul{margin:0;}
+	.mh-tab-content.mh-wishlist-ul > li{width:100%;margin:0;}
+	.roundabout-holder-1495 {margin: 0 auto 0;width: 640px;height: 320px;}
+	.roundabout-holder-1495 .roundabout-moveable-item { width: 480px; height: 240px; }
+	.cn-rcs-nav{margin-top:-20px;}
+	.slidediv-des{left:50px;bottom:50px;width:200px;}	
+
+}
+@media only screen and (max-width: 1250px) {
+}
+@media only screen and (max-width: 1125px) {
+}
+@media only screen and (max-width: 1100px) {
+}
+@media only screen and (max-width: 1015px) {
+}
+@media only screen and (max-width: 960px) {
+}
+@media only screen and (max-width: 850px) {
+}
+@media only screen and (max-width: 675px) {
+}
+@media only screen and (max-width: 420px) {
+}
+@media only screen and (max-width: 320px) {
+}

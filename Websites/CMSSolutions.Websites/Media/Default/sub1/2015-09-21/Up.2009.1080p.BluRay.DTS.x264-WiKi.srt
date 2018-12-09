@@ -1,0 +1,3915 @@
+﻿1
+00:00:46,040 --> 00:00:50,960
+<i>Chương trình thời sự Movietown
+xin giới thiệu tin Phiêu Lưu nổi bật.</i>
+
+2
+00:00:52,380 --> 00:00:53,420
+<i>Những gì bạn đang chứng kiến lúc này</i>
+
+3
+00:00:53,510 --> 00:00:56,050
+<i>là đoạn phim chưa từng
+được con người văn minh biết đến,</i>
+
+4
+00:00:56,140 --> 00:00:57,890
+<i>một thế giới bị lãng quên ở Nam Mỹ.</i>
+
+5
+00:00:57,970 --> 00:01:00,180
+<i>Ẩn dưới bóng hùng vĩ
+của Thác Thiên Đường,</i>
+
+6
+00:01:00,310 --> 00:01:03,220
+<i>nó trưng ra những loại cỏ cây và
+động vật chưa được khoa học khám phá.</i>
+
+7
+00:01:03,640 --> 00:01:06,560
+<i>Ai dám đặt chân lên
+đỉnh núi không mến khách này?</i>
+
+8
+00:01:06,980 --> 00:01:10,570
+<i>Tại sao, đề tài hôm nay của chúng ta,
+Charles Muntz!</i>
+
+9
+00:01:11,070 --> 00:01:13,730
+<i>Nhà thám hiểm đáng yêu đã hạ
+chiếc khí cầu, Tâm Hồn Phiêu Lưu,</i>
+
+10
+00:01:13,820 --> 00:01:15,240
+<i>xuống New Hampshire tuần này,</i>
+
+11
+00:01:15,320 --> 00:01:18,360
+<i>hoàn tất chuyến thám hiểm dài
+cả năm trời đến thế giới bị lãng quên.</i>
+
+12
+00:01:18,910 --> 00:01:21,370
+<i>Chiếc khí cầu nhẹ hơn cả không khí này
+được chính Muntz thiết kế</i>
+
+13
+00:01:21,490 --> 00:01:25,410
+<i>dài hơn cả 22 chiếc xe thồ lúa
+đứng nối đuôi nhau.</i>
+
+14
+00:01:25,830 --> 00:01:28,250
+<i>Và đây là nhà thám hiểm.</i>
+
+15
+00:01:28,710 --> 00:01:30,460
+<i>Không bao giờ rời xa
+những chú chó trung thành,</i>
+
+16
+00:01:30,540 --> 00:01:32,880
+<i>Muntz mong muốn chiếc khí cầu
+tiện nghi cho cả chó.</i>
+
+17
+00:01:33,010 --> 00:01:35,010
+<i>Đó thực sự là một
+cung điện nổi trên bầu trời,</i>
+
+18
+00:01:35,090 --> 00:01:38,550
+<i>với bồn tắm cho chó
+và thiết bị đi bộ cho chó.</i>
+
+19
+00:01:39,340 --> 00:01:42,850
+<i>Và, Jiminy Cricket, người địa
+phương coi Muntz là đầu gối ong.</i>
+
+20
+00:01:42,930 --> 00:01:44,270
+<i>Là vì...</i>
+
+21
+00:01:44,680 --> 00:01:46,730
+<i>Ngoài kia là hiểm nguy!</i>
+
+22
+00:01:49,020 --> 00:01:51,440
+<i>Thế nhưng
+chuyến này Muntz đã mang gì về?</i>
+
+23
+00:01:51,520 --> 00:01:56,280
+<i>Thưa quý vị, tôi xin giới thiệu
+quái vật Thác Thiên Đường!</i>
+
+24
+00:01:57,780 --> 00:02:01,280
+<i>Và chao ôi,
+con quái vật này mới bảnh bao làm sao!</i>
+
+25
+00:02:01,700 --> 00:02:04,040
+<i>Nhưng gì đây? Các nhà khoa học chơi xấu.</i>
+
+26
+00:02:04,120 --> 00:02:06,290
+<i>Hội Thám Hiểm Quốc Gia
+tố cáo Muntz</i>
+
+27
+00:02:06,370 --> 00:02:08,120
+<i>tội làm giả bộ xương.</i>
+
+28
+00:02:08,210 --> 00:02:09,370
+Không!
+
+29
+00:02:09,710 --> 00:02:11,170
+<i>Tổ chức này đã tước bỏ</i>
+
+30
+00:02:11,250 --> 00:02:12,460
+<i>tư cách thành viên của Muntz.</i>
+
+31
+00:02:15,300 --> 00:02:18,130
+<i>Cảm thấy bị sỉ nhục,
+Muntz thề sẽ trở lại Thác Thiên Đường</i>
+
+32
+00:02:18,220 --> 00:02:21,140
+<i>và hứa sẽ bắt sống được
+con quái vật!</i>
+
+33
+00:02:21,220 --> 00:02:23,930
+<i>Tôi hứa sẽ bắt sống được con quái vật,</i>
+
+34
+00:02:24,970 --> 00:02:27,730
+<i>và tôi sẽ không quay lại
+đến chừng nào làm được việc đó!</i>
+
+35
+00:02:29,230 --> 00:02:31,770
+<i>Vậy là nhà thám hiểm đã lên đường
+làm sạch danh tiếng của mình.</i>
+
+36
+00:02:31,900 --> 00:02:33,520
+<i>Bon voyage, Charles Muntz,</i>
+
+37
+00:02:33,610 --> 00:02:38,070
+<i>và chúc anh bắt được con
+quái vật Thác Thiên Đường!</i>
+
+38
+00:02:45,080 --> 00:02:46,330
+<i>Đây là Charles Muntz</i>
+
+39
+00:02:46,410 --> 00:02:48,660
+<i>đang lèo lái chiếc khí cầu nổi tiếng.</i>
+
+40
+00:02:52,750 --> 00:02:54,790
+<i>Anh vượt qua Đỉnh Pikes.</i>
+
+41
+00:02:56,000 --> 00:02:57,880
+<i>Anh vượt qua Grand Canyon.</i>
+
+42
+00:02:59,340 --> 00:03:00,930
+<i>Anh vượt qua Đỉnh Everest.</i>
+
+43
+00:03:03,850 --> 00:03:06,600
+<i>Anh đi vòng qua Đỉnh Everest.</i>
+
+44
+00:03:07,270 --> 00:03:09,520
+<i>Có gì anh không thể làm được không?</i>
+
+45
+00:03:11,940 --> 00:03:13,900
+<i>Có đấy, như chính Muntz vẫn nói,
+"Ngoài kia là..."</i>
+
+46
+00:03:13,980 --> 00:03:17,480
+Ngoài kia là hiểm nguy!
+Hãy cẩn thận!
+
+47
+00:03:17,610 --> 00:03:20,490
+Đỉnh Rushmore! Giữ chặt mạn phải!
+
+48
+00:03:20,700 --> 00:03:24,450
+Phải lái chiếc Tâm Hồn Phiên Lưu
+vượt qua đỉnh Rushmore!
+
+49
+00:03:24,530 --> 00:03:28,620
+Hãy cùng nhau nào, bà trẻ.
+Mấy con chó của tôi sao rồi?
+
+50
+00:03:30,960 --> 00:03:36,130
+Tất cả động cơ, tiến lên hết tốc lực!
+Hãy đưa nó lên độ cao 26,000 foot.
+
+51
+00:03:36,380 --> 00:03:39,010
+Bẻ lái 18 độ về phía nam.
+
+52
+00:03:39,130 --> 00:03:42,880
+Hôm nay là một ngày đẹp trời.
+Gió thổi từ phía đông ở mức 10 dặm.
+
+53
+00:03:42,970 --> 00:03:47,470
+Tầm nhìn vô hạn.
+Hãy ghi thời tiết vào nhật ký.
+
+54
+00:03:48,180 --> 00:03:51,810
+Ôi! Có thứ gì đó ở dưới kia.
+Tôi sẽ đưa nó về cho khoa học.
+
+55
+00:03:51,980 --> 00:03:58,610
+Eo! Đó là một con cún! A! Không còn thời gian rồi!
+Một cơn bão! Chớp giật. Mưa đá.
+
+56
+00:03:58,690 --> 00:04:00,150
+- Cậu đang làm gì thế?
+- Ahhh!
+
+57
+00:04:00,860 --> 00:04:03,150
+Cậu có biết đây là
+câu lạc bộ độc quyền không?
+
+58
+00:04:03,240 --> 00:04:05,200
+Chỉ những nhà thám hiểm
+mới được vào đây,
+
+59
+00:04:05,280 --> 00:04:09,200
+chứ không phải mấy đứa trẻ
+lang thang ngoài phố với
+chiếc mũ bảo hiểm cùng cặp kính.
+
+60
+00:04:09,370 --> 00:04:12,200
+Cậu có nghĩ cậu có đủ những thứ cần thiết không?
+Nào, có không?
+
+61
+00:04:13,790 --> 00:04:16,040
+Được rồi, cậu được tham gia, Chào mừng lên tàu.
+
+62
+00:04:17,710 --> 00:04:20,050
+Sao vậy? Cậu không nói được à?
+
+63
+00:04:22,550 --> 00:04:24,550
+Này, tớ có cắn đâu.
+
+64
+00:04:28,810 --> 00:04:31,430
+Cậu và tớ, chúng ta giờ cùng hội rồi.
+
+65
+00:04:35,600 --> 00:04:39,270
+Tớ biết quả bóng của cậu bay đi đâu rồi.
+Nào. Đi lấy nó thôi.
+
+66
+00:04:40,730 --> 00:04:42,230
+Tên tớ là Ellie.
+
+67
+00:04:45,660 --> 00:04:46,910
+Kia rồi.
+
+68
+00:04:51,330 --> 00:04:53,000
+Nào, tiến lên đi.
+
+69
+00:04:58,000 --> 00:04:59,420
+Đi đi.
+
+70
+00:05:19,860 --> 00:05:20,900
+Ow.
+
+71
+00:05:21,320 --> 00:05:22,320
+Này cậu bé!
+
+72
+00:05:23,900 --> 00:05:25,650
+Biết cậu đang cần chút gì đó để động viên.
+
+73
+00:05:25,740 --> 00:05:27,570
+Nên tớ có cái này cho cậu xem đây.
+
+74
+00:05:29,830 --> 00:05:32,280
+Tớ đang chuẩn bị cho cậu
+xem thứ này
+
+75
+00:05:32,370 --> 00:05:35,120
+Mà tớ chưa từng cho
+bất cứ người nào xem.
+
+76
+00:05:35,580 --> 00:05:37,580
+Chưa từng! Trong suốt cuộc đời tớ!
+
+77
+00:05:38,580 --> 00:05:41,880
+Cậu sẽ phải thề
+không được nói cho ai biết.
+
+78
+00:05:43,130 --> 00:05:45,260
+Hãy vạch lên tim cậu đi. Làm đi!
+
+79
+00:05:47,970 --> 00:05:50,180
+Quyển sách Phiêu lưu của tớ.
+
+80
+00:05:52,310 --> 00:05:53,470
+Cậu biết ông ấy rồi đấy.
+
+81
+00:05:54,680 --> 00:05:57,230
+Charles Muntz, nhà thám hiểm.
+
+82
+00:05:57,310 --> 00:06:00,350
+Khi nào tớ lớn,
+Tớ sẽ đến những nơi ông ấy đến,
+
+83
+00:06:01,230 --> 00:06:06,030
+Nam Mỹ.
+Nó giống như Mỹ, nhưng lại là nam.
+
+84
+00:06:06,900 --> 00:06:08,700
+Muốn biết nơi tớ sắp đến sống không?
+
+85
+00:06:09,280 --> 00:06:13,660
+"Thác Thiên Đường,
+vùng đất bị lãng quên cùng thời gian."
+
+86
+00:06:14,870 --> 00:06:18,040
+Tớ đã xé nó từ một quyển sách ở thư viện.
+
+87
+00:06:19,250 --> 00:06:22,790
+Tớ định dời nhà của tớ đến đó
+và đặt nó ngay cạnh ngọn thác.
+
+88
+00:06:23,340 --> 00:06:25,500
+Ai mà biết có gì sống trên đó chứ.
+
+89
+00:06:26,130 --> 00:06:27,720
+Và một khi đến được đó
+
+90
+00:06:27,800 --> 00:06:31,760
+Tớ sẽ dành những trang này cho
+tất cả những cuộc phiêu lưu tớ tham gia.
+
+91
+00:06:32,930 --> 00:06:37,730
+Mỗi tội tớ không biết làm sao
+có thể đến được Thác Thiên Đường.
+
+92
+00:06:44,730 --> 00:06:47,530
+Đúng rồi!
+Cậu có thể đưa bọn mình đến đó bằng khí cầu!
+
+93
+00:06:48,110 --> 00:06:50,570
+Hãy thề cậu sẽ làm vậy đi! Vạch lên tim cậu đi!
+
+94
+00:06:51,030 --> 00:06:55,700
+Vạch đi! Vạch lên tim cậu đi!
+Tốt, cậu hứa rồi đấy. Không được nuốt lời đâu đấy.
+
+95
+00:06:56,700 --> 00:06:59,250
+Vậy mai gặp lại nhé, cậu bé. Tạm biệt!
+
+96
+00:07:00,790 --> 00:07:03,330
+Ngoài kia là hiểm nguy!
+
+97
+00:07:05,050 --> 00:07:07,170
+Cậu biết không, cậu không nói nhiều.
+
+98
+00:07:08,090 --> 00:07:09,380
+Tớ thích cậu!
+
+99
+00:13:38,440 --> 00:13:40,190
+Stevie, quẳng đây hai đô!
+
+100
+00:13:42,070 --> 00:13:44,400
+Cảnh tượng thật hoành tráng phải không Ellie?
+
+101
+00:13:48,070 --> 00:13:50,240
+Uh! Có thư kìa.
+
+102
+00:14:03,300 --> 00:14:07,550
+Khu dưỡng lão Bóng Sồi.
+Ôi, em tôi.
+
+103
+00:14:09,720 --> 00:14:10,760
+Hmm...
+
+104
+00:14:16,770 --> 00:14:19,980
+Này! Chào bác Fredricksen.
+Có cần giúp gì không?
+
+105
+00:14:20,440 --> 00:14:21,940
+Không. Có!
+
+106
+00:14:22,320 --> 00:14:26,190
+Bảo chủ của anh ở đằng kia
+rằng quân của hắn đang phá nhà chúng tôi đấy.
+
+107
+00:14:26,280 --> 00:14:27,780
+Ờ, muốn nói cho bác biết rằng,
+
+108
+00:14:27,900 --> 00:14:30,450
+chủ của em sẽ rất hạnh phúc nếu lấy
+được chỗ cũ rích này ra khỏi tay bác,
+
+109
+00:14:30,570 --> 00:14:32,950
+với giá gấp đôi lần đề nghị trước!
+
+110
+00:14:33,160 --> 00:14:34,240
+Bác nói gì được nào?
+
+111
+00:14:37,120 --> 00:14:38,830
+Uh, vậy thì em hiểu câu trả lời là "không" rồi
+
+112
+00:14:38,960 --> 00:14:42,290
+Tôi tin là tôi đã làm rõ với chủ của anh rồi.
+
+113
+00:14:42,500 --> 00:14:44,920
+Bác chỉ là thứ nước mận nguyên chất
+trong thùng xăng của ông ấy thôi.
+
+114
+00:14:45,000 --> 00:14:48,170
+Vậy à, hay đấy.
+Đưa đây, để tôi nói với hắn ta.
+
+115
+00:14:51,260 --> 00:14:55,850
+<i>Này cái anh mặc com lê kia.
+Đúng rồi, anh đấy. Về tắm đi, đồ hippie!</i>
+
+116
+00:14:56,770 --> 00:14:58,350
+<i>Dạ em không quen biết gì ông ta cả!</i>
+
+117
+00:14:58,680 --> 00:15:02,020
+Nghiêm túc đấy!
+Ông ấy ra đây là để lấy nhà của bác.
+
+118
+00:15:02,520 --> 00:15:05,110
+Nói với chủ của anh là
+hắn ta có thể có nhà của bọn tôi.
+
+119
+00:15:05,530 --> 00:15:07,650
+- Thật không?
+- Khi nào tôi chết!
+
+120
+00:15:09,610 --> 00:15:11,490
+Em có thể hiểu câu trả lời là "có thể".
+
+121
+00:15:12,200 --> 00:15:13,820
+<i>Hãy đặt hàng ngay,
+bạn sẽ có máy ảnh,</i>
+
+122
+00:15:13,950 --> 00:15:17,120
+<i>bạn sẽ có máy in, phóng quang 4x,</i>
+
+123
+00:15:17,200 --> 00:15:19,700
+<i>ống kính Schneider, máy in ảnh, thẻ nhớ SD.</i>
+
+124
+00:15:24,710 --> 00:15:27,630
+"Chào ông. Tên cháu là Russell.
+
+125
+00:15:27,960 --> 00:15:33,010
+"Và cháu là một nhà thám hiểm hoang dã
+ở nhóm 54, chi hội 12.
+
+126
+00:15:33,390 --> 00:15:36,140
+"Hôm nay ông có cần giúp đỡ
+gì không, thưa ông?"
+
+127
+00:15:36,220 --> 00:15:37,260
+Không.
+
+128
+00:15:37,350 --> 00:15:40,520
+- Cháu có thể giúp ông đi qua đường.
+- Không.
+
+129
+00:15:40,730 --> 00:15:44,560
+- Cháu có thể giúp ông đi qua sân.
+- Không.
+
+130
+00:15:44,690 --> 00:15:48,320
+- Cháu có thể giúp ông đi qua cổng.
+- Không.
+
+131
+00:15:48,690 --> 00:15:50,740
+Nhưng cháu phải giúp ông đi qua gì đó.
+
+132
+00:15:50,860 --> 00:15:52,860
+Không. Ta tự làm tốt.
+
+133
+00:15:59,700 --> 00:16:01,660
+"Chào ông. Tên cháu là Russell."
+
+134
+00:16:02,870 --> 00:16:03,870
+- Này cậu bé....
+- "Và cháu là một nhà thám hiểm hoang dã
+
+135
+00:16:05,040 --> 00:16:08,550
+- "ở nhóm 54, chi hội 12."
+- Ta... chậm lại đi. Nhóc!
+
+136
+00:16:09,170 --> 00:16:10,880
+- "Ông có cần giúp đỡ điều gì..."
+- Cám ơn,
+
+137
+00:16:11,010 --> 00:16:12,510
+- nhưng ta không cần giúp đỡ gì cả!
+- "...không, thưa ông?"
+
+138
+00:16:14,340 --> 00:16:15,390
+Ow.
+
+139
+00:16:19,720 --> 00:16:21,060
+Được rồi.
+
+140
+00:16:21,770 --> 00:16:24,440
+- "Chào ông..."
+- Nhưng bỏ qua đến cuối luôn đi!
+
+141
+00:16:25,770 --> 00:16:29,360
+Ông có thấy những thứ này không?
+Đây là huy hiệu thám hiểm hoang dã của cháu.
+
+142
+00:16:29,860 --> 00:16:34,570
+Ông có thể nhìn thấy còn thiếu một chiếc.
+Đó là huy hiệu giúp đỡ người cao tuổi.
+
+143
+00:16:34,950 --> 00:16:39,370
+Nếu có nó, cháu sẽ trở thành một
+nhà thám hiểm hoang dã thâm niên.
+
+144
+00:16:39,790 --> 00:16:42,080
+"Vùng hoang dã phải được khám phá!"
+
+145
+00:16:42,200 --> 00:16:44,250
+Caw, caw! Raar!
+
+146
+00:16:45,460 --> 00:16:48,130
+Sẽ tuyệt lắm đấy!
+Sẽ có một buổi lễ lớn,
+
+147
+00:16:48,250 --> 00:16:51,710
+và mọi ông bố đều đến,
+và họ sẽ đeo huy hiệu cho bọn cháu.
+
+148
+00:16:51,800 --> 00:16:53,760
+Vậy, cháu muốn giúp đỡ người già sao?
+
+149
+00:16:53,880 --> 00:16:57,260
+Vâng! Và rồi cháu sẽ trở thành
+nhà thám hiểm hoang dã thâm niên.
+
+150
+00:16:58,760 --> 00:17:01,600
+- Cháu đã bao giờ nghe đến Dẽ giun chưa?
+- Dẽ giun sao?
+
+151
+00:17:01,930 --> 00:17:03,680
+Là chim. Mắt tròn.
+
+152
+00:17:03,770 --> 00:17:07,770
+Đêm nào nó cũng chui vào
+vườn nhà ông phá hoại cây cối.
+
+153
+00:17:08,270 --> 00:17:13,570
+Ông thì già và hom hem. Ông không thể bắt nó.
+Giá như ai đó có thể giúp ông.
+
+154
+00:17:13,650 --> 00:17:17,070
+- Cháu, cháu! Cháu sẽ giúp!
+- Ông không biết nữa. Nó láu cá lắm đấy.
+
+155
+00:17:17,410 --> 00:17:20,120
+Cháu phải vỗ tay ba lần để nhử nó.
+
+156
+00:17:20,240 --> 00:17:21,990
+Cháu sẽ tìm ra nó, thưa ông Fredricksen!
+
+157
+00:17:22,120 --> 00:17:24,450
+Ông nghĩ tổ của nó cách đây hai dãy phố.
+Nếu cháu đi qua...
+
+158
+00:17:24,580 --> 00:17:27,620
+Hai dãy phố. Được rồi! Dẽ giun.
+
+159
+00:17:28,580 --> 00:17:30,540
+Này này, Dẽ ơi, Dẽ ơi.
+
+160
+00:17:30,630 --> 00:17:32,300
+Mang nó về đây khi nào cháu tìm thấy nhé.
+
+161
+00:17:32,420 --> 00:17:33,460
+Dẽ giun ơi!
+
+162
+00:17:33,590 --> 00:17:34,670
+Được rồi, cứ tiến lên đi.
+Tiến lên nữa đi.
+
+163
+00:17:36,180 --> 00:17:39,800
+Và dừng lại. Dừng. Dừng!
+
+164
+00:17:41,140 --> 00:17:44,520
+Sao... Này! Này anh kia!
+
+165
+00:17:44,640 --> 00:17:46,100
+Anh làm gì...
+Anh nghĩ anh đang làm gì thế?
+
+166
+00:17:46,190 --> 00:17:48,650
+- Cháu xin lỗi, thưa bác.
+- Đừng đụng vào nó!
+
+167
+00:17:48,770 --> 00:17:50,270
+Không, không, không.
+Để cháu giúp bác.
+
+168
+00:17:50,360 --> 00:17:52,440
+- Tránh xa hòm thư của bọn tôi ra!
+- Này. Thưa bác, cháu...
+
+169
+00:17:52,530 --> 00:17:54,030
+Ta không muốn anh đụng vào nó!
+
+170
+00:17:54,150 --> 00:17:55,150
+Ow!
+
+171
+00:18:06,000 --> 00:18:08,000
+Steve, cậu sao không?
+
+172
+00:18:42,580 --> 00:18:44,200
+Xin lỗi, thưa bác Fredricksen.
+
+173
+00:18:44,870 --> 00:18:48,540
+Đối với cháu bác không có vẻ gì là
+mối đe dọa của cộng đồng cả. Bác hãy cầm lấy.
+
+174
+00:18:49,080 --> 00:18:52,710
+Mấy anh ở Bóng Sồi sẽ đến
+đón bác vào sáng mai, được không?
+
+175
+00:19:06,850 --> 00:19:09,020
+Giờ anh phải làm gì đây, Ellie?
+
+176
+00:20:38,940 --> 00:20:40,440
+Chào quý vị.
+
+177
+00:20:40,530 --> 00:20:43,490
+Chào bác Fredricksen.
+Bác sẵn sàng chưa?
+
+178
+00:20:45,030 --> 00:20:46,700
+Chưa từng sẵn sàng hơn.
+
+179
+00:20:46,820 --> 00:20:49,120
+Các anh có thể làm ơn cầm hộ cái này không?
+
+180
+00:20:49,200 --> 00:20:51,540
+Tôi sẽ gặp anh ngoài xe một phút nữa thôi.
+
+181
+00:20:51,660 --> 00:20:55,960
+Tôi muốn nói lời từ biệt
+cuối cùng với nơi cũ kỹ này.
+
+182
+00:20:56,460 --> 00:20:58,840
+Dĩ nhiên rồi. Bác cứ làm cho xong đi.
+
+183
+00:21:01,460 --> 00:21:05,430
+Chuyện thường ấy mà.
+Có lẽ ông ấy sẽ vào nhà tắm lần thứ 80.
+
+184
+00:21:05,510 --> 00:21:09,180
+Cậu có nghĩ ông ấy nên
+giữ gìn nhà cửa cẩn thận hơn không.
+
+185
+00:21:50,720 --> 00:21:55,480
+Chào nhé, mấy cu!
+Ta sẽ gửi bưu thiếp từ Thác Thiên Đường!
+
+186
+00:23:24,150 --> 00:23:26,230
+Chúng ta lên đường rồi đấy, Ellie.
+
+187
+00:24:35,970 --> 00:24:39,390
+Chào ông Fredricksen. Cháu đây, Russell.
+
+188
+00:24:39,470 --> 00:24:41,470
+Cháu làm gì ngoài này thế?
+
+189
+00:24:41,560 --> 00:24:45,310
+Cháu đã tìm thấy con Dẽ giun
+và đã đuổi nó đến tận cổng nhà ông,
+
+190
+00:24:45,400 --> 00:24:50,230
+nhưng con Dẽ giun này có đuôi dài và
+trông giống một con chuột to hơn.
+
+191
+00:24:56,030 --> 00:24:57,740
+Làm ơn cho cháu vào nhà với.
+
+192
+00:24:58,240 --> 00:24:59,410
+Không.
+
+193
+00:25:04,080 --> 00:25:06,170
+Ôi, được rồi, cháu có thể...
+
+194
+00:25:07,420 --> 00:25:08,580
+...vào.
+
+195
+00:25:18,010 --> 00:25:20,600
+Cháu chưa từng vào trong
+một ngôi nhà bay bao giờ.
+
+196
+00:25:22,100 --> 00:25:26,230
+Kính bảo vệ. Nhìn những thứ này mà xem.
+Wow! Ông đang đi đâu à?
+
+197
+00:25:26,560 --> 00:25:30,020
+"Thác Thiên Đường,
+vùng đất bị lãng quên cùng thời gian."
+
+198
+00:25:30,110 --> 00:25:31,860
+Ông đang đi đến Nam Mỹ hả ông Fredricksen?
+
+199
+00:25:31,940 --> 00:25:33,780
+Đừng đụng vào! Cháu sẽ làm bẩn nó đấy.
+
+200
+00:25:33,900 --> 00:25:35,950
+Ông biết không, mọi người đều đi máy bay,
+
+201
+00:25:36,030 --> 00:25:39,370
+nhưng ông rất thông minh vì ông sẽ được
+mang theo cả TV đồng hồ và các thứ.
+
+202
+00:25:39,450 --> 00:25:42,370
+Whoa.
+Đây là cách ông lái nhà ông sao?
+
+203
+00:25:42,450 --> 00:25:43,870
+Nó có làm việc không?
+
+204
+00:25:45,120 --> 00:25:46,370
+Này nhóc, cháu có thôi ngay...
+
+205
+00:25:46,460 --> 00:25:48,040
+- Cái này làm nó rẽ phải.
+- Ra khỏi đó...
+
+206
+00:25:48,130 --> 00:25:50,630
+- Và cái này rẽ trái.
+- Bỏ nó ra!
+
+207
+00:25:50,790 --> 00:25:52,750
+Này, nhìn kìa! Nhà.
+
+208
+00:25:53,420 --> 00:25:56,760
+Tòa nhà đó gần quá
+cháu gần như chạm được vào nó.
+
+209
+00:25:59,970 --> 00:26:02,100
+Wow! Tuyệt quá!
+
+210
+00:26:02,470 --> 00:26:04,640
+Ông cũng nên thử xem, thưa ông Fredricksen.
+
+211
+00:26:04,770 --> 00:26:08,140
+Nhìn kìa, kia là chiếc xe buýt có thể
+đưa cháu về nhà cách hai dãy phố!
+
+212
+00:26:08,230 --> 00:26:10,770
+Này! Cháu có thể nhìn thấy nhà cháu từ đây.
+
+213
+00:26:11,440 --> 00:26:13,650
+Này nhóc đừng có vặn vẹo lung tung.
+
+214
+00:26:15,780 --> 00:26:17,320
+Ờ, cách đó không ổn.
+
+215
+00:26:17,490 --> 00:26:20,660
+Cháu biết đám mây kia. Đó là mây giông.
+
+216
+00:26:20,740 --> 00:26:21,820
+Ông có biết rằng
+
+217
+00:26:22,240 --> 00:26:23,580
+mây giông được hình thành
+
+218
+00:26:24,160 --> 00:26:25,160
+khi không khí ấm dâng lên phía trên không khí lạnh?
+
+219
+00:26:25,290 --> 00:26:28,580
+Thức cả đêm thổi bóng... để làm gì đây?
+
+220
+00:26:28,670 --> 00:26:29,750
+...và đó là lý do chúng ta thấy sét.
+
+221
+00:26:29,830 --> 00:26:31,250
+- Hay đấy, nhóc.
+- Ông Fredricksen?
+
+222
+00:26:32,500 --> 00:26:34,500
+Có một cơn bão đang đến.
+Nó bắt đầu đáng sợ rồi.
+
+223
+00:26:34,630 --> 00:26:38,260
+Chúng ta sẽ bị thổi tan từng mảnh!
+Chúng ta rắc rối to rồi...
+
+224
+00:26:39,680 --> 00:26:42,180
+- Cháu làm trò gì ở đó thế?
+- Nhìn kìa.
+
+225
+00:26:53,820 --> 00:26:55,980
+Thấy chưa? Cumulonimbus.
+
+226
+00:27:31,690 --> 00:27:33,060
+Ba lô của cháu!
+
+227
+00:27:37,900 --> 00:27:39,240
+Bắt được rồi!
+
+228
+00:28:16,610 --> 00:28:18,230
+Cháu tưởng ông chết rồi.
+
+229
+00:28:21,240 --> 00:28:22,360
+Chuyện gì vậy?
+
+230
+00:28:22,450 --> 00:28:25,870
+Cháu đã lái chúng ta. Cháu đã lái ngôi nhà.
+
+231
+00:28:25,950 --> 00:28:27,030
+Lái chúng ta?
+
+232
+00:28:27,120 --> 00:28:29,870
+Sau khi ông buộc đồ đạc lại,
+ông đã đi nghỉ.
+
+233
+00:28:29,950 --> 00:28:32,040
+Cháu đã tiếp tục và lái chúng ta xuống đây.
+
+234
+00:28:32,540 --> 00:28:33,830
+Đúng rồi. Dĩ nhiên rồi.
+
+235
+00:28:47,100 --> 00:28:48,800
+Không thể nói chúng ta đang ở đâu.
+
+236
+00:28:48,930 --> 00:28:50,890
+Ồ, chúng ta đang ở Nam Mỹ đấy.
+
+237
+00:28:50,970 --> 00:28:54,640
+Chỉ là chuyện vặt đối với chiếc GPS
+dành cho nhà thám hiểm vùng hoang của cháu.
+
+238
+00:28:54,940 --> 00:28:57,400
+- GP... Gì cơ?
+- Bố cháu tặng cháu.
+
+239
+00:28:57,480 --> 00:28:59,820
+Nó chỉ chính xác chúng ta
+đang ở đâu trên hành tinh này.
+
+240
+00:29:01,650 --> 00:29:04,650
+Với thằng em này, chúng ta sẽ không bao giờ lạc!
+
+241
+00:29:09,280 --> 00:29:10,330
+Oops.
+
+242
+00:29:11,950 --> 00:29:14,250
+Ông sẽ đưa cháu xuống, tìm một trạm buýt,
+
+243
+00:29:14,330 --> 00:29:17,420
+cháu chỉ cần nói với lái xe
+là cháu muốn về với mẹ.
+
+244
+00:29:17,500 --> 00:29:21,170
+Vâng, nhưng cháu không nghĩ
+họ có buýt ở Thác Thiên Đường.
+
+245
+00:29:24,260 --> 00:29:26,680
+Ở đó. Phải có chứ.
+
+246
+00:29:26,760 --> 00:29:28,590
+Đây, ông sẽ cho cháu ít tiền lẻ để mua vé.
+
+247
+00:29:28,680 --> 00:29:31,180
+Không, cháu có vé tháng rồi.
+
+248
+00:29:32,020 --> 00:29:34,930
+Ôi chao. Chắc phải đổi hàng tỷ tuyến
+
+249
+00:29:35,020 --> 00:29:36,690
+để về được nhà cháu.
+
+250
+00:29:43,190 --> 00:29:46,110
+Ông Fredricksen, còn bao xa nữa vậy?
+
+251
+00:29:46,200 --> 00:29:50,030
+À, chúng ta vẫn còn ở khá cao.
+Chắc phải mất hàng giờ mới xuống được.
+
+252
+00:29:51,990 --> 00:29:54,450
+Cái đó là... nhà hay gì đó.
+
+253
+00:29:56,000 --> 00:29:57,960
+Cái gì thế, ông Fredricksen?
+
+254
+00:29:58,040 --> 00:30:00,380
+Chúng ta chưa thể gần mặt đất được.
+
+255
+00:30:09,510 --> 00:30:12,220
+Khoan! Khoan đã, không, đừng! Đừng, đừng!
+
+256
+00:30:13,060 --> 00:30:15,020
+Khoan, khoan. Khoan!
+
+257
+00:30:20,520 --> 00:30:23,190
+Russell, bám lấy! Này!
+
+258
+00:30:33,410 --> 00:30:34,910
+- Lùi lại. Lùi lại.
+- Vâng.
+
+259
+00:30:35,000 --> 00:30:36,830
+Nào. Nào.
+
+260
+00:30:49,380 --> 00:30:52,260
+Chúng... chúng ta ở đâu đây?
+
+261
+00:30:52,600 --> 00:30:57,100
+Trông không giống thành phố
+hay rừng rú gì cả, ông Fredricksen ạ.
+
+262
+00:30:59,560 --> 00:31:01,940
+Đừng lo lắng, Ellie. Anh lo được.
+
+263
+00:31:27,210 --> 00:31:28,760
+Nó kia rồi.
+
+264
+00:31:56,790 --> 00:31:59,330
+Ellie, đẹp quá.
+
+265
+00:32:01,620 --> 00:32:03,250
+Chúng ta đến nơi rồi.
+
+266
+00:32:03,330 --> 00:32:08,090
+Chúng ta đến rồi! Russell! Chúng ta có thể
+bay đến ngay đằng kia! Trèo lên đi. Trèo lên đi!
+
+267
+00:32:08,170 --> 00:32:09,590
+Ý ông là giúp ông?
+
+268
+00:32:09,670 --> 00:32:11,920
+- Đúng, đúng. Gì cũng được.
+- Vâng. Cháu sẽ trèo.
+
+269
+00:32:17,810 --> 00:32:19,680
+Cẩn thận!
+Cháu xin lỗi.
+
+270
+00:32:26,980 --> 00:32:31,150
+Khi nào cháu lên đến nơi
+thì kéo ông lên với nhé!
+
+271
+00:32:32,150 --> 00:32:33,490
+Được không?
+
+272
+00:32:37,490 --> 00:32:39,290
+Cháu lên đến cổng chưa?
+
+273
+00:32:46,040 --> 00:32:47,710
+Cái gì? Vậy thôi sao?
+
+274
+00:32:48,170 --> 00:32:53,380
+Ta đi cả một chặng đường đến đây
+chỉ để mắc lại ở đầu bên kia của đống đá sao?
+
+275
+00:32:55,050 --> 00:32:56,140
+Tuyệt.
+
+276
+00:33:00,060 --> 00:33:04,890
+Này, nếu cháu có thể giúp ông đến kia,
+ông sẽ ký cho cháu lên tấm huy chương chứ?
+
+277
+00:33:05,900 --> 00:33:10,150
+- Cháu đang nói gì thế?
+- Chúng ta có thể kéo nhà ông đến ngọn thác.
+
+278
+00:33:10,230 --> 00:33:13,820
+- Kéo nó sao?
+- Vâng! Dù sao chúng ta cũng kéo được nó xuống mà.
+
+279
+00:33:13,900 --> 00:33:17,240
+Chúng ta có thể kéo nó ra đằng kia.
+Như một cuộc diễu hành bóng bay.
+
+280
+00:33:21,410 --> 00:33:24,830
+Giờ chúng ta sẽ đi đến
+ngọn thác thật nhanh gọn
+
+281
+00:33:24,920 --> 00:33:27,540
+sẽ không có nhạc rap hay nhảy nhót gì hết.
+
+282
+00:33:27,830 --> 00:33:32,420
+Chúng ta có tối đa ba ngày trước khi
+khí helium rò ra khỏi đống bóng kia.
+
+283
+00:33:32,550 --> 00:33:35,010
+Và nếu chúng ta chưa ở
+ngọn thác khi điều đó xảy ra...
+
+284
+00:33:35,090 --> 00:33:37,430
+- Cát này.
+...chúng ta sẽ không thể đến được ngọn thác.
+
+285
+00:33:37,510 --> 00:33:39,390
+Cháu tìm thấy cát này!
+
+286
+00:33:40,260 --> 00:33:43,930
+Em đừng lo, Ellie.
+Chúng ta sẽ đưa ngồi nhà đến đằng kia.
+
+287
+00:33:48,440 --> 00:33:50,940
+Bắt đầu vui rồi đấy, ông nhỉ?
+
+288
+00:33:51,270 --> 00:33:54,900
+Khi nào chúng ta đến được đó,
+ông sẽ có cảm giác được giúp đỡ.
+
+289
+00:33:55,030 --> 00:33:58,610
+Ôi, ông Fredricksen,
+nếu chúng ta bị lạc nhau,
+
+290
+00:33:58,740 --> 00:34:00,870
+hãy sử dụng cách gọi của
+nhà thám hiểm hoang dã.
+
+291
+00:34:00,950 --> 00:34:02,950
+Caw, caw! Raar!
+
+292
+00:34:04,200 --> 00:34:06,870
+Mà khoan. Chúng ta đến
+Thác Thiên Đường để làm gì ấy nhỉ?
+
+293
+00:34:06,960 --> 00:34:09,040
+Này, hãy chơi một trò này.
+
+294
+00:34:09,130 --> 00:34:12,380
+Nó tên là
+"hãy xem ai giữ im lặng lâu nhất."
+
+295
+00:34:12,460 --> 00:34:15,300
+Tuyệt!
+Mẹ cháu thích trò này lắm!
+
+296
+00:35:17,690 --> 00:35:19,150
+Thứ chết tiệt này!
+
+297
+00:35:21,030 --> 00:35:22,870
+Nào Russell.
+Cháu có nhanh lên không?
+
+298
+00:35:22,950 --> 00:35:27,200
+Cháu mệt rồi. Đầu gối lại đau.
+
+299
+00:35:27,450 --> 00:35:28,830
+Đầu gối nào?
+
+300
+00:35:29,460 --> 00:35:33,880
+Khuỷu tay cháu đau,
+và cháu phải đi vệ sinh.
+
+301
+00:35:34,000 --> 00:35:36,710
+Ông đã hỏi cháu điều đó năm phút trước rồi.
+
+302
+00:35:36,840 --> 00:35:40,010
+Nhưng lúc đó cháu chưa thấy buồn.
+
+303
+00:35:40,720 --> 00:35:46,470
+Cháu không muốn đi chút nào nữa.
+Chúng ta dừng được không?
+
+304
+00:35:46,560 --> 00:35:49,640
+Russell, nếu cháu không
+đi nhanh, bọn hổ sẽ ăn thịt cháu.
+
+305
+00:35:49,730 --> 00:35:54,190
+Không có hổ ở Nam Mỹ đâu.
+Động Vật Học.
+
+306
+00:35:55,730 --> 00:35:59,490
+Ôi, vì tình yêu của Pete! Hãy vào
+bụi cây và làm việc của cháu ngay đi.
+
+307
+00:35:59,570 --> 00:36:01,740
+Được! Đây! Ông cầm đồ hộ cháu.
+
+308
+00:36:03,990 --> 00:36:06,370
+Mình lúc nào cũng muốn thử chuyện này.
+
+309
+00:36:10,210 --> 00:36:11,580
+Ông Fredricksen,
+
+310
+00:36:11,660 --> 00:36:14,670
+cháu nên đào hố trước hay sau khi?
+
+311
+00:36:15,920 --> 00:36:17,340
+Ông không quan tâm!
+
+312
+00:36:18,710 --> 00:36:20,920
+Ồ. Là trước khi!
+
+313
+00:36:28,680 --> 00:36:30,350
+Dấu vết sao?
+
+314
+00:36:31,520 --> 00:36:32,680
+Dẽ giun.
+
+315
+00:36:34,440 --> 00:36:38,230
+Đây, dẽ giun. Ra đi, dẽ giun.
+
+316
+00:36:39,400 --> 00:36:41,030
+Dẽ giun.
+
+317
+00:36:59,880 --> 00:37:03,550
+Ha! Bắt được rồi! Đừng sợ, dẽ giun bé nhỏ.
+
+318
+00:37:03,630 --> 00:37:08,300
+Tao là một nhà thám hiểm hoang dã,
+nên tao là bạn của thiên nhiên.
+
+319
+00:37:08,890 --> 00:37:10,600
+Muốn thêm không?
+
+320
+00:37:13,060 --> 00:37:17,270
+Này cu. Đừng có ăn hết. Ra ngoài đi.
+
+321
+00:37:19,150 --> 00:37:23,820
+Ra đi. Ra đi.
+Đừng có sợ, dẽ giun bé nhỏ.
+
+322
+00:37:24,570 --> 00:37:28,570
+Dẽ giun tốt bụng. Dẽ giun bé nhỏ tốt bụng. Dẽ...
+
+323
+00:37:29,580 --> 00:37:31,580
+Dẽ giun khổng lồ.
+
+324
+00:37:36,120 --> 00:37:39,500
+- Cháu tìm thấy con dẽ giun rồi!
+- Ồ vậy sao?
+
+325
+00:37:39,590 --> 00:37:42,130
+- Chúng có cao không?
+- Có đấy, chúng rất cao.
+
+326
+00:37:42,630 --> 00:37:45,260
+- Chúng có nhiều màu không?
+- Có đấy, dĩ nhiên rồi!
+
+327
+00:37:45,760 --> 00:37:49,090
+- Chúng có thích chocolate không?
+- Ồ có... chocolate sao?
+
+328
+00:37:52,020 --> 00:37:54,680
+- Gah! Thứ gì vậy?
+- Nó là một con dẽ giun!
+
+329
+00:37:54,770 --> 00:37:56,770
+Chẳng có dẽ giun nào hết!
+
+330
+00:37:56,850 --> 00:37:59,610
+Nhưng ông chả bảo dẽ giun đã phá...
+
+331
+00:38:02,030 --> 00:38:03,690
+Nào! Đi khỏi đây ngay! Nào!
+
+332
+00:38:14,660 --> 00:38:15,700
+Cẩn thận, Russell!
+
+333
+00:38:15,830 --> 00:38:19,710
+Xem này, ông Fredricksen.
+Nó thích cháu.
+
+334
+00:38:20,210 --> 00:38:23,050
+- Russell!
+- Không, thôi đi! Buồn đấy.
+
+335
+00:38:23,880 --> 00:38:26,300
+Đi khỏi đây ngay! Nào! Đi!
+
+336
+00:38:33,310 --> 00:38:38,480
+Uh-oh. Không, không, không! Kevin!
+Không sao đâu. Ông Fredricksen tốt mà.
+
+337
+00:38:38,900 --> 00:38:41,730
+- Kevin?
+- Vâng. Đó là tên cháu vừa đặt cho nó.
+
+338
+00:38:43,320 --> 00:38:47,070
+Ăn đập đấy! Cút đi! Xéo đi!
+Này! Của tao chứ!
+
+339
+00:38:52,080 --> 00:38:53,580
+Shoo! Shoo! Đi khỏi đây ngay!
+
+340
+00:38:54,740 --> 00:38:56,330
+Đi đi! Ăn đập bây giờ!
+
+341
+00:39:01,380 --> 00:39:02,920
+Chúng ta giữ nó lại được không? Làm ơn mà?
+
+342
+00:39:03,000 --> 00:39:06,920
+Cháu sẽ kiếm thức ăn cho nó. Cháu sẽ dắt nó.
+Cháu sẽ thay báo cho nó.
+
+343
+00:39:07,010 --> 00:39:08,090
+Không.
+
+344
+00:39:09,430 --> 00:39:13,430
+"Một nhà thám hiểm phải là bạn với tất cả,
+dù đó là cỏ cây hay cá hay chỉ là một con chuột trũi nhỏ."
+
+345
+00:39:13,760 --> 00:39:16,270
+- Nó còn chẳng vần nữa.
+- Có mà.
+
+346
+00:39:17,100 --> 00:39:19,270
+- Nhìn kìa. Kevin.
+- Cái gì?
+
+347
+00:39:20,560 --> 00:39:23,440
+Xuống đây! Mày không được phép lên đó!
+
+348
+00:39:26,030 --> 00:39:28,280
+Mày có xuống ngay không thì bảo!
+
+349
+00:39:31,360 --> 00:39:32,450
+Sheesh!
+
+350
+00:39:32,570 --> 00:39:34,620
+Em có thể tin được không, Ellie?
+
+351
+00:39:34,740 --> 00:39:35,780
+Ellie?
+
+352
+00:39:36,790 --> 00:39:39,540
+Này, Ellie! Cháu có thể giữ lại con chim không?
+
+353
+00:39:43,210 --> 00:39:44,880
+Bà ấy nói với ông là cho phép.
+
+354
+00:39:44,960 --> 00:39:46,800
+Nhưng anh đã bảo với nó là không.
+Đã bảo với cháu là không rồi mà!
+
+355
+00:39:47,130 --> 00:39:48,300
+K-H-Ô-N-G.
+
+356
+00:40:00,810 --> 00:40:02,480
+Tao thấy mày sau đó rồi đấy.
+
+357
+00:40:04,480 --> 00:40:08,320
+Nào! Biến khỏi đây đi! Shoo!
+Đi mà làm phiền người khác một lúc đi.
+
+358
+00:40:08,400 --> 00:40:09,990
+Này, mọi người ở đó có ổn không?
+
+359
+00:40:13,990 --> 00:40:16,240
+Uh... Xin chào?
+
+360
+00:40:21,830 --> 00:40:24,420
+Chào anh! Ơn chúa.
+
+361
+00:40:24,500 --> 00:40:26,920
+Thật vui khi biết vẫn còn
+có ai đó nữa trên này.
+
+362
+00:40:27,000 --> 00:40:28,800
+Tôi có thể ngửi thấy các ông.
+
+363
+00:40:29,460 --> 00:40:32,510
+Gì cơ? Anh có thể ngửi thấy bọn tôi?
+
+364
+00:40:34,260 --> 00:40:35,970
+Tôi có thể ngửi thấy các ông.
+
+365
+00:40:44,440 --> 00:40:46,860
+Ông vừa nói chuyện với một tảng đá.
+
+366
+00:40:48,360 --> 00:40:50,030
+Này, nó giống như một con rùa.
+
+367
+00:40:50,110 --> 00:40:53,110
+Nhìn tảng kia kìa!
+Nó trông giống một con chó.
+
+368
+00:40:54,530 --> 00:40:56,530
+- Nó là một con chó!
+- Gì cơ?
+
+369
+00:40:57,450 --> 00:41:00,540
+Gia đình cháu không
+được phép nuôi chó trong nhà.
+
+370
+00:41:02,160 --> 00:41:04,210
+Này, cháu thích chó.
+
+371
+00:41:04,330 --> 00:41:05,960
+Bọn tôi có chó của anh này!
+
+372
+00:41:06,380 --> 00:41:08,380
+- Whoa!
+- Không biết nó là chó của ai.
+
+373
+00:41:08,500 --> 00:41:12,050
+Ngồi xuống, anh bạn. Này, nhìn kìa,
+nó được huấn luyện. Bắt tay.
+
+374
+00:41:13,550 --> 00:41:14,550
+- Nói đi.
+- Chào đằng ấy.
+
+375
+00:41:16,180 --> 00:41:18,550
+Có phải con chó đó vừa nói "Chào đằng ấy" không?
+
+376
+00:41:18,680 --> 00:41:19,850
+Ồ, đúng vậy.
+
+377
+00:41:20,560 --> 00:41:23,980
+Tên cháu là Dug.
+Cháu vừa mới gặp ông, và cháu yêu ông.
+
+378
+00:41:25,190 --> 00:41:28,400
+Chủ cháu làm cho cháu cái vòng cổ này.
+Ông ấy là một ông chủ tốt và thông minh,
+
+379
+00:41:28,520 --> 00:41:32,030
+và ông ấy làm cho cháu cái vòng cổ này
+vì thế cháu có thể nói. Sóc kìa!
+
+380
+00:41:33,900 --> 00:41:35,240
+Chủ của cháu rất tốt và thông minh.
+
+381
+00:41:35,360 --> 00:41:36,410
+Không thể thế được.
+
+382
+00:41:36,530 --> 00:41:38,990
+Ồ có đấy,
+vì ông chủ của cháu rất thông minh.
+
+383
+00:41:39,080 --> 00:41:41,080
+- Tuyệt! Những thứ này để làm gì thế, anh bạn?
+- Này, cháu có...
+
+384
+00:41:42,330 --> 00:41:43,410
+Tôi dùng chiếc vòng cổ đó...
+
+385
+00:41:44,710 --> 00:41:46,920
+...để nói.
+Tớ sẽ rất vui nếu cậu dừng lại.
+
+386
+00:41:47,040 --> 00:41:50,420
+Russell, đừng đụng vào đó!
+Nó có thể bị nhiễm xạ hay sao đó!
+
+387
+00:41:50,550 --> 00:41:51,840
+Cháu là một người tìm đường tài năng.
+
+388
+00:41:51,920 --> 00:41:55,010
+Đội của cháu cử cháu làm một nhiệm vụ đặc biệt
+chỉ mình cháu thôi.
+
+389
+00:41:55,090 --> 00:41:56,170
+Các ông có nhìn thấy con chim nào không?
+
+390
+00:41:56,260 --> 00:41:58,510
+Cháu muốn tìm một con,
+và cháu đã đánh hơi thấy rồi.
+
+391
+00:41:58,590 --> 00:42:00,760
+Cháu là một người tìm đường tài năng.
+Cháu nói điều đó chưa ấy nhỉ?
+
+392
+00:42:02,270 --> 00:42:03,600
+Này, chính là con chim đó.
+
+393
+00:42:03,720 --> 00:42:06,600
+Cháu chưa từng thấy con nào gần như vậy,
+ngoài con chim này.
+
+394
+00:42:06,730 --> 00:42:09,190
+Cháu có thể bắt con chim của ông làm tù binh
+và giải nó về trại không?
+
+395
+00:42:09,270 --> 00:42:13,280
+Được, được, bắt nó đi. Và nhân thể,
+hãy học cách sủa như một con chó thực thụ nhé.
+
+396
+00:42:13,400 --> 00:42:14,440
+Cháu có thể sủa.
+
+397
+00:42:15,700 --> 00:42:16,780
+Và đây là tru.
+
+398
+00:42:20,950 --> 00:42:23,540
+Mình có thể giữ nó lại không?
+làm ơn, làm ơn, làm ơn đi!
+
+399
+00:42:23,620 --> 00:42:26,790
+- Không.
+- Nhưng nó là một con chó biết nói!
+
+400
+00:42:26,910 --> 00:42:30,460
+Đó chỉ là một trò lừa đảo nào đó thôi.
+Đi đến ngọn thác nào.
+
+401
+00:42:30,590 --> 00:42:31,960
+Hãy làm ơn làm tù nhân của tôi.
+
+402
+00:42:32,380 --> 00:42:34,630
+Ôi, làm ơn đi, ôi, hãy làm tù nhân của tôi đi!
+
+403
+00:42:37,300 --> 00:42:40,640
+Ô! Đây rồi.
+Tao đánh hơi được mùi con chim rồi!
+
+404
+00:42:40,720 --> 00:42:43,050
+Khoan đã, khoan đã!
+Cái gì đây?
+
+405
+00:42:43,390 --> 00:42:44,970
+Chocolate. Tao gửi thấy chocolate.
+
+406
+00:42:45,100 --> 00:42:49,560
+Tao chuẩn bị có mận khô
+và kem cứng rồi! Chúng là ai vậy?
+
+407
+00:42:50,060 --> 00:42:51,980
+Ôi trời,
+Ông chủ sẽ không hài lòng đâu.
+
+408
+00:42:52,110 --> 00:42:55,110
+Bọn mình nên nói cho ông ấy biết ai đó
+đã bắt con chim đi rồi. Đúng không, Alpha?
+
+409
+00:42:56,820 --> 00:42:57,900
+<i>Không.</i>
+
+410
+00:42:57,990 --> 00:43:00,820
+<i>Nhưng rồi con chim sẽ lại là của chúng ta.</i>
+
+411
+00:43:01,320 --> 00:43:02,990
+<i>Hãy lần theo mùi, bọn đần độn của ta,</i>
+
+412
+00:43:03,080 --> 00:43:04,830
+<i>và bọn bay sẽ có nhiều phần thưởng</i>
+
+413
+00:43:04,950 --> 00:43:07,660
+<i>từ ông chủ vì những cực nhọc
+bọn bay đã trải qua.</i>
+
+414
+00:43:08,160 --> 00:43:11,420
+Này, Alpha, tớ nghĩ cái vòng
+cổ của cậu có vấn đề rồi đấy.
+
+415
+00:43:11,500 --> 00:43:12,750
+Chắc cậu đã đụng nó vào đâu đó.
+
+416
+00:43:12,840 --> 00:43:15,130
+Đúng rồi,
+giọng cậu nghe buồn cười lắm!
+
+417
+00:43:18,670 --> 00:43:23,010
+<i>Beta! Gamma!
+Có lẽ bọn bay muốn... Sóc kìa!</i>
+
+418
+00:43:25,010 --> 00:43:27,100
+<i>Có lẽ bọn bay muốn
+thách thức đẳng cấp</i>
+
+419
+00:43:27,180 --> 00:43:29,770
+<i>mà tao đã có được nhờ
+sức mạnh và trí khôn của tao.</i>
+
+420
+00:43:29,850 --> 00:43:33,650
+Không, không, không đâu. Nhưng có khi
+Dug muốn đấy. Cậu nên hỏi nó.
+
+421
+00:43:34,610 --> 00:43:39,570
+Đúng vậy. Không biết nó đã tìm thấy con chim
+trong phi vụ hết sức đặc biệt của nó chưa.
+
+422
+00:43:39,650 --> 00:43:41,740
+<i>Lần này đừng có nhắc tao về Dug.</i>
+
+423
+00:43:42,070 --> 00:43:47,080
+<i>Công việc vô ích đó sẽ khiến
+nó bận rộn. Chắc chắn là bận rộn.</i>
+
+424
+00:43:49,120 --> 00:43:52,210
+<i>Bọn bay có dám không đồng ý
+điều tao vừa nói không?</i>
+
+425
+00:43:52,290 --> 00:43:56,590
+Rõ rồi, nhưng ngay khi ông chủ
+phát hiện ra cậu cử Dug đi một mình,
+
+426
+00:43:56,670 --> 00:43:58,260
+thì sẽ chẳng có đứa nào được thưởng nữa hết.
+
+427
+00:43:58,880 --> 00:44:01,470
+<i>Mày khôn lắm,
+tên cấp dưới đáng tin của tao.</i>
+
+428
+00:44:03,260 --> 00:44:05,850
+<i>Đây là Alpha gọi Dug.
+Nghe đi, Dug.</i>
+
+429
+00:44:06,180 --> 00:44:08,770
+<i>Chào, Alpha.
+Này, giọng cậu nghe buồn cười quá.</i>
+
+430
+00:44:08,850 --> 00:44:11,940
+<i>Tao biết rồi, biết rồi!
+Mày đã nhìn thấy con chim chưa?</i>
+
+431
+00:44:12,020 --> 00:44:14,770
+<i>Sao, rồi.
+Con chim giờ đã là tù nhân của tớ.</i>
+
+432
+00:44:14,860 --> 00:44:16,310
+Vậy sao?
+
+433
+00:44:18,360 --> 00:44:20,110
+<i>Không thể thế được! Mày đang ở đâu?</i>
+
+434
+00:44:20,190 --> 00:44:21,610
+<i>Tớ đang ở đây cùng con chim,</i>
+
+435
+00:44:21,700 --> 00:44:24,450
+<i>và tớ sẽ đưa nó về,
+rồi các cậu sẽ thích tớ.</i>
+
+436
+00:44:24,530 --> 00:44:26,950
+<i>- Phải đi đây.
+- Này, Dug, mày đang nói chuyện với ai đấy?</i>
+
+437
+00:44:27,030 --> 00:44:28,950
+<i>Không, khoan, khoan!
+Dug đang làm quái gì vậy?</i>
+
+438
+00:44:29,040 --> 00:44:30,870
+Tại sao nó lại đi với tay đưa thư tý hon đó?
+
+439
+00:44:30,960 --> 00:44:32,580
+Chúng đang ở đâu?
+
+440
+00:44:35,000 --> 00:44:36,960
+<i>Nó đây rồi. Đi thôi!!</i>
+
+441
+00:44:41,590 --> 00:44:44,300
+Ôi làm ơn đi, làm ơn đi,
+làm ơn làm tù nhân của tôi đi.
+
+442
+00:44:44,390 --> 00:44:45,800
+Dug, đừng làm phiền Kevin nữa!
+
+443
+00:44:45,890 --> 00:44:47,800
+Ông đằng kia nói tôi có thể bắt con chim,
+
+444
+00:44:49,220 --> 00:44:50,640
+và tôi yêu ông đằng kia cứ như
+ông ấy là chủ của tôi vậy.
+
+445
+00:44:50,730 --> 00:44:51,810
+Ta không phải là chủ của ngươi!
+
+446
+00:44:51,890 --> 00:44:53,440
+Tôi cảnh báo thêm một lần nữa, chim kia.
+
+447
+00:44:53,520 --> 00:44:55,520
+- Này! Thôi đi!
+- Tôi nhảy lên người anh đấy.
+
+448
+00:44:55,610 --> 00:44:57,900
+Russell, nếu cứ thế này chúng ta
+sẽ chẳng bao giờ đến được ngọn thác.
+
+449
+00:44:57,980 --> 00:44:59,320
+Này đồ chim kia.
+
+450
+00:45:07,280 --> 00:45:09,200
+Ta không là chủ của ai hết, hiểu chưa?
+
+451
+00:45:09,290 --> 00:45:11,750
+Ta không muốn ngươi ở đây,
+và ta không muốn ngươi ở đây!
+
+452
+00:45:11,830 --> 00:45:13,120
+Ông mắc kẹt với cháu!
+
+453
+00:45:13,210 --> 00:45:15,870
+Và nếu hai ngươi không xéo
+khỏi đây nếu ta đến đến ba...
+
+454
+00:45:15,960 --> 00:45:18,500
+Quả bóng! Ôi, trời, ôi, trời!
+Quả bóng!
+
+455
+00:45:18,840 --> 00:45:22,010
+Bóng sao? Vâng, vâng? Ngươi có muốn không?
+
+456
+00:45:22,670 --> 00:45:23,970
+Hả? hả? Có. Có nhé?
+
+457
+00:45:24,050 --> 00:45:26,090
+Vâng, cháu có!
+Cháu lúc nào cũng muốn quả bóng.
+
+458
+00:45:26,180 --> 00:45:27,640
+- Đi mà lấy nó!
+- Ôi, trời! Ôi, trời!
+
+459
+00:45:27,720 --> 00:45:29,550
+Cháu sẽ lấy nó và mang nó về!
+
+460
+00:45:29,640 --> 00:45:31,180
+Nhanh nào, Russell.
+Đưa ông ít chocolate.
+
+461
+00:45:31,270 --> 00:45:33,310
+- Sao chứ?
+- Cứ đưa đây cho ông!
+
+462
+00:45:33,770 --> 00:45:35,140
+Chim. Chim!
+
+463
+00:45:37,520 --> 00:45:39,310
+Đi thôi, Russell.
+
+464
+00:45:39,650 --> 00:45:42,030
+Khoan. Khoan đã, ông Fredricksen.
+
+465
+00:45:47,240 --> 00:45:48,950
+Chúng ta đang làm gì đây?
+
+466
+00:45:53,750 --> 00:45:58,170
+Này, chúng ta đi khá xa rồi đấy.
+Kevin sẽ nhớ cháu cho mà xem.
+
+467
+00:46:03,710 --> 00:46:05,800
+Ông nghĩ trò đó đã lừa được chúng nó.
+
+468
+00:46:07,680 --> 00:46:09,050
+Chào ông chủ.
+
+469
+00:46:09,890 --> 00:46:11,220
+Xin chào.
+
+470
+00:46:36,660 --> 00:46:39,920
+Dù sao cũng cám ơn em
+vì đã giữ khô cho bọn anh, Ellie.
+
+471
+00:46:40,000 --> 00:46:41,880
+Cái nào ở đằng trước?
+
+472
+00:46:43,550 --> 00:46:44,750
+Ôi, trời.
+
+473
+00:46:44,840 --> 00:46:48,550
+Đây là bước ba hay bước năm vậy?
+
+474
+00:46:50,850 --> 00:46:52,100
+Kia rồi.
+
+475
+00:46:56,060 --> 00:46:58,390
+Xong hết rồi! Cho ông đấy.
+
+476
+00:47:05,900 --> 00:47:07,400
+Dựng lều khó quá.
+
+477
+00:47:08,240 --> 00:47:13,200
+Khoan. Cháu không phải là gã vùng hoang
+siêu nhân, với bộ GPM và huy chương đó sao?
+
+478
+00:47:13,910 --> 00:47:18,000
+Là cháu, nhưng cháu có thể kể
+cho ông một bí mất được không?
+
+479
+00:47:18,580 --> 00:47:21,420
+- Không.
+- Được rồi. Chuyện là thế này.
+
+480
+00:47:22,000 --> 00:47:25,460
+Cháu chưa bao giờ thực sự dựng một cái lều nào trước đây.
+Đấy, cháu nói rồi đấy.
+
+481
+00:47:26,050 --> 00:47:28,170
+Cháu phải đi cắm trại rồi chứ?
+
+482
+00:47:28,260 --> 00:47:30,720
+À, chưa bao giờ ở bên ngoài.
+
+483
+00:47:31,220 --> 00:47:34,640
+Vậy sao cháu không hỏi bố dựng lều như thế nào?
+
+484
+00:47:35,100 --> 00:47:37,930
+Cháu không nghĩ bố cháu lại muốn nói về vấn đề này.
+
+485
+00:47:38,020 --> 00:47:40,640
+Vậy sao cháu không thử hỏi xem.
+Có thể bố cháu sẽ gây ngạc nhiên đấy.
+
+486
+00:47:40,730 --> 00:47:43,060
+Bố cháu đi cứ đi suốt.
+Cháu chẳng mấy khi được gặp.
+
+487
+00:47:43,150 --> 00:47:44,770
+Nhưng thỉnh thoảng bố cháu vẫn phải về chứ.
+
+488
+00:47:44,860 --> 00:47:49,110
+Cháu có gọi, nhưng Phyllis bảo cháu
+làm phiền ông ấy quá nhiều.
+
+489
+00:47:49,200 --> 00:47:52,610
+Phyllis? Cháu gọi mẹ cháu bằng tên sao?
+
+490
+00:47:53,070 --> 00:47:54,870
+Phyllis không phải mẹ cháu.
+
+491
+00:48:05,340 --> 00:48:09,420
+Nhưng bố cháu hứa sẽ đến
+dự buổi lễ của những nhà thám hiểm
+
+492
+00:48:09,510 --> 00:48:12,300
+để gắn cho cháu huy chương
+giúp đỡ người già.
+
+493
+00:48:13,590 --> 00:48:16,510
+Và bố cháu sẽ dạy cháu dựng lều phải không?
+
+494
+00:48:23,060 --> 00:48:25,690
+Này, sao cháu không ngủ đi một lát?
+
+495
+00:48:25,980 --> 00:48:29,610
+Không muốn đánh thức
+gánh xiếc rong kia.
+
+496
+00:48:31,650 --> 00:48:33,150
+Ông Fredricksen?
+
+497
+00:48:33,240 --> 00:48:36,120
+Dug nói muốn bắt Kevin làm tù nhân.
+
+498
+00:48:36,990 --> 00:48:38,950
+Chúng ta phải bảo vệ nó.
+
+499
+00:48:41,160 --> 00:48:43,210
+Kevin có thể đi cùng chúng ta không?
+
+500
+00:48:44,830 --> 00:48:46,750
+Được rồi, nó được phép.
+
+501
+00:48:47,420 --> 00:48:49,550
+Hãy hứa ông sẽ không bỏ rơi nó đi?
+
+502
+00:48:50,050 --> 00:48:52,170
+- Được rồi.
+- Vạch lên tim ông đi?
+
+503
+00:49:00,720 --> 00:49:02,270
+Vạch lên tim.
+
+504
+00:49:07,820 --> 00:49:10,320
+Anh đang làm gì thế này, Ellie?
+
+505
+00:49:33,510 --> 00:49:35,260
+Chào buổi sáng, em yêu.
+
+506
+00:49:37,430 --> 00:49:39,010
+Chúng ta nên đi thôi.
+
+507
+00:49:41,720 --> 00:49:43,060
+Con chim đi rồi.
+
+508
+00:49:43,140 --> 00:49:46,730
+Có lẽ Russell sẽ không chú ý.
+Được rồi, mọi người dậy đi!
+
+509
+00:49:47,560 --> 00:49:52,030
+Kevin đâu rồi? Nó đi mất rồi!
+Kevin! Dug, tìm Kevin đi!
+
+510
+00:49:52,110 --> 00:49:55,950
+Tìm con chim, tìm con chim!
+Nào, nào. Chỉ điểm!
+
+511
+00:49:56,030 --> 00:49:57,910
+Nhìn kìa. Nó kia rồi!
+
+512
+00:50:00,330 --> 00:50:01,490
+Chỉ điểm!
+
+513
+00:50:01,870 --> 00:50:05,540
+Này! Đó là thức ăn của tao!
+Xuống khỏi mái nhà của tao mau!
+
+514
+00:50:05,620 --> 00:50:06,870
+Đúng rồi, xuống khỏi mái nhà của...
+
+515
+00:50:12,460 --> 00:50:13,550
+Nó đang làm gì vậy?
+
+516
+00:50:13,630 --> 00:50:16,050
+Con chim đang gọi con của nó.
+
+517
+00:50:17,180 --> 00:50:18,640
+Con của nó.
+
+518
+00:50:20,010 --> 00:50:21,550
+Kevin là con gái sao?
+
+519
+00:50:23,930 --> 00:50:26,680
+Nhà của nó ở đằng kia
+trong đống đá lộn xộn kia.
+
+520
+00:50:27,770 --> 00:50:31,360
+Nó đang gom thức ăn cho con nó
+và sẽ quay về với chúng.
+
+521
+00:50:32,610 --> 00:50:34,280
+Khoan. Kevin phải đi rồi sao?
+
+522
+00:50:36,860 --> 00:50:39,360
+Nhưng ông hứa là sẽ bảo vệ nó mà.
+
+523
+00:50:39,450 --> 00:50:42,740
+Con nó cần có nó.
+Chúng ta phải đảm bảo chúng được đoàn tụ!
+
+524
+00:50:42,830 --> 00:50:45,870
+Xin lỗi, Russell.
+Chúng ta đã mất nhiều thời gian quá rồi.
+
+525
+00:50:47,330 --> 00:50:48,460
+Phải rồi.
+
+526
+00:50:56,130 --> 00:50:58,840
+Đây là chocolate yêu thích của nó.
+
+527
+00:50:59,470 --> 00:51:03,510
+Vì ông đã để nó đi, nên có thêm cho ông đây.
+
+528
+00:51:06,310 --> 00:51:07,480
+Kevin?
+
+529
+00:51:26,160 --> 00:51:29,080
+<i>Con chim đâu rồi?
+Mày nói mày bắt được con chim mà.</i>
+
+530
+00:51:29,160 --> 00:51:30,370
+Ồ, đúng rồi. Ồ, đúng rồi.
+
+531
+00:51:30,460 --> 00:51:33,500
+Vì tớ đã nói vậy,
+tớ có thể hiểu cậu sẽ nghĩ gì.
+
+532
+00:51:33,590 --> 00:51:36,670
+<i>Nó đâu rồi?
+Ờ... Ngày mai.</i>
+
+533
+00:51:36,760 --> 00:51:40,630
+Ngày mai hãy quay lại, và tớ sẽ
+lại bắt được con chim. Đúng thế.
+
+534
+00:51:41,890 --> 00:51:45,560
+<i>Mày để mất nó rồi!
+Tại sao tao lại không thấy ngạc nhiên nhỉ?</i>
+
+535
+00:51:46,100 --> 00:51:49,350
+<i>À, ít ra mày đã dẫn bọn tao
+đến chỗ tên đưa thư tý hon này</i>
+
+536
+00:51:49,440 --> 00:51:51,940
+<i>và một ông già có mùi mận khô.</i>
+
+537
+00:51:53,610 --> 00:51:56,110
+<i>Ông chủ sẽ vô cùng thích thú
+vì chúng ta đã tìm thấy chúng</i>
+
+538
+00:51:56,190 --> 00:51:59,110
+<i>và sẽ hỏi chúng rất nhiều câu hỏi.
+Đi thôi!</i>
+
+539
+00:51:59,190 --> 00:52:02,740
+Khoan đã. Ta sẽ không đi cùng các ngươi!
+Bọn ta muốn đến ngọn thác!
+
+540
+00:52:05,240 --> 00:52:06,370
+Tránh xa ta ra!
+
+541
+00:52:10,160 --> 00:52:11,500
+Đi xuống!
+
+542
+00:53:05,840 --> 00:53:06,930
+Dừng lại!
+
+543
+00:53:15,150 --> 00:53:17,730
+Anh đến đây bằng thứ đó sao?
+
+544
+00:53:18,230 --> 00:53:19,480
+À, đúng vậy.
+
+545
+00:53:20,230 --> 00:53:24,070
+Trong một ngôi nhà? Một ngôi nhà bay?
+
+546
+00:53:32,580 --> 00:53:35,410
+Đó là điều quái đản nhất tôi từng thấy.
+
+547
+00:53:36,000 --> 00:53:38,540
+Các người không săn lùng con chim của tôi đấy chứ?
+
+548
+00:53:38,960 --> 00:53:41,500
+Nhưng nếu các người cần một chén nước đường,
+
+549
+00:53:41,590 --> 00:53:43,840
+Tôi sẽ rất vui được đón tiếp.
+
+550
+00:53:47,220 --> 00:53:49,800
+À, tất cả đây chỉ là hiểu nhầm.
+
+551
+00:53:50,260 --> 00:53:52,100
+Chó của tôi đã bắt nhầm người.
+
+552
+00:53:52,680 --> 00:53:55,100
+Khoan đã. Ông có phải là Charles Muntz không?
+
+553
+00:53:55,190 --> 00:53:57,810
+Đúng vậy, à, ừ.
+
+554
+00:53:57,900 --> 00:54:00,020
+Là Charles Muntz nổi tiếng đó sao?
+
+555
+00:54:00,400 --> 00:54:02,320
+"Ngoài kia là hiểm nguy!"
+
+556
+00:54:02,400 --> 00:54:05,950
+Đúng là ông ấy rồi! Đúng là Charles Muntz!
+
+557
+00:54:06,240 --> 00:54:09,620
+- Vậy sao? Thế Charles Muntz là ai?
+- Là ông ấy!
+
+558
+00:54:09,700 --> 00:54:11,530
+- Đúng! Đúng! Là ông ấy!
+- Tôi là Carl Fredricksen.
+
+559
+00:54:11,620 --> 00:54:14,450
+Vợ tôi và tôi,
+chúng tôi là fan cuồng của ông đấy.
+
+560
+00:54:14,540 --> 00:54:16,290
+Ồ, anh là người có gu đấy.
+
+561
+00:54:18,630 --> 00:54:20,790
+Giờ chắc anh mệt rồi. Đói không?
+
+562
+00:54:22,130 --> 00:54:23,460
+Hãy chú ý đây tất cả!
+
+563
+00:54:23,550 --> 00:54:27,380
+Những người này không còn là những kẻ xâm nhập nữa!
+Họ là khách của chúng ta.
+
+564
+00:54:29,600 --> 00:54:31,970
+Hãy theo tớ.
+Tạm thời tớ thích cậu.
+
+565
+00:54:32,060 --> 00:54:33,760
+Đúng là ông có mùi mận khô.
+
+566
+00:54:36,520 --> 00:54:37,640
+Tôi sẽ không cắn đâu.
+
+567
+00:54:37,730 --> 00:54:40,190
+Tay đưa thư tý hon kia có mùi như chocolate ấy.
+
+568
+00:54:41,440 --> 00:54:43,610
+Tôi xin lỗi vì lũ chó.
+
+569
+00:54:43,690 --> 00:54:46,690
+- Hy vọng chúng không thô lỗ với các anh.
+- Dạ không đâu.
+
+570
+00:54:46,780 --> 00:54:50,240
+Hãy cứ neo con tàu không khí
+của anh ở gần tàu của tôi đi.
+
+571
+00:54:55,870 --> 00:54:59,460
+Không phải chúng ta đang đi vào bên trong
+con tàu Tâm Hồn Phiêu Lưu đấy chứ?
+
+572
+00:55:00,830 --> 00:55:02,420
+Anh có muốn không?
+
+573
+00:55:02,500 --> 00:55:03,750
+Tôi muốn không sao?
+
+574
+00:55:05,880 --> 00:55:07,760
+Đợi tôi, Ông Muntz.
+
+575
+00:55:08,590 --> 00:55:10,130
+Jiminy Cricket.
+
+576
+00:55:10,470 --> 00:55:12,510
+Không phải mày.
+Mình làm gì với Dug đây?
+
+577
+00:55:12,600 --> 00:55:16,350
+<i>Nó đã để xổng mất con chim.
+Hãy đeo chiếc Nón Xấu Hổ vào cho nó.</i>
+
+578
+00:55:21,310 --> 00:55:23,650
+Tớ không thích chiếc Nón Xấu Hổ.
+
+579
+00:55:25,030 --> 00:55:29,280
+Gần như tất cả bộ sưu tập đều đang được
+trưng bày tại các bảo tàng lớn nhất thế giới,
+
+580
+00:55:29,360 --> 00:55:33,120
+New York, Munich, London.
+Dĩ nhiên tôi giữ những gì tốt nhất cho bản thân.
+
+581
+00:55:33,490 --> 00:55:36,330
+Ôi chao! Nhìn kìa?
+
+582
+00:55:36,410 --> 00:55:38,910
+Ồ, phải rồi, con Arsinoitherium.
+
+583
+00:55:39,000 --> 00:55:41,710
+Con thú tấn công lúc tôi đang đánh răng.
+
+584
+00:55:41,790 --> 00:55:44,540
+Tôi đã lấy bộ dao cạo râu hạ gục nó.
+
+585
+00:55:44,630 --> 00:55:46,340
+Ờ, được. Làm ta bất ngờ đi.
+
+586
+00:55:46,420 --> 00:55:48,840
+Cách duy nhất để đưa nó
+ra khỏi Ethiopia thời bấy giờ
+
+587
+00:55:48,920 --> 00:55:51,880
+là liệt nó vào danh mục trang bị nha khoa.
+
+588
+00:55:52,300 --> 00:55:55,680
+Ôi lạy chúa!
+Con rùa đốm Somali khổng lồ!
+
+589
+00:55:55,760 --> 00:55:58,640
+Ồ, anh nhận ra nó sao. Ấn tượng đấy.
+
+590
+00:55:58,980 --> 00:56:01,020
+Đó là một câu chuyện thú vị.
+
+591
+00:56:01,440 --> 00:56:03,150
+Chọn tốt lắm.
+
+592
+00:56:03,230 --> 00:56:07,020
+Tôi tìm thấy nó trong một cuộc đi săn với Roosevelt.
+
+593
+00:56:07,110 --> 00:56:10,990
+Ông ấy và tôi tự nhiên
+khoái trò bài Rummy vào buổi tối,
+
+594
+00:56:11,070 --> 00:56:12,910
+và ông ấy chơi ăn gian!
+
+595
+00:56:12,990 --> 00:56:15,240
+Ôi, ông ấy thật là đáo để.
+
+596
+00:56:15,870 --> 00:56:18,490
+<i>Ông chủ, bữa tối sẵn sàng rồi.</i>
+
+597
+00:56:18,830 --> 00:56:20,960
+Ôi trời, máy dịch hỏng rồi.
+
+598
+00:56:21,040 --> 00:56:25,630
+Lại bị lỏng dây.
+Xong rồi đấy, anh bạn to xác.
+
+599
+00:56:25,710 --> 00:56:27,090
+Cám ơn ông chủ.
+
+600
+00:56:27,170 --> 00:56:29,380
+Cháu thích giọng kia hơn.
+
+601
+00:56:30,590 --> 00:56:33,880
+Bữa tối đã được chuẩn bị xong. Hãy đi lối này.
+
+602
+00:56:35,010 --> 00:56:38,180
+Vậy mọi chuyện ở Mỹ sao rồi?
+
+603
+00:56:38,270 --> 00:56:40,680
+Vài lần tôi cứ thèm được trở về,
+
+604
+00:56:41,730 --> 00:56:44,350
+nhưng tôi vẫn có việc chưa hoàn thành ở đây.
+
+605
+00:56:44,440 --> 00:56:47,440
+Xin mời. Tôi mong các anh đói rồi,
+
+606
+00:56:47,520 --> 00:56:51,820
+bởi Epsilon là đầu bếp giỏi nhất tôi từng có.
+
+607
+00:56:56,620 --> 00:56:59,620
+Ôi, Epsilon, mày lại làm được nữa rồi!
+
+608
+00:56:59,700 --> 00:57:00,750
+Tuyệt!
+
+609
+00:57:04,710 --> 00:57:07,750
+Ôi, Ellie của tôi chắc sẽ thích mọi thứ ở đây.
+
+610
+00:57:07,840 --> 00:57:10,300
+Ông biết không,
+vì ông mà cô ấy cứ mơ ước
+
+611
+00:57:10,380 --> 00:57:13,050
+xuống đây và sống cạnh Thác Thiên Đường.
+
+612
+00:57:13,130 --> 00:57:15,680
+Tôi rất lấy làm vinh dự. Và giờ anh đã đến được.
+
+613
+00:57:15,760 --> 00:57:18,220
+Ông có chắc chúng tôi không làm phiền không?
+Tôi không thích lạm dụng đâu.
+
+614
+00:57:18,310 --> 00:57:22,350
+Không, không. Có khách là một niềm hân hạnh mà,
+một cuộc chiêu đãi thực sự.
+
+615
+00:57:22,430 --> 00:57:23,850
+Chiêu đãi! chiêu đãi đâu!
+Chiêu đãi!
+
+616
+00:57:25,060 --> 00:57:26,980
+Không, không. Trật tự!
+Bình tĩnh, bình tĩnh.
+
+617
+00:57:27,060 --> 00:57:28,480
+- Tôi muốn được chiêu đãi! Tôi muốn được chiêu đãi!
+- Này!
+
+618
+00:57:28,570 --> 00:57:30,150
+Mình không nên dùng từ đó.
+
+619
+00:57:30,230 --> 00:57:32,990
+Có khách thật là tuyệt vời.
+
+620
+00:57:33,070 --> 00:57:36,950
+Tôi thường có trộm viếng thăm hơn
+chúng đến để lấy đi những thứ của tôi một cách hợp pháp.
+
+621
+00:57:37,030 --> 00:57:38,070
+Không!
+
+622
+00:57:40,620 --> 00:57:43,080
+Chúng gọi tôi là tên gian lận, cái bọn...
+
+623
+00:57:45,670 --> 00:57:49,590
+Nhưng một khi tôi mang về sinh vật này,
+thanh danh của tôi sẽ được trong sạch.
+
+624
+00:57:50,500 --> 00:57:52,460
+Thật đẹp phải không?
+
+625
+00:57:55,130 --> 00:57:57,800
+Tôi đã dành cả đời để lần theo nó.
+
+626
+00:57:59,760 --> 00:58:03,600
+Đôi khi khoảng cách giữa những
+lần bắt gặp lên đến hàng năm trời.
+
+627
+00:58:04,560 --> 00:58:09,150
+Tôi đã thử hun khói để đuổi nó
+ra khỏi mê cung chết chóc, nơi nó sống.
+
+628
+00:58:09,980 --> 00:58:11,650
+Không thể theo nó vào đó.
+
+629
+00:58:12,150 --> 00:58:14,360
+Một khi đã vào thì không thể đi ra.
+
+630
+00:58:14,990 --> 00:58:16,950
+Tôi đã mất biết bao nhiêu chó.
+
+631
+00:58:19,620 --> 00:58:24,120
+Và chúng đến đây, bọn kẻ cướp đó,
+và cho rằng con chim là của chúng.
+
+632
+00:58:24,790 --> 00:58:29,830
+Nhưng chúng đã sớm nhận ra
+vùng núi này là một nơi vô cùng nguy hiểm.
+
+633
+00:58:32,590 --> 00:58:34,670
+Này, trông giống Kevin quá.
+
+634
+00:58:36,720 --> 00:58:39,550
+- Kevin?
+- Đúng rồi, một con chim khổng lồ, thú nuôi mới của cháu.
+
+635
+00:58:39,640 --> 00:58:41,720
+Cháu đã dạy nó đi theo bọn cháu.
+
+636
+00:58:41,810 --> 00:58:45,020
+Theo các cháu sao? Không thể được. Bằng cách nào?
+
+637
+00:58:45,480 --> 00:58:47,940
+- Nó thích chocolate.
+- Chocolate?
+
+638
+00:58:48,350 --> 00:58:51,940
+Vâng. Cháu đã cho nó mấy miếng.
+Nó đã phát cuồng lên.
+
+639
+00:58:52,020 --> 00:58:54,940
+Nhưng hết rồi. Và nó cũng đi rồi.
+
+640
+00:59:01,780 --> 00:59:06,370
+Anh biết không, Carl, những kẻ cả gan đến đây,
+
+641
+00:59:06,460 --> 00:59:09,040
+chúng đều kể những câu chuyện rất hay.
+
+642
+00:59:11,750 --> 00:59:14,000
+Một tên địa chính muốn vẽ bản đồ.
+
+643
+00:59:15,840 --> 00:59:18,130
+Một tên thực vật học sưu tầm cây cỏ.
+
+644
+00:59:21,220 --> 00:59:26,890
+Một lão già đưa cả ngôi nhà
+đến Thác Thiên Đường.
+
+645
+00:59:33,440 --> 00:59:37,570
+Nhưng theo tôi đó lại là câu chuyện hay nhất.
+tôi nóng lòng muốn biết nó kết thúc thế nào.
+
+646
+00:59:47,200 --> 00:59:50,830
+À, quả là một buổi tối tuyệt vời,
+nhưng bọn tôi nên đi thôi.
+
+647
+00:59:50,920 --> 00:59:52,250
+Ồ, các người không thể đi được.
+
+648
+00:59:52,330 --> 00:59:55,960
+Bọn tôi không muốn lợi dụng
+lòng mến khách của ông.
+
+649
+00:59:56,050 --> 00:59:59,260
+- Nào, Russell.
+- Nhưng chúng ta đã ăn tráng miệng đâu.
+
+650
+00:59:59,340 --> 01:00:02,260
+Thằng bé nói đúng đấy.
+Các người vẫn chưa ăn tráng miệng mà.
+
+651
+01:00:02,590 --> 01:00:06,970
+Epsilon đây làm món mứt anh đào ngon lắm đây.
+
+652
+01:00:08,180 --> 01:00:11,270
+Ồ, ta yêu cầu các người phải ở lại đây.
+
+653
+01:00:11,940 --> 01:00:14,270
+Chúng ta còn nhiều chuyện để nói đấy.
+
+654
+01:00:18,610 --> 01:00:19,780
+Kevin?
+
+655
+01:00:27,490 --> 01:00:28,870
+Nó ở đây sao!
+
+656
+01:00:31,080 --> 01:00:32,080
+Bắt lấy chúng!
+
+657
+01:00:34,830 --> 01:00:37,250
+- Nhanh lên!
+- Cháu đang nhanh đây!
+
+658
+01:00:37,340 --> 01:00:39,630
+Ahhh! Chúng đến rồi!
+
+659
+01:00:41,760 --> 01:00:44,340
+Ông chủ, đi đường này.
+
+660
+01:00:59,820 --> 01:01:02,150
+Hãy đi thẳng về phía ánh sáng, ông chủ!
+
+661
+01:01:31,020 --> 01:01:32,390
+Russell!
+
+662
+01:01:36,860 --> 01:01:38,310
+Quay lại!
+
+663
+01:01:41,030 --> 01:01:44,860
+Chạy đi, ông chủ!
+cháu sẽ cản bọn chó!
+
+664
+01:01:46,070 --> 01:01:47,700
+Dừng lại bọn chó.
+
+665
+01:02:16,060 --> 01:02:17,190
+Cứu cháu với!
+
+666
+01:02:17,730 --> 01:02:19,020
+Cứu cháu với!
+
+667
+01:02:19,480 --> 01:02:20,690
+Cứu cháu với!
+
+668
+01:02:22,230 --> 01:02:25,280
+Caw, caw! Raar!
+Caw, caw! Raar!
+
+669
+01:02:25,490 --> 01:02:27,240
+Đưa tay đây!
+
+670
+01:02:38,580 --> 01:02:40,290
+Bám lấy Kevin!
+
+671
+01:03:11,870 --> 01:03:13,240
+Kevin.
+
+672
+01:03:36,980 --> 01:03:40,890
+Ôi, không, không, không. Kevin. Nằm xuống.
+
+673
+01:03:41,810 --> 01:03:46,190
+Nó bị thương nặng lắm.
+Chúng ta giúp nó về nhà nhé?
+
+674
+01:03:57,160 --> 01:03:59,750
+Được rồi, nhưng chúng ta phải nhanh lên.
+
+675
+01:04:06,380 --> 01:04:07,880
+Bọn bay mất dấu chúng rồi sao?
+
+676
+01:04:07,960 --> 01:04:09,130
+Không, là do Dug.
+
+677
+01:04:09,220 --> 01:04:12,550
+Đúng rồi. Nó đi với chúng rồi.
+Nó đã giúp chúng chạy thoát!
+
+678
+01:04:13,890 --> 01:04:14,970
+Khoan.
+
+679
+01:04:15,310 --> 01:04:17,850
+Khoan đã. Dug.
+
+680
+01:04:24,480 --> 01:04:25,610
+Có thấy gì không?
+
+681
+01:04:25,690 --> 01:04:29,150
+Không. Chúng không đi theo chúng ta.
+Chà, chúng ngu thật.
+
+682
+01:04:29,440 --> 01:04:30,690
+Thật điên rồ.
+
+683
+01:04:30,780 --> 01:04:34,360
+Rốt cục ông đã gặp được thần tượng thời niên thiếu,
+và ông ta đang cố giết chúng ta. Thật hài hước!
+
+684
+01:04:34,450 --> 01:04:35,820
+Này, cháu biết một câu chuyện hài.
+
+685
+01:04:35,950 --> 01:04:37,830
+Một con sóc trèo lên cây và nói,
+
+686
+01:04:37,950 --> 01:04:41,120
+"Tôi quên tích trữ quả đấu cho mùa đông
+và giờ tôi chết rồi."
+
+687
+01:04:41,210 --> 01:04:44,540
+Ha! Thật là buồn cười
+vì con sóc sẽ chết.
+
+688
+01:04:48,130 --> 01:04:49,880
+Cẩn thận, Russell.
+
+689
+01:04:49,960 --> 01:04:51,550
+Mày sao không, Kevin?
+
+690
+01:04:56,640 --> 01:04:58,890
+Ông biết không ông Mr. Fredricksen?
+
+691
+01:04:58,970 --> 01:05:01,850
+Vùng hoang dã không giống như
+những gì cháu trông đợi.
+
+692
+01:05:01,980 --> 01:05:03,560
+Vậy á? Sao lại thế?
+
+693
+01:05:03,900 --> 01:05:06,150
+Nó hoang dã quá.
+
+694
+01:05:06,560 --> 01:05:09,900
+Ý cháu là nó nghe không kêu như trong sách cháu đọc.
+
+695
+01:05:09,980 --> 01:05:11,900
+Làm quen với nó đi, nhóc..
+
+696
+01:05:11,990 --> 01:05:14,400
+Bố cháu đã nói ra vẻ như nó dễ lắm.
+
+697
+01:05:14,490 --> 01:05:16,570
+Ông ấy cắm trại rất cừ
+
+698
+01:05:16,660 --> 01:05:19,740
+và biết cách nhóm lửa từ đá và các thứ.
+
+699
+01:05:19,830 --> 01:05:22,540
+Ông ấy từng đến tham dự
+các cuộc họp nhóm của cháu.
+
+700
+01:05:23,210 --> 01:05:26,500
+Và sau đó bọn cháu đi ăn kem ở Fentons.
+
+701
+01:05:27,000 --> 01:05:29,750
+Cháu luôn lấy chocolate
+còn bố cháu lấy kem bơ.
+
+702
+01:05:29,840 --> 01:05:32,800
+Rồi bọn cháu ngồi trên
+lề đường ngay bên ngoài,
+
+703
+01:05:32,880 --> 01:05:36,720
+rồi cháu đếm tất cả những chiếc xe màu xanh
+còn bố cháu đếm xe màu đỏ,
+
+704
+01:05:36,850 --> 01:05:40,390
+và bất cứ ai đếm được nhiều nhất sẽ thắng.
+
+705
+01:05:43,100 --> 01:05:44,890
+Cháu thích cái lề đường đó.
+
+706
+01:05:48,110 --> 01:05:49,900
+Điều đó nghe có vẻ chán,
+
+707
+01:05:50,570 --> 01:05:54,440
+nhưng cháu nghĩ những điều chán
+lại là những điều cháu nhớ nhất.
+
+708
+01:06:01,950 --> 01:06:03,790
+Nhìn kìa! Kia rồi!
+
+709
+01:06:04,540 --> 01:06:07,960
+Này, nhóc. Cẩn thận, Russell. Đứng yên nào.
+
+710
+01:06:18,550 --> 01:06:22,140
+Nhìn con chim đi kìa.
+Từ từ thôi, đồ gà ăn bột nở.
+
+711
+01:06:23,430 --> 01:06:26,890
+Đúng rồi. Đi đi, Kevin!
+Đi tìm con mày đi!
+
+712
+01:06:31,440 --> 01:06:33,280
+Chạu đi, Kevin! Chạy đi!
+
+713
+01:06:36,110 --> 01:06:37,450
+Ôi, không!
+
+714
+01:06:42,660 --> 01:06:44,910
+Russell, đưa ông con dao!
+
+715
+01:06:46,920 --> 01:06:48,920
+Tránh xa con chim của ta ra!
+
+716
+01:07:15,190 --> 01:07:16,320
+Không!
+
+717
+01:07:22,950 --> 01:07:24,240
+Không!
+
+718
+01:07:30,630 --> 01:07:33,500
+Cẩn thận nào. Ta muốn nó lành
+lạnh cho chuyến trở về.
+
+719
+01:07:35,300 --> 01:07:38,220
+Thả nó ra! Dừng lại!
+
+720
+01:07:42,050 --> 01:07:43,970
+Kevin!
+
+721
+01:07:57,690 --> 01:07:59,490
+Ông đã bỏ mặc Kevin.
+
+722
+01:08:02,320 --> 01:08:05,160
+Ông đã bỏ mặc nó.
+
+723
+01:08:07,000 --> 01:08:12,580
+Đây không phải điều ông quan tâm.
+Ông đâu muốn tất cả những điều này!
+
+724
+01:08:15,250 --> 01:08:18,010
+Ông chủ, không sao mà.
+
+725
+01:08:18,840 --> 01:08:20,720
+Tao không phải chủ của mày!
+
+726
+01:08:21,430 --> 01:08:24,550
+Và nếu mày không xuất hiện,
+sẽ chẳng có chuyện gì xảy ra hết!
+
+727
+01:08:24,680 --> 01:08:26,930
+Đồ chó hư! Đồ chó hư!
+
+728
+01:08:35,270 --> 01:08:37,360
+Không biết cháu còn muốn giúp ông không,
+
+729
+01:08:37,860 --> 01:08:41,450
+nhưng ông vẫn sẽ đến Thác Thiên Đường
+dù có phải chết.
+
+730
+01:09:53,600 --> 01:09:57,440
+Đây. Cháu không muốn thứ này nữa.
+
+731
+01:13:37,990 --> 01:13:39,160
+Russell?
+
+732
+01:13:44,170 --> 01:13:45,210
+Russell!
+
+733
+01:13:45,330 --> 01:13:48,790
+Cháu sẽ đi giúp Kevin,
+ngay cả nếu ông không đi!
+
+734
+01:13:50,170 --> 01:13:52,170
+Không, Russell! Không!
+
+735
+01:15:04,910 --> 01:15:06,080
+Russell?
+
+736
+01:15:08,250 --> 01:15:09,370
+Dug!
+
+737
+01:15:09,580 --> 01:15:14,210
+Cháu đã trốn dưới cổng nhà ông
+bởi vì cháu yêu ông. Cháu ở lại được không?
+
+738
+01:15:14,300 --> 01:15:16,710
+Ở lại được không sao?
+À mày là chó của tao, phải không nào?
+
+739
+01:15:16,800 --> 01:15:18,130
+Và tao là chủ của mày.
+
+740
+01:15:18,260 --> 01:15:19,720
+Ông là chủ của cháu sao?
+
+741
+01:15:19,800 --> 01:15:21,140
+Oi, trời! Ôi, trời!
+
+742
+01:15:21,260 --> 01:15:24,010
+Chó ngoan, Dug!
+Mày là một con chó ngoan!
+
+743
+01:15:49,830 --> 01:15:50,960
+Hay lắm!
+
+744
+01:15:52,960 --> 01:15:54,790
+Đừng lo, Kevin. Tao sẽ...
+
+745
+01:16:03,760 --> 01:16:08,770
+Và chúng sẽ không chịu tin ta.
+Chỉ đến khi chúng nhìn thấy mày.
+
+746
+01:16:08,850 --> 01:16:10,100
+Ông chủ?
+
+747
+01:16:10,520 --> 01:16:13,650
+- Tay đưa thư tý hon đã trở lại.
+- Cái gì?
+
+748
+01:16:14,150 --> 01:16:15,650
+Tả ta ra.
+
+749
+01:16:17,650 --> 01:16:19,610
+Lão bạn già của mày đâu rồi?
+
+750
+01:16:21,320 --> 01:16:23,530
+Ông ấy không còn là bạn cháu nữa.
+
+751
+01:16:24,030 --> 01:16:27,490
+Nếu mày ở đây,
+Fredricksen không thể ở xa.
+
+752
+01:16:28,500 --> 01:16:30,660
+Ông để Kevin ở đâu?
+
+753
+01:16:31,830 --> 01:16:33,040
+Thả cháu ra!
+
+754
+01:16:33,170 --> 01:16:35,340
+Cứ hò hét đi, đồ đưa thư tý hon.
+
+755
+01:16:35,460 --> 01:16:37,840
+Sẽ chẳng có đứa bạn đưa thư nào nghe thấy đâu.
+
+756
+01:16:38,510 --> 01:16:42,010
+Cháu sẽ triển khai tất cả những bài
+huấn luyện khám phá vùng hoang!
+
+757
+01:16:45,890 --> 01:16:47,510
+Alpha,
+Fredricksen đang đến đấy.
+
+758
+01:16:47,640 --> 01:16:51,230
+Hãy canh con chim đó. Nếu gặp lão già,
+ngươi biết phải làm gì rồi đấy.
+
+759
+01:16:51,350 --> 01:16:54,650
+Này, ông đi đâu đấy?
+Cháu chưa xong với ông đâu!
+
+760
+01:16:54,730 --> 01:16:56,650
+Rất vui được nói chuyện với mày.
+
+761
+01:16:59,860 --> 01:17:00,900
+Ahhh!
+
+762
+01:17:01,530 --> 01:17:03,700
+Ngươi đâu rồi, Fredricksen?
+
+763
+01:17:22,220 --> 01:17:23,550
+Russell!
+
+764
+01:17:36,110 --> 01:17:38,730
+- Ông Fredricksen!
+- Dug, đưa nó qua đây!
+
+765
+01:17:40,610 --> 01:17:43,110
+Ông đã quay lại vì Kevin!
+Đi đón nó về thôi!
+
+766
+01:17:43,240 --> 01:17:45,410
+Ông sẽ đi đón Kevin. Cháu ở lại đây.
+
+767
+01:17:45,530 --> 01:17:46,700
+Nhưng cháu muốn giúp.
+
+768
+01:17:46,780 --> 01:17:48,070
+Ông không muốn cháu giúp.
+
+769
+01:17:48,200 --> 01:17:49,910
+Ông muốn cháu an toàn.
+
+770
+01:17:57,080 --> 01:17:59,420
+Làm sao qua mặt được lũ chó này đây?
+
+771
+01:17:59,800 --> 01:18:01,130
+Chỉ!
+
+772
+01:18:11,600 --> 01:18:12,770
+Kevin.
+
+773
+01:18:13,980 --> 01:18:16,440
+Đừng lo, Kevin. Bọn ta đến đây.
+
+774
+01:18:16,940 --> 01:18:20,060
+Không được cho phép ai đi vào qua cửa này.
+
+775
+01:18:20,610 --> 01:18:23,150
+Hãy gác con chim đó cẩn thận, tay sai của ta.
+
+776
+01:18:24,070 --> 01:18:25,490
+Chúng ta làm gì bây giờ, Dug?
+
+777
+01:18:38,790 --> 01:18:40,630
+Ai muốn quả bóng nào?
+
+778
+01:18:41,840 --> 01:18:43,630
+Tôi! Tôi muốn nó!
+Tôi! Tôi muốn!
+
+779
+01:18:43,960 --> 01:18:45,340
+Tôi muốn quả bóng!
+Đưa nó cho tôi!
+
+780
+01:18:45,470 --> 01:18:46,720
+Thế thì đi mà lấy nó!
+
+781
+01:18:46,800 --> 01:18:49,180
+Tôi sẽ đến đó trước tiên!
+
+782
+01:18:49,300 --> 01:18:50,680
+Lấy quả bóng đi!
+
+783
+01:18:50,800 --> 01:18:52,260
+Tớ lấy được rồi!
+
+784
+01:18:57,480 --> 01:19:00,400
+Tao xin lỗi, Kevin.
+Ra khỏi đây thôi.
+
+785
+01:19:00,480 --> 01:19:02,480
+Ông chủ! Ông ta đi rồi!
+Lão già ấy!
+
+786
+01:19:02,610 --> 01:19:03,610
+Ông ta đang ở đây!
+
+787
+01:19:03,690 --> 01:19:05,820
+Ông ta có con chim rồi!
+Con chim đi rồi...
+
+788
+01:19:05,940 --> 01:19:07,950
+Bình tĩnh nào! Từng đứa nói một!
+
+789
+01:19:11,450 --> 01:19:14,200
+Cháu... muốn... giúp!
+
+790
+01:19:14,330 --> 01:19:15,330
+Ha-ha!
+
+791
+01:19:24,840 --> 01:19:26,300
+Ông ta đang ở vùng D!
+Ông ta đang ở vùng C!
+
+792
+01:19:26,380 --> 01:19:27,840
+Chính là lão già!
+
+793
+01:19:28,220 --> 01:19:31,260
+Có đứa nào biết chúng ở đâu không?
+
+794
+01:19:46,820 --> 01:19:49,070
+Đầu đàn Xám? Khử ngôi nhà đi.
+
+795
+01:19:55,830 --> 01:19:57,120
+Đầu đàn Xám, xác nhận.
+
+796
+01:19:57,200 --> 01:19:58,200
+Xám Hai, xác nhận.
+
+797
+01:19:58,330 --> 01:19:59,500
+Xám Ba, xác nhận.
+
+798
+01:20:04,000 --> 01:20:05,340
+Đã thấy mục tiêu.
+
+799
+01:20:13,800 --> 01:20:15,350
+Đi nào, Kevin.
+
+800
+01:20:22,650 --> 01:20:23,690
+Auuggghh!
+
+801
+01:20:30,400 --> 01:20:31,570
+Chào.
+
+802
+01:20:57,850 --> 01:21:01,180
+Muốn trăn trối gì không, Fredricksen? Nào!
+Nói ra đi!
+
+803
+01:21:04,940 --> 01:21:07,190
+- Đi nào.
+- Đủ rồi đấy!
+
+804
+01:21:07,520 --> 01:21:12,240
+Ta sẽ lấy lại con chim. Dù sống hay chết!
+
+805
+01:21:38,560 --> 01:21:40,220
+Đi nào, Kevin.
+
+806
+01:21:59,450 --> 01:22:02,410
+Tao rất khoái vì những gì sắp làm với mày đấy, Dug.
+
+807
+01:22:10,800 --> 01:22:12,300
+Cậu ấy đang đeo chiếc Nón Xấu Hổ!
+
+808
+01:22:12,840 --> 01:22:16,260
+<i>Cái gì?
+Đừng có mà ngồi đó nữa. Tấn công đi!</i>
+
+809
+01:22:19,350 --> 01:22:22,600
+<i>Không, không! Đừng cười nữa!
+Bỏ cái này ra khỏi tao ngay!</i>
+
+810
+01:22:22,680 --> 01:22:24,600
+Nghe đây đồ chó. Ngồi xuống!
+
+811
+01:22:26,190 --> 01:22:27,440
+Tuân lệnh, Alpha.
+
+812
+01:22:27,520 --> 01:22:30,150
+Alpha sao? tớ không phải Alpha. Là hắn...
+
+813
+01:22:33,190 --> 01:22:34,900
+Mình không thể làm được.
+
+814
+01:22:37,240 --> 01:22:38,490
+Russell!
+
+815
+01:22:38,660 --> 01:22:42,080
+Caw, caw! Raar!
+Caw, caw! Raar!
+
+816
+01:22:43,000 --> 01:22:45,500
+Bọn mày hãy để ông Fredricksen yên!
+
+817
+01:23:02,220 --> 01:23:04,100
+Này, sóc kìa!
+
+818
+01:23:04,180 --> 01:23:06,180
+Sóc sao? Đâu?
+Đâu? Đâu?
+
+819
+01:23:06,270 --> 01:23:07,600
+Sóc ở đâu?
+
+820
+01:23:11,440 --> 01:23:13,110
+Mình ghét sóc thế.
+
+821
+01:23:33,800 --> 01:23:34,880
+Dug!
+
+822
+01:23:35,380 --> 01:23:36,590
+Ông chủ!
+
+823
+01:23:37,630 --> 01:23:40,970
+Russell! Ở đây! Đi nào!
+
+824
+01:23:45,810 --> 01:23:47,640
+Ông Fredricksen!
+
+825
+01:23:48,230 --> 01:23:49,850
+Đi nào, Kevin!
+
+826
+01:24:04,790 --> 01:24:05,910
+Không!
+
+827
+01:24:20,760 --> 01:24:23,090
+Russell! Ra khỏi đó mau!
+
+828
+01:24:25,100 --> 01:24:27,220
+Không! Để chúng yên!
+
+829
+01:24:42,530 --> 01:24:46,700
+Russell, hãy bám vào Kevin!
+Đừng thả tay khỏi nó!
+
+830
+01:24:48,790 --> 01:24:50,870
+Kevin! Chocolate!
+
+831
+01:25:13,400 --> 01:25:15,020
+Thật là tuyệt!
+
+832
+01:25:17,070 --> 01:25:21,440
+Đừng có cựa quậy nhiều, nhóc!
+Bình tĩnh nào, Russell.
+
+833
+01:25:23,740 --> 01:25:26,240
+Ôi, cháu đã sẵn sàng để
+không còn được lên cao nữa rồi.
+
+834
+01:25:49,600 --> 01:25:52,270
+Cháu xin lỗi vì ngôi nhà của ông,
+Ông Fredricksen.
+
+835
+01:25:54,900 --> 01:25:57,690
+Cháu biết đấy, nó chỉ là một ngôi nhà thôi mà.
+
+836
+01:26:05,740 --> 01:26:07,910
+Nhìn mày này, mày mềm quá.
+
+837
+01:26:10,490 --> 01:26:12,080
+Aw!
+
+838
+01:26:12,160 --> 01:26:13,950
+Ước gì cháu có thể giữ một con.
+
+839
+01:26:18,340 --> 01:26:20,380
+Gậy của ông đâu rồi? Ông vừa để ở đây mà.
+
+840
+01:26:28,640 --> 01:26:31,970
+Biết sao không? Cứ giữ lấy chúng.
+Một món quà nhỏ của ta đấy.
+
+841
+01:26:32,850 --> 01:26:34,390
+Tạm biệt, Kevin!
+
+842
+01:26:43,820 --> 01:26:45,110
+Sẵn sàng chưa?
+
+843
+01:26:45,490 --> 01:26:46,820
+Sẵn sàng.
+
+844
+01:26:57,580 --> 01:26:59,330
+<i>Và với việc nhận được
+những huy chương này,</i>
+
+845
+01:26:59,420 --> 01:27:04,090
+<i>những nhà thám hiểm sau sẽ được công nhận
+là những nhà thám hiểm thâm niên.</i>
+
+846
+01:27:04,460 --> 01:27:08,300
+<i>Vì kiến thức rộng về leo núi.
+Chúc mừng, Jimmy.</i>
+
+847
+01:27:08,550 --> 01:27:13,010
+<i>Vì nghệ thuật tự vệ trước động vật hoang.
+Chúc mừng, Brandon.</i>
+
+848
+01:27:13,520 --> 01:27:15,680
+<i>Vì giúp đỡ người cao tuổi...</i>
+
+849
+01:27:16,520 --> 01:27:19,690
+À, Russell, có ai sẽ...
+
+850
+01:27:22,440 --> 01:27:25,530
+Xin lỗi. Xin lỗi.
+Làm ơn cho người gia đi qua.
+
+851
+01:27:28,360 --> 01:27:29,860
+Tôi đến với cậu ấy đây.
+
+852
+01:27:30,070 --> 01:27:32,320
+Chúc mừng, Russell. Thưa ông.
+
+853
+01:27:35,500 --> 01:27:38,580
+Russell, vì giúp đỡ người cao tuổi
+
+854
+01:27:39,040 --> 01:27:43,250
+và vì đã hoàn thành tốt
+và xuất sắc nhiệm vụ,
+
+855
+01:27:44,210 --> 01:27:48,510
+Ông muốn thưởng cho cháu vinh dự
+lớn nhất ông có thể trao tặng.
+
+856
+01:27:50,890 --> 01:27:52,640
+Huy chương Ellie.
+
+857
+01:28:01,440 --> 01:28:03,940
+<i>Được rồi,
+Tôi nghĩ mọi người đều đã nhận được.</i>
+
+858
+01:28:04,020 --> 01:28:06,070
+<i>Hãy cất thật to tiếng gọi
+thám hiểm để chào mừng</i>
+
+859
+01:28:06,360 --> 01:28:09,860
+<i>những nhà thám hiểm thâm niên
+mới toanh của chúng ta nào.</i>
+
+860
+01:28:10,110 --> 01:28:11,240
+<i>Sẵn sàng chưa, tất cả mọi người?</i>
+
+861
+01:28:11,320 --> 01:28:12,870
+Caw, caw! Raar!
+Caw, caw! Raar!
+
+862
+01:28:19,920 --> 01:28:21,620
+- Xe xanh.
+- Xe đỏ.
+
+863
+01:28:22,290 --> 01:28:24,080
+- Xe xanh.
+- Xe xám.
+
+864
+01:28:25,050 --> 01:28:27,050
+- Xe đỏ.
+- Đó là xe đạp mà.
+
+865
+01:28:27,460 --> 01:28:29,130
+Nhưng nó đỏ phải không nào?
+
+866
+01:28:29,220 --> 01:28:31,090
+Ông Fredricksen,
+ông ăn gian.
+
+867
+01:28:31,300 --> 01:28:33,090
+Đâu có. Xe đỏ.
+
+868
+01:28:33,180 --> 01:28:34,970
+Đó là vòi nước cứu hỏa mà.
+
+869
+01:28:37,100 --> 01:28:39,140
+Có lẽ ông cần cặp kính mới.
+
+870
+01:28:39,480 --> 01:28:41,480
+Lại có xe xanh kìa.
+
+871
+01:34:01,710 --> 01:34:05,930
+<i># Adventure is out there
+It's heading our way</i>
+
+872
+01:34:06,090 --> 01:34:10,100
+<i># So grab your scarf and goggles
+Let's fly</i>
+
+873
+01:34:10,470 --> 01:34:14,770
+<i># I've mapped out our journey
+We're up here to stay</i>
+
+874
+01:34:14,850 --> 01:34:19,110
+<i># A sunset is our home
+A moonbeam we will own</i>
+
+875
+01:34:19,230 --> 01:34:22,990
+<i># My spirit of adventure is you</i>
+
+876
+01:34:23,530 --> 01:34:27,700
+<i># Freaks of nature span a globe
+That's too big to deny</i>
+
+877
+01:34:27,780 --> 01:34:32,120
+<i># With canine guards we'll travel there
+and spit into their eye</i>
+
+878
+01:34:32,620 --> 01:34:36,830
+<i># Bang, bang
+Once the smoke has cleared</i>
+
+879
+01:34:36,920 --> 01:34:40,840
+<i># After all the crowds have cheered</i>
+
+880
+01:34:40,920 --> 01:34:45,420
+<i># We'll make it a joint venture
+Before we're in our dentures</i>
+
+881
+01:34:45,510 --> 01:34:49,140
+<i># My spirit of adventure is you</i>
+
+882
+01:35:07,200 --> 01:35:11,490
+<i># Adventure is out there
+Let's crack some champagne</i>
+
+883
+01:35:11,580 --> 01:35:15,830
+<i># I've hung a hundred heads
+on my wall</i>
+
+884
+01:35:15,910 --> 01:35:20,330
+<i># To say that I'm traveled
+is far too mundane</i>
+
+885
+01:35:20,420 --> 01:35:24,710
+<i># Let's grab our aero-fare
+The high-brows will be there</i>
+
+886
+01:35:24,800 --> 01:35:29,050
+<i># The spirit of adventure
+is something to indenture</i>
+
+887
+01:35:29,140 --> 01:35:43,900
+<i># My spirit of adventure is you #</i>
+

@@ -1,0 +1,68 @@
+﻿@model CMSSolutions.Websites.Models.PaymentModel
+<div class="profi-cat-left">
+    <ul class="profi-menu">
+        <li>
+            <a href="@Url.Action("VipXuInfo", "HomeVipXu")" class="@(Model.PageName == 0 ? "active" : string.Empty)">THÔNG TIN</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index", "HomeVipXu")" class="@(Model.PageName == 1 ? "active" : string.Empty)">Nạp VIP!</a>
+        </li>
+        <li>
+            <a href="@Url.Action("LogDoiXu", "HomeVipXu")" class="@(Model.PageName == 2 ? "active" : string.Empty)">Log đổi xu</a>
+        </li>
+        <li>
+            <a href="@Url.Action("LogNapVip", "HomeVipXu")" class="@(Model.PageName == 3 ? "active" : string.Empty)">Log nạp VIP</a>
+        </li>
+    </ul>   
+
+    <div id="page_index">
+        <br class="clear_both">            
+        <div class="log-pur-inf" style="margin-right: 20px;">
+            <table id="store_history" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <th scope="col">CÁC GÓI</th>
+                        <th scope="col">GIÁ(VIPXU)</th>
+                        <th scope="col">HẠN</th>
+                        <th scope="col">THỜI GIAN</th>
+                    </tr>
+                    @if (Model.CustomerNapVipHistories != null && Model.CustomerNapVipHistories.Count > 0)
+                    {
+                        foreach (var item in Model.CustomerNapVipHistories)
+                        {
+                            <tr>
+                                <td>
+                                    @item.Package
+                                </td>
+                                <td>
+                                    @item.Amount
+                                </td>
+                                <td>
+                                    @(item.TextStartDate + " - " + @item.TextEndDate)
+                                </td>
+                                <td>
+                                    @item.TotalDay
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td style="text-align: center" colspan="4">Không có dữ liệu</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>  
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var customerCode = '@Model.CustomerCode';
+        if (customerCode == '' || customerCode == null) {
+            dialogBox('#loginBox');
+        }
+    });  
+</script> 

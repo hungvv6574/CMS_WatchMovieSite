@@ -1,0 +1,171 @@
+<div class="slider-home" id="slider1_container">    
+	<div class="slider-border" u="slides">        
+        <div onmouseout="javascript: event_mouseout();" onmouseover="javascript: event_mouseover();">
+            <img src="http://viphd.vn/Media/Default/BannerSlider/The%20Sword%20With%20No%20Name.jpg" u="image" />            
+            <div class="caption">               
+                <h3>
+                    <a href="http://viphd.vn/xem-phim/the-sword-with-no-name-thanh-kiem-vo-danh/f18.html">The Sword With No Name</a>
+                </h3>                
+                <h4>Thanh Kiếm Vô Danh</h4>      
+                <p class="description_detail_p">
+                    Bước vào tuổi con gái đẹp tựa như hoa, nàng Min Ja Young khi đó vẫn chưa trở thành hoàng hậu đã có một cuộc gặp gỡ với chàng kiếm khách Mu Myeong. Họ cảm mến nhau ngay từ cái nhìn đầu tiên nhưng thân phận trở thành rào cản mà cả hai không thể vượt qua được...
+                    <a href="http://viphd.vn/xem-phim/the-sword-with-no-name-thanh-kiem-vo-danh/f18.html" style="color:#ff6222">Xem thêm</a>                
+                </p>   
+                <ul class="description_detail_ul">                    
+                    <li>
+                        <span>Quốc gia</span> <a href="#">Hàn Quốc</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Thể loại</span><a href="#">Võ thuật, Tâm lý, Sử thi - Cổ trang, Tình cảm</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Diễn viên</span> 
+                        <a href="#">Soo Ae</a>,
+                        <a href="#">Jo Seung Woo</a>                    
+                    </li>   
+                    <li>
+                        <span>Thời lượng</span> 123 phút
+                    </li>                
+                </ul>     
+                <a href="http://viphd.vn/xem-phim/the-sword-with-no-name-thanh-kiem-vo-danh/f18.html" class="see_a-link">Xem phim</a>            
+            </div>  
+        </div>   
+		<div onmouseout="javascript: event_mouseout();" onmouseover="javascript: event_mouseover();"> 
+            <img src="http://viphd.vn/Media/Default/BannerSlider/carrie.jpg" u="image" />              
+			<div class="caption">                
+                <h3>
+                    <a href="http://viphd.vn/xem-phim/carrie-con-thinh-no-cua-carrie/f30.html">Carrie</a>
+                </h3>                
+				<h4>CƠN THỊNH NỘ CỦA CARRIE</h4>    
+                <p class="description_detail_p">
+                    Cơn thịnh nộ của Carrie - Carrie: Dựa trên cuốn tiểu thuyết cùng tên của nhà văn Stephen King, bộ phim xoay quay cô gái nhỏ (do Chloe Grace Moretz thủ vai) có khả năng di chuyển các đồ vật nhưng lại bị chính bà mẹ cuồng tính (do Jullianne More đóng) ngược đãi....
+                    <a href="http://viphd.vn/xem-phim/carrie-con-thinh-no-cua-carrie/f30.html" style="color:#ff6222">Xem thêm</a>                
+                </p>                  
+				<ul class="description_detail_ul">                    
+                    <li>
+                        <span>Quốc gia</span> <a href="#">Âu Mỹ</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Thể loại</span><a href="#">Ma - Kinh dị</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Diễn viên</span> 
+                        <a href="#">Julianne Moore</a>,
+                        <a href="#">Judy Greer</a>,
+                        <a href="#">Chloë Grace Moretz</a>                    
+                    </li>   
+                    <li>
+                        <span>Thời lượng</span> 100 phút
+                    </li>                
+				</ul>    
+                <a href="http://viphd.vn/xem-phim/carrie-con-thinh-no-cua-carrie/f30.html" class="see_a-link">Xem phim</a>            
+            </div>      
+        </div>  
+		<div onmouseout="javascript: event_mouseout();" onmouseover="javascript: event_mouseover();"> 
+            <img src="http://viphd.vn/Media/Default/BannerSlider/vo-tac-thien.jpg" u="image" />            
+			<div class="caption">                
+                <h3>
+                    <a href="http://viphd.vn/xem-phim/the-empress-of-china-vo-tac-thien190520151017/f37.html">The Empress of China</a>
+                </h3>                
+				<h4>Võ Tắc Thiên</h4>      
+                <p class="description_detail_p">
+                    Phim truyền hình cổ trang Võ Tắc Thiên vừa cho phát hành phiên bản 2014 lấy chủ đề "Quyền lực”. Vẻ đẹp sắc nước hương trời của cô đào Phạm Băng Băng khi diện tạo hình thời Đường đã nhận được nhiều lời tán thưởng từ dư luận bởi nội dung nhanh, hồi hộp, hấp dẫn...
+                    <a href="http://viphd.vn/xem-phim/the-empress-of-china-vo-tac-thien190520151017/f37.html" style="color:#ff6222">Xem thêm</a>                
+                </p>  
+				<ul class="description_detail_ul">                    
+                    <li>
+                        <span>Quốc gia</span> <a href="#">Trung Quốc</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Thể loại</span><a href="#">Kinh điển, Tâm lý, Sử thi - Cổ trang, Tình cảm</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Diễn viên</span> 
+                        <a href="#">Trương Quân Ninh</a>,
+                        <a href="#">Trương Đình</a>,
+                        <a href="#">Chu Hải Mị</a>,
+                        <a href="#">Trương Phong Nghị</a>,
+                        <a href="#">Lý Trị Đình</a>,
+                        <a href="#">Phạm Băng Băng</a>                    
+                    </li>   
+                    <li>
+                        <span>Thời lượng</span> 44 phút
+                    </li>                
+				</ul>    
+                <a href="http://viphd.vn/xem-phim/the-empress-of-china-vo-tac-thien190520151017/f37.html" class="see_a-link">Xem phim</a>           
+			</div>        
+        </div>    
+        <div onmouseout="javascript: event_mouseout();" onmouseover="javascript: event_mouseover();"> 
+            <img src="http://viphd.vn/Media/Default/BannerSlider/saving%20general%20yang.jpg" u="image" />            
+			<div class="caption">                
+                <h3>
+                    <a href="http://viphd.vn/xem-phim/saving-general-yang-giai-cuu-tuong-gia/f21.html">Saving General Yang</a>
+                </h3>                
+				<h4>Giải Cứu Tướng Gia</h4>      
+                <p class="description_detail_p">
+                   Dưới sự dẫn dắt của Dương Nghiệp - đại tướng quân của Dương gia - gia tộc họ Dương đã trở thành lực lượng nòng cốt bảo vệ Tống quốc và thần dân khỏi ách xâm lược của kẻ thù hung hãn.....
+                   <a href="http://viphd.vn/xem-phim/saving-general-yang-giai-cuu-tuong-gia/f21.html" style="color:#ff6222">Xem thêm</a>                
+                </p>  
+				<ul class="description_detail_ul">                     
+                    <li>
+                        <span>Quốc gia</span> <a href="#">Trung Quốc</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Thể loại</span><a href="#">Võ thuật, Sử thi - Cổ trang, kiếm kiệp, Chiến tranh</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Diễn viên</span> 
+                        <a href="#">Ngô Tôn</a>,
+                        <a href="#">Châu Du Dân</a>,
+                        <a href="#">Trịnh Y Kiện</a>,
+                        <a href="#">Trịnh Thiếu Thu</a>             
+                    </li>   
+                    
+                    <li>
+                        <span>Thời lượng</span> 102 phút
+                    </li>                     
+				</ul>    
+                <a href="http://viphd.vn/xem-phim/saving-general-yang-giai-cuu-tuong-gia/f21.html" class="see_a-link">Xem phim</a>         
+            </div>        
+        </div>     
+        <div onmouseout="javascript: event_mouseout();" onmouseover="javascript: event_mouseover();">
+            <img src="http://viphd.vn/Media/Default/BannerSlider/the-flash-season-1.jpg" u="image" />            
+            <div class="caption">               
+                <h3>
+                    <a href="http://viphd.vn/xem-phim/the-flash-season-1-nguoi-hung-tia-chop-1190520151017/f96.html">The Flash - Season 1</a>
+                </h3>                
+                <h4>Người Hùng Tia Chớp 1</h4>     
+                <p class="description_detail_p">
+                    Trong một lần tại Starling City, Barry đã vô tình bị ảnh hưởng bởi vụ nổ phòng thí nghiệm của S.T.A.R khiến anh bị bất tỉnh nhiều ngày trong bệnh viện. Khi tỉnh dậy, anh ta đã phát hiện ra rằng mình có khả năng đặc biệt đó là tăng tốc độ cơ thể và di chuyển siêu nhanh. Kể từ đây, huyền thoại về người anh hùng Flash bắt đầu ...
+                    <a href="http://viphd.vn/xem-phim/the-flash-season-1-nguoi-hung-tia-chop-1190520151017/f96.html" style="color:#ff6222">Xem thêm</a>                
+                </p>  
+                <ul class="description_detail_ul">                    
+                    <li>
+                        <span>Quốc gia</span> <a href="#">Âu Mỹ</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Thể loại</span><a href="#">Khoa học viễn tưởng, Hành động , Tâm lý</a>                                        
+                    </li>                    
+                    <li>
+                        <span>Diễn viên</span> 
+                        <a href="#">Carlos Valdesn</a>,
+                        <a href="#">Danielle Panabaker</a>,
+                        <a href="#">Rick Cosnett</a>,
+                        <a href="#">Candice Patton</a>,
+                        <a href="#">Grant Gustin</a>                    
+                    </li>   
+                    <li>
+                        <span>Thời lượng</span> 60 phút
+                    </li>                
+                </ul>    
+                <a href="http://viphd.vn/xem-phim/the-flash-season-1-nguoi-hung-tia-chop-1190520151017/f96.html" class="see_a-link">Xem phim</a>           
+            </div>        
+        </div>  
+	</div> 
+	<div style="bottom: 16px; right: 6px;" class="jssorb03" u="navigator">        
+        <div u="prototype">
+            <div u="numbertemplate">&nbsp;</div>        
+        </div>    
+    </div>    
+    <span style="top: 123px; left: 8px;" class="jssora20l" onmouseout="javascript: event_mouseout();" onmouseover="javascript: event_mouseover();" u="arrowleft"></span>   
+    <span style="top: 123px; right: 8px;" class="jssora20r" onmouseout="javascript: event_mouseout();" onmouseover="javascript: event_mouseover();" u="arrowright"></span></div>

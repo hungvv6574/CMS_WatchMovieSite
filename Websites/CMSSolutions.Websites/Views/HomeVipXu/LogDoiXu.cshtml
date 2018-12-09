@@ -1,0 +1,68 @@
+﻿@model CMSSolutions.Websites.Models.PaymentModel
+<div class="profi-cat-left">
+    <ul class="profi-menu">
+        <li>
+            <a href="@Url.Action("VipXuInfo", "HomeVipXu")" class="@(Model.PageName == 0 ? "active" : string.Empty)">THÔNG TIN</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index", "HomeVipXu")" class="@(Model.PageName == 1 ? "active" : string.Empty)">Nạp VIP!</a>
+        </li>
+        <li>
+            <a href="@Url.Action("LogDoiXu", "HomeVipXu")" class="@(Model.PageName == 2 ? "active" : string.Empty)">Log đổi xu</a>
+        </li>
+        <li>
+            <a href="@Url.Action("LogNapVip", "HomeVipXu")" class="@(Model.PageName == 3 ? "active" : string.Empty)">Log nạp VIP</a>
+        </li>
+    </ul>  
+
+    <div id="page_index">
+        <br class="clear_both">  
+        <div class="log-pur-inf" style="margin-right: 20px;">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <th scope="col">THỜI GIAN</th>
+                        <th scope="col">SỐ TIỀN(VNĐ)</th>
+                        <th scope="col">HÌNH THỨC NẠP</th>
+                        <th scope="col">THAM CHIẾU</th>
+                    </tr>
+                    @if (Model.CustomerDoiXuHistories != null && Model.CustomerDoiXuHistories.Count > 0)
+                    {
+                        foreach (var item in Model.CustomerDoiXuHistories)
+                        {
+                            <tr>
+                                <td>
+                                    @item.CreateDate.ToString(CMSSolutions.Websites.Extensions.Constants.DateTimeFomatFull)
+                                </td>
+                                <td>
+                                    @item.Amount
+                                </td>
+                                <td>
+                                    @item.Type
+                                </td>
+                                <td>
+                                    @item.TransactionCode
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td style="text-align: center" colspan="4">Không có dữ liệu</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>  
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var customerCode = '@Model.CustomerCode';
+        if (customerCode == '' || customerCode == null) {
+            dialogBox('#loginBox');
+        }
+    });  
+</script> 

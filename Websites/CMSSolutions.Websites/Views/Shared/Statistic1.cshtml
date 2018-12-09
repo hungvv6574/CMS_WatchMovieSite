@@ -1,0 +1,101 @@
+﻿ @model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div class="list_category">   
+    <h3 class="title_h1_st2">@Model.Title</h3>
+    <a href="javascript:void(0)" id="tab_le_date" onclick="show_phim_le(1)" class="title_tabs_a active">NGÀY</a>
+    <a href="javascript:void(0)" id="tab_le_week" onclick="show_phim_le(2)" class="title_tabs_a">TUẦN</a>
+    <a href="javascript:void(0)" id="tab_le_month" onclick="show_phim_le(3)" class="title_tabs_a">THÁNG</a>  
+    <div id="film_le_date" class="content content_mCustomScrollbar_le content_mCustomScrollbar list_category-sidebar"></div>  
+    <div id="film_le_week" class="content_mCustomScrollbar_le content_mCustomScrollbar list_category-sidebar"></div>
+    <div id="film_le_month" class="content_mCustomScrollbar_le content_mCustomScrollbar list_category-sidebar"></div>
+    <br class="clear_both">               
+</div>  
+<div class="clear_with_border_bot" style="height:10px;"></div>      
+
+<script type="text/javascript">     
+    $(document).ready(function() {
+        $("#film_le_week").hide();
+        $("#film_le_month").hide();
+        showStatisticalRetail('film_le_date', 1);
+        showStatisticalRetail('film_le_week', 2);
+        showStatisticalRetail('film_le_month', 3);
+        $(window).load(function () {  
+            $("#film_le_date").mCustomScrollbar({
+                theme: "dark-thick",
+				scrollInertia:900,
+				scrollEasing:"easeOutQuint",
+				mouseWheel:true,
+				mouseWheelPixels: 500
+            });
+
+            $("#film_le_week").mCustomScrollbar({
+                theme: "dark-thick",
+				scrollInertia:900,
+				scrollEasing:"easeOutQuint",
+				mouseWheel:true,
+				mouseWheelPixels: 500
+            });
+
+            $("#film_le_month").mCustomScrollbar({
+                theme: "dark-thick",
+				scrollInertia:900,
+				scrollEasing:"easeOutQuint",
+				mouseWheel:true,
+				mouseWheelPixels: 500
+            });
+        }); 
+    });
+    
+    function showStatisticalRetail(name, index) {
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("GetFilmByType", "Home")',
+            data: { type: '@Model.Type', statistical: index },
+            dataType: 'JSON',
+            beforeSend: function () {
+                var html = "<div id='loading' style='width: 100%;text-align: center;margin-top: 30%;'><img width='100' src='/Images/themes/loading1.gif' /></div>";
+                setTimeout(function () {
+                    $("#" + name).find("#loading").remove();
+                }, 20000);
+                $("#" + name).html(html);
+            },
+            success: function (resultList) {
+                $("#" + name).find("#loading").remove();
+                var n = resultList.Data.length;
+                if (n > 0) {
+                    $("#" + name).html(resultList.Data);
+                } else {
+                    var html = "<p>Không có dữ liệu</p>";
+                    $("#" + name).html(html);
+                }
+            }
+        });
+    }
+    
+    function show_phim_le(id) {
+        if (id == 1) {
+            $("#tab_le_date").addClass("active");
+            $("#tab_le_week").removeClass("active");
+            $("#tab_le_month").removeClass("active");
+
+            $("#film_le_date").show();
+            $("#film_le_week").hide();
+            $("#film_le_month").hide();
+        } else if (id == 2) {
+            $("#tab_le_date").removeClass("active");
+            $("#tab_le_week").addClass("active");
+            $("#tab_le_month").removeClass("active");
+
+            $("#film_le_date").hide();
+            $("#film_le_week").show();
+            $("#film_le_month").hide();
+        } else if (id == 3) {
+            $("#tab_le_date").removeClass("active");
+            $("#tab_le_week").removeClass("active");
+            $("#tab_le_month").addClass("active");
+
+            $("#film_le_date").hide();
+            $("#film_le_week").hide();
+            $("#film_le_month").show();
+        }
+    }
+</script> 

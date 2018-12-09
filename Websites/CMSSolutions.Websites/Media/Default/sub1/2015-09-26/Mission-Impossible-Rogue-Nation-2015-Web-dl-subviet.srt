@@ -1,0 +1,4634 @@
+﻿1
+00:01:14,410 --> 00:01:15,870
+Benji.
+
+2
+00:01:16,130 --> 00:01:18,080
+Benji, nghe rõ không?
+
+3
+00:01:18,570 --> 00:01:20,180
+Benji.
+
+4
+00:01:20,590 --> 00:01:22,620
+Ôi, chết tiệt!
+
+5
+00:01:22,640 --> 00:01:24,080
+Ethan đâu rồi?
+
+6
+00:01:24,110 --> 00:01:25,760
+Ừ, tôi không thể nói ngay bây giờ được.
+
+7
+00:01:25,790 --> 00:01:28,190
+Kiện hàng đang ở trên máy bay.
+
+8
+00:01:28,220 --> 00:01:29,790
+Được rồi, tôi biết.
+
+9
+00:01:29,810 --> 00:01:33,720
+Chúng ta hiện đang làm theo kế hoạch B,
+mặc dù về mặt kỹ thuật, đó là kế hoạch C.
+
+10
+00:01:33,740 --> 00:01:35,120
+Chuyện này đang không tốt lắm.
+
+11
+00:01:35,160 --> 00:01:37,440
+Tôi đang nhận ra, Brandt.
+Anh sẽ không giúp tôi.
+
+12
+00:01:37,460 --> 00:01:38,570
+Ethan đâu?
+
+13
+00:01:38,600 --> 00:01:40,050
+Tôi không biết.
+Chúng ta đang ở trên sóng vô tuyến im lặng.
+
+14
+00:01:40,080 --> 00:01:42,820
+Chiếc máy bay đó không thể cất cánh, khi chưa có kiện hàng ở trong đó.
+
+15
+00:01:42,850 --> 00:01:44,950
+- Cậu có hiểu không?
+- Chúng ta đang phải đối phó với nó đây.
+
+16
+00:01:44,980 --> 00:01:47,050
+Luther? Cậu làm cái quái gì ở đây vậy?
+
+17
+00:01:47,080 --> 00:01:48,840
+Cậu có nghĩa vụ làm một vụ chuyển hàng tại Malaysia mà?
+
+18
+00:01:48,870 --> 00:01:51,900
+Tôi đang ở Malaysia, tôi đã ở đây 2 ngày rồi.
+Benji cần sự giúp đỡ của tôi.
+
+19
+00:01:51,950 --> 00:01:55,440
+Tôi không cần sự giúp đỡ. Tôi chỉ--
+Tôi đã hỗ trợ những thứ cần thiết, đó là chuyện khác.
+
+20
+00:01:55,460 --> 00:01:57,780
+Kiện hàng vẫn ở trên chiếc máy bay đó.
+
+21
+00:01:59,150 --> 00:02:00,940
+Chúng ta hiểu kiện hàng đang ở máy bay mà.
+
+22
+00:02:00,960 --> 00:02:03,420
+- Chúng ta đang cố làm tê liệt nó từ xa.
+- Cậu có thể làm được điều đó mà.
+
+23
+00:02:03,440 --> 00:02:06,210
+Chúng ta có thể nếu phi công mở bộ truyền vệ tinh.
+
+24
+00:02:06,230 --> 00:02:08,580
+- Mà họ có.
+- Và làm thế nào để cậu xâm nhập vào bộ truyền?
+
+25
+00:02:08,610 --> 00:02:12,130
+- Nó liên quan tới chuyện hack một vệ tinh của Nga.
+- Tôi không thể cho phép làm thế.
+
+26
+00:02:12,150 --> 00:02:13,970
+Đó là lý do mà tôi không hỏi xin phép ai cả.
+
+27
+00:02:14,000 --> 00:02:16,450
+Chúng ta đang bị điều tra
+cho hành vi sai trái đấy!
+
+28
+00:02:16,480 --> 00:02:19,870
+Kiện hàng đang trên máy bay rồi.
+Anh có muốn tôi làm gì không?
+
+29
+00:02:27,820 --> 00:02:29,710
+Ừ, Luther.
+
+30
+00:02:29,740 --> 00:02:32,390
+Tôi nghe có bức xạ nhiệt đấy Benji.
+Đông cơ đang được khởi động.
+
+31
+00:02:32,410 --> 00:02:33,970
+Được rồi. Tôi thấy nó rồi.
+
+32
+00:02:34,000 --> 00:02:37,510
+Nhưng tôi không thể làm bất cứ điều gì cho đến khi
+tôi kết nối với vệ tinh.
+
+33
+00:02:37,800 --> 00:02:40,680
+Benji, anh đã kết nối được.
+- Được rồi, tuyệt.
+
+34
+00:02:41,330 --> 00:02:44,080
+Kiện hàng vẫn còn trên máy bay.
+
+35
+00:02:44,100 --> 00:02:45,990
+Ngắt máy bơm nhiên liệu đi.
+
+36
+00:02:46,010 --> 00:02:47,840
+Ừ, phần cơ thì khóa.
+
+37
+00:02:47,900 --> 00:02:51,020
+- Còn hệ thống điện thì thế nào?
+- Ôi, nó có thể làm việc mà.
+
+38
+00:02:51,050 --> 00:02:51,830
+Không, không!
+
+39
+00:02:51,860 --> 00:02:53,720
+- Thủy lực.
+- Được rồi, chế độ chờ!
+
+40
+00:02:53,740 --> 00:02:55,730
+Không, họ mã hóa nó rồi!
+
+41
+00:02:57,200 --> 00:02:58,280
+Benji, máy bay!
+
+42
+00:02:58,300 --> 00:03:00,020
+Đúng rồi! Kiện hàng vẫn còn trên máy bay!
+
+43
+00:03:00,040 --> 00:03:01,900
+Chúng tôi hiểu rồi!
+
+44
+00:03:03,430 --> 00:03:05,440
+Anh có thể mở được cửa không?
+
+45
+00:03:05,470 --> 00:03:07,810
+- Ethan? Cậu đâu rồi?
+- Tôi đang trên máy bay!
+
+46
+00:03:07,840 --> 00:03:09,750
+Benji, cậu có thể mở cửa nó không?
+
+47
+00:03:09,770 --> 00:03:12,500
+Ừ. cậu có thể mở cửa không?
+- Ừ, có thể.
+
+48
+00:03:12,530 --> 00:03:15,040
+Mở cửa khi tôi yêu cầu!
+
+49
+00:03:29,040 --> 00:03:30,850
+Tôi đang trên máy bay.
+Mở cửa đi!
+
+50
+00:03:30,870 --> 00:03:32,010
+Làm thế nào để cậu vào được máy bay thế?
+
+51
+00:03:32,040 --> 00:03:34,780
+Không phải trong máy bay,
+tôi đang trên máy bay!!
+
+52
+00:03:34,810 --> 00:03:37,070
+Mở cửa đi!
+
+53
+00:03:41,170 --> 00:03:43,630
+Benji. Mở cửa đi.
+
+54
+00:03:43,660 --> 00:03:46,190
+Yeah-yeah-yeah...
+Được rồi, được rồi.
+
+55
+00:03:50,460 --> 00:03:53,970
+- Benji, mở cửa ngay đi!
+- Tôi đang cố đây.
+
+56
+00:04:07,730 --> 00:04:10,540
+- Nhanh nào, Benji.
+- Benji, mở cửa đi!
+
+57
+00:04:10,560 --> 00:04:12,950
+Nhanh lên. Nhanh lên. Nhanh lên!
+
+58
+00:04:18,450 --> 00:04:21,560
+Nhanh lên. Được rồi, xong rồi.
+
+59
+00:04:25,930 --> 00:04:27,790
+Sai cửa rồi!
+
+60
+00:04:27,810 --> 00:04:30,070
+Benji, không phải cánh cửa đó!
+Cánh cửa khác.
+
+61
+00:04:30,100 --> 00:04:31,890
+Cánh cửa khác!
+- Được rồi. Đúng, cánh cửa khác.
+
+62
+00:04:31,920 --> 00:04:35,130
+Được rồi, đúng, đúng. Xin lỗi, xin lỗi.
+Lỗi của tôi, của tôi.
+
+63
+00:04:40,160 --> 00:04:41,820
+Kiểm tra thử xem.
+
+64
+00:04:42,020 --> 00:04:44,040
+Được rồi. Nhìn xem, tôi sẽ mở cánh trước máy bay!
+
+65
+00:04:44,070 --> 00:04:45,890
+Làm thế nào vậy?
+
+66
+00:05:14,480 --> 00:05:16,500
+Này. này!
+
+67
+00:05:18,310 --> 00:05:53,310
+Phụ đề Việt ngữ: HDOSubteam
+Biên tập: Đào Lê Minh
+
+68
+00:05:58,310 --> 00:06:01,280
+.: NHIỆM VỤ BẤT KHẢ THI - QUỐC GIA BÍ ẨN :.
+
+69
+00:06:30,950 --> 00:06:32,950
+Chúng tôi sắp đóng cửa rồi
+
+70
+00:06:33,080 --> 00:06:35,080
+Tôi không ở lâu đâu
+
+71
+00:06:35,080 --> 00:06:37,990
+Chính xác là anh đang tìm gì?
+
+72
+00:06:38,130 --> 00:06:41,610
+Thứ gì đó hiếm là được
+
+73
+00:06:43,880 --> 00:06:46,320
+Để tôi đoán nhé
+
+74
+00:06:47,300 --> 00:06:49,900
+- Cổ điển?
+- Jazz
+
+75
+00:06:50,210 --> 00:06:52,210
+- Saxophone?
+- Cultury
+
+76
+00:06:52,230 --> 00:06:54,340
+- Piano?
+- Monk
+
+77
+00:06:54,510 --> 00:06:56,980
+Shadow Wilson chơi đàn
+
+78
+00:06:57,140 --> 00:07:00,100
+Shadow Wilson chơi trống
+
+79
+00:07:00,190 --> 00:07:06,090
+- Biết tại sao ông ấy được gọi là Bóng Ma không?
+- Vì cách chạm trống nhẹ như lông hồng
+
+80
+00:07:06,190 --> 00:07:09,430
+Anh gặp may đấy
+
+81
+00:07:09,610 --> 00:07:13,240
+Tôi có ấn bản đầu tiên đâu
+
+82
+00:07:19,710 --> 00:07:23,340
+Đúng là anh rồi
+
+83
+00:07:24,650 --> 00:07:30,660
+Tôi có nghe qua vài câu chuyện,
+chắc hẳn đều có thật
+
+84
+00:07:50,890 --> 00:07:52,830
+Xin chào anh Hunt
+
+85
+00:07:52,830 --> 00:07:56,430
+Vũ khí anh khởi động lại ở Bellaross
+được xác định là hơi độc thần kinh VX
+
+86
+00:07:56,540 --> 00:07:59,270
+có khả năng hủy hoại cả một thành phố lớn
+
+87
+00:07:59,360 --> 00:08:03,860
+Xác của phi hành đoàn được tìm thấy
+trong vòng 24 tiếng sau khi họ hạ cánh ở Massket
+
+88
+00:08:03,960 --> 00:08:06,970
+Chúng được xác minh là
+những phần tử ly khai Chenchen
+
+89
+00:08:07,080 --> 00:08:11,930
+không có khả năng tiếp cận cũng như
+sử dụng vũ khí mà họ vận chuyển
+
+90
+00:08:11,990 --> 00:08:16,960
+Điều này ủng hộ cho giả thiết của cậu rằng
+có một tổ chức Bóng ma đang kích động gây hấn
+
+91
+00:08:17,020 --> 00:08:21,140
+thông qua các hoạt động khủng bố
+tại các quốc gia thân phương Tây
+
+92
+00:08:21,200 --> 00:08:26,440
+MIF nghi ngờ rằng đây chính là tổ chức bóng tối
+mà anh đã truy tìm suốt năm qua
+
+93
+00:08:26,480 --> 00:08:28,930
+còn được biết đến với tên Syndicate
+
+94
+00:08:29,060 --> 00:08:31,430
+Suy đoán của IMF là chính xác
+
+95
+00:08:31,540 --> 00:08:36,470
+Thông thường, đội của anh sẽ được cử để
+tiêu diệu mạng lưới khủng bố này
+
+96
+00:08:36,570 --> 00:08:40,240
+nhưng đã có những biện pháp đưa
+để bảm bảo chuyện đó không xảy ra
+
+97
+00:08:40,330 --> 00:08:43,140
+Vì chúng tôi chính là Syndicate
+
+98
+00:08:43,250 --> 00:08:45,960
+và giờ chúng tôi đã biết
+anh là ai
+
+99
+00:08:46,080 --> 00:08:49,770
+Nếu chấp thuận, nhiệm vụ của anh
+sẽ là đối mặt với số phận
+
+100
+00:08:49,900 --> 00:08:53,730
+Theo đuổi chúng tôi, anh sẽ bị tóm.
+Chống lại chúng tôi, anh sẽ bị giết
+
+101
+00:08:53,850 --> 00:08:57,950
+Và Thư Ký đáng kính sẽ
+theo dõi mọi hoạt động của anh
+
+102
+00:08:58,060 --> 00:09:04,470
+Chúc anh may mắn!
+Tin nhắn này sẽ tự hủy trong 5 giây
+
+103
+00:09:54,140 --> 00:09:58,050
+IMF đã thất thế từ lúc tôi bước chân vào CIA
+
+104
+00:09:58,180 --> 00:10:02,860
+Khi IMF đột nhập vào CIA để đánh cắp
+danh sách điệp viên
+
+105
+00:10:02,990 --> 00:10:05,700
+Và gần đây, một đầu đạn đã vô hiệu hóa...
+- Đầu đạn hạt nhân của Nga
+
+106
+00:10:05,760 --> 00:10:08,770
+- Đầu đạn hạt nhân của Nga đã ...
+- Phát hiện bởi IMF..
+
+107
+00:10:08,870 --> 00:10:12,340
+đã lướt qua tòa nhà Pyramid
+trước khi rơi xuống vịnh San Fransisco
+
+108
+00:10:12,480 --> 00:10:15,090
+- Cứu sống hàng ngàn mạng người
+- Đây có thể do một đặc vụ IMF
+
+109
+00:10:15,200 --> 00:10:19,270
+đã cung cấp mã phóng cho một
+tên khủng bố có tiếng
+
+110
+00:10:19,370 --> 00:10:22,600
+Tôi nói đúng không, đặc vụ Brandt?
+
+111
+00:10:22,720 --> 00:10:27,000
+Tôi không thể xác nhận hay phủ nhận
+bất kỳ thông tin nào nếu không được Thư ký chấp thuận
+
+112
+00:10:27,090 --> 00:10:33,000
+Trong cùng tuần đó, IMF đã đột nhập vào điện Kremlin.
+Đây là Kremlin trước sự kiện
+
+113
+00:10:33,150 --> 00:10:36,770
+Và Kremlin sau sự kiện
+
+114
+00:10:37,790 --> 00:10:41,730
+- Tôi không thể xác nhận hay phủ nhận bất kỳ thông tin...
+- Mà không được Thư ký chấp thuận
+
+115
+00:10:41,860 --> 00:10:44,680
+Vâng, chúng tôi biết chừng nào Ủy ban
+chưa bổ nhiệm chỉ thị mới
+
+116
+00:10:44,830 --> 00:10:47,220
+Anh không thể xác nhận bất cứ điều gì,
+đúng không đặc vụ Brandt?
+
+117
+00:10:47,360 --> 00:10:49,010
+Tôi đâu phải người viết ra luật
+
+118
+00:10:49,010 --> 00:10:53,520
+Thưa Chủ Tịch, lực lượng Bất Khả Thi không chỉ là
+một tổ chức ngỗ ngược
+
+119
+00:10:53,630 --> 00:10:56,770
+Nó là một tổ chức lỗi thời, tùy ý hoạt động
+
+120
+00:10:56,900 --> 00:10:58,900
+mà không có sự minh bạch hay giám sát
+
+121
+00:10:58,960 --> 00:11:01,320
+- Chủ Tịch
+- Đã đến lúc giải tán IMF
+
+122
+00:11:01,490 --> 00:11:05,370
+Và chuyển giao tất cả tài sản có ích
+còn lại cho CIA
+
+123
+00:11:05,520 --> 00:11:08,490
+Chủ Tịch, IMF đã hoạt động
+không cần sự giám sát của ông ấy
+
+124
+00:11:08,680 --> 00:11:13,130
+Các phương thức hoạt động không chính thống.
+Đúng vậy. Kết quả hoạt động
+
+125
+00:11:13,220 --> 00:11:15,460
+không được công nhận.
+Nhưng nếu không có IMF
+
+126
+00:11:15,580 --> 00:11:17,390
+Nó cần có trật tự và minh bạch
+
+127
+00:11:17,390 --> 00:11:19,950
+Nếu không có IMF...
+
+128
+00:11:20,250 --> 00:11:25,360
+Chúng tôi công nhận những đóng góp của
+IMF cho an ninh thế giới
+
+129
+00:11:25,460 --> 00:11:28,890
+nhưng những sự kiện do Giám đốc CIA, Huntley đưa ra
+
+130
+00:11:29,000 --> 00:11:34,770
+cũng cho thấy những biểu hiện rủi ro
+của những phương thức hoạt động không lường trước
+
+131
+00:11:34,880 --> 00:11:39,970
+Theo những gì tôi thấy, cách thức hoạt động
+của các cậu tùy thuộc vào sự may rủi
+
+132
+00:11:40,080 --> 00:11:46,460
+Còn kết quả dường như nhờ vào sự may mắn.
+
+133
+00:11:46,570 --> 00:11:54,410
+Tôi e từ ngày hôm nay
+IMF không còn gặp may nữa
+
+134
+00:13:30,620 --> 00:13:34,710
+Anh làm gì ở đây?
+
+135
+00:13:37,300 --> 00:13:41,420
+Tôi hỏi anh làm gì đây
+
+136
+00:13:47,710 --> 00:13:51,160
+Ông ấy nhìn thấy gì ở mày chứ?
+
+137
+00:13:51,270 --> 00:13:53,970
+Ông ấy là ai?
+
+138
+00:13:56,270 --> 00:14:00,040
+Tôi đến xem khả năng của hắn tới đâu
+
+139
+00:14:00,200 --> 00:14:08,040
+Nếu còng được tháo, tao sẽ cho mày biết,
+Vinter
+
+140
+00:14:09,990 --> 00:14:14,450
+- Mày biết tao là ai
+- Janik Vinter
+
+141
+00:14:14,590 --> 00:14:19,050
+Mày được mệnh danh là "Bác sĩ chỉnh hình"
+
+142
+00:14:19,200 --> 00:14:25,090
+Vấn đề là người ta công bố mày
+là đã chết, vào 3 năm trước
+
+143
+00:14:25,200 --> 00:14:28,880
+À mà, giày đẹp đó
+
+144
+00:14:29,000 --> 00:14:34,700
+Không phải của hắn.
+Của cô
+
+145
+00:14:39,020 --> 00:14:41,870
+Chỉ thị của chúng ta là tra khảo hắn
+
+146
+00:14:42,050 --> 00:14:43,680
+Không phải hạ sát hắn
+
+147
+00:14:43,680 --> 00:14:47,570
+Có những kẻ cần phải được tra khảo theo kiểu khác
+
+148
+00:14:47,760 --> 00:14:52,410
+Tên này là chiến binh.
+Hắn sẽ chết mà không hé một lời nào
+
+149
+00:14:52,500 --> 00:14:55,680
+Anh sợ hắn sẽ thay thế vị trí của anh à?
+
+150
+00:15:05,890 --> 00:15:12,330
+Cô nên đi, trước khi mọi chuyện tệ hơn
+
+151
+00:15:12,480 --> 00:15:14,830
+Hắn nói đúng đấy
+
+152
+00:15:15,170 --> 00:15:18,140
+Cô nên đi
+
+153
+00:15:30,440 --> 00:15:35,180
+Giờ thì để xem mày cứng đến đâu
+
+154
+00:15:35,380 --> 00:15:38,670
+Janik
+
+155
+00:16:59,380 --> 00:17:03,200
+Chúng ta chưa từng gặp, đúng không?
+
+156
+00:17:03,850 --> 00:17:06,310
+Theo tôi
+
+157
+00:17:13,760 --> 00:17:16,270
+Đưa súng cho tao
+
+158
+00:17:18,670 --> 00:17:21,570
+- Cô làm gì vậy?
+- Tôi không đi được
+
+159
+00:17:21,620 --> 00:17:23,690
+Cô không thể ở lại.
+Chúng ta vừa giết những tên đó
+
+160
+00:17:23,800 --> 00:17:26,100
+Không phải chúng ta,
+mà là anh
+
+161
+00:17:26,210 --> 00:17:30,590
+Tôi đã cố ngăn anh
+nhưng anh trốn thoát
+
+162
+00:17:30,720 --> 00:17:35,870
+- Cô là ai?
+- Anh nên nhanh đi. Chúc may mắn!
+
+163
+00:17:35,940 --> 00:17:37,640
+Chờ đã! Chờ đã!
+
+164
+00:17:37,640 --> 00:17:41,200
+- Hắn đâu rồi?
+- Hắn chạy theo hướng Bắc, hắn đóng cổng rồi
+
+165
+00:17:41,270 --> 00:17:44,390
+Nhanh lên, đừng để hắn chạy thoát
+
+166
+00:17:56,080 --> 00:17:58,750
+- Vệ tinh đây
+- Tây Âu. Đường dây không bảo mật
+
+167
+00:17:58,850 --> 00:18:01,210
+- Mật khẩu
+- BRAVO. ECHO. 11
+
+168
+00:18:01,310 --> 00:18:03,590
+- Đang kết nối
+- Brandt nghe
+
+169
+00:18:03,700 --> 00:18:06,290
+Bật chế độ bảo mật.
+
+170
+00:18:06,390 --> 00:18:07,910
+Nói đi
+
+171
+00:18:07,910 --> 00:18:10,990
+Cơ sở London đã bị phá hoại.
+Nhắc lại, đã bị phá hoại
+
+172
+00:18:11,080 --> 00:18:14,080
+Đặc vụ được cài vào đang gặp nguy hiểm,
+yêu cầu hỗ trợ ngay lập tức
+
+173
+00:18:14,160 --> 00:18:17,680
+Chuyện gì vậy? Ai đứng sau vụ này?
+Có manh mối nào không?
+
+174
+00:18:17,770 --> 00:18:21,530
+Chỉ một gương mặt. Hắn muốn lấy gì đó.
+Thông tin mật
+
+175
+00:18:21,570 --> 00:18:24,790
+Hắn có thể giết tôi,
+nhưng đã không làm vậy
+
+176
+00:18:24,890 --> 00:18:28,290
+- Ý anh là sao?
+- Syndicate là có thật
+
+177
+00:18:28,380 --> 00:18:31,070
+Chúng biết chúng ta là ai,
+hoạt động như thế nào
+
+178
+00:18:31,150 --> 00:18:33,980
+Tôi nghĩ tôi biết lý do.
+Nếu quá khó tìm thì
+
+179
+00:18:34,110 --> 00:18:41,120
+hãy tập trung tất cả các thông tin tình báo liên quan tới
+các cựu điệp viên, tình báo từ bất cứ nước hay tổ chức nào
+
+180
+00:18:41,190 --> 00:18:44,690
+Chỉ cần họ được công bố đã chết
+hay nghi ngờ đã chết
+
+181
+00:18:44,760 --> 00:18:48,470
+Bắt đầu với Janik Vinter,
+còn được biết là Bác sĩ chỉnh hình
+
+182
+00:18:48,560 --> 00:18:50,690
+- Tôi không làm được
+- Sao?
+
+183
+00:18:50,840 --> 00:18:53,090
+Anh nói gì vậy?
+
+184
+00:18:53,200 --> 00:18:58,150
+Ủy Ban đã cho chúng ta đóng cửa.
+Tất cả hoạt động được chuyển giao cho CIA
+
+185
+00:18:58,210 --> 00:19:03,780
+Không còn IMF nữa. Tôi được lệnh
+triệu tập mọi người về
+
+186
+00:19:03,870 --> 00:19:05,540
+- Ethan
+- Tôi hiểu
+
+187
+00:19:05,540 --> 00:19:07,940
+- Ethan
+- Tôi hiểu, Brandt
+
+188
+00:19:08,030 --> 00:19:13,000
+Cuộc trò chuyện này không xảy ra.
+Tôi biến mất ở London, anh không biết tôi ở đâu
+
+189
+00:19:13,070 --> 00:19:15,070
+Không biết tôi sống hay chết
+
+190
+00:19:15,110 --> 00:19:18,600
+Gã mà anh đã trông thấy,
+có tìm ra được không?
+
+191
+00:19:18,680 --> 00:19:21,600
+Tôi sẽ không dừng lại
+chừng nào chưa tìm ra hắn
+
+192
+00:19:21,710 --> 00:19:25,320
+Đây có thể sẽ là nhiệm vụ
+cuối cùng của chúng ta, Ethan
+
+193
+00:19:25,420 --> 00:19:28,950
+- Cố gắng hết sức nhé
+- Brandt?
+
+194
+00:19:47,270 --> 00:19:51,150
+Chúng ta chuẩn bị hoạt động cùng nhau,
+nên anh hãy cẩn thận với lời nói của mình
+
+195
+00:19:51,260 --> 00:19:53,080
+- Hunt đâu?
+- Tôi không biết
+
+196
+00:19:53,080 --> 00:19:56,130
+- Đừng nói dối tôi, Brandt
+- Tôi không tài nào liên lạc với anh ấy được
+
+197
+00:19:56,230 --> 00:19:58,950
+Anh ấy đang chìm rất sâu.
+Nghe nói đang lần dấu vết Syndicate
+
+198
+00:19:59,080 --> 00:20:03,270
+Thôi trò vờn mèo đó đi.
+Anh biết chúng tôi là ai, có khả năng gì
+
+199
+00:20:03,350 --> 00:20:08,100
+Tại sao CIA lại không biết
+bất cứ thông tin gì về việc lần dấu vết Syndicate?
+
+200
+00:20:08,200 --> 00:20:10,870
+- Ông đang ám chỉ gì?
+- Không phải ám chỉ, tôi nói thẳng
+
+201
+00:20:10,950 --> 00:20:16,540
+Thật ra là đang buộc tội.
+Hunt là kẻ vừa ăn cướp vừa la làng
+
+202
+00:20:16,610 --> 00:20:22,650
+Tôi tin rằng Syndicate là thứ không có thật
+được tạo ra đảm bảo sự tồn tại của IMF
+
+203
+00:20:22,740 --> 00:20:25,000
+Tôi sẽ tìm anh ta, Brandt,
+khi tìm thấy
+
+204
+00:20:25,100 --> 00:20:33,040
+anh ta sẽ phải trả lời cho tất cả những
+hoạt động mà anh ta chịu trách nhiệm
+
+205
+00:20:33,160 --> 00:20:37,250
+Chào mừng đến với CIA
+
+206
+00:20:37,360 --> 00:20:40,350
+- Ông không tìm ra đâu
+- Căn đồng hồ đi Brandt
+
+207
+00:20:40,440 --> 00:20:44,740
+Ethan Hunt đang sống
+ngày tự do cuối cùng của hắn
+
+208
+00:20:45,090 --> 00:20:47,410
+6 THÁNG SAU
+
+209
+00:20:57,640 --> 00:21:00,030
+Tất cả hãy chuẩn bị.
+
+210
+00:21:00,150 --> 00:21:02,380
+Thông tin đã xác nhận
+
+211
+00:21:02,510 --> 00:21:04,990
+- Lực lượng hãy chuẩn bị
+- Tiến hành đi
+
+212
+00:21:05,110 --> 00:21:09,050
+Lanley gọi Bringstone, tiến hành.
+Nhắc lại, hãy tiến hành
+
+213
+00:22:04,670 --> 00:22:09,240
+Langley, không có ai ở đây
+
+214
+00:22:13,190 --> 00:22:19,030
+Langley gọi Bringstone.
+Hãy hướng về bức tường phía Bắc
+
+215
+00:22:27,310 --> 00:22:29,140
+THÊM MỘT MÁY BAY BIẾN MẤT
+Chuyến bay 606?
+
+216
+00:22:29,140 --> 00:22:31,420
+NHÀ MÁY VŨ KHÍ HÓA HỌC BỊ CHÁY RỤI
+
+217
+00:22:31,580 --> 00:22:34,840
+NGÂN HÀNG THẾ GIỚI TUYÊN BỐ PHÁ SẢN
+
+218
+00:23:09,870 --> 00:23:11,870
+Gửi anh Dunn
+
+219
+00:23:16,080 --> 00:23:17,820
+NHÀ HÁT VIENNA
+
+220
+00:23:17,820 --> 00:23:20,870
+BẠN ĐÃ TRÚNG VÉ
+
+221
+00:23:23,490 --> 00:23:26,180
+Dunn đây
+
+222
+00:23:26,320 --> 00:23:30,120
+Tới giờ rồi à? Được rồi
+
+223
+00:23:30,880 --> 00:23:33,120
+Tôi sẽ hỏi một vài câu hỏi để kiểm tra
+
+224
+00:23:33,240 --> 00:23:37,340
+Tôi biết. Tôi sẽ trả lời thật lòng
+và cô sẽ nói là tôi đang nói dối
+
+225
+00:23:37,450 --> 00:23:40,880
+- Anh tên gì?
+- Vua Nauy
+
+226
+00:23:41,040 --> 00:23:45,710
+Tôi đang nói dối. Thật ra tôi là
+người kế nhiệm thứ 3. Anh trai tôi...
+
+227
+00:23:45,810 --> 00:23:48,370
+- Ethan Hunt liên lạc với anh chưa?
+- Sao anh ta lại liên lạc tôi?
+
+228
+00:23:48,510 --> 00:23:51,330
+Lần này là ở Cuba
+
+229
+00:23:51,460 --> 00:23:55,440
+Hắn bỏ lại những thứ này
+
+230
+00:23:55,580 --> 00:23:58,220
+- Anh suy đoán thử xem
+- Tôi chịu
+
+231
+00:23:58,330 --> 00:24:01,310
+- Anh ấy định làm sổ lưu bút à
+- Nhìn những bức hình đi Dunn
+
+232
+00:24:01,400 --> 00:24:04,430
+Tất cả đều mất tích hoặc đã chết
+
+233
+00:24:04,530 --> 00:24:09,090
+Tất cả từng là đặc vụ của chính phủ
+Nga, Anh, Pháp, Ấn...
+
+234
+00:24:09,200 --> 00:24:12,590
+Đây là những thông tin tuyệt mật
+nhưng hắn không gặp khó khăn trong việc thu thập
+
+235
+00:24:12,710 --> 00:24:15,420
+và dường như hắn luôn đi trước
+chúng ta một bước
+
+236
+00:24:15,580 --> 00:24:17,840
+- Tôi thắc mắc tại sao
+- Ông nghĩ tôi giúp anh ta
+
+237
+00:24:17,960 --> 00:24:20,220
+Tôi có nghĩ đến chuyện đó
+
+238
+00:24:20,350 --> 00:24:23,810
+Tôi đã ở đây suốt 6 tháng,
+ngồi hàng giờ trước máy tính
+
+239
+00:24:23,930 --> 00:24:25,990
+để sàng lọc, cải tổ dữ liệu,
+cùng hàng tỷ gigabyte data
+
+240
+00:24:26,120 --> 00:24:29,930
+Tôi đã xử lý, giải mã, mã hóa dữ liệu
+nhiều hơn bất cứ ai ở bộ phận
+
+241
+00:24:30,030 --> 00:24:33,540
+và mỗi tuần, ông đưa tôi vào đây
+để hỏi cùng một câu
+
+242
+00:24:33,650 --> 00:24:39,410
+chỉ thay đổi cách đặt vấn đề
+- Và tới bây giờ anh vẫn chưa trả lời
+
+243
+00:24:39,920 --> 00:24:44,090
+Có vẻ ông nghĩ tôi có trách nhiệm nào đó với anh ta
+
+244
+00:24:44,210 --> 00:24:46,930
+Chỉ có một sự thật duy nhất thôi
+
+245
+00:24:47,030 --> 00:24:53,490
+Ethan Hunt đang ở ngoài kia,
+còn tôi bị kẹt ở đây để trả lời cho việc đó
+
+246
+00:24:53,610 --> 00:24:57,480
+Chúng tôi không phải bạn
+
+247
+00:24:57,650 --> 00:25:03,080
+Tôi chẳng nợ gì anh ta cả
+
+248
+00:25:04,520 --> 00:25:09,490
+Tới đây là được rồi. Dừng
+
+249
+00:26:04,660 --> 00:26:07,350
+Chào mừng đến với Vienna, Benji.
+Nhớ tôi chứ?
+
+250
+00:26:07,470 --> 00:26:10,290
+Ethan, anh ở đâu?
+Anh đã đi đâu vậy?
+
+251
+00:26:10,390 --> 00:26:14,770
+À mà làm ơn, đừng cho tôi biết, vì tôi sẽ lại phải
+nói dối trước máy đo nhịp tim mỗi tuần
+
+252
+00:26:14,880 --> 00:26:17,260
+Mọi chuyện sẽ ổn thôi, tiếp tục đi
+
+253
+00:26:17,350 --> 00:26:19,370
+Nhưng đừng để ai bám theo
+
+254
+00:26:19,500 --> 00:26:22,710
+Vậy là không phải tôi trúng vé.
+- Tôi e là không
+
+255
+00:26:22,810 --> 00:26:27,060
+- Chúng ta sẽ gặp ở đâu?
+- Không cần gặp, để đảm bảo an toàn cho anh
+
+256
+00:26:27,160 --> 00:26:29,610
+Anh có thư
+
+257
+00:26:29,750 --> 00:26:31,930
+- Ai vậy?
+- Là người chúng ta đến đây để tìm
+
+258
+00:26:32,040 --> 00:26:35,170
+Tôi chỉ biết hắn là manh mối dẫn đến Syndicate
+
+259
+00:26:35,290 --> 00:26:37,920
+và tôi có lý do tin rằng
+tối nay hắn sẽ ở đây
+
+260
+00:26:38,040 --> 00:26:41,010
+Nhưng tôi không thể tìm hắn một mình.
+Anh tham gia chứ?
+
+261
+00:26:41,130 --> 00:26:44,440
+Anh tham gia chứ?
+- Có, đương nhiên rồi
+
+262
+00:26:44,590 --> 00:26:47,930
+- Thế, kế hoạch là gì?
+- Đơn giản thôi. Anh tìm hắn, gắn bộ theo dõi
+
+263
+00:26:48,080 --> 00:26:50,880
+Tôi bám theo hắn
+- Rồi sau đó?
+
+264
+00:26:51,000 --> 00:26:54,060
+Sau đó anh sẽ lên máy bay.
+Trở về bàn làm việc vào thứ 2
+
+265
+00:26:54,170 --> 00:26:57,300
+Sẽ không ai phát hiện
+- Hả? Vậy thôi sao?
+
+266
+00:26:57,420 --> 00:27:01,890
+Anh gặp đủ nguy hiểm rồi. Tôi không muốn
+anh dính vào chuyện này, nhưng hết cách
+
+267
+00:27:02,010 --> 00:27:06,920
+Tôi đã tốn công đến đây,
+ít ra anh cũng phải cho tôi chút gì đó...kịch tính
+
+268
+00:27:07,050 --> 00:27:10,150
+Benji, chúng ta đang cố ẩn mình
+
+269
+00:27:10,260 --> 00:27:15,190
+Anh muốn kịch tính, hãy đến nhà hát
+
+270
+00:27:41,360 --> 00:27:47,330
+- Anh có thấy điều tôi đang thấy không?
+- Có
+
+271
+00:27:51,420 --> 00:27:54,710
+Người kia có đúng là Thủ tướng Áo không vậy?
+
+272
+00:27:54,820 --> 00:27:58,140
+- Chính xác
+- Anh biết ông ấy sẽ có mặt ở đây?
+
+273
+00:27:58,260 --> 00:28:04,250
+- Không   - Phải rồi.
+Một Nguyên thủ Quốc gia có mặt đây, trong lúc chúng ta
+
+274
+00:28:04,330 --> 00:28:08,860
+tìm kiếm tên khủng bố. Tôi đảm bảo rằng
+hai chuyện này hoàn toàn không liên quan gì tới nhau
+
+275
+00:28:08,960 --> 00:28:13,730
+Tôi còn bỏ qua chi tiết anh là một
+tội phạm quốc tế đang bị CIA truy nã
+
+276
+00:28:13,820 --> 00:28:17,150
+Còn hoạt động chưa được phê chuẩn này
+đông nghĩa với tội mưu phản
+
+277
+00:28:17,240 --> 00:28:21,010
+Bởi vì như anh nói, tôi sẽ có mặt
+ở văn phòng vào thứ 2,
+
+278
+00:28:21,110 --> 00:28:23,870
+chơi trò chơi điện tử và
+sẽ không ai biết gì cả
+
+279
+00:28:23,990 --> 00:28:28,300
+Anh ra phía cánh gà đi Benji.
+Vào vị trí và cho tôi biết anh thấy gì
+
+280
+00:28:28,420 --> 00:28:32,030
+À mà bộ tux đẹp đó
+
+281
+00:28:49,330 --> 00:28:51,860
+Khách đang vào vị trí.
+Chuẩn bị ánh sáng
+
+282
+00:28:51,970 --> 00:28:54,650
+Ánh sáng sẵn sàng
+
+283
+00:29:00,380 --> 00:29:03,180
+Các bước chuẩn bị cuối cùng đã hoàn tấ
+
+284
+00:29:03,290 --> 00:29:06,460
+Mọi người hãy vào vị trí
+
+285
+00:29:39,180 --> 00:29:43,710
+Chào mừng đến với IMF.
+Quan sát thế giới qua máy tính
+
+286
+00:29:43,830 --> 00:29:47,040
+ở một nơi nhỏ hẹp
+
+287
+00:30:27,410 --> 00:30:29,620
+Được rồi, tôi có hình ảnh rồi
+
+288
+00:30:29,700 --> 00:30:32,550
+Đang tìm kiếm
+
+289
+00:31:33,080 --> 00:31:37,340
+- Nói gì đi Benji.
+- Chưa thấy gì cả. Đừng manh động
+
+290
+00:31:37,670 --> 00:31:44,150
+Tôi biết ông ở đây.
+Ông đâu rồi
+
+291
+00:31:47,580 --> 00:31:50,360
+Ethan, tôi có gì đó cho anh.
+Chưa xác nhận nhé
+
+292
+00:31:50,450 --> 00:31:53,890
+- Ở đâu?
+- Cánh gà, tôi sẽ chỉ đường anh
+
+293
+00:31:59,800 --> 00:32:05,520
+Đi qua cửa bên trái.
+Hắn sẽ ở ngay trước mặt anh
+
+294
+00:32:44,990 --> 00:32:48,460
+Benji, anh thấy không?
+- Thấy gì?
+
+295
+00:32:48,610 --> 00:32:51,550
+Người phụ nữ
+- Phụ nữ nào? Anh ở đâu vậy?
+
+296
+00:32:51,660 --> 00:32:55,560
+Tôi không thấy anh
+
+297
+00:35:10,950 --> 00:35:15,180
+- Chuyện gì vậy?
+- Tôi không biết
+
+298
+00:35:27,120 --> 00:35:31,090
+Ethan, anh nghe không?
+Ethan, trả lời tôi đi
+
+299
+00:37:51,460 --> 00:37:56,190
+Ethan, phòng ánh sáng.
+Ethan, anh nghe không
+
+300
+00:39:21,790 --> 00:39:24,320
+Chỉ là vết thương ngoài da thôi
+
+301
+00:39:58,880 --> 00:40:01,610
+Xin lỗi quí vị
+
+302
+00:40:05,870 --> 00:40:08,810
+Phòng khán đài.
+Chúng tôi đang cho di tản
+
+303
+00:40:11,190 --> 00:40:16,180
+Tôi biết lối ra.
+Hứng thú không?
+
+304
+00:40:16,270 --> 00:40:19,600
+Dẫn đường đi
+
+305
+00:40:26,010 --> 00:40:29,280
+- Muốn nói gì với tôi không?
+- Bây giờ thì không
+
+306
+00:40:29,380 --> 00:40:33,040
+Theo kịp không?
+- Đừng đợi tôi
+
+307
+00:40:40,290 --> 00:40:43,610
+Giờ sao?
+
+308
+00:40:45,510 --> 00:40:48,380
+Đây
+
+309
+00:40:54,910 --> 00:40:58,700
+Giày.
+Tháo cho tôi đi
+
+310
+00:41:54,640 --> 00:41:56,240
+Anh có thể đã gặp nguy hiểm
+
+311
+00:41:56,250 --> 00:41:58,890
+Sẽ không có chuyện gì xảy ra với anh đâu
+
+312
+00:41:59,110 --> 00:42:02,520
+Dừng xe lại
+
+313
+00:42:09,120 --> 00:42:11,460
+Lên xe đi
+
+314
+00:42:12,430 --> 00:42:14,430
+Đi mau, đi mau
+
+315
+00:42:21,810 --> 00:42:24,400
+Cái quái gì!!
+Cô ta đã cố bắn tôi đấy
+
+316
+00:42:24,510 --> 00:42:27,050
+Như vậy không có nghĩa cô ấy là người xấu
+
+317
+00:42:27,190 --> 00:42:30,130
+- Tôi sẽ phải soát người cô.
+- Anh phải để tôi đi
+
+318
+00:42:30,260 --> 00:42:31,640
+Đừng hòng!
+
+319
+00:42:31,640 --> 00:42:34,990
+Tôi nghĩ cô là điệp viên chìm ở London
+nhưng tôi không biết cô làm gì ở đây
+
+320
+00:42:35,100 --> 00:42:38,260
+- Chờ đã, anh biết cô ấy?
+- Chưa làm quen chính thức
+
+321
+00:42:38,370 --> 00:42:41,000
+nhưng tôi chắc chắn cô ấy là đặc vụ Anh
+
+322
+00:42:41,100 --> 00:42:44,320
+Ilsa Faust. Anh là Ethan Hunt.
+Và...
+
+323
+00:42:44,420 --> 00:42:47,750
+Màu son đó khó tìm lắm đấy
+
+324
+00:42:47,870 --> 00:42:50,910
+- Cô làm gì ở nhà hát tối nay?
+- Không phải giết Thủ tướng thì là gì?
+
+325
+00:42:51,040 --> 00:42:55,020
+Để anh thoát ở London đã khiến tôi
+rơi vào tình thế khó khăn với những kẻ nguy hiểm
+
+326
+00:42:55,130 --> 00:42:57,620
+Tôi được giao việc giết Thủ tướng
+để lấy lại niềm tin của chúng
+
+327
+00:42:57,720 --> 00:43:02,490
+- Cô thừa nhận giết ông ấy?
+- Tôi phải diễn, không có nghĩa là tôi làm
+
+328
+00:43:02,600 --> 00:43:05,550
+Cô nghĩ sẽ cho ông ấy vào bệnh viện,
+để ông ấy giữ được mạng sống
+
+329
+00:43:05,650 --> 00:43:09,690
+- Giống như việc anh đã làm
+- Anh tin chuyện đó sao? Còn bọn đồng đội của cô ta?
+
+330
+00:43:09,800 --> 00:43:13,530
+Ý anh là 2 tên khốn đó?
+Tôi nghĩ chúng được cài để đảm bảo
+
+331
+00:43:13,640 --> 00:43:17,550
+Trường hợp cô không hoàn thành tốt.
+Một kẻ giết Thủ tưởng
+
+332
+00:43:17,640 --> 00:43:20,300
+Kẻ còn lại giết cô
+
+333
+00:43:20,410 --> 00:43:22,450
+Lần thứ 2 tôi thất bại, cũng nhờ anh
+
+334
+00:43:22,540 --> 00:43:27,070
+Quả bom gài trên xe là kế hoạch yểm trợ
+
+335
+00:43:29,520 --> 00:43:32,880
+Có kẻ bám theo
+
+336
+00:43:33,000 --> 00:43:37,010
+Hắn là ai?
+- Chúng ta theo đuổi cùng người, tôi có thể giúp anh
+
+337
+00:43:37,100 --> 00:43:39,900
+Nếu muốn hạ Syndicate, anh phải để tôi đi
+
+338
+00:43:40,020 --> 00:43:42,780
+Chúng đến gần rồi
+
+339
+00:43:42,910 --> 00:43:45,380
+Phải trông giống một cuộc tẩu thoát,
+anh chỉ cần ném tôi xuống
+
+340
+00:43:45,480 --> 00:43:49,210
+Cho tôi biết hắn là ai
+
+341
+00:43:50,220 --> 00:43:53,760
+Kế hoạch thay đổi. Ném cô ta xuống đi
+
+342
+00:43:54,350 --> 00:43:58,510
+Anh có đủ thông tin để tìm ra tôi
+
+343
+00:44:12,800 --> 00:44:16,480
+Chưa đầy 24 tiếng sau khi chúng tôi phỏng vấn
+Benji Dunn về Ethan Hunt
+
+344
+00:44:16,620 --> 00:44:19,280
+Anh ta đã lên máy bay đến
+nhà hát Vienne
+
+345
+00:44:19,430 --> 00:44:22,580
+6 tiếng sau khi anh ta đến,
+Thủ Tướng đã bị hại
+
+346
+00:44:22,700 --> 00:44:26,300
+Đó có thể là bằng chứng ngoại phạm,
+nhưng với CIA
+
+347
+00:44:26,410 --> 00:44:28,200
+đó là thông tin tình báo hữu ích
+
+348
+00:44:28,200 --> 00:44:32,480
+Ông tự cân nhắc khả năng điều tra của Ethan
+dẫn anh ấy tới Nhà hát
+
+349
+00:44:32,560 --> 00:44:34,400
+và anh ấy chính là người nắm thông tin tình báo hữu ích?
+
+350
+00:44:34,410 --> 00:44:38,360
+Dù sao thì việc tìm Hunter không còn là
+trò tiêu khiển nữa rồi
+
+351
+00:44:38,440 --> 00:44:43,190
+lực lượng tham gia giờ đây
+sẽ có toàn quyền ứng phó
+
+352
+00:44:43,310 --> 00:44:46,870
+- Ý ông là, thấy là bắn?
+- Hunt sẽ chết hay sống sót...
+
+353
+00:44:46,970 --> 00:44:51,190
+tất cả tùy thuộc vào anh ta
+
+354
+00:45:48,960 --> 00:45:52,270
+ID mới, hộ chiếu, tiền, bản đồ
+
+355
+00:45:52,340 --> 00:45:56,620
+Quần áo trong giỏ, đủ mọi thứ
+để anh về DC mà không bị phát hiện
+
+356
+00:45:56,700 --> 00:45:59,650
+Khi tới nơi, anh phải báo cáo về tôi
+
+357
+00:45:59,760 --> 00:46:01,600
+Là sao?
+- Nói sự thật
+
+358
+00:46:01,600 --> 00:46:04,520
+Anh đến Vienne vì nghĩ rằng anh trúng được vé
+đến nhà hát
+
+359
+00:46:04,630 --> 00:46:08,620
+Tôi thuyết phục anh tham gia việc
+sát hại Thủ tướng, nhưng anh từ chối
+
+360
+00:46:08,720 --> 00:46:11,210
+- Đó không phải sự thật
+- Mạng sống của anh tùy thuộc vào niềm tin của họ
+
+361
+00:46:11,320 --> 00:46:13,820
+Sẽ dễ dàng nếu anh nói điều họ muốn nghe
+
+362
+00:46:13,940 --> 00:46:19,010
+Ethan, ít ra hãy cho tôi biết chuyện này là sao
+
+363
+00:46:25,330 --> 00:46:30,940
+Anh nhận ra ai không?
+
+364
+00:46:40,550 --> 00:46:42,980
+- Hắn
+- Cựu SKA, tình báo Đức
+
+365
+00:46:43,090 --> 00:46:45,570
+Mất tích, được cho là đã chết
+
+366
+00:46:45,670 --> 00:46:49,190
+Hắn đã có mặt ở nhà hát tối nay
+- Cả tên này
+
+367
+00:46:49,300 --> 00:46:52,740
+Cựu Massai
+- Để tôi đoán. Được cho là đã chết?
+
+368
+00:46:52,840 --> 00:46:56,240
+Tối nay tôi đã khiến điều đó thành hiện thực
+
+369
+00:46:56,360 --> 00:47:03,250
+Tôi đã tìm hắn ở Bostoruss,
+cùng ngày xảy ra vụ tai nạn xe giết chết Tống thống Maress
+
+370
+00:47:03,330 --> 00:47:06,210
+Tôi theo dấu hắn tới Jakarta
+
+371
+00:47:06,320 --> 00:47:09,390
+vài giờ trước khi máy bay dân dụng
+biến mất trên biển Thái Bình Dương
+
+372
+00:47:09,510 --> 00:47:12,580
+mang theo 236 hành khách
+
+373
+00:47:12,690 --> 00:47:21,220
+Tôi vừa để vụt hắn ở Philippine,
+ngay trước khi một cơ sở bốc cháy khiến 2000 người chết
+
+374
+00:47:21,340 --> 00:47:25,430
+Ý anh là những tai nạn đó liên quan tới nhau?
+
+375
+00:47:25,530 --> 00:47:30,530
+Máy bay mất tích mang theo
+Thư ký Ngân hàng thế giới
+
+376
+00:47:30,620 --> 00:47:34,720
+Vụ hỏa hoạn đó khiến một tập đoàn
+vũ khí hàng đầu bị phá sản
+
+377
+00:47:34,830 --> 00:47:38,850
+Tai nạn đó kích động một cuộc nội chiến
+
+378
+00:47:38,940 --> 00:47:42,810
+Đó không phải là tai nạn.
+Là một chuỗi sự kiện liên kết
+
+379
+00:47:42,940 --> 00:47:46,730
+nối với một tổ chức duy nhất, Syndicate
+
+380
+00:47:46,820 --> 00:47:49,830
+Mạng lưới toàn cầu, được huấn luyện để
+như chúng ta,
+
+381
+00:47:49,890 --> 00:47:53,770
+thấm nhuần tư tưởng mới
+hủy hoại hệ thống đã tạo ra chúng
+
+382
+00:47:53,800 --> 00:47:56,580
+Bất kể ai là người cản đường
+
+383
+00:47:56,660 --> 00:47:59,070
+Một nhóm đối đầu IMF
+
+384
+00:47:59,130 --> 00:48:02,590
+Kể từ khi Hunley ngăn chặn chúng ta,
+tai nạn cứ thế leo thang mà không bị cản trở
+
+385
+00:48:02,660 --> 00:48:05,410
+Giết Thủ Tướng tối nay là một lời tuyên bố
+
+386
+00:48:05,480 --> 00:48:07,820
+khởi điểm cho một giai đoạn mới
+
+387
+00:48:07,910 --> 00:48:12,680
+Hoặc đây chỉ là một chuỗi sự kiện ngẫu nhiên
+
+388
+00:48:12,750 --> 00:48:15,340
+Hắn luôn có mặt
+
+389
+00:48:15,450 --> 00:48:19,800
+Mọi lúc. Giống như hắn có mặt ở đó tối nay.
+Tôi chắc chắn
+
+390
+00:48:19,910 --> 00:48:25,270
+Tôi không biết hắn là ai, đến từ đâu,
+dùng nguồn tài trợ nào
+
+391
+00:48:25,360 --> 00:48:27,650
+nhưng tôi biết hắn là chìa khóa
+
+392
+00:48:27,700 --> 00:48:30,190
+Ethan, đây là việc tôi muốn làm
+
+393
+00:48:30,290 --> 00:48:33,120
+- Để tôi giúp anh tìm hắn
+- Đó là lý do anh ở đây
+
+394
+00:48:33,190 --> 00:48:35,190
+nhưng xem mọi chuyện thành thế nào?
+
+395
+00:48:35,220 --> 00:48:38,680
+Tôi không thể bảo vệ anh.
+Vậy nên tôi muốn anh đi khỏi đây
+
+396
+00:48:38,750 --> 00:48:41,840
+Đây không phải quyết định của anh, Ethan
+
+397
+00:48:41,960 --> 00:48:46,320
+Tôi là đặc vụ thực địa.
+Tôi biết rủi ro, hơn nữa tôi là bạn anh
+
+398
+00:48:46,410 --> 00:48:51,270
+Mỗi tuần tôi đều thu thập những bức ảnh này.
+Anh gọi cho tôi là vì anh cần tôi
+
+399
+00:48:51,340 --> 00:48:54,540
+Và giờ vẫn thế.
+Vậy nên tôi sẽ ở lại
+
+400
+00:48:54,640 --> 00:48:59,520
+Và tôi sẽ đấu tranh để ở lại
+
+401
+00:49:01,180 --> 00:49:06,250
+- Được thôi
+- Tốt
+
+402
+00:49:06,350 --> 00:49:12,670
+Chúng ta bắt đầu từ đâu?
+
+403
+00:49:13,320 --> 00:49:16,040
+- IIsa
+- Ừ, tìm cô ta bằng cách nào?
+
+404
+00:49:16,140 --> 00:49:20,590
+Cô ta nói chúng ta đã có đủ thông tin
+
+405
+00:49:58,050 --> 00:50:02,130
+Chúng ta đã thỏa thuận.
+Anh giao cho tôi một nhiệm vụ, và tôi thực hiện
+
+406
+00:50:02,240 --> 00:50:04,910
+- nhưng theo cách của tôi, không phải của anh
+- Tôi đã làm gì sai?
+
+407
+00:50:04,970 --> 00:50:08,610
+Anh đã phái thêm hai sát thủ đến nhà hát.
+Một kẻ để giết tôi
+
+408
+00:50:08,700 --> 00:50:12,560
+- Cô đã thất bại
+- Là vì Ethan Hunt ở đó để tìm ông
+
+409
+00:50:12,660 --> 00:50:15,910
+Ethan Hunt ở Vienne là vì cô để hắn
+tẩu thoát ở London
+
+410
+00:50:16,010 --> 00:50:20,230
+Vinter có thể giết hắn ở London
+nhưng ông đã không chỉ thị
+
+411
+00:50:20,320 --> 00:50:24,410
+Nhưng hắn thoát không phải vì Vinter
+
+412
+00:50:24,520 --> 00:50:30,050
+- Mà vì cô
+- Anh đang nghi ngờ khả năng hay lòng trung thành của tôi
+
+413
+00:50:30,180 --> 00:50:34,600
+- Không quyết định được
+- Tôi đã nói rồi. Tin tôi hoặc giết tôi
+
+414
+00:50:34,730 --> 00:50:38,660
+Nếu muốn giết tôi, hãy là đàn ông
+
+415
+00:50:38,760 --> 00:50:43,560
+và tự ra tay
+
+416
+00:51:08,300 --> 00:51:11,700
+Hắn không nói gì sao?
+
+417
+00:51:11,820 --> 00:51:16,470
+- Hắn biết về Morroco
+- Hắn biết gì về Morroco?
+
+418
+00:51:16,560 --> 00:51:22,120
+Hắn biết về chỗ nhà máy,
+nhưng không biết có gì ở trong đó
+
+419
+00:51:22,220 --> 00:51:25,200
+Hãy tìm hắn
+
+420
+00:51:25,280 --> 00:51:32,080
+Hắn sẽ tìm tôi, tôi chắc chắn
+
+421
+00:51:34,590 --> 00:51:36,940
+Thú vị thật
+- Gì thế?
+
+422
+00:51:37,040 --> 00:51:40,840
+Một hệ thống máy tính bảo mật
+không kết nối với bên ngoài
+
+423
+00:51:40,920 --> 00:51:42,820
+Không thể bị xâm nhập
+
+424
+00:51:42,820 --> 00:51:45,400
+Về cơ bản là một két sắt an toàn điện tử
+
+425
+00:51:45,510 --> 00:51:48,990
+Thật kỳ lạ khi ở trong một
+món đồ trang sức của phụ nữ
+
+426
+00:51:49,080 --> 00:51:54,430
+- Nó nằm ở đâu
+- Morroco
+
+427
+00:51:54,530 --> 00:51:57,710
+Morroco
+
+428
+00:53:11,760 --> 00:53:16,620
+Điều gì đưa các anh tới Cassablance?
+
+429
+00:53:45,050 --> 00:53:49,560
+Mừng khi gặp anh
+- Điều gì mà không nói qua điện thoại được?
+
+430
+00:53:50,400 --> 00:53:53,240
+Thủ Tướng Áo vừa bị hạ sát
+
+431
+00:53:53,350 --> 00:53:56,240
+Chúng tôi tin rằng Ethan và Benji đã ở đó
+
+432
+00:53:56,340 --> 00:54:00,130
+Huntley đã giao nhiệm vụ này
+cho ban hành động đặc biệt
+
+433
+00:54:00,210 --> 00:54:03,800
+Chúng ta cần phải tìm ra Ethan trước bọn họ
+
+434
+00:54:03,880 --> 00:54:07,460
+Vậy nên tôi cần ông
+
+435
+00:54:07,560 --> 00:54:10,640
+- Tôi xin kiếu
+- Nghe tôi
+
+436
+00:54:10,720 --> 00:54:15,110
+Tôi biết Ethan, nhưng tôi không biết anh
+
+437
+00:54:15,230 --> 00:54:18,170
+Tôi chỉ biết anh chọn làm việc cho Hunley
+
+438
+00:54:18,240 --> 00:54:21,730
+Phải, còn tôi chỉ biết anh chọn từ chức
+
+439
+00:54:21,820 --> 00:54:24,520
+Anh không cần lo cho Ethan đâu
+
+440
+00:54:24,640 --> 00:54:27,410
+- Không ai tóm được anh ấy
+- Không ai tóm được anh ấy
+
+441
+00:54:27,520 --> 00:54:31,070
+Đây là CIA, là Hunley.
+Mọi thứ đã vượt tầm kiểm soát
+
+442
+00:54:31,180 --> 00:54:33,980
+Và họ sẽ giết anh ấy
+
+443
+00:54:34,090 --> 00:54:37,450
+Họ sẽ giết Ethan, giết Benji
+
+444
+00:54:37,500 --> 00:54:42,260
+Chúng ta phải tìm ra họ trước.
+Anh sẽ giúp tôi chứ?
+
+445
+00:54:47,400 --> 00:54:51,130
+Anh phải hiểu một điều
+
+446
+00:54:51,220 --> 00:54:53,970
+Ethan là bạn tôi
+
+447
+00:54:54,090 --> 00:54:58,460
+Nếu tôi có mảy may nghi ngờ
+việc chọn phe của anh
+
+448
+00:55:00,660 --> 00:55:03,750
+Tôi tin ông
+
+449
+00:55:03,820 --> 00:55:05,910
+Được rồi
+- Tốt
+
+450
+00:55:06,010 --> 00:55:09,270
+Có manh mối gì cho tôi
+- Không nhiều
+
+451
+00:55:09,360 --> 00:55:12,930
+Cũng không còn nhiều thời gian nữa
+
+452
+00:55:13,010 --> 00:55:17,690
+Tên hắn là Solomon Lane.
+Hắn tạo ra Syndicate
+
+453
+00:55:17,800 --> 00:55:20,450
+Hắn xuất thân từ đâu?
+
+454
+00:55:20,570 --> 00:55:23,400
+Từng là người của tình báo Anh
+
+455
+00:55:23,480 --> 00:55:27,990
+Nếu tình báo Anh biết về sự tồn tại của Syndicate,
+sao họ không báo cho CIA?
+
+456
+00:55:28,090 --> 00:55:33,560
+Vì họ không muốn ai biết Syndicate được tạo ra
+bởi người của họ
+
+457
+00:55:33,650 --> 00:55:36,320
+Tôi được gửi đến để tạo lòng tin với Solomon Lane
+
+458
+00:55:36,410 --> 00:55:39,760
+và xác định vị trí tổ chức của hắn
+
+459
+00:55:39,850 --> 00:55:42,300
+Lần đầu tiên sau 2 năm chìm
+
+460
+00:55:42,410 --> 00:55:44,780
+tôi sắp biết được chúng là ai
+
+461
+00:55:44,970 --> 00:55:49,270
+Lane có một quyển số cái,
+trong đó có danh sách
+
+462
+00:55:49,380 --> 00:55:53,230
+tất cả những tên khủng bố
+trong mạng lưới của Syndicate
+
+463
+00:55:53,310 --> 00:55:56,540
+Một trong số các điệp viên đã đánh cắp quyển sổ
+để đe dọa hắn
+
+464
+00:55:56,620 --> 00:56:00,550
+và lưu trữ trong một hồ sơ máy tính bảo mật
+
+465
+00:56:00,640 --> 00:56:03,420
+Người ấy đã bỏ mạng khi bị tra hỏi về mật khẩu
+
+466
+00:56:03,500 --> 00:56:07,340
+Lane hết sức đau đầu
+
+467
+00:56:07,490 --> 00:56:14,260
+Vậy chìa khóa để tiêu diệt Lane
+là ngồi trước máy tính chờ đợi ai đó đánh cắp nó?
+
+468
+00:56:14,370 --> 00:56:18,120
+Thế sao Lane chưa gửi ai đến để lấy cắp lại nó?
+
+469
+00:56:18,220 --> 00:56:22,700
+Có chứ. Hắn cử tôi
+
+470
+00:56:22,800 --> 00:56:25,460
+Nhưng tôi chắc chắn rằng
+
+471
+00:56:25,580 --> 00:56:30,760
+Chuyện đó là bất khả thi
+
+472
+00:56:30,950 --> 00:56:34,510
+Cơ sở ẩn dưới một nhà máy điện
+được quân đội bảo vệ
+
+473
+00:56:34,620 --> 00:56:40,700
+Cách duy nhất tải quyển số cái
+là đột nhập vào trạm máy tính trung tâm
+
+474
+00:56:40,800 --> 00:56:44,670
+Để tới trạm máy tính, anh cần phải qua cổng chính,
+
+475
+00:56:44,780 --> 00:56:48,720
+bước vào thang máy có nhận dạng vân tay
+
+476
+00:56:48,840 --> 00:56:53,660
+và mở 3 khóa tổ hợp tách biệt
+
+477
+00:56:57,200 --> 00:57:00,700
+Dễ ợt, ta chỉ cần đóng giả tên tay sai
+đã đánh cắp quyển sổ đó
+
+478
+00:57:00,810 --> 00:57:05,300
+bằng cách đeo mặt nạ
+
+479
+00:57:25,280 --> 00:57:29,380
+Tiếc thay, cho dù anh có thể đánh bại
+mọi biện pháp an ninh
+
+480
+00:57:29,490 --> 00:57:33,300
+anh cũng không thể vượt qua được chốt cuối,
+bởi vì nó được bảo vệ nhờ phân tích dáng đi
+
+481
+00:57:33,420 --> 00:57:35,710
+một công nghệ vượt hơn cả nhận dạng
+
+482
+00:57:35,810 --> 00:57:38,470
+Những máy quay này thực sự hiểu về
+tên tay sai,
+
+483
+00:57:38,560 --> 00:57:43,630
+hắn nói chuyện ra sao, di chuyển thế nào,
+đến cả những cử động nhỏ nhất trên khuân mặt
+
+484
+00:57:49,910 --> 00:57:51,910
+Vậy là mặt nạ cũng bó tay
+
+485
+00:57:51,980 --> 00:57:57,460
+Tôi sẽ bị tóm trước khi vào được máy tính trung tâm,
+và kết thúc ở nhà tù Morroco
+
+486
+00:57:57,570 --> 00:57:59,750
+Được rồi, tôi không cần đeo mặt nạ
+
+487
+00:57:59,910 --> 00:58:02,620
+Không còn cách nào khác sao?
+- Không còn cách nào
+
+488
+00:58:02,730 --> 00:58:04,920
+- Ống thông gió?
+- Đường kính 15cm
+
+489
+00:58:05,020 --> 00:58:08,570
+- Móng?
+- 36m bê tông từ trên xuống
+
+490
+00:58:08,670 --> 00:58:11,660
+- Đường dẫn điện?
+- Tóm lại, nếu không cài trước hồ sơ
+
+491
+00:58:11,750 --> 00:58:16,690
+vào hệ thống an ninh thì không cách nào vào được
+
+492
+00:58:16,800 --> 00:58:18,970
+Hồ sơ?
+
+493
+00:58:19,110 --> 00:58:24,520
+- Hồ sơ được lưu ở đâu?
+- Dữ liệu được cất giữ ngoại tuyến
+
+494
+00:58:24,640 --> 00:58:27,140
+Đây, bên trong vành xuyến,
+được làm mát bằng chất lỏng
+
+495
+00:58:27,270 --> 00:58:29,770
+- Ý anh là nó được bảo quản dưới nước?
+
+496
+00:58:29,900 --> 00:58:32,870
+- Đúng vậy
+- ĐƯợc rồi
+
+497
+00:58:32,990 --> 00:58:37,650
+Để lấy quyển sổ cái, một người chúng ta
+phải vào chỗ vành xuyến
+
+498
+00:58:37,780 --> 00:58:41,490
+và thay đổi hồ sơ an ninh
+
+499
+00:58:41,590 --> 00:58:46,740
+để người kia có thể xâm nhập vào
+phòng máy tính mà không bị tóm
+
+500
+00:58:46,850 --> 00:58:51,860
+- Đó là cách duy nhất?
+- Đó là cách duy nhất
+
+501
+00:58:51,950 --> 00:58:55,260
+- Tôi có thể vào trong đó. Cái gì thế?
+- Là nắp hầm.
+
+502
+00:58:55,370 --> 00:58:58,860
+Nó chỉ có thể được mở ra từ bên trong
+Nếu cố mở nó từ bên ngoài,
+
+503
+00:58:58,960 --> 00:59:02,260
+anh sẽ hứng trọn 265 ngàn lít nước cao áp
+
+504
+00:59:02,370 --> 00:59:05,470
+- Nước từ đâu ra?
+- Nước biển được khử muối
+
+505
+00:59:05,570 --> 00:59:07,870
+chảy qua hệ thống điện.
+Và anh nên biết
+
+506
+00:59:08,000 --> 00:59:13,270
+Hệ thống được thiết kế tự động ngắt.
+Nếu như có kim loại chui vào trong ống bơm
+
+507
+00:59:13,360 --> 00:59:17,110
+Vậy là không được dùng bình dưỡng khí
+
+508
+00:59:17,200 --> 00:59:21,570
+Mất bao lâu để bơi tới nắp hầm
+mà không dùng bình khí
+
+509
+00:59:21,680 --> 00:59:23,880
+2 phút. Với dòng chảy tối đa
+
+510
+00:59:23,980 --> 00:59:26,490
+Thế thì anh chỉ cần nhịn thở trong 2 phút thôi
+
+511
+00:59:26,600 --> 00:59:30,230
+Thế còn cài đặt hồ sơ an ninh?
+- Chỉ mất thêm 1 phút nữa chứ mấy
+
+512
+00:59:30,320 --> 00:59:32,460
+Vậy là tôi phải nín thở trong 3 phút?
+
+513
+00:59:32,560 --> 00:59:35,830
+- Anh làm được mà
+- Tôi nghĩ anh bỏ qua sự vận động cơ thể rồi
+
+514
+00:59:35,920 --> 00:59:38,830
+Càng vận động nhiều, càng cần nhiều oxy
+
+515
+00:59:38,940 --> 00:59:40,580
+Đừng lo cho anh ấy
+
+516
+00:59:40,580 --> 00:59:44,080
+Anh ấy chỉ việc cài đặt hồ sơ giả mạo
+trước khi tôi tới chỗ phân tích dáng đi
+
+517
+00:59:44,200 --> 00:59:46,500
+Đó là cách duy nhất mà
+
+518
+00:59:46,620 --> 00:59:51,140
+Nghe đâu có 'bất khả thi' tí nào
+
+519
+00:59:52,300 --> 00:59:54,980
+Vệ tinh giám sát bao phủ cả 7 lục địa,
+
+520
+00:59:55,090 --> 00:59:59,420
+phân tích DNA, nhận diện gương mặt,
+máy bay giám sát, hỏa tiễn không người lái,
+
+521
+00:59:59,540 --> 01:00:02,110
+làm sao chúng ta tìm ra Ethan và Benji
+trước họ được?
+
+522
+01:00:02,250 --> 01:00:05,970
+Tôi đâu có tìm hai người họ,
+tôi tìm cô ta
+
+523
+01:00:06,060 --> 01:00:08,340
+Ý anh là sao?
+
+524
+01:00:08,460 --> 01:00:13,030
+Những bức hình này, anh thấy gì?
+
+525
+01:00:13,140 --> 01:00:17,680
+Ethan không biết rõ về người này
+
+526
+01:00:17,790 --> 01:00:21,430
+còn cô gái này, anh ấy biết
+
+527
+01:00:21,510 --> 01:00:25,810
+Anh ấy tin cô ta.
+Chắc chắn cũng đang tìm đến người này
+
+528
+01:00:25,910 --> 01:00:27,430
+Tìm thấy cô ta là thấy Ethan
+
+529
+01:00:27,430 --> 01:00:29,760
+Có khả năng nhận diện khuân mặt
+từ một bản phác thảo chứ
+
+530
+01:00:29,900 --> 01:00:34,020
+Với mấy tay mơ thì không.
+Với tôi, làm ở nhà cũng được
+
+531
+01:00:34,150 --> 01:00:37,530
+Được rồi
+
+532
+01:00:39,710 --> 01:00:43,280
+- Mất bao lâu để tìm cô ta?
+- Thấy rồi
+
+533
+01:00:44,840 --> 01:00:49,740
+Camera giám sát bắt gặp cô ta
+ở sân bay Cassablance
+
+534
+01:00:49,820 --> 01:00:52,730
+Cái quái gì vậy?
+
+535
+01:00:52,850 --> 01:00:56,970
+Ả là rắc rối
+
+536
+01:01:15,780 --> 01:01:19,700
+- Thẻ
+- Của tôi đây
+
+537
+01:01:23,690 --> 01:01:27,130
+Xin lỗi
+
+538
+01:01:55,270 --> 01:01:59,080
+Thẻ của anh không nhận
+- Benji, chúng tôi vào được rồi
+
+539
+01:01:59,080 --> 01:01:59,610
+Kết nối
+Thẻ của anh không nhận
+- Benji, chúng tôi vào được rồi
+
+540
+01:01:59,610 --> 01:02:01,080
+Kết nối
+
+541
+01:02:02,390 --> 01:02:06,070
+Cửa mở rồi
+
+542
+01:02:41,510 --> 01:02:44,770
+Nhắc lại lần nữa. Anh có 3 phút
+
+543
+01:02:44,870 --> 01:02:47,810
+2.5 phút để tráo hồ sơ an ninh
+
+544
+01:02:47,920 --> 01:02:51,060
+30 giây để trốn thoát thông qua nắp hầm
+
+545
+01:02:51,140 --> 01:02:58,550
+Hãy nhớ, tiết kiệm khí oxy.
+Đừng vận động nếu không cần thiết
+
+546
+01:03:13,420 --> 01:03:17,660
+Tôi vào thang máy rồi
+
+547
+01:03:26,050 --> 01:03:28,760
+Dòng nước sẽ đưa anh tới vành xuyến,
+
+548
+01:03:28,850 --> 01:03:31,440
+một khi anh tới nơi tôi sẽ ngưng dòng nước
+
+549
+01:03:31,550 --> 01:03:34,990
+Lưu ý quan trọng, hồ sơ được lưu trữ
+ở vị trí 108
+
+550
+01:03:35,110 --> 01:03:37,180
+và một lưu ý hơi quan trọng là
+
+551
+01:03:37,330 --> 01:03:41,550
+nếu anh chưa tráo hồ sơ cá nhân
+trước khi tôi đến chỗ phân tích dáng đi, tôi sẽ chết
+
+552
+01:03:41,650 --> 01:03:45,670
+Cám ơn Benji
+
+553
+01:04:52,330 --> 01:04:55,980
+- Chuyện gì vậy?
+- Hệ thống nước tự ngắt
+
+554
+01:04:56,130 --> 01:04:59,570
+và khởi động lại
+
+555
+01:06:22,900 --> 01:06:24,530
+Tất cả hệ thống đều bình thường.
+
+556
+01:06:24,530 --> 01:06:26,530
+Hệ thống đang hoạt động hết công suất.
+
+557
+01:06:32,500 --> 01:06:34,750
+Không, không, không.
+
+558
+01:08:06,090 --> 01:08:08,090
+CHO PHÉP
+
+559
+01:10:01,710 --> 01:10:03,710
+Không sao rồi.
+
+560
+01:10:05,400 --> 01:10:07,160
+Tôi đã nói rồi.
+
+561
+01:10:07,160 --> 01:10:09,670
+Nhất định rồi, nhưng chắc chắn
+không phải bất khả...
+
+562
+01:10:11,810 --> 01:10:13,810
+Anh ấy không sao chứ?
+Đã có chuyện gì vậy?
+
+563
+01:10:34,090 --> 01:10:36,090
+Tôi đã đánh giá sai cô.
+
+564
+01:10:41,550 --> 01:10:43,550
+Anh ổn chứ? Anh thấy sao rồi?
+
+565
+01:10:46,340 --> 01:10:48,340
+Đúng rồi, Benji.
+
+566
+01:10:48,620 --> 01:10:50,220
+Nghỉ ngơi chút đi.
+
+567
+01:10:50,220 --> 01:10:52,150
+Cứ nghỉ ngơi chút đi.
+
+568
+01:10:52,150 --> 01:10:55,180
+Một chút ánh nắng và không khí trong lành
+là anh sẽ khỏe như vâm thôi.
+
+569
+01:10:55,490 --> 01:10:57,490
+Anh làm gì ở đây vậy?
+
+570
+01:10:57,840 --> 01:10:59,590
+Nhìn này. Chúng ta...
+
+571
+01:10:59,590 --> 01:11:01,130
+có được nó rồi. Tôi biết...
+
+572
+01:11:01,130 --> 01:11:03,130
+chúng ta sẽ có được nó mà.
+
+573
+01:11:04,620 --> 01:11:06,620
+Tôi không muốn tỏ ra vô ơn, tôi trân trọng...
+
+574
+01:11:06,790 --> 01:11:08,380
+những gì anh làm cho tôi, nhưng...
+
+575
+01:11:08,380 --> 01:11:10,380
+một ngày nào đó anh sẽ
+đi quá giới hạn đấy.
+
+576
+01:11:12,430 --> 01:11:14,350
+Chúng ta lấy được rồi.
+
+577
+01:11:14,350 --> 01:11:16,350
+Sẽ tóm chúng...
+
+578
+01:11:25,320 --> 01:11:27,320
+Cái gì?
+
+579
+01:11:30,540 --> 01:11:32,350
+- Anh nói tìm được họ mà?
+- Tôi nói...
+
+580
+01:11:32,350 --> 01:11:34,690
+mình có thể định vị anh ấy.
+Anh phải tìm anh ấy chứ.
+
+581
+01:11:35,060 --> 01:11:37,060
+ĐANG TÌM KIẾM
+
+582
+01:11:54,630 --> 01:11:56,630
+Hunt đâu rồi?
+
+583
+01:12:02,650 --> 01:12:04,650
+Chết rồi.
+
+584
+01:12:04,660 --> 01:12:06,450
+- Đau quá đấy!
+- Anh đi được không?
+- Được.
+
+585
+01:12:06,450 --> 01:12:08,390
+Chúng ta phải tìm ra cô ấy trước khi
+
+586
+01:12:08,390 --> 01:12:10,390
+Lane tìm thấy.
+
+587
+01:12:59,250 --> 01:13:01,250
+Này, này. Anh lái được không đấy?
+
+588
+01:13:01,650 --> 01:13:03,650
+Khi nãy tim anh vừa ngừng đập.
+
+589
+01:13:03,950 --> 01:13:05,950
+Anh đang nói gì vậy?
+
+590
+01:13:06,290 --> 01:13:08,290
+Sẽ không có kết cục tốt đẹp đâu.
+
+591
+01:13:18,520 --> 01:13:20,520
+Coi nào.
+
+592
+01:13:30,430 --> 01:13:33,070
+Cầu thang, cầu thang, cầu thang!
+
+593
+01:13:33,330 --> 01:13:35,330
+Cầu thang, cầu thang!
+
+594
+01:14:25,710 --> 01:14:27,710
+Cái gì?
+
+595
+01:14:32,290 --> 01:14:33,960
+Một cuộc rượt đuổi tốc độ cao.
+
+596
+01:14:33,960 --> 01:14:35,960
+Phải thuê chiếc xe bốn bánh này
+anh mới chịu, đúng không?
+
+597
+01:14:36,340 --> 01:14:37,920
+- Đừng đổ lỗi cho tôi. Anh chọn xe mà.
+- Ông phải thuê bằng được chiếc này.
+
+598
+01:14:37,930 --> 01:14:39,200
+Có muốn tôi...
+
+599
+01:14:39,200 --> 01:14:40,610
+lái không? Có muốn tôi lái không?
+
+600
+01:14:40,610 --> 01:14:42,610
+Được rồi, anh lái nhanh đi. Nhấn ga đi.
+
+601
+01:14:48,780 --> 01:14:50,780
+Súng!
+
+602
+01:14:52,010 --> 01:14:54,010
+Bố khỉ!
+
+603
+01:15:20,090 --> 01:15:22,090
+Đi, đi, đi!
+
+604
+01:15:24,960 --> 01:15:26,960
+Tôi không sao, tôi ổn!
+
+605
+01:15:34,500 --> 01:15:36,500
+Cha, cha!
+
+606
+01:15:43,720 --> 01:15:45,720
+Chúng đến kìa!
+
+607
+01:15:45,830 --> 01:15:47,830
+Làm gì đây?
+
+608
+01:16:00,080 --> 01:16:02,080
+Súng!
+
+609
+01:16:04,700 --> 01:16:06,490
+- Thắt dây an toàn chưa?
+- Giờ này...
+
+610
+01:16:06,490 --> 01:16:08,490
+mà anh hỏi tôi câu đó?
+
+611
+01:16:56,940 --> 01:16:58,720
+Ổn chứ?
+
+612
+01:16:58,720 --> 01:17:01,230
+Chuyện... có hơi vượt tầm kiểm soát.
+
+613
+01:17:01,510 --> 01:17:03,510
+Coi chừng!
+
+614
+01:17:19,220 --> 01:17:21,220
+Mọi người, tôi bỏ lỡ gì rồi?
+
+615
+01:17:26,660 --> 01:17:28,800
+Dao bén đấy, cắt cho cẩn thận.
+
+616
+01:21:10,760 --> 01:21:12,760
+Giờ chúng ta làm gì đây?
+
+617
+01:21:15,110 --> 01:21:17,780
+Xin hãy nói với tôi rằng
+anh đã sao lại một bản đi.
+
+618
+01:21:20,730 --> 01:21:22,730
+Tất nhiên tôi đã sao lại rồi.
+
+619
+01:21:30,600 --> 01:21:32,600
+Thế chúng ta đi đâu đây?
+
+620
+01:21:56,640 --> 01:21:57,960
+Đó là một cuốn sổ cái.
+
+621
+01:21:57,970 --> 01:21:59,970
+Toàn bộ cơ cấu của Syndicate.
+
+622
+01:22:00,160 --> 01:22:02,980
+Chúng là ai, những chính khách
+chúng thao túng, và tiền từ đâu đến.
+
+623
+01:22:03,740 --> 01:22:05,740
+Mọi thứ ông muốn biết.
+
+624
+01:22:06,050 --> 01:22:09,710
+Điều gì khiến cô nghĩ cái gọi là
+sổ cái này là đồ thật?
+
+625
+01:22:10,170 --> 01:22:12,820
+Tại sao Lane lại muốn nó đến thế
+nếu nó không phải đồ thật?
+
+626
+01:22:13,100 --> 01:22:15,100
+Nếu thế thì sao hắn lại để cô lấy nó?
+
+627
+01:22:15,360 --> 01:22:18,030
+Cô có từng suy nghĩ rằng
+biết đâu hắn muốn tôi có nó?
+
+628
+01:22:18,890 --> 01:22:22,410
+Thông tin sai lệch, sự thao túng, đó là
+điều hắn làm, điều hắn được huấn luyện.
+
+629
+01:22:22,870 --> 01:22:25,270
+Lane nói dối cô, để cô nói dối Hunt.
+
+630
+01:22:26,110 --> 01:22:28,110
+Thế là cả hai cùng thất tín.
+
+631
+01:22:28,130 --> 01:22:30,130
+Đó là mục tiêu chủ yếu của hắn.
+
+632
+01:22:30,300 --> 01:22:32,300
+Thứ này có thể là thật.
+
+633
+01:22:32,340 --> 01:22:36,500
+Nhưng chỉ có một người tôi tin
+để xác minh thông tin đó. Cô.
+
+634
+01:22:38,840 --> 01:22:40,840
+Không.
+
+635
+01:22:41,650 --> 01:22:44,420
+Tôi được lệnh giao cho ông thông tin
+liên quan đến Syndicate.
+
+636
+01:22:44,700 --> 01:22:49,480
+Lệnh của cô là thâm nhập Syndicate
+để chúng ta tìm hiểu thêm về chúng.
+
+637
+01:22:49,820 --> 01:22:51,820
+Đây là một bài thử, như mọi thứ khác.
+
+638
+01:22:52,110 --> 01:22:54,260
+Cách duy nhất để vượt qua
+là tái gia nhập chúng.
+
+639
+01:22:54,750 --> 01:22:56,380
+Tôi không thể.
+
+640
+01:22:56,380 --> 01:22:58,870
+Tôi đã phản bội lòng tin của Lane
+quá nhiều lần.
+
+641
+01:22:59,100 --> 01:23:01,180
+Trong mọi trường hợp,
+cô đều làm theo ý của mình.
+
+642
+01:23:01,440 --> 01:23:04,020
+Hắn định hành hạ và giết hại
+một đặc vụ của Mỹ.
+
+643
+01:23:04,270 --> 01:23:07,200
+Và lẽ ra cô nên để mặc hắn, như vậy
+cô vẫn còn được Lane tin tưởng.
+
+644
+01:23:07,510 --> 01:23:09,710
+Đây là công việc, Hunt hiểu điều đó mà.
+
+645
+01:23:09,970 --> 01:23:12,270
+Tôi sẽ không để anh ấy chết.
+Anh ấy là đồng minh của ta.
+
+646
+01:23:12,530 --> 01:23:16,170
+Chẳng có đồng minh trong giới nội gián đâu,
+Ilsa. Chỉ có lợi ích chung thôi.
+
+647
+01:23:16,690 --> 01:23:19,390
+Lúc này đây, Ethan Hunt
+là một kẻ không quê hương.
+
+648
+01:23:20,260 --> 01:23:24,240
+Điều này khiến cho việc giết hắn
+đỡ phức tạp hơn rất nhiều.
+
+649
+01:23:26,380 --> 01:23:28,380
+Ông định ra lệnh cho tôi giết Hunt à?
+
+650
+01:23:28,600 --> 01:23:30,600
+Trời ơi, không, không thô thiển đến thế.
+
+651
+01:23:31,810 --> 01:23:33,810
+Lane sẽ ra lệnh cho cô.
+
+652
+01:23:34,150 --> 01:23:38,110
+Và để giành lại lòng tin của hắn,
+cô sẽ làm thế.
+
+653
+01:23:39,670 --> 01:23:42,120
+Ông cử tôi đi làm nhiệm vụ.
+
+654
+01:23:42,930 --> 01:23:44,930
+Tôi đã hoàn thành.
+
+655
+01:23:45,070 --> 01:23:47,070
+Giờ ông phải triệu hồi tôi về đi.
+
+656
+01:23:47,400 --> 01:23:50,230
+Tôi có cần nhắc cô rằng cô cũng là
+kẻ không quê hương không?
+
+657
+01:23:51,500 --> 01:23:54,890
+Giám đốc CIA đã gọi cho tôi
+để hỏi thăm về cô.
+
+658
+01:23:55,170 --> 01:23:57,170
+Tuy nhiên để bảo vệ vỏ bọc của cô,
+tôi buộc phải nói dối.
+
+659
+01:23:57,410 --> 01:24:01,340
+Nên đối với chính phủ Mỹ, cô là một sát thủ đánh thuê,
+một mục tiêu có thể hạ gục ngay tại chỗ.
+
+660
+01:24:02,740 --> 01:24:05,920
+Có rất ít người biết được
+thân phận thật sự của cô.
+
+661
+01:24:06,200 --> 01:24:10,230
+Sẽ thật đáng tiếc nếu chúng tôi lỡ quên mất.
+
+662
+01:24:11,720 --> 01:24:14,120
+Cô thấy đấy, không có
+lựa chọn nào đâu, Ilsa.
+
+663
+01:24:14,810 --> 01:24:16,810
+Cô sẽ tái gia nhập bọn chúng.
+
+664
+01:24:24,020 --> 01:24:26,140
+Mừng là cô vẫn đứng về phe chúng tôi.
+
+665
+01:24:35,650 --> 01:24:36,930
+Chuyện gì vậy?
+
+666
+01:24:36,930 --> 01:24:38,350
+Không mở ra được.
+
+667
+01:24:38,350 --> 01:24:39,700
+Ý ông không mở được là sao?
+
+668
+01:24:39,710 --> 01:24:41,710
+Ý tôi là tôi không mở được, thế thôi.
+
+669
+01:24:41,790 --> 01:24:43,600
+Đó là một chiếc hộp đỏ.
+
+670
+01:24:43,600 --> 01:24:45,390
+- Cái gì cơ?
+- Một chiếc hộp đỏ.
+
+671
+01:24:45,390 --> 01:24:47,620
+Chính phủ Anh dùng chúng để
+vận chuyển bí mật quốc gia.
+
+672
+01:24:48,330 --> 01:24:49,700
+Nghe không hay cho lắm.
+
+673
+01:24:49,700 --> 01:24:53,140
+Chúng được mã hóa ba tầng. Sẽ không thể
+đụng tới nó nếu không có vân tay,
+
+674
+01:24:53,400 --> 01:24:57,020
+võng mạc, và khẩu lệnh
+từ một cá nhân cụ thể.
+
+675
+01:24:57,490 --> 01:24:59,490
+Thủ tướng của Vương quốc Anh.
+
+676
+01:24:59,900 --> 01:25:01,410
+Đúng, là ông ta.
+
+677
+01:25:01,410 --> 01:25:03,320
+Vậy ý các anh là không có sổ cái,
+
+678
+01:25:03,320 --> 01:25:06,650
+nghĩa là chúng ta không có bằng chứng rằng
+Syndicate tồn tại, nên chúng ta quay về xuất phát điểm.
+
+679
+01:25:06,930 --> 01:25:08,930
+Chỉ là giờ đây tất cả chúng ta
+đều bị CIA truy nã.
+
+680
+01:25:09,800 --> 01:25:11,670
+Tôi tự hào về chúng ta quá.
+
+681
+01:25:11,670 --> 01:25:16,420
+Tôi chỉ không hiểu tại sao lại có một cái hộp đỏ
+trong một két sắt dữ liệu cá nhân ở Morocco.
+
+682
+01:25:17,200 --> 01:25:19,420
+Và tại sao Lane lại muốn nó
+nếu hắn không mở được nó?
+
+683
+01:25:19,690 --> 01:25:21,710
+Nếu Lane muốn nó, tôi dám cá
+hắn có kế hoạch mở nó ra đấy.
+
+684
+01:25:24,060 --> 01:25:26,060
+Và chúng ta vừa giúp hắn trộm nó.
+
+685
+01:25:29,930 --> 01:25:31,930
+Hắn sẽ bắt cóc Thủ tướng Anh.
+
+686
+01:25:31,950 --> 01:25:33,920
+Đúng vậy.
+
+687
+01:25:33,920 --> 01:25:35,390
+Hắn đang làm ăn rất được.
+
+688
+01:25:35,400 --> 01:25:36,800
+Chúng ta phải cảnh báo chính phủ Anh.
+
+689
+01:25:36,800 --> 01:25:38,150
+Phải, MI6.
+
+690
+01:25:38,150 --> 01:25:40,470
+Không, không, Brandt. Bỏ điện thoại xuống.
+Suy nghĩ một chút nào.
+
+691
+01:25:40,710 --> 01:25:42,710
+Chúng ta có trách nhiệm
+cảnh báo chính phủ Anh,
+
+692
+01:25:43,000 --> 01:25:45,280
+và không được đánh cược
+tính mạng của Thủ tướng Anh,
+
+693
+01:25:45,540 --> 01:25:48,000
+Ethan, chỉ để anh hạ gục những gã
+
+694
+01:25:48,310 --> 01:25:50,600
+đã hạ gục anh ở mọi lần chạm trán.
+
+695
+01:25:52,990 --> 01:25:54,990
+Anh nghĩ chuyện là vậy ư?
+
+696
+01:25:55,290 --> 01:25:57,290
+Brandt?
+
+697
+01:25:59,170 --> 01:26:01,170
+Anh nghĩ chuyện là như vậy sao?
+
+698
+01:26:02,120 --> 01:26:03,640
+Tôi nghĩ ngay lúc này,
+
+699
+01:26:03,640 --> 01:26:05,640
+anh không có khả năng nhìn ra
+phương án khác.
+
+700
+01:26:05,660 --> 01:26:09,110
+Đôi khi Ethan là người duy nhất
+có khả năng nhìn ra phương án duy nhất.
+
+701
+01:26:09,370 --> 01:26:11,410
+Và nếu anh ấy sai lầm,
+thì vụ ở Vienna
+
+702
+01:26:11,730 --> 01:26:13,110
+sẽ xảy ra một lần nữa.
+
+703
+01:26:13,110 --> 01:26:15,320
+Anh không biết hắn. Nếu hắn
+muốn chuyện gì đó xảy ra,
+
+704
+01:26:15,640 --> 01:26:17,150
+ta sẽ chẳng có cách nào ngăn chặn.
+
+705
+01:26:17,150 --> 01:26:19,150
+Thế nên chúng ta mới phải
+cảnh báo chính phủ Anh.
+
+706
+01:26:19,160 --> 01:26:21,240
+Đó lẽ đó chính là điều
+hắn muốn chúng ta làm.
+
+707
+01:26:21,480 --> 01:26:23,570
+Anh có nghe mình nói không đấy?
+Chúng ta sẽ cảnh báo người Anh.
+
+708
+01:26:23,820 --> 01:26:25,940
+Không. Chúng ta sẽ tìm Lane,
+chúng ta sẽ tóm hắn
+
+709
+01:26:26,230 --> 01:26:28,230
+trước khi hắn bắt Thủ tướng Anh.
+
+710
+01:26:33,590 --> 01:26:35,140
+Được thôi.
+
+711
+01:26:35,150 --> 01:26:37,170
+Được rồi, Ethan.
+Chúng ta sẽ tìm Lane.
+
+712
+01:26:37,960 --> 01:26:39,860
+Nhưng xin cho tôi biết
+
+713
+01:26:39,860 --> 01:26:41,860
+chúng ta làm cách nào đây?
+
+714
+01:27:20,700 --> 01:27:22,500
+Mọi tội lỗi của cô được tha thứ.
+
+715
+01:27:22,500 --> 01:27:24,500
+Đó không phải sổ cái, đúng không?
+
+716
+01:27:24,630 --> 01:27:26,630
+Cô không tự mình xem thử sao?
+
+717
+01:27:27,030 --> 01:27:28,460
+Tất nhiên là tôi xem chứ.
+
+718
+01:27:28,460 --> 01:27:30,220
+Nhưng các tập tin bị mã hóa.
+
+719
+01:27:30,220 --> 01:27:32,220
+Tại sao tôi phải nói dối cô chứ?
+
+720
+01:27:32,790 --> 01:27:34,790
+Hunt.
+
+721
+01:27:35,370 --> 01:27:37,830
+Nhưng hắn sẽ không trộm nó
+nếu biết nó là cái gì.
+
+722
+01:27:39,450 --> 01:27:41,450
+Và cô sẽ không giúp hắn.
+
+723
+01:27:43,120 --> 01:27:45,120
+Thực sự thì ổ đĩa đó chứa gì vậy?
+
+724
+01:27:45,310 --> 01:27:47,920
+Tôi sẽ thành thực với cô
+khi cô bắt đầu thành thực với tôi.
+
+725
+01:27:49,700 --> 01:27:51,950
+Cả cô và tôi đều biết lý do cô quay lại.
+
+726
+01:27:52,370 --> 01:27:54,370
+Đúng không?
+
+727
+01:27:56,350 --> 01:27:59,080
+Cô vẫn còn sống vì tôi tin vào
+tiềm năng của cô.
+
+728
+01:27:59,410 --> 01:28:01,410
+Nhưng tôi đang mất kiên nhẫn.
+
+729
+01:28:02,720 --> 01:28:04,830
+Sao cô cứ một mực chống đối thế?
+
+730
+01:28:09,250 --> 01:28:11,250
+Thực lòng mà nói,
+
+731
+01:28:11,880 --> 01:28:13,610
+anh là một tay khủng bố.
+
+732
+01:28:13,610 --> 01:28:16,470
+Nếu thực sự là vậy, mục tiêu của tôi
+sẽ là gieo rắc nỗi sợ hãi.
+
+733
+01:28:17,240 --> 01:28:20,140
+Phương thức... tinh vi hơn nhiều.
+
+734
+01:28:22,410 --> 01:28:24,270
+Anh giết người vô tội.
+
+735
+01:28:24,270 --> 01:28:28,250
+Tôi đã giúp chính phủ của mình giết
+còn nhiều người vô tội hơn thế, rất nhiều.
+
+736
+01:28:30,050 --> 01:28:32,200
+Giết chóc để giữ mọi thứ như cũ.
+
+737
+01:28:33,070 --> 01:28:35,390
+Và giờ tôi giết chóc
+để mang lại sự đổi thay.
+
+738
+01:28:37,050 --> 01:28:39,190
+Tôi nghĩ Ethan Hunt sẽ phản đối đấy.
+
+739
+01:28:39,860 --> 01:28:41,860
+Ethan Hunt là một kẻ thích đánh cược.
+
+740
+01:28:42,070 --> 01:28:44,070
+Và đến một ngày khi hắn thất bại,
+
+741
+01:28:44,340 --> 01:28:46,910
+hàng ngàn người vô tội sẽ trả giá.
+
+742
+01:28:48,050 --> 01:28:50,050
+Khi đó ai trong chúng tôi mới là kẻ ác?
+
+743
+01:28:54,110 --> 01:28:56,110
+Không có gì trong này. Nó trống rỗng.
+
+744
+01:29:12,820 --> 01:29:14,670
+Tôi thấy hứng thú
+
+745
+01:29:14,670 --> 01:29:16,690
+xem cô sẽ đổ lỗi cho ai
+
+746
+01:29:17,970 --> 01:29:20,060
+cho chuyện sắp xảy ra sau đây.
+
+747
+01:30:07,290 --> 01:30:08,760
+Cô ta đấy à?
+
+748
+01:30:08,760 --> 01:30:10,760
+Cô ta đấy.
+
+749
+01:30:13,590 --> 01:30:15,590
+Phải nói là
+
+750
+01:30:16,500 --> 01:30:18,500
+cô lái mô-tô giỏi đấy.
+
+751
+01:30:20,940 --> 01:30:22,940
+- Ethan.
+- Cô chỉ làm việc của mình thôi.
+
+752
+01:30:24,560 --> 01:30:26,560
+Chúng ta chỉ cần biết thế là đủ.
+
+753
+01:30:28,360 --> 01:30:30,220
+Atlee nói là anh sẽ hiểu.
+
+754
+01:30:30,220 --> 01:30:32,970
+Atlee, cấp trên của cô
+trong Cục Tình báo nước Anh.
+
+755
+01:30:36,660 --> 01:30:38,660
+Ông ta không triệu hồi cô?
+
+756
+01:30:40,420 --> 01:30:42,420
+Ngay cả sau khi cô giao nộp ổ đĩa cho ông ta?
+
+757
+01:30:43,060 --> 01:30:45,400
+Anh thừa biết nó trống không mà.
+
+758
+01:30:46,200 --> 01:30:49,470
+Nói dối. Ổ đĩa ả lấy từ tôi
+là một bản sao chính xác.
+
+759
+01:30:49,950 --> 01:30:51,950
+Cô giữ nó suốt thời gian vừa rồi chứ?
+
+760
+01:30:58,540 --> 01:31:00,540
+ĐÃ XÓA TẬP TIN
+
+761
+01:31:04,660 --> 01:31:06,970
+Họ chẳng màng gì tới sinh mạng của chúng ta.
+
+762
+01:31:14,690 --> 01:31:17,110
+Nhưng anh biết tôi sẽ mang nó đến cho ông ta.
+
+763
+01:31:17,790 --> 01:31:19,600
+Tôi hy vọng cô sẽ làm thế.
+
+764
+01:31:19,600 --> 01:31:21,600
+Tôi hy vọng điều đó giúp cô được triệu hồi.
+
+765
+01:31:22,370 --> 01:31:25,040
+Này, này, vậy nghĩa là
+Lane không có ổ đĩa, chúng ta có.
+
+766
+01:31:25,450 --> 01:31:27,770
+Tôi hỏi cái này, nếu ổ đĩa trống không,
+
+767
+01:31:28,550 --> 01:31:30,550
+tại sao cô ta vẫn còn sống?
+
+768
+01:31:30,740 --> 01:31:32,630
+Trừ khi, tất nhiên,
+
+769
+01:31:32,630 --> 01:31:34,630
+Lane muốn chúng ta tìm ra cô ta.
+
+770
+01:31:36,110 --> 01:31:38,110
+Vậy giờ cô làm việc cho ai đây?
+
+771
+01:31:39,000 --> 01:31:42,260
+Lane, Atlee, chính phủ của anh,
+chính phủ của tôi, như nhau cả thôi.
+
+772
+01:31:43,340 --> 01:31:46,660
+Chúng ta chỉ nghĩ mình đang chiến đấu cho
+phe chính nghĩa vì đó là điều ta chọn tin tưởng.
+
+773
+01:31:48,730 --> 01:31:50,720
+Vậy chúng ta phải làm sao?
+
+774
+01:31:50,720 --> 01:31:52,800
+Theo tôi thấy, anh có ba lựa chọn.
+
+775
+01:31:53,520 --> 01:31:56,280
+Một, anh giao tôi và ổ đĩa cho CIA.
+
+776
+01:31:57,270 --> 01:31:59,270
+Tôi là bằng chứng cho sự tồn tại
+của Syndicate.
+
+777
+01:31:59,510 --> 01:32:01,510
+Lane trở thành cục nợ của họ, và...
+
+778
+01:32:01,530 --> 01:32:02,920
+nhiệm vụ của anh hoàn thành.
+
+779
+01:32:02,920 --> 01:32:04,920
+- Đúng như tôi nghĩ.
+- Tôi cũng tán thành.
+
+780
+01:32:05,180 --> 01:32:07,180
+Nhưng anh biết họ sẽ không tin anh.
+
+781
+01:32:07,280 --> 01:32:09,280
+Và tất cả các anh sẽ bị ghép tội phản quốc.
+
+782
+01:32:10,110 --> 01:32:11,720
+Lane được tự do.
+
+783
+01:32:11,720 --> 01:32:13,520
+Tôi e là cô ta có lý đấy.
+
+784
+01:32:13,520 --> 01:32:16,750
+Hai, anh mặc tôi với số phận không rõ ràng.
+
+785
+01:32:17,630 --> 01:32:20,280
+Anh sẽ dùng ổ đĩa này
+làm mồi nhử để bẫy Lane.
+
+786
+01:32:21,470 --> 01:32:23,810
+Nhưng phần nào trong anh nghi rằng
+mình đã gặp đối thủ xứng tầm.
+
+787
+01:32:24,390 --> 01:32:28,220
+Và anh là kẻ ưa đánh cược, anh có thể
+giao ổ đĩa cho Lane dù muốn hay không.
+
+788
+01:32:29,340 --> 01:32:31,340
+Điều đó hoàn toàn có thể xảy ra.
+
+789
+01:32:31,690 --> 01:32:33,690
+Còn lựa chọn thứ ba?
+
+790
+01:32:33,760 --> 01:32:35,760
+Tẩu thoát cùng tôi.
+
+791
+01:32:36,720 --> 01:32:38,720
+Ngay lập tức.
+
+792
+01:32:41,660 --> 01:32:43,660
+Trời ơi.
+
+793
+01:32:46,900 --> 01:32:48,670
+Còn Lane thì sao?
+
+794
+01:32:48,670 --> 01:32:50,670
+Quên Lane đi.
+
+795
+01:32:50,850 --> 01:32:52,850
+Sẽ luôn có một kẻ như Lane.
+
+796
+01:32:53,340 --> 01:32:55,540
+Sẽ luôn có những người
+giống như chúng ta đối mặt hắn.
+
+797
+01:32:57,060 --> 01:32:59,390
+Chúng ta đã xong phần việc của mình
+và ta đã bị gạt sang một bên.
+
+798
+01:33:00,770 --> 01:33:02,770
+Chúng ta có thể là bất kỳ ai.
+
+799
+01:33:03,720 --> 01:33:05,720
+Chúng ta có thể làm bất cứ gì.
+
+800
+01:33:07,640 --> 01:33:09,640
+Chỉ là chúng ta muốn hay không thôi.
+
+801
+01:33:23,000 --> 01:33:25,220
+Lane cử cô tới để nhắn nhủ
+một thông điệp, đúng không?
+
+802
+01:33:26,630 --> 01:33:28,930
+Tôi đã cứu mạng anh hai lần.
+Tôi không thể cứu mạng anh nữa đâu.
+
+803
+01:33:29,600 --> 01:33:31,600
+Thông điệp là gì?
+
+804
+01:33:44,220 --> 01:33:46,220
+Benji.
+
+805
+01:33:58,170 --> 01:33:59,750
+Ga-ra đỗ xe.
+
+806
+01:33:59,750 --> 01:34:01,750
+Luther, ở lại với cô ấy.
+
+807
+01:34:25,390 --> 01:34:26,630
+Cô ấy biến mất rồi.
+
+808
+01:34:26,630 --> 01:34:28,630
+Tôi đã để mất cô ấy.
+
+809
+01:34:31,150 --> 01:34:33,150
+Cô ta gài chúng ta, Ethan.
+
+810
+01:34:33,550 --> 01:34:35,560
+Không, cô ấy chỉ nhắn thông điệp thôi.
+
+811
+01:34:35,800 --> 01:34:37,150
+Cô ta gài chúng ta!
+
+812
+01:34:37,150 --> 01:34:38,610
+Cô ta biết sẽ xảy ra chuyện này.
+
+813
+01:34:38,610 --> 01:34:40,940
+Chỉ có Lane biết sẽ xảy ra chuyện gì.
+
+814
+01:34:47,180 --> 01:34:49,100
+Tôi có một công việc cho anh, Ethan.
+
+815
+01:34:49,110 --> 01:34:51,390
+Và vì tính mạng bạn mình,
+anh sẽ thực hiện nó.
+
+816
+01:34:51,820 --> 01:34:53,220
+Tôi đang nghe đây.
+
+817
+01:34:53,220 --> 01:34:55,560
+Nhiệm vụ của anh, nếu anh chịu chấp nhận,
+
+818
+01:34:55,930 --> 01:34:58,800
+là giao ổ đĩa đã mở khóa cho tôi
+vào nửa đêm hôm nay.
+
+819
+01:34:59,560 --> 01:35:01,560
+Giờ làm ơn trả lời đi.
+
+820
+01:35:02,560 --> 01:35:04,560
+Tôi chấp nhận.
+
+821
+01:35:04,960 --> 01:35:06,960
+Tốt.
+
+822
+01:35:09,210 --> 01:35:11,210
+Tôi biết anh sẽ chấp nhận.
+
+823
+01:35:17,460 --> 01:35:22,760
+Hắn muốn ổ đĩa, đã được mở khóa,
+trước nửa đêm nay
+
+824
+01:35:22,860 --> 01:35:28,370
+Ethan, chỉ duy một người trên trái đất
+có thể mở được ổ đĩa đó
+
+825
+01:35:28,510 --> 01:35:31,780
+Chúng ta phải bắt Thủ Tướng
+
+826
+01:35:31,900 --> 01:35:35,640
+Dành một phút nguy nghĩ lại đã
+
+827
+01:35:35,760 --> 01:35:38,130
+Đó là cách duy nhất đưa Benji về
+
+828
+01:35:38,300 --> 01:35:41,620
+Ethan, đó chính là điều Lane muốn anh làm
+
+829
+01:35:41,760 --> 01:35:45,620
+Vậy nên, điều đó phải xảy ra
+
+830
+01:35:49,160 --> 01:35:51,770
+Đó là cách chúng ta đánh đổ Lane
+
+831
+01:35:51,890 --> 01:35:54,260
+Là cách để hoàn thành nhiệm vụ
+
+832
+01:35:54,400 --> 01:35:59,740
+Anh hiểu không? Anh hiểu không?
+
+833
+01:36:11,780 --> 01:36:16,160
+Là William Brandt, anh ta nói có việc gấp
+
+834
+01:36:20,170 --> 01:36:22,210
+Tôi cảm giác anh đã suy nghĩ sáng suốt
+
+835
+01:36:22,340 --> 01:36:24,790
+Tôi gọi cho ông vì không còn cách nào khác
+
+836
+01:36:24,920 --> 01:36:30,090
+- Tôi buộc phải giao anh ấy cho ông
+- Tôi hiểu. Anh ở đâu?
+
+837
+01:36:30,490 --> 01:36:34,010
+- London
+- Chúng ta sẽ chuyển hướng tới London
+
+838
+01:36:34,170 --> 01:36:36,810
+- Chỗ nào ở London?
+- Khi nào ông tới, tôi sẽ báo
+
+839
+01:36:36,930 --> 01:36:41,990
+- Tôi không hứng thú đùa giỡn đâu
+- Còn tôi cũng không thích việc bạn tôi bị giết
+
+840
+01:36:42,100 --> 01:36:46,480
+Nên nếu tôi đánh đổi anh ta, mọi thứ sẽ phải
+theo cách của tôi. Ông hiểu chứ?
+
+841
+01:36:46,580 --> 01:36:51,190
+Hãy mở điện thoại, tôi sẽ thông báo thêm
+
+842
+01:36:54,980 --> 01:36:59,400
+Chúng ta nên xuất phát thôi
+- Phải
+
+843
+01:37:01,170 --> 01:37:05,040
+Anh không sao chứ?
+
+844
+01:37:06,100 --> 01:37:10,520
+Tối nay chúng ta chuẩn bị tiếp cận
+Thủ Tướng nước Anh
+
+845
+01:37:10,650 --> 01:37:16,380
+- Nên...
+- Brandt
+
+846
+01:37:18,010 --> 01:37:22,760
+Tôi không tìm ra cách nào khác
+
+847
+01:37:22,900 --> 01:37:27,200
+Tôi cũng vậy
+
+848
+01:37:27,400 --> 01:37:32,610
+Tất cả vì người bạn của chúng ta, đúng không?
+
+849
+01:38:14,940 --> 01:38:19,630
+Trang bị cho hắn đi
+
+850
+01:38:41,370 --> 01:38:43,540
+Anh gọi tôi là đúng, Brandt. Hunt đâu?
+
+851
+01:38:43,670 --> 01:38:45,670
+Anh ấy đang đến.
+Chúng ta không có nhiều thời gian đâu
+
+852
+01:38:45,730 --> 01:38:48,410
+- Anh ta định làm gì?
+- Tôi muốn anh ấy sống sót
+
+853
+01:38:48,530 --> 01:38:52,850
+và tôi cần ông đảm bảo chuyện đó
+diễn ra theo kế hoạch
+
+854
+01:39:07,580 --> 01:39:10,930
+Anh đã báo cho Chính phủ Anh rằng
+Hunt sẽ tấn công Thủ Tướng chưa?
+
+855
+01:39:11,060 --> 01:39:17,670
+Tôi sẽ giúp ông bắt sống anh ấy.
+Đó là thỏa thuận
+
+856
+01:39:21,620 --> 01:39:25,230
+Anh học phải tật xấu của bạn anh rồi, Brandt
+
+857
+01:39:25,350 --> 01:39:28,700
+Anh vẫn tin rằng anh
+có thể kiểm soát được kết cục
+
+858
+01:39:28,840 --> 01:39:32,710
+Theo anh ta
+
+859
+01:39:34,190 --> 01:39:36,680
+Thư Ký Atlee! Thư Ký Atlee
+
+860
+01:39:36,790 --> 01:39:42,680
+Giám đốc Hunley, rất vui được gặp anh.
+Lần trước anh bảo đang săn lùng tội phạm ở Morroco
+
+861
+01:39:42,810 --> 01:39:47,970
+Atlee, tôi có nguồn tin rằng
+Thủ Tướng đang gặp nguy hiểm
+
+862
+01:39:49,830 --> 01:39:53,140
+Tôi đang nghe đây
+
+863
+01:39:54,480 --> 01:39:57,520
+Có ai trả hơn 22 ngàn không?
+Có ai không?
+
+864
+01:39:57,640 --> 01:40:00,970
+Lần 1! Lần 2!
+
+865
+01:40:01,100 --> 01:40:04,780
+Bán! Cho quý ngài hào phóng của chúng ta
+
+866
+01:40:04,940 --> 01:40:10,130
+Thư ký Atlee muốn gặp ngài.
+Ông ấy nói chuyện quan trọng
+
+867
+01:40:10,330 --> 01:40:12,680
+Anh đi một chút
+
+868
+01:40:21,900 --> 01:40:27,730
+- Chuyện gì vậy?
+- Chỉ là vấn đề an ninh thôi ạ
+
+869
+01:40:33,120 --> 01:40:38,640
+- Không được để bất cứ ai vào, dù với lý do gì
+- Vâng ạ
+
+870
+01:40:38,820 --> 01:40:41,540
+Nói rõ cho tôi nghe xem nào
+
+871
+01:40:41,690 --> 01:40:44,170
+Người này là ai? Sao hắn lại hãm hại tôi?
+
+872
+01:40:44,290 --> 01:40:49,210
+Tôi e rằng cả tôi và Giám đốc Hunley đều phải
+chịu trách nhiệm cho việc này
+
+873
+01:40:49,330 --> 01:40:53,520
+Ethan Hunt là một phần của một tổ chức
+tình báo đặc nhiệm vừa được giải tán
+
+874
+01:40:53,670 --> 01:40:58,740
+Giờ hắn đã vượt tầm kiểm soát và
+có khả năng dính liú tới mạng lưới khủng bố
+
+875
+01:40:58,880 --> 01:41:03,070
+Nguồn tin tình báo cho biết hắn bị thao túng
+bởi một trong những cựu đặc vụ của ông
+
+876
+01:41:03,200 --> 01:41:06,290
+Là Ilsa Faust, thưa Thủ Tướng.
+Cô ta biến mất hồi 2 năm trước
+
+877
+01:41:06,460 --> 01:41:10,310
+Cảm phiền cho tôi hỏi,
+tôi có liên quan gì tới mạng lưới này?
+
+878
+01:41:10,500 --> 01:41:16,550
+Đây là William Brandt, cộng sự cũ của Hunt.
+Anh ấy đã tiếc lộ kế hoạch này
+
+879
+01:41:16,710 --> 01:41:21,090
+Hunt đang nắm một chiếc hộp đỏ
+mà chỉ có ngài mới mở được
+
+880
+01:41:21,200 --> 01:41:26,230
+Anh ấy tin rằng đó là chìa khóa
+để phá hủy Syndicate
+
+881
+01:41:26,400 --> 01:41:31,920
+- Anh vừa nói Syndicate?
+- Vâng, đó là tên anh ấy dùng
+
+882
+01:41:32,230 --> 01:41:40,400
+Atlee, chắc không phải anh ta
+nói về "Syndicate đó", phải không?
+
+883
+01:41:40,520 --> 01:41:44,730
+Ông có đảm bảo với tôi rằng
+Syndicate chỉ là một hoạt động thử nghiệm?
+
+884
+01:41:44,840 --> 01:41:48,360
+Nó đã từng như vậy, tôi có thể đảm bảo
+
+885
+01:41:48,520 --> 01:41:51,490
+Vậy trong trường hợp này,
+
+886
+01:41:51,600 --> 01:41:54,950
+- Tôi không hiểu
+- Thưa Thủ Tướng, ngài đang gặp nguy hiểm
+
+887
+01:41:55,100 --> 01:41:58,410
+Ưu tiên hàng đầu bây giờ là đưa ngài đến
+một nơi an toàn
+
+888
+01:41:58,550 --> 01:42:03,710
+Ngài có ấn tượng gì với
+cái tên Solomon Lane không?
+
+889
+01:42:03,850 --> 01:42:11,100
+Có. Tôi e là có
+
+890
+01:42:11,260 --> 01:42:14,570
+Vậy ra Syndicate là có thật?
+
+891
+01:42:14,700 --> 01:42:18,680
+Nó là đứa con tình báo siêu cấp
+của Thư ký Atlee
+
+892
+01:42:18,810 --> 01:42:23,720
+tuyển lựa các cựu đặc vụ từ những nước khác.
+Cho họ một ID mới, dùng họ
+
+893
+01:42:23,840 --> 01:42:27,570
+để loại bỏ những phần tử phản động,
+cả trong và ngoài nước
+
+894
+01:42:27,740 --> 01:42:33,350
+Nguồn kinh phí hoạt động của nó được giấu
+trong một chiếc hộp đỏ mà chỉ mình tôi mở được
+
+895
+01:42:33,450 --> 01:42:37,600
+Nó có thể giúp tôi thực hiện mọi việc
+mà không cần chịu trách nhiệm
+
+896
+01:42:37,730 --> 01:42:41,020
+Tôi đã từ chối đề nghị. Hơn nữa
+
+897
+01:42:41,150 --> 01:42:44,850
+tôi đã đảm bảo nó không vượt ra khỏi
+giai đoạn qui hoạch
+
+898
+01:42:44,960 --> 01:42:47,780
+Thưa Thủ Tướng, chẳng có Syndicate nào cả
+
+899
+01:42:47,900 --> 01:42:51,410
+- Những người này đã bị đặc vụ Faust thao túng
+- Atlee
+
+900
+01:42:51,520 --> 01:42:55,360
+Hãy dành những lời đó cho phiên Tòa công khai
+- Ngài không nên ra khỏi đây
+
+901
+01:42:55,470 --> 01:42:59,630
+- Xin lỗi
+- Thưa Ngài, Hunt là kẻ được huấn luyện đặc biệt
+
+902
+01:42:59,750 --> 01:43:02,900
+một tình báo chuyên nghiệp mà không ai
+lường trước được
+
+903
+01:43:03,020 --> 01:43:07,220
+không có bí mật nào, không hệ thống an ninh nào
+hắn không thâm nhập được
+
+904
+01:43:07,340 --> 01:43:09,710
+Hắn có thể trở thành bất cứ ai
+
+905
+01:43:09,840 --> 01:43:16,280
+Rất có thể hắn đã nghe được toàn bộ
+đoạn hội thoại này và suy tính trước đường đi của ngài
+
+906
+01:43:16,380 --> 01:43:20,280
+Hunt là một minh chứng sống của
+khả năng áp đặt số phận
+
+907
+01:43:20,400 --> 01:43:24,640
+và hắn đã chọn ngài làm nhiệm vụ của mình
+
+908
+01:43:24,760 --> 01:43:28,770
+Thưa Thủ Tướng
+
+909
+01:43:42,540 --> 01:43:47,940
+Hunt! Vui lòng cách xa khỏi Thủ Tướng
+
+910
+01:43:50,150 --> 01:43:52,620
+Chuyện gì vừa xảy ra với ngài thế?
+
+911
+01:43:52,790 --> 01:43:56,630
+Atlee đã bắn tôi
+- Đúng vậy
+
+912
+01:43:58,730 --> 01:44:04,500
+Hunt, tôi mong là anh nhận ra việc này
+ảnh hưởng đến quan hệ Anh-Mỹ
+
+913
+01:44:04,620 --> 01:44:09,030
+Túng quá hóa liều thôi, thưa ngài
+
+914
+01:44:10,090 --> 01:44:12,110
+- Tôi nghe
+- Chuẩn bị nhận tín hiệu
+
+915
+01:44:12,240 --> 01:44:14,750
+Sẵn sàng
+
+916
+01:44:19,350 --> 01:44:22,030
+Thủ Tướng triệu tập tôi tới đây
+
+917
+01:44:22,160 --> 01:44:26,000
+- Lối này ạ
+- Đang quyét
+
+918
+01:44:28,500 --> 01:44:32,430
+Xác nhận võng mạc
+
+919
+01:44:34,520 --> 01:44:41,970
+- Sẽ nhanh thôi ạ
+- Tay của anh ấm quá
+
+920
+01:44:48,130 --> 01:44:50,900
+Xác nhận dấu vân tay
+
+921
+01:44:51,020 --> 01:44:54,700
+- Từ gợi ý là Kiplin
+- Từ gợi ý là Kiplin
+
+922
+01:44:54,810 --> 01:44:58,840
+Tôi xin phép hỏi về một câu,
+từ gợi ý là Kiplin
+
+923
+01:44:58,960 --> 01:45:05,190
+Ừ, tôi biết.
+"Nếu bạn có thể sử dụng cái đầu của người khác"
+
+924
+01:45:08,960 --> 01:45:13,980
+"Nếu bạn có thể tin tưởng bản thân một cách tuyệt đối"
+
+925
+01:45:17,090 --> 01:45:20,820
+- Được chưa?
+- Được rồi. Chúa ơi, tôi mở được rồi
+
+926
+01:45:20,950 --> 01:45:25,070
+Tôi đến để gặp Thủ Tướng
+- Chúng tôi được lệnh không cho ai vào
+
+927
+01:45:25,210 --> 01:45:29,580
+- Ai lệnh?
+- Là ngài
+
+928
+01:45:31,490 --> 01:45:36,540
+Hunley, chuyện gì thế này?
+An ninh!
+
+929
+01:45:41,890 --> 01:45:47,690
+Thư ký Atlee, cám ơn vì ngài
+đã chấp nhận lời mời của chúng tôi
+
+930
+01:45:54,770 --> 01:45:58,770
+Anh biết tôi là ai chứ?
+
+931
+01:45:59,160 --> 01:46:04,200
+Chúng tôi biết ông tạo ra Syndicate,
+nhưng Lane phản trắc và dùng nó để chống lại ông, đúng không?
+
+932
+01:46:04,300 --> 01:46:06,720
+Và ông đã cố giấu nhẹm nó
+
+933
+01:46:06,850 --> 01:46:13,470
+Đó là lý do ông xóa thông tin trong ổ đĩa
+- Đúng vậy
+
+934
+01:46:13,880 --> 01:46:18,560
+Nào, tôi có một số câu hỏi
+liên quan đến Ilsa Faust
+
+935
+01:46:18,650 --> 01:46:22,010
+Cô ta là điệp viên của ông
+
+936
+01:46:22,140 --> 01:46:26,150
+Điều này cũng đúng
+
+937
+01:46:28,190 --> 01:46:32,430
+- Đây là thuốc giải
+- Khi Thủ Tướng phát hiện ra Syndicate
+
+938
+01:46:32,530 --> 01:46:35,480
+Atlee đã tấn công ngài ấy
+- Đúng vậy
+
+939
+01:46:35,610 --> 01:46:39,980
+- Và ông đã cứu Thủ tướng
+- Vậy sao?
+
+940
+01:46:40,120 --> 01:46:44,890
+Tôi rất biết ơn
+
+941
+01:46:52,510 --> 01:46:55,780
+Xin phép
+
+942
+01:46:56,470 --> 01:47:00,550
+Anh gọi rất sát giờ, Ethan
+
+943
+01:47:00,740 --> 01:47:05,290
+Tôi đã có thứ ông cần. Giờ tôi phải tới đâu?
+
+944
+01:47:20,490 --> 01:47:22,490
+Ethan, chờ đã
+
+945
+01:47:22,630 --> 01:47:25,060
+Nếu tôi không đến đó trong 15 phút,
+hắn sẽ giết Benji
+
+946
+01:47:25,170 --> 01:47:30,880
+Nhiệm vụ là phá hủy Syndicate. Nếu Lane có được
+số tiền này, hắn sẽ trở thành siêu khủng bố
+
+947
+01:47:31,000 --> 01:47:33,730
+Hắn sẽ không bắt sống được tôi, tôi đảm bảo
+
+948
+01:47:33,870 --> 01:47:37,440
+Nếu như anh không sống sót thì thế nào?
+
+949
+01:47:37,580 --> 01:47:40,470
+Tôi sẽ sống sót
+
+950
+01:47:40,610 --> 01:47:44,360
+Chuẩn bị sẵn sàng đi
+
+951
+01:47:46,770 --> 01:47:52,580
+Xin chào Thủ Tướng. Nếu ngài đang xem
+tin nhắn này, nghĩa là ngài đã khởi động Syndicate
+
+952
+01:47:52,670 --> 01:47:57,950
+Ổ đĩa này cho phép ngài tiếp cận số tiền
+3.7 tỷ đồng từ các tài khoản không dấu vết
+
+953
+01:47:58,060 --> 01:48:02,820
+cho phép Syndicate hoạt động chìm
+trong hàng chục năm
+
+954
+01:48:02,930 --> 01:48:09,250
+Cách tiếp cận nguồn vốn này
+sẽ được hướng dẫn sau đây
+
+955
+01:49:14,120 --> 01:49:17,870
+Tới đây là kết thúc rồi, Hunt
+
+956
+01:49:25,400 --> 01:49:29,140
+Cẩn thận
+
+957
+01:49:29,870 --> 01:49:35,630
+1kg thuốc nổ, 530g chất phóng xạ
+
+958
+01:49:35,790 --> 01:49:39,420
+Bạn của anh đang trong tình trạng
+dễ kích nổ
+
+959
+01:49:39,540 --> 01:49:44,260
+Nên không được phép cử động đột ngột
+
+960
+01:49:49,720 --> 01:49:55,810
+- Bài kiểm tra cuối của cô
+- Khi Lane có được thứ ông ta muốn, tôi sẽ giết anh và Benji
+
+961
+01:49:55,920 --> 01:50:02,410
+Nếu không, tất cả sẽ phải chết
+
+962
+01:50:02,560 --> 01:50:08,360
+Không có thời gian suy nghĩ đâu Ethan.
+Anh ngồi đi
+
+963
+01:50:21,020 --> 01:50:24,940
+Bản chất con người là vũ khí của tôi
+
+964
+01:50:25,060 --> 01:50:28,610
+Lúc tôi giết cô gái trong tiệm đĩa
+
+965
+01:50:28,720 --> 01:50:32,040
+tôi biết anh sẽ bất chấp tất cả
+để bắt được tôi
+
+966
+01:50:32,150 --> 01:50:38,370
+Tôi cũng biết Ilsa không còn lựa chọn
+nào khác. Cho dù cô ta vô tình hay cố ý để anh thoát
+
+967
+01:50:38,480 --> 01:50:43,850
+Dù anh tha cho cô ta ở Morroco.
+Dù cô ta có đến gặp Atlee hay không
+
+968
+01:50:43,960 --> 01:50:50,420
+Ông đã lên kế hoạch để mọi chuyện
+diễn ra tại đây
+
+969
+01:50:51,770 --> 01:50:57,280
+Và tôi cũng vậy
+
+970
+01:50:57,390 --> 01:51:01,380
+Tôi biết ông, Lane.
+Ông có một niềm tin vào số phận
+
+971
+01:51:01,490 --> 01:51:05,310
+Mạng sống con người không còn quan trọng nữa,
+hoặc chẳng có gì khác quan trọng
+
+972
+01:51:05,390 --> 01:51:11,730
+Dù gì, ông đã giết quá nhiều người
+mà không bao giờ tự hỏi, ai là người ra lệnh
+
+973
+01:51:11,850 --> 01:51:17,520
+Hay tại sao. Ông đổ tội cho tổ chức
+tã tạo ra con người của ông
+
+974
+01:51:17,660 --> 01:51:25,330
+Ông muốn trả thù. Nhưng rốt cuộc
+ông cũng sẽ bị suy yếu. Ông cần tiền, nguồn hỗ trợ
+
+975
+01:51:25,450 --> 01:51:33,660
+và ông bất chấp tất cả để có được chúng.
+Đó là điều khiến tôi tìm ra cách nhốt ông lại
+
+976
+01:51:33,790 --> 01:51:38,240
+Ổ đĩa đâu?
+Ổ đĩa đâu
+
+977
+01:51:38,360 --> 01:51:42,140
+Nếu ông muốn chơi trò chơi,
+tôi sẽ chơi với ông
+
+978
+01:51:42,270 --> 01:51:47,650
+Tôi sẽ chuyển 50 triệu đô
+
+979
+01:51:47,790 --> 01:51:52,330
+để chuộc Benji
+
+980
+01:52:05,600 --> 01:52:10,760
+Ổ đĩa đâu?
+Ổ đĩa đâu?
+
+981
+01:52:10,890 --> 01:52:13,540
+Ông đang nhìn nó đây.
+Tôi chính là ổ đĩa
+
+982
+01:52:13,660 --> 01:52:17,150
+Tôi ghi nhớ tất cả.
+3.7 tỷ trong vô số tài khoản
+
+983
+01:52:17,260 --> 01:52:22,130
+Nếu dữ liệu bị xóa, ông chẳng còn gì.
+Không còn tiền, ông chẳng là gì
+
+984
+01:52:22,230 --> 01:52:25,540
+Không có tôi, ông chẳng là gì
+
+985
+01:52:28,730 --> 01:52:32,680
+Ông đang nghi ngờ tôi.
+Tôi không thể để bạn tôi chết
+
+986
+01:52:32,800 --> 01:52:36,010
+Tôi không thể ghi nhớ toàn bộ ổ đĩa
+
+987
+01:52:36,140 --> 01:52:39,310
+Chỉ có một cách tìm ra
+
+988
+01:52:39,430 --> 01:52:43,550
+Hãy để Benji đi
+
+989
+01:52:58,520 --> 01:53:01,420
+Bắt lấy hắn
+
+990
+01:53:03,660 --> 01:53:07,820
+Nếu chúng đến gần, hãy bắn tôi
+
+991
+01:53:07,960 --> 01:53:12,100
+Dừng lại
+
+992
+01:53:12,520 --> 01:53:17,270
+Còn nhớ có lần tôi bảo anh
+khiến mọi chuyện đi quá xa chưa? Là tôi đang nói đấy
+
+993
+01:53:17,390 --> 01:53:22,230
+Cách duy nhất để kết thúc chuyện này
+là anh và tôi, mặt đối mặt
+
+994
+01:53:22,330 --> 01:53:25,160
+Nhưng lần này tôi sẽ không bị nhốt
+trong cái hộp nữa
+
+995
+01:53:25,290 --> 01:53:30,040
+Ông muốn số tiền đó, phải để tôi
+đấu với tay Bác sĩ một trận ra trò
+
+996
+01:53:30,170 --> 01:53:34,930
+Giờ hãy để Benji đi
+
+997
+01:53:37,820 --> 01:53:41,890
+1...3...9
+
+998
+01:54:00,810 --> 01:54:02,740
+Đi đi
+
+999
+01:54:02,740 --> 01:54:06,490
+- Ethan
+- Brandt đang đợi, đi đi
+
+1000
+01:54:12,990 --> 01:54:16,300
+- Tôi làm gì đây?
+-Giết ả kia
+
+1001
+01:54:17,180 --> 01:54:20,950
+Bắt sống Hunt cho tôi
+
+1002
+01:55:06,710 --> 01:55:08,710
+- Nghe đây
+- Benji đây, tôi phải đi đâu?
+
+1003
+01:55:08,800 --> 01:55:10,540
+- Sắp rồi
+- Chúng ta chưa sẵn sàng
+
+1004
+01:55:10,540 --> 01:55:13,110
+Vậy hãy cố sẵn sàng đi
+
+1005
+01:55:38,370 --> 01:55:40,680
+Lối nào?
+
+1006
+01:59:58,960 --> 02:00:05,410
+Mặt đối mặt, đúng như mày mong muốn, Ethan
+
+1007
+02:00:26,060 --> 02:00:29,930
+Tôi biết, nó đau lắm
+
+1008
+02:00:30,080 --> 02:00:33,900
+Các bạn, đây là Solomon Lane
+
+1009
+02:00:34,000 --> 02:00:37,070
+Ngài Lane
+
+1010
+02:00:37,190 --> 02:00:42,950
+mời ngài gặp IMF
+
+1011
+02:01:58,150 --> 02:02:02,290
+Cô được tự do rồi
+
+1012
+02:02:02,570 --> 02:02:05,700
+Cô định đi đâu?
+
+1013
+02:02:05,800 --> 02:02:09,280
+Tôi không biết nữa
+
+1014
+02:02:09,420 --> 02:02:14,510
+Tôi đã hoàn thành nhiệm vụ
+- Đúng
+
+1015
+02:02:18,500 --> 02:02:21,730
+Ethan, chúng ta phải đi thôi
+
+1016
+02:02:29,820 --> 02:02:34,430
+Anh phải đi nhanh thôi
+
+1017
+02:02:34,520 --> 02:02:37,650
+May mắn nhé
+
+1018
+02:02:50,250 --> 02:02:54,010
+Anh biết nên tìm tôi ở đâu
+
+1019
+02:03:09,540 --> 02:03:12,450
+Giám Đốc Hunley
+
+1020
+02:03:12,940 --> 02:03:16,260
+Giám Đốc Hunley
+- Ah..Chủ Tịch
+
+1021
+02:03:16,370 --> 02:03:20,940
+6 tháng trước, ông đứng trước Ủy ban
+yêu cầu giải thể IMF
+
+1022
+02:03:21,040 --> 02:03:24,750
+- Chính xác
+- Còn yêu cầu hôm nay là sao?
+
+1023
+02:03:24,850 --> 02:03:30,500
+Thật ra rất đơn giản. Chúng tôi có lý do tin rằng
+Syndicate đã thao túng được Chính phủ cấp cao
+
+1024
+02:03:30,560 --> 02:03:35,930
+Để đột nhập sâu vào tổ chức của chúng,
+chúng ta phải chìm thật sâu
+
+1025
+02:03:36,030 --> 02:03:40,520
+Cả một tổ chức quy mô lớn
+đè lên vai tôi và vài thành viên IMF
+
+1026
+02:03:40,680 --> 02:03:45,570
+Việc giải thể IMF cũng là một phần
+của hoạt động
+
+1027
+02:03:45,680 --> 02:03:49,100
+phá hủy Syndicate?
+-Chính xác
+
+1028
+02:03:49,230 --> 02:03:54,570
+Đó cũng là lý do ông tới đây hôm nay,
+yêu cầu khôi phục IMF
+
+1029
+02:03:54,690 --> 02:03:58,540
+Chính xác
+
+1030
+02:03:58,660 --> 02:04:02,260
+Tôi không chắc chắn Ủy Ban
+sẽ chấp thuận yêu cầu của ông
+
+1031
+02:04:02,390 --> 02:04:07,470
+Túng quá hóa liều thôi thưa Chủ tịch
+
+1032
+02:04:07,630 --> 02:04:13,360
+Còn anh, Brandt. Anh đánh giá
+thế nào về yêu cầu này?
+
+1033
+02:04:13,550 --> 02:04:17,250
+Tôi không thể xác nhận hay phản đối
+bất kỳ thông tin nào
+
+1034
+02:04:17,350 --> 02:04:21,200
+mà không có sự chấp thuận của thư ký
+
+1035
+02:04:27,090 --> 02:04:33,730
+Chào mừng đến với IMF, ngài Thư ký
+

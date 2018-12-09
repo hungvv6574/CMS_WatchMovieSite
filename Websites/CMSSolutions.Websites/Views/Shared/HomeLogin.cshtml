@@ -1,0 +1,92 @@
+﻿@using CMSSolutions.Websites.Extensions
+<div id="loginBox" class="reveal-modal medium myModal_login" style="top: 77px; opacity: 1; visibility: visible;">
+    <form id="loginCustomer">
+        <div class="reveal-modal-cont">
+            <h1 style="text-align:left;">Đăng Nhập</h1>
+            <div>
+                <p class="myModalRe-p">Email:</p>
+                <input type="text" class="validate[required, maxSize[50]] text-dropdown ui-autocomplete-input" name="txtEmail" id="txtEmail">
+            </div>
+            <div>
+                <p class="myModalRe-p">Mật Khẩu:</p>
+                <input type="password" class="validate[required, maxSize[50]] text-dropdown ui-autocomplete-input" name="txtPassword" id="txtPassword">
+            </div>
+            <div style="color:#333;width:375px;">
+                <input id="ckbRemember" name="ckbRemember" type="checkbox" value="true">&#32;Ghi nhớ mật khẩu 
+                <a style="float:right;color:#333;" href="javascript:void(0)" onclick="javascript: forgetPassword();">Quên mật khẩu?</a>   
+                <input type="hidden" name="ckbRemember">
+                <a style="float:right;color:#333;" href="javascript:void(0)" onclick="javascript: registerUser();">Đăng ký |</a>
+            </div>
+            <div id="show-error"></div>
+            <div style="text-align:center;">
+                <button id="btnLogin" type="button" style="float:none">Đăng Nhập</button>
+            </div>
+            <br class="clear_both">
+        </div>
+        <a class="close-reveal-modal">×</a>   
+    </form>
+    <div class="_login-social">
+        @using (Html.BeginForm("ExternalLogin", "Home", FormMethod.Post, new { @id = "loginSocial", returnUrl = ViewBag.ReturnUrl }))
+        {
+            var facebook = OAuthWebSecurity.RegisteredClientData.FirstOrDefault(x => x.DisplayName == LoginTypes.Facebook.ToString());
+            var google = OAuthWebSecurity.RegisteredClientData.FirstOrDefault(x => x.DisplayName == LoginTypes.Google.ToString());
+            @Html.AntiForgeryToken()
+            <span>Hoặc đăng nhập bằng: </span>  
+            <button class="btn-facebook" type="submit" id="btnFacebook" name="provider" value="@facebook.AuthenticationClient.ProviderName" width="21" height="21" title="Đăng nhập với @facebook.DisplayName">
+                <img title="Đăng nhập bằng Facebook" alt="Đăng nhập bằng Facebook" src="/Images/themes/f1.png">
+            </button>
+            <button class="btn-google" type="submit" name="provider" id="btnGoogle" value="@google.AuthenticationClient.ProviderName" width="21" height="21" title="Đăng nhập với @google.DisplayName">
+                <img title="Đăng nhập bằng Google" src="/Images/themes/g1.png">
+            </button>
+        }   
+    </div>
+</div>   
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#loginCustomer").validationEngine();
+        $('#btnLogin').click(function () {
+            if (!validate()) {
+                return;
+            }
+            
+            $("#show-error").empty();
+            $("#btnLogin").attr("disabled", "disabled");
+            var data = $("#loginCustomer").find("input").serialize();
+            $.ajax({
+                url: '@Url.Action("CustomerLogin", "Home")',
+                data: data,
+                type: 'POST',
+                dataType: 'json',
+                success: function (result) {
+                    $("#btnLogin").removeAttr('disabled');
+                    $("#btnLogin").show();
+                    if (result.Status != true) {
+                        $("#show-error").html(result.Data);
+                        return;
+                    }
+
+                    window.location = result.Url;
+                },
+                error: function (request, status, error) {
+                    $("#btnLogin").removeAttr('disabled');
+                    $("#show-error").html(request.responseText);
+                }
+            });
+         });
+    });
+    
+    function validate() {
+        return $("#loginCustomer").validationEngine('validate');
+    }
+
+    function registerUser() {
+        $('#over, .reveal-modal').fadeOut(300, function () {});
+        dialogBox('#registerBox');
+    }
+
+    function forgetPassword() {
+        $('#over, .reveal-modal').fadeOut(300, function () {});
+        dialogBox('#forgotPasswordBox');
+    }
+</script>

@@ -1,0 +1,58 @@
+﻿using System.Linq;
+using System.Web.Mvc;
+using CMSSolutions.Caching;
+using CMSSolutions.Web.Mvc;
+using CMSSolutions.Web.Security.Permissions;
+using CMSSolutions.Web.Themes;
+using CMSSolutions.Websites.Models;
+using CMSSolutions.Websites.Payments;
+using CMSSolutions.Websites.Extensions;
+using CMSSolutions.Websites.Services;
+
+namespace CMSSolutions.Websites.Controllers
+{
+    [Themed(IsDashboard = true), Authorize]
+    public class AdminController : BaseAdminController
+    {
+        private readonly ICacheManager cacheManager;
+        private readonly IStaticCacheManager staticCacheManager;
+
+        public AdminController(
+            IWorkContextAccessor workContextAccessor,
+            ICacheManager cacheManager,
+            IStaticCacheManager staticCacheManager)
+            : base(workContextAccessor)
+        {
+            this.cacheManager = cacheManager;
+            this.staticCacheManager = staticCacheManager;
+        }  
+
+        [Url("admin/reset-cache")]
+        public virtual ActionResult ResetCache()
+        {
+            if (cacheManager != null)
+            {
+                cacheManager.Reset();
+            }
+
+            if (staticCacheManager != null)
+            {
+                staticCacheManager.Reset();
+            }
+
+            return RedirectToAction("Index");
+        }
+
+        [Url("admin")]
+        public ActionResult Index()
+        {
+            if (!CheckPermission(StandardPermissions.DashboardAccess, T("Can't access the dashboard panel.")))
+            {
+                return new HttpUnauthorizedResult();
+            }
+
+            ViewBag.Title = T("Dashboard");
+            return View();
+        }
+    }
+}

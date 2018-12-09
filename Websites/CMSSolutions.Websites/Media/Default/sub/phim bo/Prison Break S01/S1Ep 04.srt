@@ -1,0 +1,2497 @@
+﻿2
+00:00:02,821 --> 00:00:03,909
+Michael, anh không giết người
+
+3
+00:00:04,049 --> 00:00:05,329
+Có bằng chứng anh là thủ phạm.
+
+4
+00:00:05,405 --> 00:00:06,542
+Không, anh bị bẫy.
+
+5
+00:00:07,899 --> 00:00:09,944
+Bỏ súng xuống.
+
+6
+00:00:10,036 --> 00:00:12,894
+Ông Scofield, tôi bắt buộc phải bỏ tù ông…
+
+7
+00:00:12,940 --> 00:00:15,110
+Tôi muốn tìm một người tên Lincoln Burrows.
+
+8
+00:00:15,202 --> 00:00:16,674
+Người đã sát hại anh trai của phó tổng thống.
+
+9
+00:00:16,766 --> 00:00:18,381
+Sao mày lại cứ muốn gặp Burrow đến thế?
+
+10
+00:00:18,476 --> 00:00:19,469
+Vì đó là anh trai tôi.
+
+11
+00:00:19,562 --> 00:00:20,556
+Em sẽ đưa anh ra khỏi đây.
+
+12
+00:00:20,930 --> 00:00:21,732
+Không thể.
+
+13
+00:00:21,871 --> 00:00:23,343
+Nếu anh là người thiết kế ra nó thì ko có gì là ko thể.
+
+14
+00:00:23,997 --> 00:00:25,039
+Em đã có tấm bản đồ à.
+
+15
+00:00:25,272 --> 00:00:26,600
+Còn hơn thế.
+
+16
+00:00:26,695 --> 00:00:27,830
+Nó nằm ngay trên người em.
+
+17
+00:00:28,344 --> 00:00:29,863
+Cố nên cố tìm ra kẻ nào muốn hủy hoại anh ấy.
+
+18
+00:00:29,956 --> 00:00:31,332
+Chẳng ai cố hủy hoại anh ấy cả.
+
+19
+00:00:31,426 --> 00:00:32,610
+Bằng chứng đã bị làm giả.
+
+20
+00:00:32,704 --> 00:00:33,983
+Có một luật sư định phá đám.
+
+21
+00:00:34,076 --> 00:00:36,313
+Bất kể ai có thể gây nguy hiểm cho vụ này đều có thể bị trừ khử.
+
+22
+00:00:36,407 --> 00:00:37,400
+Scofield!
+
+23
+00:00:37,493 --> 00:00:39,873
+Tìm được cho mày một bạn mới rồi nhé, Haywire, vào đây.
+
+24
+00:00:39,919 --> 00:00:41,438
+Đã có kẻ tìm thấy Fibonacci.
+
+25
+00:00:41,531 --> 00:00:42,620
+Đó là đứa nào?
+
+26
+00:00:42,715 --> 00:00:44,424
+Giờ thì Fibonacci ở đâu?
+
+27
+00:00:44,516 --> 00:00:46,992
+Nếu tôi nói với ông, tôi sẽ chết.
+
+28
+00:00:47,085 --> 00:00:47,697
+Three.
+
+29
+00:01:09,834 --> 00:01:10,879
+Đứng lên!
+
+30
+00:01:12,608 --> 00:01:13,601
+Mấy giờ rồi?
+
+31
+00:01:15,005 --> 00:01:15,664
+Đứng lên!
+
+32
+00:01:16,271 --> 00:01:17,599
+Cái gì đang diễn ra thế?
+
+33
+00:01:19,142 --> 00:01:19,897
+Bellick!
+
+34
+00:01:21,020 --> 00:01:21,871
+Bellick!
+
+35
+00:01:22,009 --> 00:01:23,625
+Bellick! Không!
+
+36
+00:01:28,718 --> 00:01:30,641
+Bellick! Các người đang đưa tôi đi đâu?!
+
+37
+00:01:30,733 --> 00:01:32,157
+Bellick! Bellick! Không!
+
+38
+00:01:33,280 --> 00:01:35,039
+Không! Bellick, đừng!
+
+39
+00:01:35,131 --> 00:01:36,891
+Bellick, không! tôi còn một tháng nữa cơ mà!
+
+40
+00:01:36,983 --> 00:01:38,789
+Please! Không! Bellick!
+
+41
+00:01:39,846 --> 00:01:41,173
+Bellick, không!
+
+42
+00:01:41,267 --> 00:01:42,403
+Bellick, làm ơn!
+
+43
+00:01:42,544 --> 00:01:45,019
+Không! Không! tôi còn một tháng nữa!
+
+44
+00:01:45,110 --> 00:01:45,991
+Làm ơn!
+
+45
+00:01:47,440 --> 00:01:48,769
+Không! Bellick!
+
+46
+00:02:21,606 --> 00:02:23,874
+Ra đi thanh thản, Lincoln.
+
+47
+00:02:31,388 --> 00:02:32,999
+Tiến hành đi.
+
+48
+00:03:20,024 --> 00:03:22,104
+Mở cửa phòng 40!
+
+49
+00:03:31,230 --> 00:03:32,416
+Đóng cửa phòng 40.
+
+50
+00:03:44,817 --> 00:03:47,101
+Haywire. Đã bao giờ anh nghĩ đến chuyện thoát khỏi đây chưa?
+
+51
+00:03:48,365 --> 00:03:50,504
+Ở ngoài kia để làm gì?
+
+52
+00:03:51,066 --> 00:03:52,442
+Chỉ là ko ở đây thôi.
+
+53
+00:03:52,861 --> 00:03:54,289
+Nhà ko ra nhà,
+
+54
+00:03:54,378 --> 00:03:57,570
+Phải đi thăm khám và uống thuốc đều đều,
+
+55
+00:03:57,849 --> 00:04:01,424
+Rồi thử nước tiểu nữa chứ...
+
+56
+00:04:01,565 --> 00:04:02,414
+Không.
+
+57
+00:04:03,441 --> 00:04:04,769
+Mà sao anh lại hỏi?
+
+58
+00:04:05,336 --> 00:04:08,766
+Ở ngoài kia có kẻ nói đến chuyện đó mà tôi ko biết phải trả lời nó cách nào.
+
+59
+00:04:08,947 --> 00:04:10,849
+Cứ nói với sỹ quan Bellick.
+
+60
+00:04:11,129 --> 00:04:14,417
+Ông ta sẽ làm cho anh có cuộc sống tốt hơn nếu uhm...
+
+61
+00:04:19,286 --> 00:04:20,609
+Nếu gì?
+
+62
+00:04:21,498 --> 00:04:22,636
+Hình xăm của anh.
+
+63
+00:04:23,430 --> 00:04:24,853
+Hình xăm thì sao?
+
+64
+00:04:26,630 --> 00:04:28,390
+Nó diễn tả cái gì?
+
+65
+00:04:28,622 --> 00:04:30,333
+Hình như nó có một ý nghĩa gì đó khác thường...
+
+66
+00:04:30,409 --> 00:04:31,880
+Chỉ là những hình xăm thôi.
+
+67
+00:04:31,975 --> 00:04:33,683
+Giờ ăn kẹo, Haywire.
+
+68
+00:04:39,111 --> 00:04:42,732
+Bọn họ nghĩ tôi bị chứng bệnh liên quan tới sự rối loạn thần kinh trung ương.
+
+69
+00:04:42,830 --> 00:04:44,249
+Bộ mày ko thấy mày bị thế thật à?
+
+70
+00:04:45,932 --> 00:04:47,409
+Gì cũng được.
+
+71
+00:04:52,692 --> 00:04:53,639
+Ah!
+
+72
+00:04:54,339 --> 00:04:56,623
+Tôi phải uống mấy viên thuốc này để có thể đuổi mấy thằng lang băm đó đi khuất mắt.
+
+73
+00:05:02,472 --> 00:05:03,304
+Chào, bây giờ.
+
+74
+00:05:04,003 --> 00:05:05,186
+Tránh ra.
+
+75
+00:05:14,124 --> 00:05:16,313
+Anh biết ko có lẽ họ muốn anh uống thuốc này vì một lý do nào đó.
+
+76
+00:05:17,182 --> 00:05:18,034
+Yeah.
+
+77
+00:05:18,499 --> 00:05:19,971
+Để cho tôi trở nên đần độn.
+
+78
+00:05:20,485 --> 00:05:23,390
+Và để giam giữ tôi trong cái còng số tám vô hình.
+
+79
+00:05:24,231 --> 00:05:27,022
+Mà này, nghiêm túc nhé, hình xăm của anh đẹp lắm.
+
+80
+00:05:27,255 --> 00:05:30,357
+Anh có phiền ko nếu tôi nhìn vào nó một cách tổng thể?
+
+81
+00:05:30,445 --> 00:05:32,442
+Phiền chứ, thật đấy.
+
+82
+00:05:33,430 --> 00:05:34,610
+Sao vậy?
+
+83
+00:05:34,749 --> 00:05:36,698
+Yo! Ra ngoài!
+
+84
+00:05:36,979 --> 00:05:38,738
+Có cần phải có lý do ko?
+
+85
+00:05:46,881 --> 00:05:47,874
+Sucre!
+
+86
+00:05:48,668 --> 00:05:50,045
+Tôi sẽ ko nói chuyện với anh.
+
+87
+00:06:29,977 --> 00:06:31,060
+Có vấn đề gì thế?
+
+88
+00:06:32,369 --> 00:06:33,632
+Chẳng có gì là tôi ko thể xử lý được.
+
+89
+00:06:34,012 --> 00:06:35,620
+Thôi đi, tao biết là có chuyện khó xử mà.
+
+90
+00:06:35,712 --> 00:06:38,666
+Tao chỉ cần nhìn bộ dạng mày là đã thấy được điều đó.
+
+91
+00:06:39,366 --> 00:06:42,367
+Này, bọn mày, có phải là tao đã nói là “có vấn đề” ko?
+
+92
+00:06:42,834 --> 00:06:44,401
+Nào, vấn đề là gì?
+
+93
+00:06:45,337 --> 00:06:46,663
+Ông đang nhìn thẳng vào nó đấy.
+
+94
+00:06:48,441 --> 00:06:49,529
+Cái gì? Haywire?
+
+95
+00:06:49,624 --> 00:06:51,724
+Yep. Nó ở cùng phòng giam với tôi.
+
+96
+00:06:53,541 --> 00:06:54,582
+Thế thì có vấn đề gì chứ.
+
+97
+00:06:54,675 --> 00:06:55,715
+Nó ko chịu ngủ.
+
+98
+00:06:55,813 --> 00:06:57,042
+Thế thì mày đào bới vào lúc nào?
+
+99
+00:06:57,227 --> 00:06:58,461
+Tôi đâu dám làm.
+
+100
+00:06:59,161 --> 00:07:02,285
+Này, tao với mày giờ đã chung một con thuyền.
+
+101
+00:07:02,519 --> 00:07:03,559
+Mày đã bắt tao cam kết và.
+
+102
+00:07:03,653 --> 00:07:06,511
+Mày đã nói là chúng ta sẽ ra khỏi đây.
+
+103
+00:07:06,604 --> 00:07:09,510
+Nếu mày ko thực hiện, tao sẽ móc ruột mày ra.
+
+104
+00:07:10,164 --> 00:07:12,359
+Tốt hơn là mày phải lo công việc của mày đi,
+
+105
+00:07:12,725 --> 00:07:14,724
+Nếu ko muốn tao “lo” cho mày.
+
+106
+00:07:15,565 --> 00:07:17,236
+Chúc 1 ngày tốt lành.
+
+107
+00:08:03,301 --> 00:08:04,915
+Có vẻ như đã sắp hoàn thành?
+
+108
+00:08:06,225 --> 00:08:07,266
+Yep.
+
+109
+00:08:07,489 --> 00:08:09,049
+Cậu có nghĩ là nó sẽ xong kịp lúc ko?
+
+110
+00:08:09,141 --> 00:08:12,286
+Tôi thấy rằng vẫn còn một số vấn đề nội thất cần phải hoàn chỉnh
+
+111
+00:08:12,379 --> 00:08:15,045
+Rồi còn vài cái trụ nữa, cũng ko phải là dễ dàng gì
+
+112
+00:08:15,143 --> 00:08:18,427
+Nhưng sẽ xong đúng thời hạn, tôi nghĩ vậy.
+
+113
+00:08:19,876 --> 00:08:21,682
+Nghe này, tôi phải nói là ...
+
+114
+00:08:21,775 --> 00:08:25,158
+Tôi thực sự trân trọng công sức mà cậu đã bỏ vào đây.
+
+115
+00:08:26,561 --> 00:08:31,618
+Tôi ước gì có cách nào đó để tôi đền đáp cho cậu, một điều gì đó.
+
+116
+00:08:31,757 --> 00:08:33,994
+Có một việc ông có thể làm cho tôi.
+
+117
+00:08:35,771 --> 00:08:37,338
+Phạm nhân ở cùng phòng.
+
+118
+00:08:37,554 --> 00:08:40,076
+À, anh chàng dở người Charles Patoshick.
+
+119
+00:08:40,161 --> 00:08:41,048
+Haywire?
+
+120
+00:08:41,142 --> 00:08:42,422
+Ông hiểu thì tốt quá.
+
+121
+00:08:42,841 --> 00:08:43,884
+Có vấn đề ở chỗ này.
+
+122
+00:08:44,209 --> 00:08:46,684
+Sỹ quan Bellick có trách nhiệm trong việc chuyển phòng cho các phạm nhân.
+
+123
+00:08:47,198 --> 00:08:49,148
+Nếu có vấn đề, cậu hãy thử nói chuyện với anh ta.
+
+124
+00:08:49,240 --> 00:08:52,194
+Tôi đã thử, nhưng ông ấy cho rằng chúng tôi là một cặp hợp lý.
+
+125
+00:08:52,568 --> 00:08:53,614
+Anh ta có đe dọa cậu ko?
+
+126
+00:08:53,702 --> 00:08:56,083
+Ông muốn nói tới ai, Haywire or Bellick?
+
+127
+00:08:56,266 --> 00:08:56,973
+Hmm.
+
+128
+00:08:57,492 --> 00:09:00,966
+Rất tiếc! Nếu ko có bằng chứng về bạo lực
+
+129
+00:09:01,064 --> 00:09:04,456
+Hoặc xâm phạm tình dục giữa các phậm nhân cùng phòng,
+
+130
+00:09:04,582 --> 00:09:08,252
+Thì những thỉnh cầu như vậy chỉ rơi vào những cặp tai điếc mà thôi.
+
+131
+00:09:08,813 --> 00:09:12,962
+Hệ thống quản lý trại giam quá bận rộn để quan tâm tới những yêu cầu dựa trên cá tính.
+
+132
+00:09:13,756 --> 00:09:16,135
+Nó ko đơn giản như những đôi dép ngoài kia.
+
+133
+00:09:19,927 --> 00:09:20,824
+Warden?
+
+134
+00:09:21,010 --> 00:09:22,863
+Xin lỗi. Vợ ông đến.
+
+135
+00:09:23,424 --> 00:09:24,165
+Cái gì?
+
+136
+00:09:24,813 --> 00:09:26,859
+Bà ấy đáng ra đâu có đến đây trước 4h chiều.
+
+137
+00:09:28,167 --> 00:09:31,312
+Becky, nhất định ko được để bà ấy vào phòng này.
+
+138
+00:09:31,411 --> 00:09:33,738
+Tôi ko muốn bà ấy nhìn thấy cái này trước lễ kỷ niệm của chúng tôi.
+
+139
+00:09:33,834 --> 00:09:34,873
+Tôi sẽ ra ngoài ngay.
+
+140
+00:09:42,458 --> 00:09:43,637
+Chào, em yêu.
+
+141
+00:09:44,104 --> 00:09:45,193
+Em đến sớm thế.
+
+142
+00:09:45,519 --> 00:09:47,995
+Uh... chúng ta đi ăn nhé.
+
+143
+00:09:48,088 --> 00:09:49,703
+Anh làm gì mà buồn cười thế.
+
+144
+00:09:49,951 --> 00:09:50,596
+Anh sao cơ?
+
+145
+00:09:50,717 --> 00:09:52,189
+Có chuyện gì trong đó vậy?
+
+146
+00:09:52,281 --> 00:09:54,565
+Um... chỉ là một vài chuyện công việc thôi.
+
+147
+00:09:55,313 --> 00:09:57,071
+Becky nói là anh đang họp à.
+
+148
+00:09:58,055 --> 00:10:01,345
+Không phải là vì Toledo nữa đấy chứ?
+
+149
+00:10:01,949 --> 00:10:03,276
+Toledo?
+
+150
+00:10:03,555 --> 00:10:05,028
+Sao em lại nói thế chứ?
+
+151
+00:10:05,587 --> 00:10:07,155
+Thế thì chắc anh ko phiền nếu em ngó qua.
+
+152
+00:10:07,258 --> 00:10:08,194
+Judy...
+
+153
+00:10:10,157 --> 00:10:13,015
+Warden, tôi ko thể hợp tác được nữa.
+
+154
+00:10:13,062 --> 00:10:14,629
+Tôi có thể bị giết mất.
+
+155
+00:10:15,939 --> 00:10:17,937
+Johnson vẫn đang cân nhắc.
+
+156
+00:10:19,292 --> 00:10:20,716
+Thế thì ko còn việc gì nữa.
+
+157
+00:10:24,552 --> 00:10:26,598
+Chuyện có thế thì đáng ra anh cứ nói với em cho xong.
+
+158
+00:10:26,737 --> 00:10:29,786
+Em biết anh lo lắng thế nào mỗi khi em ở gần đám phạm nhân mà.
+
+159
+00:10:30,114 --> 00:10:32,827
+Becky, kiếm một lính đưa Johnson về phòng.
+
+160
+00:10:32,920 --> 00:10:35,697
+Tôi sẽ xử lý vụ này sau. Nào đi ăn thôi.
+
+161
+00:10:52,114 --> 00:10:53,342
+Em làm gì ở đây thế?
+
+162
+00:10:53,495 --> 00:10:54,476
+Em là luật sư cho anh.
+
+163
+00:10:56,253 --> 00:10:58,442
+Bây giờ em sẽ là người biện hộ cho anh.
+
+164
+00:10:58,721 --> 00:10:59,380
+Hmm.
+
+165
+00:11:00,550 --> 00:11:02,594
+Nếu như anh ko thấy phiền.
+
+166
+00:11:04,934 --> 00:11:07,364
+Lần trước gặp nhau, em còn gọi anh là kẻ nói dối.
+
+167
+00:11:07,593 --> 00:11:09,212
+Điều đó đã thay đổi.
+
+168
+00:11:09,816 --> 00:11:11,095
+Bây giờ em tin anh.
+
+169
+00:11:24,561 --> 00:11:29,162
+Em đã gặp Leticia, bạn gái cũ của Crab Simmons.
+
+170
+00:11:29,724 --> 00:11:32,007
+Cô ấy đã làm rõ hơn câu chuyện của anh.
+
+171
+00:11:33,566 --> 00:11:35,224
+Liệu cô ta có ra làm chứng?
+
+172
+00:11:35,306 --> 00:11:36,836
+Cô ta đã mất tích.
+
+173
+00:11:37,666 --> 00:11:40,222
+Em ko biết nữa, em nghĩ Secret Service đã có được cô ta.
+
+174
+00:11:40,311 --> 00:11:41,401
+Secret Service?
+
+175
+00:11:41,541 --> 00:11:43,001
+Bọn chúng cứ dò la suốt.
+
+176
+00:11:43,085 --> 00:11:45,848
+Ngay khi chúng vừa xuất hiện, cô ta đã biến mất, 
+anh có cho rằng có chuyện gì xẩy ra ko?
+
+177
+00:11:45,946 --> 00:11:50,291
+Um... em biết không, 
+anh ko nghĩ chuyện này nó lại trở nên trầm trọng đến thế.
+
+178
+00:11:52,294 --> 00:11:54,149
+Em có biết chúng ta đang phải chống lại ai ko?
+
+179
+00:11:54,239 --> 00:11:58,100
+Em chỉ biết là bất cứ ai trong hai ta cũng ko thể một mình chống lại chúng.
+
+180
+00:11:58,381 --> 00:11:59,818
+Project Justice.
+
+181
+00:12:00,504 --> 00:12:01,894
+Sao em lại chưa nghe tới họ bao giờ nhỉ?
+
+182
+00:12:02,004 --> 00:12:03,762
+Tất cả những gì họ làm là các án tử hình.
+
+183
+00:12:03,808 --> 00:12:06,360
+ở đó có một người tên Ben Forsik, Anh đã gửi tới ông ta tất cả những gì anh có.
+
+184
+00:12:06,460 --> 00:12:08,354
+Em cứ thử đến đó và nói thêm về những điều em vừa tìm được.
+
+185
+00:12:08,492 --> 00:12:11,255
+Hi vọng là ông ta chịu giúp.
+
+186
+00:12:11,396 --> 00:12:12,436
+Được rồi.
+
+187
+00:12:15,949 --> 00:12:18,594
+Vậy, uh... Sebastian dạo này thế nào?
+
+188
+00:12:20,478 --> 00:12:22,555
+Anh muốn hỏi à?
+
+189
+00:12:22,788 --> 00:12:26,794
+Em đang ở đây. Anh muốn hỏi... liệu anh ấy có bằng lòng với chuyện này?
+
+190
+00:12:28,719 --> 00:12:31,287
+Em cũng chưa nói chuyện với anh ấy nữa.
+
+191
+00:12:32,639 --> 00:12:34,143
+Vụ, um...
+
+192
+00:12:34,935 --> 00:12:36,836
+Vụ đính hôn đã bị hủy.
+
+193
+00:12:37,584 --> 00:12:40,107
+Oh. Anh xin lỗi.
+
+194
+00:12:41,573 --> 00:12:44,462
+Ít nhất thì anh cũng nên tỏ ra đúng với những gì anh nói chứ.
+
+195
+00:12:45,023 --> 00:12:45,683
+Anh quan tâm thật mà.
+
+196
+00:12:48,115 --> 00:12:51,404
+Chúa ơi, anh luôn là kẻ nói dối kém cỏi.
+
+197
+00:12:52,058 --> 00:12:52,829
+Hmm.
+
+198
+00:12:53,513 --> 00:12:54,267
+Yeah.
+
+199
+00:12:57,373 --> 00:13:00,457
+Thôi, em đi đến trụ sở Project Justice đây.
+
+200
+00:13:09,255 --> 00:13:10,024
+Veronica?
+
+201
+00:13:14,452 --> 00:13:15,396
+Cám ơn em.
+
+202
+00:13:16,706 --> 00:13:18,416
+Anh chẳng còn lại mấy người thân.
+
+203
+00:13:18,556 --> 00:13:20,888
+Anh có thể cám ơn em sau khi em đưa anh ra khỏi đây.
+
+204
+00:13:38,582 --> 00:13:40,112
+Em yêu, anh đây mà. Em có đó ko?
+
+205
+00:13:41,549 --> 00:13:43,157
+Hello? Em có đó ko?
+
+206
+00:13:43,240 --> 00:13:46,625
+Hey, Nếu cô ta có ở đó thì rõ ràng cô ta ko muốn nói chuyện với mày.
+
+207
+00:13:49,724 --> 00:13:51,183
+Em yêu, hôm nay là thứ Tư.
+
+208
+00:13:51,275 --> 00:13:52,706
+Em sẽ đến thăm anh đúng ko?
+
+209
+00:13:54,056 --> 00:13:55,575
+Được rồi, giờ thì anh phải gác máy.
+
+210
+00:13:55,693 --> 00:13:57,293
+Anh phải quay lại khu phòng giam, nhưng
+
+211
+00:13:57,609 --> 00:13:59,464
+Em sẽ đến đây hôm nay chứ?
+
+212
+00:14:00,695 --> 00:14:02,724
+Anh là của em, em yêu, anh yêu em.
+
+213
+00:14:03,523 --> 00:14:04,856
+Anh yêu em.
+
+214
+00:14:20,326 --> 00:14:21,714
+Nó là một sơ đồ.
+
+215
+00:14:23,352 --> 00:14:24,537
+Mày nói gì?
+
+216
+00:14:24,631 --> 00:14:26,488
+Hình xăm của anh—nó là một sơ đồ.
+
+217
+00:14:27,046 --> 00:14:28,518
+Mày nhìn thấy hơi nhiều rồi đó.
+
+218
+00:14:36,801 --> 00:14:39,325
+Để cậu ta chung phòng với Haywire ko phải là ý hay đâu.
+
+219
+00:14:39,418 --> 00:14:42,227
+Sao cơ? Haywire đã được các bác sỹ tâm thần xác nhận cho phép trở lại trại mà.
+
+220
+00:14:42,341 --> 00:14:45,477
+Bên cạnh đó, hắn đang phụ thuộc vào các loại thuốc của chúng ta.
+Giờ hắn chỉ như một con mèo con
+
+221
+00:14:45,699 --> 00:14:47,506
+Một con mèo dám giết cả bố mẹ mình hả.
+
+222
+00:14:47,644 --> 00:14:48,906
+Vâng, với tất cả sự tôn trọng, thưa ngài.
+
+223
+00:14:49,000 --> 00:14:53,340
+Nếu ngài dành một đặc quyền nào đó cho Scofield, thì điều đó sẽ phá hủy toàn bộ uy tín của ngài.
+
+224
+00:14:54,041 --> 00:14:57,425
+Tôi biết ngài ưa hắn vì hắn là một kẻ có đầu óc,
+
+225
+00:14:57,526 --> 00:14:59,898
+Và hắn đang giúp ngài hoàn thành mô hình này,
+
+226
+00:14:59,992 --> 00:15:01,893
+Nhưng hắn là một tội phạm bạo lực nghiêm trọng.
+
+227
+00:15:02,033 --> 00:15:04,604
+Hắn đáng phải nhận các hình phạt ko khác gì các phạm nhân khác.
+
+228
+00:15:04,698 --> 00:15:06,170
+Anh đã ở đây đủ lâu để 
+
+229
+00:15:06,215 --> 00:15:09,176
+có thể hiểu là tôi ko quá chú trọng tới hình phạt mà là tới sự cải tạo.
+
+230
+00:15:09,215 --> 00:15:12,791
+Và theo tôi thấy thì việc để cho cậu ta ở chung phòng với Haywire ko phải là biện pháp cải tạo.
+
+231
+00:15:13,070 --> 00:15:15,696
+Sếp đã trao quyền quản lý khu trại giam cho tôi.
+
+232
+00:15:15,736 --> 00:15:16,634
+Tôi biết chứ.
+
+233
+00:15:16,679 --> 00:15:19,298
+Vậy thì, hoặc là sếp cứ để mặc tôi xử lý, hoặc sếp chuyển công việc đó cho người khác.
+
+234
+00:15:19,402 --> 00:15:21,734
+Brian, bình tĩnh nào.
+
+235
+00:15:21,816 --> 00:15:25,200
+Phải có lý do thì tôi mới ngày càng giao cho anh nhiều trách nhiệm hơn.
+
+236
+00:15:27,352 --> 00:15:32,506
+Khi về nghỉ hưu, tôi sẽ đề bạt anh thay vào vị trí của tôi.
+
+237
+00:15:32,597 --> 00:15:34,643
+Đừng làm tôi hối tiếc vì quyết định đó.
+
+238
+00:15:35,391 --> 00:15:38,507
+Tất cả những gì tôi muốn nói là anh hãy thử có cái nhìn khác trong trường hợp Scofield.
+
+239
+00:15:38,582 --> 00:15:40,359
+Tôi tin vào các quyết định của anh.
+
+240
+00:15:41,604 --> 00:15:43,036
+Vâng thưa ngài.
+
+241
+00:15:55,383 --> 00:15:56,905
+Whoa, whoa, chờ đã, chờ đã, Từ từ đã nào.
+
+242
+00:15:56,996 --> 00:15:59,090
+Đây là một cuộc gặp mở cơ mà, sao tôi lại ko được ra ngoài đó?
+
+243
+00:15:59,195 --> 00:16:00,577
+Hãy hỏi khách viếng thăm ấy.
+
+244
+00:16:07,345 --> 00:16:09,318
+Anh làm gì ở đây? Maricruz đâu?
+
+245
+00:16:09,622 --> 00:16:12,194
+Cô ấy sẽ ko đến đây nữa.
+
+246
+00:16:12,286 --> 00:16:13,231
+Cô ấy ốm?
+
+247
+00:16:13,372 --> 00:16:16,115
+Không, không, cô ấy khỏe, chỉ là...
+
+248
+00:16:19,922 --> 00:16:21,713
+Cô ấy giờ là bạn gái tôi.
+
+249
+00:16:22,197 --> 00:16:23,651
+Bạn gái anh?
+
+250
+00:16:24,214 --> 00:16:25,347
+Anh đùa tôi đấy chứ?
+
+251
+00:16:25,487 --> 00:16:27,006
+Không, cô ấy đã quyết định, người anh em ạ.
+
+252
+00:16:27,053 --> 00:16:29,147
+Cô ấy đã quyết định là cô ấy cần một sự ổn định.
+
+253
+00:16:29,239 --> 00:16:30,253
+Liệu mày có thể đem điều đó đến cho cô ấy?
+
+254
+00:16:30,330 --> 00:16:33,948
+Nào nào, anh nghĩ về tôi thế nào cũng được nhưng...
+
+255
+00:16:35,352 --> 00:16:37,492
+Tôi ko phải là người đang bị nhốt trong tù.
+
+256
+00:16:37,586 --> 00:16:38,389
+Nhìn này,
+
+257
+00:16:39,606 --> 00:16:42,463
+Tôi thực sự có khả năng làm điều gì đó cho cô ấy.
+
+258
+00:16:43,071 --> 00:16:45,881
+Và cô ấy muốn tôi đến đây nói với anh trước, phòng khi anh có thể nổi điên...
+
+259
+00:16:55,021 --> 00:16:58,058
+Anh vừa chứng minh nhận định của tôi.
+
+260
+00:16:59,133 --> 00:17:04,243
+- Mày là một thằng khốn 
+- Anh thì sẽ chỉ mãi như thế mà thôi.
+
+261
+00:17:23,099 --> 00:17:24,838
+Nhanh lên.
+
+262
+00:17:54,132 --> 00:17:56,513
+Vâng, cậu ta vừa vào đây.
+
+263
+00:17:56,605 --> 00:17:57,851
+Đi dạo đi, Choppy.
+
+264
+00:18:03,692 --> 00:18:04,683
+Scofield.
+
+265
+00:18:06,882 --> 00:18:08,641
+Mày đang trong khu cấm đấy nhé.
+
+266
+00:18:08,873 --> 00:18:12,113
+Tôi đang tham gia làm vuờn và chúng tôi cần chút phân bón.
+
+267
+00:18:12,255 --> 00:18:14,347
+Thế mà mày lại ở trong này à?
+
+268
+00:18:25,774 --> 00:18:28,440
+Oh, mà cái chân mày thế nào rồi?
+
+269
+00:18:37,091 --> 00:18:40,046
+Đừng có dùng sếp lớn để mà dọa tao nữa nghe chưa.
+
+270
+00:18:43,695 --> 00:18:44,928
+Nào, biến đi.
+
+271
+00:19:02,400 --> 00:19:04,015
+Mày biết gì ko, Haywire?
+
+272
+00:19:05,113 --> 00:19:06,609
+Tao ko nghĩ là tao và mày có thể sống cùng nhau.
+
+273
+00:19:09,228 --> 00:19:12,565
+Và vì tao là người đến trước, nên tao nghĩ là mày nên kiếm chỗ khác.
+
+274
+00:19:14,964 --> 00:19:17,332
+Tôi đã tự lấy mình ra làm trò cười một lần hồi còn học trung học.
+
+275
+00:19:19,256 --> 00:19:20,325
+Một hôm.
+
+276
+00:19:20,414 --> 00:19:22,412
+Khi chúng tôi… chúng tôi đang chơi cầu lông,
+
+277
+00:19:23,018 --> 00:19:26,165
+Và tôi biết là tôi sẽ phải bước qua một đám đông để,
+
+278
+00:19:26,258 --> 00:19:28,447
+Anh biết đó, để trở lại phòng thay đồ.
+
+279
+00:19:29,055 --> 00:19:30,431
+Thế là ...
+
+280
+00:19:31,227 --> 00:19:33,369
+Tôi bắt đầu bước đi.
+
+281
+00:19:33,482 --> 00:19:37,370
+Tôi muốn làm một trò vui chưa có ai từng làm.
+
+282
+00:19:38,071 --> 00:19:40,404
+Thế là tôi cứ quay vòng vòng quanh mình...
+
+283
+00:19:40,591 --> 00:19:42,732
+Và gào lên “nhìn này, tôi có đuôi”
+
+284
+00:19:50,287 --> 00:19:52,408
+Tôi vừa mới chia sẻ một bí mật của tôi.
+
+285
+00:19:52,896 --> 00:19:54,126
+Giờ thì đến lượt anh.
+
+286
+00:19:54,435 --> 00:19:56,145
+Mày muốn biết hình xăm của tao có nghĩa gì ko?
+
+287
+00:19:56,238 --> 00:19:57,662
+- Có chứ.
+- Chẳng có nghĩa gì hết.
+
+288
+00:20:02,828 --> 00:20:03,756
+Hey, nhóc.
+
+289
+00:20:05,815 --> 00:20:07,717
+Tiến triển gì chưa?
+
+290
+00:20:08,978 --> 00:20:12,498
+Ông muốn nói đến “người đẹp ngủ trong rừng” kia hay chuyện đào bới?
+
+291
+00:20:12,533 --> 00:20:13,494
+Cả hai.
+
+292
+00:20:13,664 --> 00:20:14,754
+Chẳng có gì cả.
+
+293
+00:20:15,738 --> 00:20:17,477
+Nhưng tôi biết phải làm gì.
+
+294
+00:20:17,757 --> 00:20:19,085
+Thật ah?
+
+295
+00:20:19,645 --> 00:20:25,398
+Vấn đề là mày có dám làm ko.
+
+296
+00:20:30,193 --> 00:20:31,633
+Abruzzi, đi thôi.
+
+297
+00:20:33,604 --> 00:20:34,576
+Hẹn gặp lại.
+
+298
+00:20:46,152 --> 00:20:47,035
+Ồ?
+
+299
+00:20:47,128 --> 00:20:47,901
+Thật ko?
+
+300
+00:20:47,995 --> 00:20:49,672
+Vâng, nói với thằng chó đó là tôi đã nói chào.
+
+301
+00:20:49,692 --> 00:20:50,306
+Buông máy đi.
+
+302
+00:20:50,368 --> 00:20:52,224
+Còn Aunt Ruth thì sao?
+Cô ấy nghỉ việc ở bệnh viện chưa?
+
+303
+00:20:52,301 --> 00:20:54,106
+- Buông máy ngay.
+- Chờ tí, Ma.
+
+304
+00:20:54,667 --> 00:20:55,660
+Ngon thì chơi đi!
+
+305
+00:20:57,906 --> 00:21:00,334
+Được rồi, Có chuyện rồi đó.
+
+306
+00:21:00,429 --> 00:21:02,111
+Dám chơi ko.
+
+307
+00:21:04,009 --> 00:21:05,554
+Đúng như tao đã nghĩ.
+
+308
+00:21:06,030 --> 00:21:06,175
+   
+
+309
+00:21:13,066 --> 00:21:13,947
+Hello?
+
+310
+00:21:14,035 --> 00:21:17,401
+Maricruz, anh đây, có chuyện quái gì đang xảy ra thế?
+
+311
+00:21:17,492 --> 00:21:18,792
+Em và Hector là thế nào?
+
+312
+00:21:18,912 --> 00:21:20,241
+Thế bao giờ anh mới định nói với em?
+
+313
+00:21:20,362 --> 00:21:21,067
+Nói chuyện gì cơ?
+
+314
+00:21:21,114 --> 00:21:23,209
+Chuyện ả Rita Saldana vẫn tới thăm anh chứ còn chuyện gì nữa?
+
+315
+00:21:23,581 --> 00:21:25,760
+- Cái gì?!
+- Vâng. Hector đã kể cho em nghe rồi.
+
+316
+00:21:25,938 --> 00:21:27,888
+Hector kể. Hector kể.
+
+317
+00:21:27,981 --> 00:21:30,409
+Rõ ràng là nó kể chứ còn ai nữa, em yêu, gã đó là một con rắn, hắn đã nói dối em.
+
+318
+00:21:30,622 --> 00:21:32,044
+Chẳng có lý do gì đẻ anh ấy nói dối cả?
+
+319
+00:21:32,120 --> 00:21:34,173
+Vậy, lý do à? Tại vì hắn từ lâu đã muốn chui vào trong quần của em
+
+320
+00:21:34,254 --> 00:21:36,912
+Ngay từ ngày đầu tiên chúng ta hẹn hò với nhau, lý do đó.
+
+321
+00:21:37,426 --> 00:21:38,372
+Anh biết gì ko?
+
+322
+00:21:39,354 --> 00:21:40,872
+Em chẳng biết tin vào cái gì nữa.
+
+323
+00:21:41,078 --> 00:21:42,915
+Anh này, em, em hãy tin anh.
+
+324
+00:21:43,214 --> 00:21:44,809
+Vâng, em đã đợi điện thoại của anh suốt.
+
+325
+00:21:46,072 --> 00:21:47,766
+Em yêu, chuyện này sao lại thế được nhỉ?
+
+326
+00:21:48,576 --> 00:21:49,889
+Em ko biết.
+
+327
+00:21:52,648 --> 00:21:54,692
+Nhưng có quá nhiều thứ đã diễn ra.
+
+328
+00:21:56,751 --> 00:21:59,179
+Hôm qua em đã tới nhà Teresa,
+
+329
+00:21:59,907 --> 00:22:01,427
+Và đã nhìn thấy đứa bé của cô ấy.
+
+330
+00:22:02,416 --> 00:22:05,288
+Có phải đó là điều em nghĩ? Em nghĩ rằng em đã ko còn trẻ?
+
+331
+00:22:05,454 --> 00:22:07,998
+Vâng, chỉ vài năm nữa là em sẽ 30 tuổi!
+
+332
+00:22:08,352 --> 00:22:09,658
+Em yêu, em mới có 25.
+
+333
+00:22:09,975 --> 00:22:12,120
+Mà nếu em muốn có bầu? chúng ta có thể có bầu ngay bây giờ cũng được.
+
+334
+00:22:12,192 --> 00:22:14,017
+Em yêu, anh biết là em ko thể có bầu trước khi cưới mà.
+
+335
+00:22:14,093 --> 00:22:16,095
+Chúng ta sẽ cưới...
+
+336
+00:22:16,213 --> 00:22:17,789
+Sau 16 tháng nữa.
+
+337
+00:22:21,479 --> 00:22:24,528
+Vâng, Hector nói rằng nếu mọi chuyện ko thuận lợi,
+
+338
+00:22:25,837 --> 00:22:28,838
+Thì anh sẽ phải thực hiện đủ án tù của mình.
+
+339
+00:22:30,102 --> 00:22:31,718
+Em ko thể đợi 10 năm nữa.
+
+340
+00:22:32,473 --> 00:22:34,463
+Anh yêu, em ko thể đợi 10 năm nữa.
+
+341
+00:22:35,142 --> 00:22:37,928
+Anh sẽ được ra tù trong 16 tháng nữa.
+
+342
+00:22:40,049 --> 00:22:42,545
+Thôi được, nhưng nếu có chuyện gì thì sao?
+
+343
+00:22:42,665 --> 00:22:44,301
+Anh yêu, em ko thể chờ lâu đến thế.
+
+344
+00:22:47,336 --> 00:22:48,622
+Em ko thể.
+
+345
+00:22:50,144 --> 00:22:52,190
+Em xin lỗi, em phải đi đây.
+
+346
+00:22:53,345 --> 00:22:56,056
+Hello? Ba... Chờ đã. Hello? Hel...
+
+347
+00:23:07,382 --> 00:23:08,760
+Ngay cả khi Leticia Barris xuất hiện,
+
+348
+00:23:08,881 --> 00:23:10,611
+Lời làm chứng của cô ta cũng vô nghĩa.
+
+349
+00:23:10,705 --> 00:23:14,615
+Đa phần những người đã có tiền án và tiền sự, ko bao giờ được đối xử thực sự bình đẳng.
+
+350
+00:23:15,140 --> 00:23:17,561
+Có thể, nhưng tôi vừa mới tìm thấy tất cả những thứ này trong vài ngày gần đây.
+
+351
+00:23:17,650 --> 00:23:19,662
+Và tôi tin là tôi có thể tìm ra nhiều chi tiết hơn nữa
+
+352
+00:23:19,811 --> 00:23:22,097
+Nhất là khi bây giờ tôi đã dành tất cả thời gian của tôi cho vụ án này.
+
+353
+00:23:22,211 --> 00:23:25,475
+Người của Secret Service đã tới thăm cô khi Leticia đang ở trong đó--
+
+354
+00:23:25,557 --> 00:23:26,609
+Và anh ta muốn gì?
+
+355
+00:23:26,726 --> 00:23:29,106
+Nick, thôi đi. Cô Donovan, cô cần phải hiểu.
+
+356
+00:23:29,229 --> 00:23:31,507
+Ngoại trừ cô có thêm nhiều thông tin để cung cấp cho chúng tôi,
+
+357
+00:23:31,623 --> 00:23:34,789
+Chúng tôi đã xem xét rất kỹ vụ của ông Burrows.
+
+358
+00:23:34,874 --> 00:23:36,981
+Cô có bằng chứng gì mới ko?
+
+359
+00:23:37,187 --> 00:23:37,960
+Không, nhưng tôi...
+
+360
+00:23:38,041 --> 00:23:38,742
+nhưng...
+
+361
+00:23:39,068 --> 00:23:41,190
+Đó đúng là những điều cô muốn nói với chúng tôi chứ gì?
+
+362
+00:23:41,207 --> 00:23:42,513
+Tôi muốn làm rõ điều đó.
+
+363
+00:23:42,592 --> 00:23:44,970
+Đúng, đó là những gì tôi nói.
+
+364
+00:23:45,065 --> 00:23:47,537
+Nhưng, ông Forsik, ông ko cần phải chỉ ra những gì tôi ko có.
+
+365
+00:23:47,630 --> 00:23:49,591
+Tôi hoàn toàn hiểu điều đó.
+
+366
+00:23:49,767 --> 00:23:51,146
+Tôi tới đây vì muốn được ông giúp đỡ
+
+367
+00:23:51,236 --> 00:23:54,892
+Vì tôi ko cho rằng một người vô tội nên bị xử tử vì những điều anh ta ko làm.
+
+368
+00:23:55,075 --> 00:23:58,326
+Và tôi hiểu rằng đó chính là tôn chỉ làm việc của các ông.
+
+369
+00:23:58,382 --> 00:24:00,790
+Chúng tôi nhận được cả nghìn yêu cầu trợ giúp.
+
+370
+00:24:00,914 --> 00:24:01,659
+Đó là điều chắc chắn.
+
+371
+00:24:01,740 --> 00:24:04,111
+Và tôi phải quyết định chúng tôi nên dành thời gian
+
+372
+00:24:04,234 --> 00:24:05,939
+Vốn rất eo hẹp của chúng tôi cho vụ nào.
+
+373
+00:24:06,053 --> 00:24:08,269
+ông Forsik, tôi sẽ làm mọi công việc chân tay mà.
+
+374
+00:24:08,351 --> 00:24:10,587
+Nhưng vì tôi ko có bất cứ kinh nghiệm nào liên quan tới các án xử tử,
+
+375
+00:24:10,736 --> 00:24:13,815
+Nên tôi muốn nhờ ông chỉ cho tôi đi đúng hướng.
+
+376
+00:24:17,788 --> 00:24:19,044
+Làm ơn.
+
+377
+00:24:20,114 --> 00:24:21,727
+Tôi xin lỗi.
+
+378
+00:24:21,880 --> 00:24:24,681
+Chúng tôi ko đủ người làm chuyện này.
+
+379
+00:24:31,459 --> 00:24:32,729
+Cảm ơn vì đã tiếp tôi.
+
+380
+00:24:44,602 --> 00:24:45,166
+  
+
+381
+00:24:45,239 --> 00:24:46,898
+Cô ta vừa rời khỏi đó.
+
+382
+00:24:47,863 --> 00:24:50,894
+Với tình hình giao thông này, chắc cô ta sẽ phải mất nửa tiếng để quay trở lại đó.
+
+383
+00:24:52,764 --> 00:24:54,530
+Tôi cũng chẳng cần nhiều thời gian đến thế.
+
+384
+00:25:00,155 --> 00:25:03,433
+Tôi đã có được những thứ cần cố.
+
+385
+00:25:11,845 --> 00:25:14,182
+Hey, anh có nhìn thấy tuýp thuốc đánh răng của tôi đâu ko?
+
+386
+00:25:15,065 --> 00:25:16,251
+Nó đã ở đây mà!
+
+387
+00:25:16,438 --> 00:25:17,765
+Chưa bao giờ thấy nó.
+
+388
+00:25:17,952 --> 00:25:19,678
+Tôi luôn để mọi thứ vào đúng vị trí của nó.
+
+389
+00:25:20,224 --> 00:25:21,992
+Thế thì chắc là mày sẽ tìm thấy nó thôi.
+
+390
+00:26:04,055 --> 00:26:06,340
+Hình xăm của anh, đúng rồi, nó là một bản đồ.
+
+391
+00:26:06,884 --> 00:26:08,183
+Tránh xa tao ra.
+
+392
+00:26:08,651 --> 00:26:12,325
+Tôi cần phải được nhìn thấy nó, anh phải cho tôi xem, tôi muốn xem.
+
+393
+00:26:12,415 --> 00:26:15,513
+Tao đã nói là tránh xa tao ra.
+
+394
+00:26:20,846 --> 00:26:21,410
+Được rồi.
+
+395
+00:26:22,206 --> 00:26:24,495
+Anh ta có một tấm bản đồ trên cơ thể.
+
+396
+00:26:27,343 --> 00:26:29,119
+Đúng rồi, anh ta có một tấm bản đồ trên cơ thể.
+
+397
+00:26:33,300 --> 00:26:34,232
+Tại sao?
+
+398
+00:26:34,645 --> 00:26:36,536
+Tại sao anh ta lại làm thế? Tại sao?
+
+399
+00:26:37,847 --> 00:26:40,953
+Anh ta vẽ một tấm bản đồ lên trên cơ thể để làm gì? Um...
+
+400
+00:26:42,116 --> 00:26:44,111
+Không hiểu được... Ow!
+
+401
+00:27:04,174 --> 00:27:06,486
+Quan hệ của ông với người phụ trách kho hóa chất thế nào?
+
+402
+00:27:06,573 --> 00:27:07,934
+Không vấn đề gì.
+
+403
+00:27:08,041 --> 00:27:11,723
+Tôi cần một lọ hóa chất diệt cỏ.
+
+404
+00:27:11,806 --> 00:27:14,564
+Sao lại có cỏ dại mọc trong phòng mày à?
+
+405
+00:27:14,987 --> 00:27:16,949
+Cũng có một thứ cỏ dại đấy.
+
+406
+00:27:20,729 --> 00:27:22,790
+Cô cần tìm tôi?
+
+407
+00:27:23,044 --> 00:27:26,352
+Vâng, tôi muốn hỏi anh một vài điều về vụ án Lincoln.
+
+408
+00:27:26,377 --> 00:27:27,084
+À ừ?
+
+409
+00:27:27,176 --> 00:27:30,436
+Tôi là Veronica Donovan. Tôi bào chữa cho Lincoln.
+
+410
+00:27:30,792 --> 00:27:31,810
+Cô muốn hỏi gì?
+
+411
+00:27:32,053 --> 00:27:33,921
+Anh là người đầu tiên vào căn phòng của Lincoln 
+
+412
+00:27:34,013 --> 00:27:35,916
+Sau cái đêm vụ sát hại diễn ra?
+
+413
+00:27:35,972 --> 00:27:36,773
+Đúng rồi.
+
+414
+00:27:36,859 --> 00:27:39,814
+Tôi sẽ rất cảm ơn anh nếu được nghe một cách chính xác nhất những gì anh đã thấy
+
+415
+00:27:40,104 --> 00:27:43,337
+Có một cuộc gọi báo là đã nhìn thấy Burrows chạy ra
+
+416
+00:27:43,426 --> 00:27:45,493
+Từ ga-ra mà chúng tôi tìm thấy xác của Terrence Steadman.
+
+417
+00:27:45,582 --> 00:27:47,217
+Nên chúng tôi tới chỗ của Burrows.
+
+418
+00:27:48,401 --> 00:27:49,401
+Chúng tôi tản ra.
+
+419
+00:27:49,485 --> 00:27:50,843
+Xâm nhập vào phòng tắm,
+
+420
+00:27:50,860 --> 00:27:52,714
+ở đó tôi nhìn thấy thân chủ của cô đang giặt một cái quần dính máu.
+
+421
+00:27:53,208 --> 00:27:54,712
+Cảnh sát đây! Giơ tay lên!
+
+422
+00:27:54,799 --> 00:27:57,222
+Tôi có cần phải nói với cô rằng đó là máu của Steadman nữa ko?
+
+423
+00:27:57,363 --> 00:27:59,217
+Trong bản báo cáo của anh đêm đó,
+
+424
+00:27:59,310 --> 00:28:02,200
+Anh nói là anh thấy Lincoln đứng trong bồn tắm, chỉ có thế.
+
+425
+00:28:02,635 --> 00:28:06,429
+Nhưng khi làm chứng tại tòa, anh lại nói là anh đã thấy Lincoln giặt cái quần dính máu – vậy đâu là sự thật?
+
+426
+00:28:06,517 --> 00:28:07,776
+Nó có gì khác nhau ko?
+
+427
+00:28:07,870 --> 00:28:10,469
+Anh có thực sự nhìn thấy anh ta giặt cái quần dính máu hay ko?
+
+428
+00:28:10,581 --> 00:28:11,539
+Có.
+
+429
+00:28:11,666 --> 00:28:13,055
+Anh ta đứng lên, quay lại,
+
+430
+00:28:13,136 --> 00:28:15,841
+Hai bàn tay anh ta ướt đẫm, nhìn ko khác gì một con quỷ.
+
+431
+00:28:16,036 --> 00:28:19,506
+Anh biết là lời làm chứng của anh ảnh hưởng nghiêm trọng tới lời kết tội dành cho anh ta, đúng ko?
+
+432
+00:28:20,009 --> 00:28:23,284
+Này cô, nếu cô còn thêm câu hỏi nào nữa,
+
+433
+00:28:23,421 --> 00:28:25,776
+Cứ hỏi người phụ trách đơn vị nhé.
+
+434
+00:28:38,475 --> 00:28:39,470
+Miss Donovan.
+
+435
+00:28:39,795 --> 00:28:42,382
+Tôi ko có ý làm cô giật mình.
+
+436
+00:28:43,406 --> 00:28:44,633
+Anh làm gì ở đây?
+
+437
+00:28:44,876 --> 00:28:47,100
+Nick Savrinn ở trụ sở Project Justice.
+
+438
+00:28:47,191 --> 00:28:49,812
+Tôi vẫn nhớ, nhưng anh làm gì ở đây?
+
+439
+00:28:50,138 --> 00:28:55,588
+sếp tôi có thể ko coi vụ Lincoln đáng quan tâm, nhưng tôi thì có.
+
+440
+00:29:11,636 --> 00:29:14,353
+Có một cách nhanh gọn đề giải quyết vấn đề của mày.
+
+441
+00:29:21,044 --> 00:29:23,008
+Tôi nghĩ là có cách khác nhẹ nhàng hơn.
+
+442
+00:30:09,639 --> 00:30:11,903
+Thông thường các vụ tử hình
+
+443
+00:30:11,989 --> 00:30:13,966
+Thường có quá trình khiếu kiện kéo dài tới 10 năm.
+
+444
+00:30:14,461 --> 00:30:15,821
+Vụ của Lincoln thì chỉ mất có 3 năm.
+
+445
+00:30:16,697 --> 00:30:18,079
+Vậy thì có thể nói,
+
+446
+00:30:18,142 --> 00:30:20,660
+Chắc hẳn đã có một sự tác động nào đó, có thể là từ phía chính trị?
+
+447
+00:30:20,860 --> 00:30:23,537
+Vâng...nếu biết Terrence Steadman chính là em trai phó tổng thống,
+
+448
+00:30:23,573 --> 00:30:25,001
+Thì điều đó cũng ko có gì là khó hiểu.
+
+449
+00:30:25,014 --> 00:30:27,998
+Thật khủng khiếp, họ có thể tác động đến tất cả các quan tòa?
+
+450
+00:30:28,091 --> 00:30:29,524
+Thực tế là ko cần tác động tới các quan tòa.
+
+451
+00:30:31,295 --> 00:30:34,313
+Tất cả các bằng chứng đều rõ ràng chống lại anh ta.
+
+452
+00:30:34,763 --> 00:30:37,812
+Nhưng việc Lincoln bị xử nhanh như vậy ko khiến tôi quan tâm, mà là lý do của việc đó.
+
+453
+00:30:38,233 --> 00:30:39,763
+Nếu đúng là anh ta bị đặt bẫy thì tại sao?
+
+454
+00:30:40,647 --> 00:30:42,878
+Tôi nghĩ câu trả lời có thể có ở chính nạn nhân.
+
+455
+00:30:44,374 --> 00:30:47,129
+Chúng ta biết những gì? Anh ta là CEO của công ty EcoField, đúng ko?
+
+456
+00:30:47,142 --> 00:30:48,834
+Anh ta thúc đẩy việc phát triển các nguồn năng lượng mới.
+
+457
+00:30:48,940 --> 00:30:51,321
+Đúng ra là đã rất thành công trong việc tạo ra các nguồn năng lượng mới.
+
+458
+00:30:51,414 --> 00:30:54,543
+Như vậy thì các công ty dầu lửa, cả nước Ả-rập, và ngay cả chính phủ của chúng ta...
+
+459
+00:30:54,593 --> 00:30:57,656
+Rất nhiều người kiếm được lợi nhuận khổng lồ nếu ko có Steadman.
+
+460
+00:30:59,909 --> 00:31:03,080
+Tại sao đến giờ cô mới lật lại vụ án này?
+
+461
+00:31:03,169 --> 00:31:05,859
+Cũng như nhiều người khác, tôi nghĩ anh ấy thực sự có tội.
+
+462
+00:31:07,148 --> 00:31:09,086
+Tôi hi vọng chúng ta ko quá muộn.
+
+463
+00:31:09,378 --> 00:31:10,996
+Rất có thể.
+
+464
+00:31:11,179 --> 00:31:12,879
+Cô phải chuẩn bị tinh thần cho chuyện đó.
+
+465
+00:31:15,465 --> 00:31:17,352
+Thế còn anh thì sao?
+
+466
+00:31:17,832 --> 00:31:20,124
+Tại sao anh lại chọn công việc liên quan tới các án tử hình?
+
+467
+00:31:22,252 --> 00:31:25,170
+Bố tôi đã bị giam 15 năm cho một tội mà ông ko hề thực hiện.
+
+468
+00:31:25,689 --> 00:31:27,951
+Qua đó tôi nhận thấy rằng nếu bạn ngáng đường chính phủ,
+
+469
+00:31:28,040 --> 00:31:29,875
+Bạn sẽ có rất ít cơ hội.
+
+470
+00:31:30,649 --> 00:31:31,363
+Đó là lý do.
+
+471
+00:31:35,756 --> 00:31:39,485
+Thế nào...giờ có còn có muốn sự giúp đỡ của tôi?
+
+472
+00:32:02,634 --> 00:32:03,851
+- Tôi muốn quay lại.
+- Quá trễ.
+
+473
+00:32:03,944 --> 00:32:05,608
+Tôi sẽ làm tất cả những gì anh cần?
+
+474
+00:32:05,700 --> 00:32:06,791
+Đôi tay này, chúng là cái máy đào chuyên nghiệp đấy.
+
+475
+00:32:06,883 --> 00:32:08,374
+Nếu anh muốn tới khuya, tôi cũng có thể đưa anh tới tận khuya.
+
+476
+00:32:08,474 --> 00:32:10,638
+Tôi sẽ đào như một gã điên nếu cần thiết.
+
+477
+00:32:10,825 --> 00:32:12,871
+Này... tôi cần quay trở lại.
+
+478
+00:32:12,963 --> 00:32:14,819
+Trong lúc này, ko có chuyện "trở lại."
+
+479
+00:32:15,005 --> 00:32:17,098
+Gã họa sỹ Van Gogh đứng kia chính là thằng ở cùng phòng với tôi.
+
+480
+00:32:17,346 --> 00:32:18,564
+Nhưng anh sẽ làm gì đó phải ko?
+
+481
+00:32:18,622 --> 00:32:20,847
+- Anh sẽ xử nó chứ.
+- tôi sẽ làm những gì cần thiết.
+
+482
+00:32:20,992 --> 00:32:22,625
+Anh đúng là bạn tốt!
+
+483
+00:32:25,585 --> 00:32:27,070
+Mà anh định làm cách nào thế?
+
+484
+00:32:27,135 --> 00:32:29,019
+Vậy, thế này nhé--
+
+485
+00:32:29,206 --> 00:32:30,762
+Sẽ có người phải chịu đau một chút.
+
+486
+00:32:39,329 --> 00:32:41,337
+Các bạn, sao chúng ta lại để lọt gã đó?
+
+487
+00:32:41,431 --> 00:32:44,532
+Scofield biến mất ngay khi hắn được sinh ra.
+
+488
+00:32:44,625 --> 00:32:46,105
+Nên hắn lấy họ theo mẹ.
+
+489
+00:32:46,171 --> 00:32:50,398
+Được rồi, Scofield không hề có tiền án, có một việc làm tốt với vai trò kỹ sư.
+
+490
+00:32:50,487 --> 00:32:51,075
+Chính xác.
+
+491
+00:32:51,258 --> 00:32:55,507
+Bỗng nhiên hắn đi cướp ngân hàng, nổ súng loạn xạ.
+
+492
+00:32:55,567 --> 00:32:58,702
+Để rồi trong khi xét xử, hắn tìm mọi cách để “được” vào Fox River
+
+493
+00:32:58,789 --> 00:33:02,115
+Nơi anh trai hắn đã được lên lịch để bị tử hình trong vòng 1 tháng.
+
+494
+00:33:02,192 --> 00:33:03,836
+Rõ ràng, ở đây có vấn dề.
+
+495
+00:33:03,928 --> 00:33:08,127
+Nhưng thực tế thì có rất nhiều cặp anh em cùng là tội phạm, thưa bà.
+
+496
+00:33:08,219 --> 00:33:09,835
+Cũng có thể đó chỉ là sự trùng hợp ngẫu nhiên.
+
+497
+00:33:10,115 --> 00:33:11,893
+Xử lý thằng em trai.
+
+498
+00:33:12,044 --> 00:33:16,890
+Áp dụng những biện pháp chủ động, trước khi có bất cứ điều gì đó xảy ra và ai đó đớp vào mông chúng ta.
+
+499
+00:33:30,596 --> 00:33:31,830
+Đó là một con đường...
+
+500
+00:33:33,186 --> 00:33:34,201
+Nó sẽ dẫn đi đâu?
+
+501
+00:33:37,035 --> 00:33:38,269
+Mày tính đưa tao đi đâu?
+
+502
+00:33:45,200 --> 00:33:46,462
+Cái gì thế, mày điên à?
+
+503
+00:33:48,277 --> 00:33:49,209
+Sỹ quan!
+
+504
+00:33:49,539 --> 00:33:51,248
+Tôi cần một sỹ quan!
+
+505
+00:33:52,604 --> 00:33:54,496
+Chuyện quái gì thế?
+
+506
+00:33:54,787 --> 00:33:56,567
+Cái gì thế này... thằng con hoang!
+
+507
+00:33:56,641 --> 00:33:58,019
+Mở cửa phòng 40!
+
+508
+00:33:58,991 --> 00:34:01,954
+Nó có một con đường trên người, nó dẫn di đâu.
+
+509
+00:34:02,047 --> 00:34:03,280
+Lùi lại, Haywire!
+
+510
+00:34:03,373 --> 00:34:06,231
+Đừng, nhìn vào… hãy nhìn vào… các hình xăm, nó là một con đường.
+
+511
+00:34:06,322 --> 00:34:08,704
+Haywire, tao nói "lùi lại" mày có muốn bị ăn đòn ko?
+
+512
+00:34:08,798 --> 00:34:10,041
+Tôi nói với ông đó, hãy nhìn vào...
+
+513
+00:34:10,404 --> 00:34:12,709
+Lùi lại, thằng khốn! đưa nó đi!
+
+514
+00:34:12,886 --> 00:34:13,484
+Đi thôi!
+
+515
+00:34:13,561 --> 00:34:15,368
+Nó dẫn đến địa ngục!
+
+516
+00:34:15,531 --> 00:34:17,084
+Nó dẫn đến địa ngục!
+
+517
+00:34:17,262 --> 00:34:19,486
+Đúng nó là con đường đến địa ngục!
+
+518
+00:34:19,669 --> 00:34:22,369
+Hắn sẽ dẫn toàn bộ chúng ta đến địa ngục!
+
+519
+00:34:37,100 --> 00:34:42,063
+Thế đấy, băng nhóm lại được tập hợp hả, thật tuyệt phải ko?
+
+520
+00:34:42,905 --> 00:34:45,160
+Tao đã nói với mày đừng có lôi sếp lớn ra dọa tao.
+
+521
+00:34:45,504 --> 00:34:47,630
+Thế mà mày vẫn có cách khác nhỉ?
+
+522
+00:34:57,897 --> 00:34:59,802
+- rất vui được trở lại.
+- rất vui khi có anh trở lại.
+
+523
+00:35:04,819 --> 00:35:07,685
+Khi nào thì chúng ta bắt đầu?
+
+524
+00:35:35,690 --> 00:35:37,488
+Chào buổi trưa, Mr. Scofield.
+
+525
+00:35:37,593 --> 00:35:38,330
+Chào.
+
+526
+00:35:39,751 --> 00:35:40,990
+Hôm nay anh cảm thấy thế nào?
+
+527
+00:35:41,827 --> 00:35:42,677
+Tốt.
+
+528
+00:35:45,147 --> 00:35:46,582
+Có chuyện gì thế?
+
+529
+00:35:47,518 --> 00:35:50,892
+Um, bị cùi trỏ khi chơi bóng rổ.
+
+530
+00:35:52,119 --> 00:35:53,064
+Uh-huh.
+
+531
+00:35:55,311 --> 00:35:56,808
+Anh có phiền nếu tôi nhìn qua nó?
+
+532
+00:35:56,901 --> 00:35:57,973
+Không có gì.
+
+533
+00:36:07,186 --> 00:36:09,146
+Anh biết ko, ở nơi này nếu anh ko cẩn thận?
+
+534
+00:36:09,417 --> 00:36:10,975
+Anh sẽ bị giết chết.
+
+535
+00:36:13,063 --> 00:36:14,599
+Cô có muốn đặt cược ko?
+
+536
+00:36:15,358 --> 00:36:17,786
+Nếu tôi sống sót ra khỏi nơi đây,
+
+537
+00:36:19,095 --> 00:36:20,428
+Cô sẽ đi ăn tối với tôi chứ.
+
+538
+00:36:22,980 --> 00:36:25,127
+Hay là ăn trưa? Hay chỉ một cốc cà phê?
+
+539
+00:36:25,214 --> 00:36:28,039
+Michael, điều này, um... những cách cư xử đẹp của anh
+
+540
+00:36:29,195 --> 00:36:32,347
+Có thể chính là điều dẫn anh tới các rắc rối trong nhà tù này.
+
+541
+00:36:37,874 --> 00:36:38,943
+Cúi về phía trước.
+
+542
+00:36:50,983 --> 00:36:51,758
+Được rồi...
+
+543
+00:36:51,837 --> 00:36:52,987
+Anh đến ga-ra đỗ xe,
+
+544
+00:36:53,061 --> 00:36:55,212
+Terrence Steadman đã chết từ trước đó.
+
+545
+00:36:55,571 --> 00:36:56,480
+Chính xác.
+
+546
+00:36:56,662 --> 00:36:59,098
+Anh nhìn thấy thế rồi anh chạy... cầm theo khẩu súng.
+
+547
+00:36:59,183 --> 00:37:00,797
+- tôi vứt bỏ khẩu súng.
+- vứt ở đâu?
+
+548
+00:37:00,878 --> 00:37:02,938
+Cống thoát nước, giữa đường Van Buren và đường Wells.
+
+549
+00:37:02,999 --> 00:37:04,659
+Chưa ai tìm ra khẩu súng đó.
+
+550
+00:37:05,021 --> 00:37:06,789
+Được rồi, thế sau đó thì anh làm gì?
+
+551
+00:37:06,875 --> 00:37:08,299
+Anh quay lại phòng của mình?
+
+552
+00:37:08,392 --> 00:37:09,279
+Vâng.
+
+553
+00:37:12,466 --> 00:37:14,882
+Tôi cảm thấy hoang mang, cố gắng tìm hiểu sự việc đã diễn ra như thế nào.
+
+554
+00:37:16,096 --> 00:37:18,673
+Sau đó, tôi nhìn thấy cái quần nhuốm máu trong bồn tắm.
+
+555
+00:37:22,416 --> 00:37:24,749
+Bọn cớm, chúng ập vào chỉ một phút sau khi tôi trở về nhà.
+
+556
+00:37:25,322 --> 00:37:27,922
+Cái quần—cái quần nhuốm máu của Steadman--
+
+557
+00:37:28,015 --> 00:37:31,387
+Tên cớm đầu tiên đến đó, đã nói rằng anh ta nhìn thấy anh giặt nó trong bồn tắm.
+
+558
+00:37:31,499 --> 00:37:32,176
+Hắn nói dối.
+
+559
+00:37:32,266 --> 00:37:35,022
+Tay của tôi ướt vì vốc nước rửa mặt.
+
+560
+00:37:35,479 --> 00:37:38,038
+Cảnh sát đây! Giơ tay lên!
+
+561
+00:37:38,803 --> 00:37:40,934
+Tôi chưa bao giờ chạm vào cái quần đó.
+
+562
+00:37:41,439 --> 00:37:43,108
+Giờ nói về khẩu súng,
+
+563
+00:37:43,195 --> 00:37:44,347
+Anh nói là anh đã vứt khẩu súng của anh đi.
+
+564
+00:37:44,475 --> 00:37:45,145
+Nó cũng đã được lên kế hoạch sẵn.
+
+565
+00:37:45,224 --> 00:37:46,876
+Đó là cách duy nhất để nó có thể có ở nhà tôi.
+
+566
+00:37:47,137 --> 00:37:48,727
+Khẩu súng rất khớp với viên đạn trong cơ thể nạn nhân...
+
+567
+00:37:48,742 --> 00:37:51,042
+Khẩu súng đã được lên kế hoạch! Nó đã được lên kế hoạch!
+
+568
+00:37:51,135 --> 00:37:52,596
+Cũng như cái quần.
+
+569
+00:37:52,677 --> 00:37:54,949
+Nhưng dấu vân tay của anh bám đầy trên khẩu súng đó.
+
+570
+00:37:58,838 --> 00:37:59,653
+Bo...
+
+571
+00:38:04,538 --> 00:38:05,470
+Bo là ai?
+
+572
+00:38:05,649 --> 00:38:07,721
+Hắn là kẻ sắp xếp mọi chuyện này.
+
+573
+00:38:10,130 --> 00:38:11,362
+Hắn đưa tôi đi dạo đêm trước đó,
+
+574
+00:38:11,970 --> 00:38:14,190
+Cho tôi thử một vài khẩu súng, xem liệu khẩu nào thích hợp nhất.
+
+575
+00:38:14,487 --> 00:38:16,006
+Tôi đã mắc bẫy ngay ở thời điểm đó.
+
+576
+00:38:16,099 --> 00:38:17,871
+Vũ khí giết người chắc chắn là một trong những khẩu tôi đã thử.
+
+577
+00:38:17,974 --> 00:38:20,080
+Đó là cách chúng làm dấu vân tay của tôi bám đầy lên các khẩu súng.
+
+578
+00:38:20,423 --> 00:38:21,718
+Rõ ràng là như vậy.
+
+579
+00:38:22,897 --> 00:38:24,788
+Được rồi, vậy, Bo--
+
+580
+00:38:24,893 --> 00:38:28,883
+uh, hắn bắt buộc anh làm những chuyện đó để trả món nợ $90,000.
+
+581
+00:38:30,608 --> 00:38:33,201
+Hoặc nó sẽ giết con trai tôi.
+
+583
+00:38:34,356 --> 00:38:36,889
+Rất nhiều câu "tôi ko làm thế" mà chẳng có nhiều ý nghĩa lắm.
+
+584
+00:38:37,068 --> 00:38:39,409
+Cuốn băng giám sát, cuốn băng trong đó có rất rõ cảnh Lincoln bóp cò súng...
+
+585
+00:38:39,494 --> 00:38:40,889
+- cô có cuốn băng đó, đúng ko?
+- đúng rồi.
+
+586
+00:38:41,057 --> 00:38:43,371
+Vâng, nếu Lincoln nói thật, thì rõ ràng cuốn băng đó được làm lại.
+
+587
+00:38:43,464 --> 00:38:46,088
+Tôi cho rằng chúng ta phải xem lại cuốn băng đó và tự tìm ra câu trả lời cho mình.
+
+588
+00:38:53,657 --> 00:38:54,374
+ổn rồi.
+
+589
+00:39:11,863 --> 00:39:14,752
+Này nếu thứ hóa chất đó ăn mòn được cả kim loại thì,
+
+590
+00:39:15,007 --> 00:39:17,452
+Sao nó ko làm hỏng mấy tuýp thuốc đánh răng?
+
+591
+00:39:17,638 --> 00:39:21,133
+Chỉ khi hai thứ hoá chất đó phản ứng với nhau, chúng mới trở nên nguy hiểm.
+
+592
+00:39:21,214 --> 00:39:23,217
+Anh nghiên cứu về hóa chất à?
+
+593
+00:39:23,304 --> 00:39:24,449
+Ko phải là ở trong trường.
+
+594
+00:39:40,830 --> 00:39:43,065
+Nhưng những thứ mà anh làm trong phòng khám,
+
+595
+00:39:43,672 --> 00:39:45,686
+Thì ảnh hướng quái gì tới những việc chúng ta đang làm ở đây?
+
+596
+00:39:45,955 --> 00:39:48,567
+Vượt qua được bức tường này mới chỉ là bước đầu tiên.
+
+597
+00:39:49,040 --> 00:39:53,213
+Có vô khối thứ phải vượt qua trước khi đến được tường rào ngoài cùng.
+
+598
+00:39:53,389 --> 00:39:56,796
+Trạm xá là tòa nhà gần những bức tường đó nhất...
+
+599
+00:40:02,113 --> 00:40:04,850
+...lại cũng là mắt xích yếu nhất trong hệ thống an ninh.
+
+600
+00:40:05,218 --> 00:40:06,254
+Xuất sắc.
+
+601
+00:40:13,050 --> 00:40:15,542
+Tôi nghĩ là mình đã khoét đủ để xuyên thủng bức tường này.
+
+602
+00:40:16,541 --> 00:40:18,479
+Tôi cần anh giúp tạo ra một sự ồn ào đó.
+
+603
+00:40:28,539 --> 00:40:31,384
+Đó là những gì tốt nhất anh có thể làm à?
+
+604
+00:40:32,953 --> 00:40:34,304
+Tin tôi đi, chàng trai.
+
+605
+00:40:34,766 --> 00:40:35,801
+Cứ tin tôi đi.
+
+606
+00:40:39,477 --> 00:40:40,258
+Câm mõm!
+
+607
+00:40:41,291 --> 00:40:42,883
+Thằng khốn!
+
+608
+00:41:25,906 --> 00:41:27,921
+Không một lời nào nữa!
+
+609
+00:41:28,251 --> 00:41:31,938
+Thằng nào mở mồm lần nữa sẽ xuống hố!
+
+610
+00:41:45,924 --> 00:41:47,141
+ổn rồi.
+
+611
+00:42:15,465 --> 00:42:16,082
+Anh ổn chứ?
+
+612
+00:42:20,056 --> 00:42:20,948
+Công việc thôi.
+
+613
+00:42:22,722 --> 00:42:23,503
+Anh ổn.
+
+614
+00:42:27,266 --> 00:42:28,243
+Để anh.
+
+615
+00:42:33,069 --> 00:42:34,124
+Mọi chuyện ổn thứ?
+
+616
+00:42:34,212 --> 00:42:35,394
+Ko thể tốt hơn.
+
+617
+00:42:36,283 --> 00:42:38,634
+Anh vào chứ? Chúng tôi mới bắt đầu ăn.
+
+618
+00:42:39,016 --> 00:42:42,013
+Không, tôi chỉ muốn dừng lại để nói chuyện với cá nhân anh.
+
+619
+00:42:44,735 --> 00:42:45,972
+Vấn đề đã được giải quyết.
+
+620
+00:42:46,764 --> 00:42:47,816
+Cái gì thế?
+
+621
+00:42:48,207 --> 00:42:50,045
+Yêu cầu chuyển trại.
+
+622
+00:42:50,455 --> 00:42:54,072
+Michael Scofield sẽ bị chuyển đi vào sáng mai.
+
+623
+00:42:59,381 --> 00:43:00,302
+Ngủ ngon.
+

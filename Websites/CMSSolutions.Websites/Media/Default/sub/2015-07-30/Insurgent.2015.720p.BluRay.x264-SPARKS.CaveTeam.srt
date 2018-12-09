@@ -1,0 +1,4749 @@
+﻿1
+00:00:41,600 --> 00:00:43,210
+<i>"Hòa bình".</i>
+
+2
+00:00:44,200 --> 00:00:45,500
+<i>Rất lâu trước đây,</i>
+
+3
+00:00:45,500 --> 00:00:48,870
+<i>trước khi những nhà sáng lập
+xây dựng thành phố vĩ đại của chúng ta,</i>
+
+4
+00:00:49,070 --> 00:00:54,880
+<i>đó là một từ ngữ vô nghĩa,
+một lý tưởng chỉ có trong mơ.</i>
+
+5
+00:00:54,880 --> 00:00:57,430
+<i>Hiện tại, 200 năm sau,</i>
+
+6
+00:00:57,890 --> 00:01:02,310
+<i>chúng ta là những bằng chứng sống
+rằng hòa bình là điều có thể đạt được.</i>
+
+7
+00:01:02,860 --> 00:01:06,010
+<i>Lý do dĩ nhiên là nhờ
+hệ thống Môn Phái.</i>
+
+8
+00:01:06,500 --> 00:01:08,520
+<i>Erudite, Dauntless,</i>
+<FONT COLOR="#66DD22">(*Trí Thức, Dũng cảm)
+
+9
+00:01:08,520 --> 00:01:11,510
+<i>Amity, Candor, Abnegation.</i>
+<FONT COLOR="#66DD22">(*Hòa Hảo, Trung Thực, Vị Tha)
+
+10
+00:01:11,510 --> 00:01:14,890
+<i>Nhờ việc phân chia mọi người
+dựa theo tính cách và phẩm chất...</i>
+
+11
+00:01:15,110 --> 00:01:16,610
+<i>chúng ta đã tạo ra được một cộng đồng...</i>
+
+12
+00:01:16,610 --> 00:01:19,520
+<i>nơi mà mỗi Môn Phái đều đóng vai trò quan trọng...</i>
+
+13
+00:01:19,520 --> 00:01:21,160
+<i>trong việc duy trì trật tự xã hội.</i>
+
+14
+00:01:21,160 --> 00:01:24,470
+<i>Nhưng sự hòa hợp mà chúng ta
+đạt được đang bị đe dọa...</i>
+
+15
+00:01:24,490 --> 00:01:27,820
+<i>bởi một nhóm người tuy ít
+nhưng cực kỳ nguy hiểm.</i>
+
+16
+00:01:27,990 --> 00:01:30,930
+<i>Chúng ta gọi họ là Divergents*.
+<FONT COLOR="#66DD22">(*Những kẻ bất khả trị / Những kẻ dị biệt).</i>
+
+17
+00:01:31,130 --> 00:01:35,260
+<i>Họ mang những phẩm chất tồi tệ nhất của loài người trong quá khứ...</i>
+
+18
+00:01:35,750 --> 00:01:39,480
+<i>nổi loạn, khiêu khích và không thể kiểm soát.</i>
+
+19
+00:01:40,250 --> 00:01:43,690
+<i>5 ngày trước, một nhóm Divergents...</i>
+
+20
+00:01:43,710 --> 00:01:47,440
+<i>đã giả danh Dauntless tấn công
+Abnegation một cách tàn bạo...</i>
+
+21
+00:01:47,440 --> 00:01:49,480
+<i>với mục đích rõ ràng là muốn
+làm tê liệt hệ thống Môn Phái...</i>
+
+22
+00:01:49,480 --> 00:01:52,020
+<i>bằng cách nhắm vào cộng đồng yếu nhất.</i>
+
+23
+00:01:53,690 --> 00:01:56,030
+<i>Những kẻ Divergents này khinh thường hệ thống của chúng ta...</i>
+
+24
+00:01:56,030 --> 00:01:58,450
+<i>vì họ không phù hợp với nó.</i>
+
+25
+00:01:58,450 --> 00:02:00,950
+Những tin đồn gần đây về chuyện tôi...<i></i>
+
+26
+00:02:00,950 --> 00:02:03,450
+<i>là người đứng sau vụ tấn công Abnegation...</i>
+
+27
+00:02:03,450 --> 00:02:06,690
+<i>chỉ là những lời tuyên truyền bịa đặt của nhóm Divergent.</i>
+
+28
+00:02:06,890 --> 00:02:11,660
+<i>Tôi đã cống hiến sức lực để
+đưa bọn tội phạm này ra trước công lý.</i>
+
+29
+00:02:11,660 --> 00:02:14,920
+<i>Với tư cách lãnh đạo an ninh của Hội Đồng, tôi sẽ dùng quyền lực của mình...</i>
+
+30
+00:02:14,920 --> 00:02:16,460
+<i>để tuyên bố thiết quân luật...</i>
+
+31
+00:02:16,460 --> 00:02:17,630
+cho đến khi tôi chắc chắn rằng...<i></i>
+
+32
+00:02:17,630 --> 00:02:20,780
+<i>toàn bộ mối đe dọa đến sự an nguy của chúng ta đều đã bị loại bỏ.</i>
+
+33
+00:02:20,780 --> 00:02:22,710
+<i>Báo với Jeanine là chúng ta tìm được rồi.</i>
+
+34
+00:02:24,890 --> 00:02:27,810
+<i>Chúng ta là phần còn sót lại của nhân loại.</i>
+
+35
+00:02:27,810 --> 00:02:30,560
+<i>Những bức tường hùng vĩ
+bao quanh thành phố này...</i>
+
+36
+00:02:30,560 --> 00:02:33,770
+<i>có thể bảo vệ chúng ta khỏi
+những sự nguy hiểm từ bên ngoài,</i>
+
+37
+00:02:33,970 --> 00:02:36,150
+nhưng chính chúng ta phải loại bỏ những yếu tố...<i></i>
+
+38
+00:02:36,150 --> 00:02:38,450
+<i>có thể làm hại cộng đồng này từ bên trong.</i>
+
+39
+00:02:38,450 --> 00:02:40,950
+<i>Bởi vì khi bạn là hy vọng cuối cùng của nền văn minh,</i>
+
+40
+00:02:40,950 --> 00:02:43,660
+<i>"hòa bình" không chỉ đơn thuần là một lý tưởng...</i>
+
+41
+00:02:43,660 --> 00:02:45,760
+<i>mà là một nghĩa vụ.</i>
+
+42
+00:02:45,960 --> 00:02:50,520
+<i>Và chính chúng ta phải đứng lên chống lại
+kẻ thù thật sự của nền hòa bình đó.</i>
+
+43
+00:02:51,760 --> 00:02:53,170
+<i>Bọn Divergents.</i>
+
+44
+00:03:25,910 --> 00:03:28,260
+Amity!
+
+45
+00:03:29,210 --> 00:03:31,280
+Chúng ta phải đảm bảo là nơi này an toàn.
+
+46
+00:03:32,410 --> 00:03:33,760
+Tris!
+
+47
+00:03:49,920 --> 00:03:53,550
+Giúp với! Giúp chúng tôi với!
+
+48
+00:03:55,280 --> 00:03:57,940
+Làm ơn đi, các bạn phải giúp chúng tôi!
+
+49
+00:03:58,140 --> 00:04:00,790
+Tôi xin lỗi, các bạn cần phải rời khỏi đây ngay.
+
+50
+00:04:01,060 --> 00:04:04,480
+- Các bạn không thuộc về nơi này.
+- Đều là lỗi của nó.
+
+51
+00:04:10,000 --> 00:04:12,110
+Mày đã giết Will.
+
+52
+00:04:13,030 --> 00:04:14,220
+Không...
+
+53
+00:04:14,930 --> 00:04:18,250
+Cô ta đã giết...
+
+54
+00:04:25,560 --> 00:04:26,680
+Mẹ!
+
+55
+00:04:30,580 --> 00:04:33,310
+Con đã giết tất cả bọn ta.
+
+56
+00:04:33,310 --> 00:04:34,310
+Will!
+
+57
+00:06:26,990 --> 00:06:30,630
+- Và... 3!
+- Cao hơn nữa đi anh!
+
+58
+00:06:33,010 --> 00:06:35,060
+- Chào em!
+- Cao hơn nữa!
+
+59
+00:06:35,060 --> 00:06:36,470
+Em không sao chứ?
+
+60
+00:06:36,670 --> 00:06:39,520
+- Được rồi, tất cả về lớp nào.
+- Xuống thôi!
+
+61
+00:06:39,520 --> 00:06:41,940
+Gặp em sau nhé.
+
+62
+00:06:53,610 --> 00:06:55,510
+Em chỉ muốn đổi khác một chút.
+
+63
+00:06:57,050 --> 00:06:58,400
+Ừ.
+
+64
+00:07:10,930 --> 00:07:12,610
+Như này chắc chắn là khác lắm rồi.
+
+65
+00:07:14,000 --> 00:07:18,190
+- Anh không thích sao?
+- Không, anh thích lắm.
+
+66
+00:07:19,170 --> 00:07:20,990
+Anh chỉ hơi ngạc nhiên thôi.
+
+67
+00:07:23,340 --> 00:07:27,480
+- Em sao vậy, Tris?
+- Không sao hết. Em ổn mà.
+
+68
+00:07:27,480 --> 00:07:28,880
+Chỉ là...
+
+69
+00:07:30,760 --> 00:07:32,430
+Em vẫn còn gặp ác mộng à?
+
+70
+00:07:34,920 --> 00:07:36,780
+Không.
+
+71
+00:07:41,520 --> 00:07:43,350
+Chúng ta ổn rồi mà.
+
+72
+00:07:45,210 --> 00:07:47,040
+Anh và em.
+
+73
+00:07:47,040 --> 00:07:50,300
+Anh biết những chuyện khác rất tồi tệ, nhưng chúng ta thì ổn cả.
+
+74
+00:07:56,140 --> 00:07:57,930
+Đến giờ làm việc rồi.
+
+75
+00:08:13,200 --> 00:08:15,570
+Chúng ta phải ở đây bao lâu nữa hả, Four?
+
+76
+00:08:15,600 --> 00:08:17,260
+Cho đến khi có thể rời đi an toàn.
+
+77
+00:08:47,580 --> 00:08:50,400
+- Chào em.
+- Chào anh.
+
+78
+00:08:51,150 --> 00:08:52,520
+Con trai!
+
+79
+00:08:55,440 --> 00:08:57,350
+Con không thể ngó lơ bố mãi được.
+
+80
+00:08:59,320 --> 00:09:01,490
+Bố biết con đang nghĩ về bước đi tiếp theo,
+
+81
+00:09:01,490 --> 00:09:03,090
+nhưng có những chuyện mà con không hề biết.
+
+82
+00:09:03,090 --> 00:09:05,030
+Marcus, làm ơn để bọn cháu yên đi.
+
+83
+00:09:06,720 --> 00:09:09,590
+Mẹ cháu không quay về Abnegation
+chỉ để cứu cháu thôi đâu.
+
+84
+00:09:09,790 --> 00:09:11,920
+Bà ấy liều chết để cố che giấu một thứ khỏi Jeanine,
+
+85
+00:09:11,920 --> 00:09:13,270
+một thứ được ủy thác cho Abnegation...
+
+86
+00:09:13,270 --> 00:09:14,880
+- từ rất lâu trước đây.
+- Marcus! Thôi đi!
+
+87
+00:09:15,080 --> 00:09:17,550
+Dù ông muốn gì ở bọn tôi
+thì ông cũng không có được đâu.
+
+88
+00:09:21,540 --> 00:09:23,590
+Bố không phải là kẻ thù.
+
+89
+00:09:36,170 --> 00:09:37,990
+Các người tìm được rồi...
+
+90
+00:09:41,170 --> 00:09:44,640
+Nó nằm trong nhà của Natalie và Andrew Prior như bà đã nói.
+
+91
+00:09:52,310 --> 00:09:54,270
+Cho tôi biết bên trong có gì được không?
+
+92
+00:09:54,890 --> 00:09:56,300
+Một thông điệp từ những Nhà Sáng Lập...
+
+93
+00:09:56,300 --> 00:10:02,150
+để đảm bảo rằng chúng ta sẽ có một tương lai mà mình đáng được hưởng.
+
+94
+00:10:02,150 --> 00:10:08,660
+Divergents sẽ hủy diệt xã hội này,
+trừ khi ta loại bỏ bọn chúng trước.
+
+95
+00:10:12,660 --> 00:10:15,110
+Và giờ thì chúng ta có thể ra tay rồi.
+
+96
+00:10:15,990 --> 00:10:19,420
+Nhưng chỉ có Divergent
+mới mở được chiếc hộp này.
+
+97
+00:10:24,670 --> 00:10:26,130
+Tìm bọn chúng!
+
+98
+00:10:27,070 --> 00:10:28,890
+Không được bỏ sót bất cứ kẻ nào.
+
+99
+00:10:47,540 --> 00:10:49,740
+Thưởng thức thật hạnh phúc nhé.
+
+100
+00:10:50,130 --> 00:10:51,930
+Thưởng thức một cách hạnh phúc nhé.
+
+101
+00:10:52,500 --> 00:10:54,840
+- Thưởng thức thật hạnh phúc nhé.
+- Cảm ơn anh.
+
+102
+00:10:56,020 --> 00:10:57,820
+Thưởng thức một cách hạnh phúc nhé.
+
+103
+00:10:59,040 --> 00:11:00,740
+Thưởng thức một cách hạnh phúc nhé.
+
+104
+00:11:02,420 --> 00:11:05,500
+Em không biết mình có thể chịu được
+vụ hòa bình với tình yêu này bao lâu nữa.
+
+105
+00:11:05,970 --> 00:11:08,050
+Amity là vậy mà, em hãy cố hòa nhập đi.
+
+106
+00:11:08,630 --> 00:11:10,210
+Em cố rồi đấy chứ,
+
+107
+00:11:10,230 --> 00:11:11,870
+nhưng mà không thành công.
+
+108
+00:11:11,920 --> 00:11:14,720
+Cho tôi qua chút, ở bên phải này.
+Nhìn kìa.
+
+109
+00:11:14,720 --> 00:11:17,140
+Nhìn cầu vồng kìa. Đẹp ghê.
+
+110
+00:11:18,410 --> 00:11:21,010
+Thân thiện bất thường và nghe lời một cách mù quáng.
+
+111
+00:11:21,010 --> 00:11:21,950
+Mình thích nơi này quá.
+
+112
+00:11:21,950 --> 00:11:24,220
+Cảm ơn rất nhiều.
+Thưởng thức một cách hạnh phúc nhé.
+
+113
+00:11:24,420 --> 00:11:27,890
+Xin lỗi nha.
+Ê, Tris, tao thích tóc mày lắm đấy.
+
+114
+00:11:28,090 --> 00:11:29,850
+Mày đã cố cắt nó thật ngắn và kỳ cục...
+
+115
+00:11:30,050 --> 00:11:32,560
+Ê Peter, sao mày không lấy đồ ăn
+và ngồi xuống đi hả?
+
+116
+00:11:32,760 --> 00:11:33,920
+Không thì sao?
+
+117
+00:11:35,830 --> 00:11:37,570
+Ngoài ra thì tao nghĩ chúng ta nên
+đoàn kết với nhau...
+
+118
+00:11:37,590 --> 00:11:39,320
+vì cả lũ đã chính thức là bọn đào tẩu cả rồi.
+
+119
+00:11:39,320 --> 00:11:41,680
+Chờ đã, ý mày bọn đào tẩu là sao?
+
+120
+00:11:41,710 --> 00:11:44,000
+Mày không biết hả?
+Tụi bay không nói với Caleb sao?
+
+121
+00:11:44,270 --> 00:11:47,180
+Hôm qua Jeanine vừa thông báo
+vụ tấn công phái Abnegation...
+
+122
+00:11:47,180 --> 00:11:51,160
+được tổ chức bởi
+một nhóm Divergents và đồng bọn.
+
+123
+00:11:51,360 --> 00:11:52,960
+Vậy là bọn họ đổ lỗi cho chúng ta à?
+
+124
+00:11:52,980 --> 00:11:53,830
+Ừ.
+
+125
+00:11:53,980 --> 00:11:55,820
+Jeanine cần một lý do để thuyết phục...
+
+126
+00:11:55,840 --> 00:11:57,600
+Hội Đồng tuyên bố thiết quân luật.
+
+127
+00:11:57,770 --> 00:11:59,590
+Giờ thì mụ ta thành công rồi.
+
+128
+00:12:08,770 --> 00:12:10,020
+Ở lại Amity...
+
+129
+00:12:10,040 --> 00:12:11,340
+là lựa chọn an toàn nhất lúc này.
+
+130
+00:12:12,100 --> 00:12:13,670
+Chúng ta cần phải nghe ngóng và tìm kiếm...
+
+131
+00:12:13,700 --> 00:12:15,260
+vị trí của những Dauntless còn lại.
+
+132
+00:12:15,870 --> 00:12:19,610
+- Sau đó sẽ hành động.
+- Bọn mình cần phải giết Jeanine.
+
+133
+00:12:21,720 --> 00:12:24,190
+Anh biết, nhưng chúng ta
+vẫn chưa sẵn sàng.
+
+134
+00:12:29,260 --> 00:12:32,810
+- Beatrice, em nói đùa đúng không?
+- Không, em nói nghiêm túc đấy.
+
+135
+00:12:33,810 --> 00:12:36,110
+Em sẽ không dừng lại cho đến khi mụ ta bỏ mạng.
+
+136
+00:12:36,820 --> 00:12:38,760
+Tris, em không thể cứ thế
+đi xung quanh và giết người được.
+
+137
+00:12:38,780 --> 00:12:40,430
+Tris nói đúng đấy, nghe lời con em mày đi.
+
+138
+00:12:40,600 --> 00:12:42,270
+Tris, tao nghĩ mày nên tới...
+
+139
+00:12:42,290 --> 00:12:44,230
+Erudite và tự tay giết Jeanine.
+
+140
+00:12:44,650 --> 00:12:45,810
+Tao sẽ ở lại với Caleb...
+
+141
+00:12:45,840 --> 00:12:47,000
+để bọn họ không giết luôn thằng anh mày.
+
+142
+00:12:50,650 --> 00:12:51,780
+Mày nói gì?
+
+143
+00:12:52,950 --> 00:12:54,370
+Thôi nào, mày biết mà.
+
+144
+00:12:55,570 --> 00:12:57,180
+Chính mày đã khiến bố mẹ mày phải chết còn gì.
+
+145
+00:13:14,020 --> 00:13:15,320
+Dừng lại đi!
+
+146
+00:13:15,520 --> 00:13:17,660
+Cô cậu nghĩ mình đang làm gì thế hả?
+
+147
+00:13:20,520 --> 00:13:23,000
+Vào văn phòng tôi ngay!
+
+148
+00:13:24,960 --> 00:13:27,940
+Mọi người cứ dùng bữa đi.
+Thưởng thức tiếp nào.
+
+149
+00:13:28,140 --> 00:13:30,360
+Này, em cần phải bình tĩnh lại đi.
+
+150
+00:13:36,590 --> 00:13:41,550
+Tôi chưa nói rõ rằng luật lệ tối thượng
+ở đây là không dùng bạo lực sao?
+
+151
+00:13:42,100 --> 00:13:45,040
+Tôi có thể đảm bảo với bà rằng
+chuyện này sẽ không lặp lại nữa.
+
+152
+00:13:46,400 --> 00:13:50,090
+Vậy thì tốt, nhưng các bạn không được
+ở lại đây với chúng tôi nữa.
+
+153
+00:13:50,290 --> 00:13:53,210
+Sự hiện diện của các bạn
+đã khiến nơi này rối tung lên.
+
+154
+00:13:55,800 --> 00:13:59,820
+Dù sao thì cứ ở lại đây
+thì bọn tôi cũng sớm đi đời thôi.
+
+155
+00:14:00,020 --> 00:14:03,080
+Đúng chứ?
+Vì bà không chịu chống lại Jeanine.
+
+156
+00:14:05,020 --> 00:14:08,050
+- Cô không hiểu gì về chúng tôi cả.
+- Dĩ nhiên là tôi hiểu.
+
+157
+00:14:08,140 --> 00:14:11,050
+Tôi hiểu là bà nghĩ rằng Amity có thể
+tránh khỏi chuyện này, nhưng không đâu.
+
+158
+00:14:11,070 --> 00:14:13,360
+Ngày nào đó mụ ta sẽ xuất hiện và Jeanine sẽ tước đoạt...
+
+159
+00:14:13,380 --> 00:14:15,450
+mọi quyền lực mà bà nghĩ rằng mình đang nắm trong tay.
+
+160
+00:14:15,450 --> 00:14:16,630
+Tris! Tris!
+
+161
+00:14:19,660 --> 00:14:23,190
+Nghe này, Johanna, hãy cho chúng tôi thêm ít thời gian nữa.
+
+162
+00:14:24,040 --> 00:14:26,190
+Chúng tôi cần phải tìm hiểu xem những Dauntless còn lại đang ở đâu,
+
+163
+00:14:26,190 --> 00:14:27,280
+sau đó sẽ rời đi ngay.
+
+164
+00:14:27,280 --> 00:14:29,730
+Tiếp theo thì sao? Tấn công Erudite à?
+
+165
+00:14:29,940 --> 00:14:33,500
+- Tôi sẽ không tham gia cuộc chiến đó.
+- Chúng tôi cũng không đòi hỏi điều đó.
+
+166
+00:14:33,700 --> 00:14:36,590
+Chúng tôi chỉ cần vài ngày nữa thôi.
+
+167
+00:14:40,580 --> 00:14:42,270
+Chỉ một.
+
+168
+00:14:43,780 --> 00:14:48,610
+- Một gì?
+- Một cơ hội cuối cùng.
+
+169
+00:14:51,550 --> 00:14:55,390
+Cô hiểu chứ, trở thành Amity chính là tha thứ cho mọi người,
+
+170
+00:14:55,390 --> 00:14:58,070
+và cả bản thân mình.
+
+171
+00:14:58,070 --> 00:15:00,280
+Cô đang đau buồn, Tris.
+
+172
+00:15:03,250 --> 00:15:06,230
+Và tôi thông cảm với cô.
+
+173
+00:15:07,770 --> 00:15:13,580
+Tôi biết cảm giác bất lực khi mất đi
+những người mà mình yêu thương.
+
+174
+00:15:15,770 --> 00:15:18,690
+Nhưng giết Jeanine cũng không giúp
+mẹ cô sống lại được.
+
+175
+00:15:19,710 --> 00:15:23,890
+Tôi biết là cô đang tức giận,
+nhưng cô đang để nó chi phối cô.
+
+176
+00:15:26,800 --> 00:15:28,760
+Chuyện gì thế?
+
+177
+00:15:46,770 --> 00:15:49,050
+Hãy ở yên đây và đừng lên tiếng.
+
+178
+00:16:09,210 --> 00:16:13,100
+Amity chào mừng các bạn.
+
+179
+00:16:13,450 --> 00:16:15,050
+Nhờ đâu mà chúng tôi có được vinh dự này?
+
+180
+00:16:15,050 --> 00:16:16,960
+Đây không phải là chuyến viếng thăm xã giao đâu Johanna.
+
+181
+00:16:16,960 --> 00:16:20,090
+- Chúng tôi đang tìm kiếm Divergents.
+- Tôi hiểu rồi.
+
+182
+00:16:20,290 --> 00:16:22,130
+Dĩ nhiên là chúng tôi sẵn lòng giúp đỡ.
+
+183
+00:16:22,150 --> 00:16:24,450
+Chúng tôi muốn bà tình nguyện
+để Môn Phái của mình được kiểm tra.
+
+184
+00:16:26,060 --> 00:16:28,670
+Đây là công nghệ quét nhân dạng của Erudite.
+
+185
+00:16:28,670 --> 00:16:30,820
+- Amity.
+- Jeanine đã có chỗ trong Hội Đồng...
+
+186
+00:16:30,820 --> 00:16:32,900
+nên tiến trình này đã trở nên đơn giản hơn rất nhiều.
+
+187
+00:16:33,080 --> 00:16:36,210
+- Như thế là vượt quá thẩm quyền rồi đấy.
+- Thôi nào, Johanna.
+
+188
+00:16:36,430 --> 00:16:39,310
+Phép lịch sự của Phái Amity đâu rồi hả?
+
+189
+00:16:39,510 --> 00:16:45,390
+Muốn dễ dàng hay khó khăn.
+Tùy cô chọn.
+
+190
+00:16:49,290 --> 00:16:53,320
+Được thôi. Nhưng phải nhẹ tay
+và có sự giám sát của tôi.
+
+191
+00:16:54,510 --> 00:16:57,310
+Được rồi, hành động đi!
+Bắt đầu thôi!
+
+192
+00:16:57,310 --> 00:16:59,400
+Nhanh chân lên!
+
+193
+00:16:59,400 --> 00:17:03,910
+Toàn bộ phái Amity đến nhà vòm
+để tiến hành kiểm tra bắt buộc.
+
+194
+00:17:10,510 --> 00:17:14,100
+Được rồi, vào trong nhanh lên!
+
+195
+00:17:17,280 --> 00:17:19,740
+Vào trong ngay!
+
+196
+00:17:22,240 --> 00:17:23,660
+Xếp hàng nhanh lên!
+
+197
+00:17:27,870 --> 00:17:29,680
+Bà biết gì không?
+
+198
+00:17:31,120 --> 00:17:33,760
+Bà đứng chắn hết cả cửa rồi đấy.
+
+199
+00:17:45,960 --> 00:17:49,400
+Eric đang ở đây. Chúng ta
+cần phải rời đi ngay bây giờ.
+
+200
+00:17:57,530 --> 00:18:01,080
+- Trên đó có gì thế?
+- Là văn phòng của tôi.
+
+201
+00:18:08,400 --> 00:18:10,540
+Ra kia đi!
+
+202
+00:18:23,740 --> 00:18:25,180
+Có 2 tên lính gác mang theo súng.
+
+203
+00:18:26,750 --> 00:18:28,410
+Chúng ta sẽ trèo ra cửa sổ sao?
+
+204
+00:18:29,700 --> 00:18:31,400
+Phải chia nhau ra thôi.
+
+205
+00:18:32,460 --> 00:18:35,670
+Tao hiểu rồi.
+
+206
+00:18:36,210 --> 00:18:37,990
+Thân ai nấy lo.
+
+207
+00:18:38,210 --> 00:18:39,590
+Tốt.
+
+208
+00:18:41,100 --> 00:18:43,400
+- Bọn chúng ở trên này!
+- Nhanh lên.
+
+209
+00:18:44,600 --> 00:18:46,970
+Eric! Chúng ở trên này!
+Nhanh lên, chúng đang bỏ chạy đấy!
+
+210
+00:18:49,190 --> 00:18:50,600
+Sẵn sàng chưa?
+
+211
+00:19:03,750 --> 00:19:05,410
+- Tụi nó đâu?
+- Mới leo ra cửa sổ!
+
+212
+00:19:07,980 --> 00:19:10,060
+Có 3 kẻ đang chạy bộ đến hướng nhà vòm!
+
+213
+00:19:10,060 --> 00:19:11,480
+- Divergent.
+- Tìm được một kẻ rồi.
+
+214
+00:19:11,480 --> 00:19:14,730
+Tôi lặp lại, có 3 kẻ đang chạy bộ đến hướng nhà vòm!
+
+215
+00:19:14,730 --> 00:19:16,200
+Ở đằng kia!
+
+216
+00:19:16,400 --> 00:19:18,420
+- Tôi yêu cầu sự ân xá!
+- Nằm xuống! Cúi cuống ngay!
+
+217
+00:19:18,420 --> 00:19:20,640
+Tôi thuộc phái Abnegnation, đó là quyền lợi của tôi!
+
+218
+00:19:28,900 --> 00:19:31,210
+- Bắt nó lại!
+- Đi thôi!
+
+219
+00:19:31,210 --> 00:19:32,250
+Được thôi.
+
+220
+00:19:33,250 --> 00:19:34,750
+Rồi. Rồi.
+
+221
+00:19:40,030 --> 00:19:41,740
+Chạy tiếp thôi, nhanh lên nào!
+
+222
+00:19:52,880 --> 00:19:53,990
+Chạy đi!
+
+223
+00:19:54,650 --> 00:19:55,810
+Tiếp tục chạy đi!
+
+224
+00:20:03,760 --> 00:20:05,520
+Nhanh lên nào!
+
+225
+00:20:10,550 --> 00:20:11,910
+Nhanh lên!
+
+226
+00:20:31,600 --> 00:20:32,980
+Cứ chạy tiếp!
+
+227
+00:20:40,160 --> 00:20:42,330
+- Nghe đi!
+- Nghe gì cơ?
+
+228
+00:20:42,530 --> 00:20:43,800
+Tàu lửa!
+
+229
+00:20:45,680 --> 00:20:46,860
+Nhanh nữa lên! Chạy đi!
+
+230
+00:20:51,390 --> 00:20:52,440
+Nhanh lên!
+
+231
+00:20:52,440 --> 00:20:53,610
+Caleb!
+
+232
+00:20:54,640 --> 00:20:55,640
+Chạy tiếp đi.
+
+233
+00:21:02,460 --> 00:21:03,510
+Nhanh lên!
+
+234
+00:21:04,880 --> 00:21:06,130
+Anh hết đạn rồi!
+
+235
+00:21:20,780 --> 00:21:22,780
+Nhanh nào, chạy thôi.
+
+236
+00:21:41,050 --> 00:21:43,250
+- Đưa tay cho em!
+- Chạy đi, nhanh lên!
+
+237
+00:21:43,250 --> 00:21:44,920
+Caleb!
+
+238
+00:21:45,270 --> 00:21:46,450
+Nhanh lên!
+
+239
+00:22:22,200 --> 00:22:24,580
+Whoa, mấy người biết cách
+xuất hiện hoành tráng đấy chứ!
+
+240
+00:22:29,730 --> 00:22:33,200
+- Vô Môn Phái.
+- Amity.
+
+241
+00:22:33,480 --> 00:22:35,870
+Ánh mắt hệt như lũ Dauntless ấy.
+
+242
+00:22:37,450 --> 00:22:39,300
+Tao không biết thằng này thuộc phái nào.
+
+243
+00:22:39,300 --> 00:22:41,400
+Nghe này, bọn tôi chỉ cần đi nhờ vào thành phố thôi.
+
+244
+00:22:41,400 --> 00:22:43,840
+Tệ thật, con tàu này có chủ rồi.
+
+245
+00:22:43,840 --> 00:22:46,830
+Và tụi bay đã làm hỏng
+hàng hóa của bọn tao.
+
+246
+00:22:49,750 --> 00:22:54,120
+Đây là đồ của Abnegation và
+các người là Vô Môn Phái, đúng chứ?
+
+247
+00:22:54,320 --> 00:22:55,780
+- Caleb!
+- Tôi từng là Abnegation.
+
+248
+00:22:55,980 --> 00:22:59,170
+Chúng tôi đã từng dùng loại vải này
+để may đồ cho các người.
+
+249
+00:23:00,920 --> 00:23:02,700
+Ý mày nói là tụi tao
+ăn trộm của bọn mày đúng không?
+
+250
+00:23:03,530 --> 00:23:07,300
+Không, tôi rời khỏi Abnegation rồi,
+nên đồ các người trộm không phải của tôi.
+
+251
+00:23:07,300 --> 00:23:09,380
+À không, các người không hề ăn trộm.
+
+252
+00:23:09,580 --> 00:23:14,460
+Về mặt ngữ nghĩa thì tôi cho rằng
+có sự phân biệt giữa ăn trộm và chia sẻ.
+
+253
+00:23:14,460 --> 00:23:16,540
+- Nhưng thật ra thì cũng giống nhau thôi.
+- Đủ rồi đấy!
+
+254
+00:23:16,620 --> 00:23:18,890
+Tất cả bình tĩnh đi, được chứ.
+Các người đã nói rõ ràng rồi.
+
+255
+00:23:19,090 --> 00:23:22,460
+- Bọn tôi sẽ rời khỏi tàu, được chứ.
+- Mọi người cứ bình tĩnh đi.
+
+256
+00:23:22,660 --> 00:23:24,290
+Ngồi xuống nói chuyện chút nào.
+
+257
+00:23:26,360 --> 00:23:27,440
+Caleb!
+
+258
+00:23:27,440 --> 00:23:28,480
+- Dừng lại!
+- Anh xin lỗi.
+
+259
+00:23:28,480 --> 00:23:29,920
+- Anh chỉ cố giúp đỡ thôi mà!
+- Đừng làm thế nữa.
+
+260
+00:23:30,120 --> 00:23:31,450
+Ừ, chuyện này sẽ vui lắm đây.
+
+261
+00:23:31,650 --> 00:23:33,670
+Mọi người bình tĩnh lại đã, được chứ?
+
+262
+00:23:42,710 --> 00:23:43,830
+Mẹ kiếp!
+
+263
+00:24:53,610 --> 00:24:54,650
+Caleb.
+
+264
+00:25:01,870 --> 00:25:04,030
+Bò tôi ra! Bỏ tôi ra!
+
+265
+00:25:31,320 --> 00:25:32,590
+- Em không sao chứ?
+- Vâng.
+
+266
+00:25:32,790 --> 00:25:34,060
+Em ổn chứ?
+
+267
+00:25:45,430 --> 00:25:48,160
+- Tobias Eaton.
+- Nói lại lần nữa xem.
+
+268
+00:25:48,990 --> 00:25:50,760
+Tobias Eaton.
+
+269
+00:25:53,080 --> 00:25:54,700
+Mày biết cậu ta à?
+
+270
+00:25:55,590 --> 00:25:56,740
+Chính là tôi đây.
+
+271
+00:26:03,570 --> 00:26:05,560
+Bọn này đã tìm cậu suốt đấy.
+
+272
+00:26:07,280 --> 00:26:10,480
+Họ đang nói gì thế? Four?
+
+273
+00:26:26,990 --> 00:26:28,070
+Theo tôi.
+
+274
+00:26:33,670 --> 00:26:36,520
+Tris! Anh xin lỗi. Anh muốn giúp em. Anh...
+
+275
+00:26:47,260 --> 00:26:51,110
+Four! Four! Tại sao bọn họ lại tìm anh thế?
+
+276
+00:26:52,080 --> 00:26:53,810
+Sao bọn họ lại biết tên anh?
+
+277
+00:27:06,520 --> 00:27:08,370
+Đây là căn cứ của những người Vô Môn Phái.
+
+278
+00:27:10,060 --> 00:27:11,840
+Thật điên rồ.
+
+279
+00:27:48,520 --> 00:27:49,730
+Tobias!
+
+280
+00:27:53,610 --> 00:27:55,090
+Mẹ.
+
+281
+00:28:02,200 --> 00:28:03,740
+Anh tưởng bà ấy chết rồi chứ.
+
+282
+00:28:07,190 --> 00:28:08,350
+Em cũng thế.
+
+283
+00:28:25,000 --> 00:28:27,020
+Ai đó làm ơn cho cháu biết
+đang có chuyện gì được không?
+
+284
+00:28:31,760 --> 00:28:34,370
+Bố của Tobias là một kẻ rất bạo lực.
+
+285
+00:28:35,760 --> 00:28:39,470
+Cô biết cách duy nhất để cô
+có thể thật sự thoát khỏi ông ta là...
+
+286
+00:28:39,670 --> 00:28:41,380
+hoàn toàn biến mất.
+
+287
+00:28:43,800 --> 00:28:46,490
+Abnegation đã giúp cô giả chết.
+
+288
+00:28:46,760 --> 00:28:49,320
+Bất cứ điều gì để bảo vệ hình ảnh của Marcus.
+
+289
+00:28:49,520 --> 00:28:52,210
+Nhưng cô đã bỏ mặc anh ấy lại với Marcus.
+
+290
+00:28:53,160 --> 00:28:54,890
+Lúc đó cô còn rất trẻ.
+
+291
+00:28:56,320 --> 00:28:58,590
+Vài năm trước cô đã liên lạc với thằng bé.
+
+292
+00:28:59,170 --> 00:29:01,690
+Cô cảm thấy cuối cùng cũng đã
+đến lúc mẹ con cô đoàn tụ.
+
+293
+00:29:03,500 --> 00:29:06,860
+- Mẹ vẫn là mẹ con.
+- Không, mẹ tôi chết rồi.
+
+294
+00:29:08,450 --> 00:29:10,630
+Tôi đã dự tang lễ của bà ấy lúc tôi 6 tuổi.
+
+295
+00:29:12,310 --> 00:29:14,950
+Và bà không hề muốn đoàn tụ với tôi.
+
+296
+00:29:15,150 --> 00:29:17,790
+Muốn lợi dụng tôi thì đúng hơn.
+Cũng như bây giờ vậy.
+
+297
+00:29:17,990 --> 00:29:18,990
+Gì cơ?
+
+298
+00:29:20,290 --> 00:29:21,610
+Bà ta muốn có một đội quân.
+
+299
+00:29:22,310 --> 00:29:24,550
+- Một đội quân á?
+- Cô muốn có đồng minh.
+
+300
+00:29:24,550 --> 00:29:27,310
+- Không, bà muốn báo thù.
+- Đây không phải là chuyện về mẹ.
+
+301
+00:29:27,510 --> 00:29:29,560
+Mà là về mục đích chấm dứt hệ thống...
+
+302
+00:29:29,590 --> 00:29:31,830
+luôn quyết định sự cao thấp về địa vị xã hội.
+
+303
+00:29:32,000 --> 00:29:34,060
+Có thể thành phố này bị tường bao vây...
+
+304
+00:29:34,060 --> 00:29:36,930
+nhưng nó không nhất thiết phải trở thành nhà tù.
+
+305
+00:29:36,930 --> 00:29:38,510
+Cháu nghĩ nói thế là hơi quá đấy.
+
+306
+00:29:38,990 --> 00:29:40,610
+Ý cháu là, các Môn Phái không hoàn hảo...
+
+307
+00:29:40,610 --> 00:29:42,210
+nhưng không hề giống nhà tù chút nào.
+
+308
+00:29:42,210 --> 00:29:45,120
+Để cô đoán, cháu là Erudite?
+
+309
+00:29:47,470 --> 00:29:48,650
+Từng là Erudite thôi.
+
+310
+00:29:53,700 --> 00:29:57,070
+- Và cô sẵn lòng giết Jeanine ạ?
+- Dĩ nhiên rồi.
+
+311
+00:29:58,680 --> 00:30:00,850
+Khi kết hôn với Marcus
+cô biết cô ta rất rõ.
+
+312
+00:30:01,050 --> 00:30:03,380
+Và tin cô đi, không có điều gì mà cô ta không thể làm đâu.
+
+313
+00:30:03,580 --> 00:30:08,740
+- Nhưng cô nghĩ là cháu đã biết rồi.
+- Tris, bọn mình không được tin bà ta.
+
+314
+00:30:09,660 --> 00:30:12,440
+- Có lẽ bà ấy biết...
+- Chúng ta cùng phe mà, Tris.
+
+315
+00:30:13,640 --> 00:30:16,750
+Cô trở thành Vô Môn Phái là vì
+cô không phù hợp với bất cứ nơi nào.
+
+316
+00:30:16,950 --> 00:30:20,050
+Và cháu là Divergent vì cháu
+hợp với quá nhiều Môn Phái.
+
+317
+00:30:20,250 --> 00:30:22,810
+Cả hai chúng ta đều là
+mối đe dọa với Jeanine.
+
+318
+00:30:23,720 --> 00:30:26,560
+Nếu xảy ra chiến tranh thì
+người của cô luôn luôn sẵn sàng.
+
+319
+00:30:26,760 --> 00:30:27,760
+Và sau đó thì sao?
+
+320
+00:30:29,220 --> 00:30:32,660
+- Chúng ta hạ bệ những kẻ cầm quyền.
+- Và khi bà đã làm vậy thì sao?
+
+321
+00:30:33,710 --> 00:30:37,030
+Khi bà đã giết Jeanine,
+thì quyền lực sẽ nằm trong tay ai?
+
+322
+00:30:38,050 --> 00:30:42,450
+Em thấy chưa, bà ấy luôn cố tình
+không nói ra cái phần đó.
+
+323
+00:30:44,590 --> 00:30:47,960
+Đừng nói đây không phải là chuyện
+về bà. Vì đó chính là mục đích của bà.
+
+324
+00:30:50,800 --> 00:30:53,730
+Mẹ biết những Dauntless còn lại
+đang lẩn trốn ở đâu.
+
+325
+00:30:53,930 --> 00:30:56,890
+- Ở đâu ạ?
+- Họ trú ẩn ở Phái Candor.
+
+326
+00:30:57,090 --> 00:30:58,570
+Theo như cô biết thì họ vẫn còn ở đó.
+
+327
+00:31:00,070 --> 00:31:02,690
+Hãy nghĩ về chuyện này đi.
+Nếu chúng ta kết hợp lực lượng,
+
+328
+00:31:02,690 --> 00:31:06,820
+Dauntless và Vô Môn Phái,
+thì không ai ngăn cản được chúng ta.
+
+329
+00:31:06,990 --> 00:31:08,190
+Không có chuyện đó đâu.
+
+330
+00:31:08,390 --> 00:31:13,000
+Cảm ơn vì lòng hiếu khách của bà,
+nhưng bọn tôi sẽ rời đi ngay sáng mai.
+
+331
+00:31:13,200 --> 00:31:14,460
+Four, có lẽ chuyện này...
+
+332
+00:31:14,660 --> 00:31:16,820
+Tobias, xin con hãy suy xét kỹ.
+
+333
+00:31:17,290 --> 00:31:18,910
+Đừng có gọi tôi như thế.
+
+334
+00:31:21,510 --> 00:31:22,940
+Tên tôi là Four.
+
+335
+00:31:32,250 --> 00:31:34,520
+Cháu muốn lên sắp xếp chỗ ngủ
+cho nó hay là để cô làm?
+
+336
+00:31:55,780 --> 00:31:57,680
+Um...
+
+337
+00:31:57,680 --> 00:31:59,350
+Bữa ăn này trông tuyệt quá.
+
+338
+00:32:01,810 --> 00:32:03,100
+Cảm ơn cô.
+
+339
+00:32:16,590 --> 00:32:17,740
+Em rất tiếc.
+
+340
+00:32:25,240 --> 00:32:27,320
+Đáng lẽ anh nên cho em biết về mẹ anh.
+
+341
+00:32:37,980 --> 00:32:39,990
+Chúng ta sẽ không giữ kín bí mật nào nữa.
+
+342
+00:32:41,170 --> 00:32:42,580
+Được chứ?
+
+343
+00:32:53,260 --> 00:32:56,360
+Xin lỗi cháu. Cô không cố ý đánh thức cháu.
+
+344
+00:33:00,870 --> 00:33:03,390
+Cô luôn thích ngắm nó ngủ.
+
+345
+00:33:07,240 --> 00:33:09,950
+Cô nghĩ là các cháu sẽ đến Candor
+ngay khi trời sáng đúng không?
+
+346
+00:33:10,150 --> 00:33:11,150
+Vâng.
+
+347
+00:33:16,470 --> 00:33:20,300
+Nghe này, cô chỉ muốn
+điều tốt nhất cho thằng bé thôi.
+
+348
+00:33:22,250 --> 00:33:24,070
+Cô thậm chí còn không biết gì về anh ấy.
+
+349
+00:33:26,220 --> 00:33:28,430
+Cháu muốn nghĩ như thế đúng không?
+
+350
+00:33:28,460 --> 00:33:31,980
+Nhưng trong thâm tâm cô nghĩ là
+cháu sợ rằng cô hiểu thằng bé quá rõ.
+
+351
+00:33:34,740 --> 00:33:37,030
+- Cháu không sợ.
+- Dĩ nhiên là có rồi.
+
+352
+00:33:37,230 --> 00:33:41,310
+Cháu sợ rằng nó sẽ nhìn thấy được bản chất thật sự của cháu.
+
+353
+00:33:43,710 --> 00:33:45,590
+Đầy chết chóc.
+
+354
+00:33:48,490 --> 00:33:50,210
+Không tin cô à?
+
+355
+00:33:54,090 --> 00:33:55,790
+Tự mình hỏi cậu ta đi.
+
+356
+00:34:02,410 --> 00:34:03,940
+Em không sao chứ?
+
+357
+00:34:04,140 --> 00:34:05,140
+Vâng.
+
+358
+00:34:07,560 --> 00:34:10,150
+- Em chắc chứ?
+- Chắc mà.
+
+359
+00:34:59,810 --> 00:35:02,890
+- Anh sẽ không đi với hai người đâu.
+- Gì cơ?
+
+360
+00:35:04,840 --> 00:35:08,070
+Đến Candor. Anh sẽ không đi đâu.
+
+361
+00:35:11,810 --> 00:35:14,360
+- Anh đang nói gì thế?
+- Kế hoạch của em là gì?
+
+362
+00:35:16,040 --> 00:35:17,990
+Hai người sẽ tìm những Dauntless
+còn lại và sau đó thì sao?
+
+363
+00:35:18,440 --> 00:35:19,620
+Tấn công Erudite à?
+
+364
+00:35:19,820 --> 00:35:22,470
+Ám sát Jeanine rồi khởi động nội chiến?
+
+365
+00:35:23,440 --> 00:35:26,100
+Anh xin lỗi, anh không thể làm thế được.
+
+366
+00:35:28,060 --> 00:35:29,620
+Anh không giống như hai người.
+
+367
+00:35:33,760 --> 00:35:35,460
+Anh cần phải quay về Abnegation...
+
+368
+00:35:35,460 --> 00:35:39,350
+Sắp xếp mấy thứ mà bố mẹ để lại...
+Biết đâu ở đó anh sẽ hữu dụng hơn.
+
+369
+00:35:39,350 --> 00:35:42,250
+Caleb, chẳng còn lại gì ở Abnegation cả.
+
+370
+00:35:44,530 --> 00:35:45,650
+Ừ.
+
+371
+00:36:19,080 --> 00:36:21,900
+- Em ổn chứ?
+- Chúng ta cần phải đến Candor.
+
+372
+00:36:25,430 --> 00:36:26,970
+Tris!
+
+373
+00:36:30,490 --> 00:36:32,680
+Anh biết là em nghĩ mình phải chịu trách nhiệm về Caleb...
+
+374
+00:36:32,680 --> 00:36:35,480
+nhưng cậu ấy đã đưa ra chọn lựa rồi.
+
+375
+00:36:35,890 --> 00:36:37,740
+Em không thể bảo vệ tất cả mọi người được.
+
+376
+00:36:39,440 --> 00:36:43,190
+- Em chẳng bảo vệ được ai cả.
+- Không ai có khả năng đó hết.
+
+377
+00:36:44,120 --> 00:36:45,910
+Cậu ấy bỏ đi không phải lỗi của em.
+
+378
+00:36:45,910 --> 00:36:48,740
+Toàn bộ chuyện này đều không phải lỗi của em.
+
+379
+00:36:50,460 --> 00:36:53,840
+Johanna nói đúng.
+Em phải tha thứ cho bản thân mình.
+
+380
+00:37:01,390 --> 00:37:02,430
+Cảm ơn anh.
+
+381
+00:37:03,680 --> 00:37:05,440
+Chúng ta phải đi thôi.
+
+382
+00:37:32,670 --> 00:37:34,770
+- Tìm được họ rồi!
+- Vâng.
+
+383
+00:37:34,770 --> 00:37:37,210
+- Anh Four.
+- Tris.
+
+384
+00:37:37,210 --> 00:37:39,330
+Họ đến rồi.
+
+385
+00:37:40,020 --> 00:37:41,920
+- Thật vui được gặp lại hai người.
+- Các cậu không sao chứ?
+
+386
+00:37:42,120 --> 00:37:44,200
+Ổn hơn rồi. Tôi không thích cứ phải ẩn nấp hoài.
+
+387
+00:37:44,220 --> 00:37:45,550
+- Tris!
+- Christina!
+
+388
+00:37:48,880 --> 00:37:51,110
+- Gặp lại cậu mừng quá.
+- Tớ cũng thế.
+
+389
+00:37:51,310 --> 00:37:53,340
+Cậu có nghe gì về Will không?
+
+390
+00:37:56,620 --> 00:37:58,490
+- Không.
+- Không gì hết à?
+
+391
+00:37:58,690 --> 00:37:59,690
+Không.
+
+392
+00:38:01,090 --> 00:38:02,790
+Chắc cậu ấy gặp phải chuyện gì đó rồi.
+
+393
+00:38:03,670 --> 00:38:05,590
+Nếu không thì giờ cậu ấy
+đã đến tìm tớ, cậu biết đấy.
+
+394
+00:38:07,270 --> 00:38:09,500
+- Chào em.
+- Chào cô.
+
+395
+00:38:10,340 --> 00:38:11,570
+Em thế nào rồi?
+
+396
+00:38:13,040 --> 00:38:15,410
+- Chúng ta có bao nhiêu Dauntless?
+- Tổng cộng 175.
+
+397
+00:38:15,540 --> 00:38:18,040
+- 175? Chỉ thế thôi sao?
+- Số còn lại theo Max rồi.
+
+398
+00:38:18,240 --> 00:38:20,420
+Còn lâu mới đủ quân số mà chúng ta cần.
+
+399
+00:38:20,420 --> 00:38:21,960
+- Không. Chúng ta...
+- Đứng lại!
+
+400
+00:38:21,960 --> 00:38:23,680
+Bỏ súng xuống!
+
+401
+00:38:25,910 --> 00:38:28,640
+- Này, họ đi cùng chúng tôi.
+- Bọn tôi biết các người là ai.
+
+402
+00:38:28,840 --> 00:38:31,570
+Cảnh cáo lần cuối.
+Bỏ súng xuống.
+
+403
+00:38:34,060 --> 00:38:35,470
+Được thôi.
+
+404
+00:38:47,010 --> 00:38:48,430
+Nhẹ tay thôi nào.
+
+405
+00:39:00,670 --> 00:39:04,210
+- Tôi là Jack Kang, thủ lĩnh ở đây.
+- Bọn tôi biết ông là ai.
+
+406
+00:39:04,410 --> 00:39:06,090
+Chúng tôi không phải là
+mối đe dọa đối với Candor.
+
+407
+00:39:06,190 --> 00:39:07,670
+Có thể đó là sự thật đối với cậu,
+
+408
+00:39:07,670 --> 00:39:09,950
+nhưng tôi không nhất thiết phải đồng thuận.
+
+409
+00:39:09,950 --> 00:39:12,120
+Tôi chỉ biết chắc là hai người đang bị truy nã...
+
+410
+00:39:12,130 --> 00:39:13,980
+vì là chủ mưu cuộc nổi dậy...
+
+411
+00:39:14,180 --> 00:39:15,740
+và tấn công phái Abnegation.
+
+412
+00:39:19,460 --> 00:39:20,520
+Đó là những lời buộc tội dối trá.
+
+413
+00:39:20,620 --> 00:39:23,600
+Nếu cô là người Candor
+thì tôi sẽ tin cô ngay.
+
+414
+00:39:25,330 --> 00:39:28,570
+Không may là dựa vào tình hình hiện tại
+tôi buộc phải giao hai người cho Hội Đồng.
+
+415
+00:39:28,720 --> 00:39:31,800
+- Hai người có thể biện hộ ở đó.
+- Vậy thì giết bọn tôi bây giờ luôn đi.
+
+416
+00:39:32,000 --> 00:39:35,180
+Nếu bị Jeanine tìm thấy thì bọn tôi
+chả sống được đến lúc xét xử đâu.
+
+417
+00:39:35,380 --> 00:39:38,550
+Tôi nghi ngờ chuyện đó đấy. Cô ta
+không bao giờ kháng lệnh của Hội Đồng.
+
+418
+00:39:38,550 --> 00:39:42,450
+Ông chắc về chuyện đó chứ?
+Ai sẽ ngăn mụ ta lại? Ông à?
+
+419
+00:39:43,700 --> 00:39:45,930
+Luật lệ các Môn Phái
+phải được tôn trọng.
+
+420
+00:39:46,130 --> 00:39:48,040
+Không, chờ đã.
+
+421
+00:39:48,510 --> 00:39:50,260
+Tôi hỏi ông một câu được không?
+
+422
+00:39:51,730 --> 00:39:53,190
+Chỉ một câu thôi?
+
+423
+00:39:53,390 --> 00:39:55,610
+Jeanine tin rằng Erudite phù hợp nắm quyền...
+
+424
+00:39:55,620 --> 00:39:57,950
+trong Chính Phủ vì họ là Phái thông minh nhất.
+
+425
+00:39:58,050 --> 00:40:01,460
+Ông tin rằng Candor có quyền phán xét
+vì các ông rất trung thực đúng không?
+
+426
+00:40:01,660 --> 00:40:04,080
+Tôi thừa nhận là tôi tin như thế.
+
+427
+00:40:04,280 --> 00:40:06,860
+Vậy ông có nghĩ là
+tổ chức phiên tòa ở Candor...
+
+428
+00:40:07,060 --> 00:40:09,630
+sẽ công bằng hơn rất nhiều
+nếu so với Erudite?
+
+429
+00:40:13,980 --> 00:40:15,620
+Câu trả lời là có.
+
+430
+00:40:15,820 --> 00:40:18,240
+Theo ý tôi, phiên tòa ở Candor...
+
+431
+00:40:18,240 --> 00:40:20,880
+sẽ là cơ hội chính xác nhất để thực thi công lý một cách đúng đắn.
+
+432
+00:40:20,880 --> 00:40:24,530
+Vậy cậu đang muốn nhờ tôi
+đề nghị mở phiên tòa ở Candor...
+
+433
+00:40:24,730 --> 00:40:28,380
+Không. Khi xét xử ở Candor thì
+luôn được tiêm Huyết Thanh Sự Thật.
+
+434
+00:40:28,580 --> 00:40:29,580
+Chính xác.
+
+435
+00:40:31,640 --> 00:40:34,310
+Chúng tôi không thảo luận
+vấn đề đó với các Phái khác.
+
+436
+00:40:34,310 --> 00:40:36,970
+- Đó là một câu trả lời lảng tránh đấy.
+- Lảng tránh không phải là dối trá.
+
+437
+00:40:36,970 --> 00:40:38,780
+Nhưng cũng không hẳn là trung thực.
+
+438
+00:40:40,310 --> 00:40:44,190
+- Đúng, chúng tôi chế ra Huyết Thanh đó.
+- Vậy thì tiêm nó cho bọn tôi đi.
+
+439
+00:40:44,400 --> 00:40:45,500
+Four!
+
+440
+00:40:45,600 --> 00:40:48,200
+Nếu chúng ta có tội thì sẽ
+tự đến Hội Đồng trình diện, được chứ?
+
+441
+00:40:48,400 --> 00:40:51,190
+Nếu không thì ông vừa cứu được hai mạng người đấy.
+
+442
+00:40:51,390 --> 00:40:54,690
+- Và có được đồng minh trung thành.
+- Được thôi.
+
+443
+00:40:54,890 --> 00:40:57,230
+Nhưng cậu nên biết là Huyết Thanh này
+có tác động rất dữ dội.
+
+444
+00:40:57,430 --> 00:41:01,830
+Nó được thiết kế cho các ứng viên
+đã chứng minh sự thành thật.
+
+445
+00:41:02,030 --> 00:41:05,030
+Không phải ai cũng có thể
+dễ dàng chia sẻ bí mật của họ đâu.
+
+446
+00:41:06,690 --> 00:41:08,990
+- Em không muốn làm chuyện này.
+- Chúng ta buộc phải làm thế.
+
+447
+00:41:09,660 --> 00:41:12,110
+Cả hai ta đều không có bí mật nào
+đáng phải hy sinh tính mạng.
+
+448
+00:41:22,150 --> 00:41:24,080
+Hãy để sự thật giải thoát cho cậu.
+
+449
+00:41:41,760 --> 00:41:42,810
+Tobias Eaton.
+
+450
+00:41:46,830 --> 00:41:48,650
+Cậu bị cáo buộc âm mưu với...
+
+451
+00:41:48,660 --> 00:41:50,760
+đồng bọn Dauntless
+trong vụ tấn công Abnegation.
+
+452
+00:41:51,340 --> 00:41:53,100
+Đó có phải là sự thật không?
+
+453
+00:41:54,980 --> 00:41:57,000
+Âm mưu thì không.
+
+454
+00:41:57,200 --> 00:41:59,010
+Nhưng tôi có tấn công.
+
+455
+00:41:59,210 --> 00:42:01,710
+Tôi bị kiểm soát bởi Trình Mô Phỏng
+do Jeanine tạo ra và...
+
+456
+00:42:01,740 --> 00:42:04,180
+những Dauntless mà bà ta tuyển dụng.
+
+457
+00:42:05,300 --> 00:42:06,780
+Tris đã tìm được tôi.
+
+458
+00:42:08,080 --> 00:42:09,900
+Em ấy đã giải thoát tôi khỏi Trình Mô Phỏng...
+
+459
+00:42:09,900 --> 00:42:13,420
+và chúng tôi cùng nhau thoát khỏi đó.
+
+460
+00:42:18,620 --> 00:42:21,640
+Ý cậu Jeanine chính là chủ mưu vụ tấn công này?
+
+461
+00:42:23,210 --> 00:42:24,560
+Đúng thế.
+
+462
+00:42:29,080 --> 00:42:30,690
+Một điều cuối cùng.
+
+463
+00:42:32,180 --> 00:42:34,920
+Nếu cậu nghi ngờ Jeanine đã mua chuộc Dauntless,
+
+464
+00:42:34,920 --> 00:42:37,010
+tại sao cậu không rời khỏi đó?
+
+465
+00:42:38,410 --> 00:42:40,560
+Vì sao cậu ở lại?
+
+466
+00:42:40,970 --> 00:42:42,980
+Tôi đã muốn rời khỏi đó.
+
+467
+00:42:44,050 --> 00:42:46,340
+Nhưng rồi tôi yêu Tris Prior.
+
+468
+00:42:49,810 --> 00:42:51,480
+Và tôi không thể bỏ mặc em ấy được.
+
+469
+00:43:00,110 --> 00:43:02,270
+Cảm ơn vì sự trung thực của cậu.
+
+470
+00:43:02,470 --> 00:43:04,430
+Cảm ơn vì sự trung thực.
+
+471
+00:43:04,630 --> 00:43:07,270
+Tobias Eaton, phiên tòa đã
+kết thúc và cậu...
+
+472
+00:43:07,290 --> 00:43:09,940
+được phán quyết vô tội
+trong vụ tấn công Abnegation.
+
+473
+00:43:12,490 --> 00:43:14,060
+Mời cô Prior.
+
+474
+00:43:25,380 --> 00:43:27,160
+Hãy để sự thật giải thoát cho cô.
+
+475
+00:43:42,120 --> 00:43:43,390
+Tris Prior.
+
+476
+00:43:44,700 --> 00:43:48,030
+Cậu Eaton bảo cô đã giải thoát
+cậu ấy khỏi Trình Mô Phỏng.
+
+477
+00:43:50,690 --> 00:43:52,020
+Đúng thế.
+
+478
+00:43:52,460 --> 00:43:54,790
+Vậy là cô chưa từng bị Trình Mô Phỏng ảnh hưởng.
+
+479
+00:43:56,110 --> 00:43:57,150
+Không.
+
+480
+00:43:58,270 --> 00:43:59,810
+Sao lại có chuyện đó?
+
+481
+00:44:01,220 --> 00:44:03,400
+Vì tôi là Divergent.
+
+482
+00:44:09,860 --> 00:44:11,530
+Tôi hiểu rồi.
+
+483
+00:44:14,280 --> 00:44:18,710
+Vậy là cô không hề làm hại bất kỳ ai
+thuộc Dauntless hay Abnegation?
+
+484
+00:44:18,910 --> 00:44:22,740
+Có.
+
+485
+00:44:30,390 --> 00:44:31,530
+Là ai?
+
+486
+00:44:33,990 --> 00:44:36,040
+Mẹ tôi.
+
+487
+00:44:38,530 --> 00:44:44,070
+Tôi đã chứng kiến mẹ tôi chết
+và sau đó là bố tôi.
+
+488
+00:44:44,170 --> 00:44:46,950
+Họ bị giết khi đang cố gắng cứu tôi.
+
+489
+00:44:48,220 --> 00:44:50,470
+Và...
+
+490
+00:44:54,700 --> 00:44:58,830
+Cô Prior, cô càng chống cự thì
+Huyết Thanh sẽ càng gây đau đớn.
+
+491
+00:45:06,060 --> 00:45:11,090
+Bạn tôi... Tôi đã giết bạn mình.
+
+492
+00:45:11,810 --> 00:45:13,880
+Cậu ấy đã cố bắn tôi.
+
+493
+00:45:13,880 --> 00:45:15,710
+Và tôi...
+
+494
+00:45:20,090 --> 00:45:23,130
+Tôi bắn cậu ấy trước.
+
+495
+00:45:26,930 --> 00:45:28,790
+Tên cậu ta là gì?
+
+496
+00:45:30,140 --> 00:45:31,720
+Tôi không thể...
+
+497
+00:45:35,220 --> 00:45:37,070
+Tên cậu ta là gì?
+
+498
+00:45:40,310 --> 00:45:41,860
+Will.
+
+499
+00:45:43,990 --> 00:45:46,110
+Tôi đã giết Will.
+
+500
+00:45:49,980 --> 00:45:57,950
+Đó là điều sẽ xảy ra
+khi người khác đến gần tôi.
+
+501
+00:46:06,540 --> 00:46:08,590
+Họ sẽ bị tổn thương hoặc phải chết.
+
+502
+00:46:10,780 --> 00:46:13,330
+Tôi không thể tha thứ cho bản thân mình được.
+
+503
+00:46:16,220 --> 00:46:18,300
+Cảm ơn vì sự trung thực của cô.
+
+504
+00:46:18,500 --> 00:46:20,570
+Cảm ơn vì sự trung thực.
+
+505
+00:46:35,830 --> 00:46:37,710
+Tris!
+
+506
+00:46:38,590 --> 00:46:40,120
+Tris!
+
+507
+00:46:42,220 --> 00:46:44,160
+Anh xin lỗi. Nhé?
+
+508
+00:46:45,500 --> 00:46:47,300
+Em đã nói là em không muốn
+làm chuyện này mà.
+
+509
+00:46:47,300 --> 00:46:48,470
+Anh...
+
+510
+00:47:00,460 --> 00:47:01,460
+- Christina.
+- Đi đi.
+
+511
+00:47:04,820 --> 00:47:06,150
+Đi đi.
+
+512
+00:47:15,430 --> 00:47:17,760
+Trình Mô Phỏng Abnegnation đã hoàn tất.
+
+513
+00:47:19,440 --> 00:47:21,170
+Khởi Động Trình Mô Phỏng Dauntless.
+
+514
+00:47:24,380 --> 00:47:26,610
+Thưa bà, các dấu hiệu sinh tồn
+của Divergent đang hạ dần.
+
+515
+00:47:26,810 --> 00:47:28,970
+Nếu chúng ta không kéo ra khỏi
+trình mô phỏng thì cô ta sẽ chết.
+
+516
+00:47:28,970 --> 00:47:30,590
+Khi nào tôi bảo dừng thì mới dừng.
+
+517
+00:47:37,330 --> 00:47:39,010
+Cô ta sẽ làm được.
+
+518
+00:47:43,020 --> 00:47:45,150
+Cô ta sẽ vượt qua mọi Trình Mô Phỏng.
+
+519
+00:47:48,290 --> 00:47:50,980
+Trình Mô Phỏng Dauntless thất bại.
+
+520
+00:47:52,050 --> 00:47:54,780
+Đối tượng thí nghiệm Divergent
+thứ sáu đã tử vong.
+
+521
+00:47:57,930 --> 00:47:59,910
+Được rồi, tắt đi.
+
+522
+00:48:01,750 --> 00:48:03,710
+Chúng ta đang lãng phí thời gian đấy.
+
+523
+00:48:05,790 --> 00:48:10,070
+Tôi từng cho rằng mọi kẻ Divergents đều giống nhau.
+
+524
+00:48:12,560 --> 00:48:15,560
+Nhưng có những kẻ mạnh hơn kẻ khác.
+
+525
+00:48:17,520 --> 00:48:21,180
+Đưa mọi nhân viên không cần thiết
+đến khu giam giữ Divergent.
+
+526
+00:48:21,530 --> 00:48:23,350
+Chúng ta cần phải tìm kiếm gắt gao hơn.
+
+527
+00:48:23,530 --> 00:48:26,150
+Chúng ta cần phải tìm ra kẻ đặc biệt đó.
+
+528
+00:48:45,800 --> 00:48:48,250
+Anh bạn trai đáng sợ của cậu đâu rồi?
+
+529
+00:48:51,130 --> 00:48:54,230
+Có lẽ là đang làm mấy điều mà
+anh bạn trai đáng sợ hay làm.
+
+530
+00:48:59,320 --> 00:49:01,060
+Tớ đứng đây với cậu được không?
+
+531
+00:49:06,350 --> 00:49:08,010
+Tớ thích độ cao lắm.
+
+532
+00:49:09,330 --> 00:49:12,270
+Đứng trên này thì trông mọi vật
+đều nhỏ bé hơn, cậu biết đấy.
+
+533
+00:49:14,420 --> 00:49:16,340
+Tớ biết là nghe có vẻ rất điên rồ, nhưng...
+
+534
+00:49:16,700 --> 00:49:20,580
+Đôi lúc tớ nghĩ rằng mình nhìn thấy
+ánh sáng phía bên ngoài các bức tường.
+
+535
+00:49:22,740 --> 00:49:26,860
+Tớ biết bên ngoài đó chỉ là
+một vùng đất hoang vu, nhưng...
+
+536
+00:49:28,710 --> 00:49:31,910
+Chúng ta không thể là những người
+duy nhất còn lại được, đúng chứ?
+
+537
+00:49:36,890 --> 00:49:39,050
+Chạy đi! Nhanh lên!
+
+538
+00:49:39,250 --> 00:49:41,410
+- Kho vũ khí gần nhất ở đâu?
+- Tầng trệt!
+
+539
+00:50:16,170 --> 00:50:17,590
+Nhanh lên!
+
+540
+00:50:58,970 --> 00:51:00,840
+Xong hết rồi, tiếp tục xuống dưới!
+
+541
+00:51:29,060 --> 00:51:32,580
+Mẹ! Mẹ ơi!
+
+542
+00:51:34,550 --> 00:51:38,710
+- Em đang tìm mẹ.
+- Chị cũng có giống em này.
+
+543
+00:51:40,090 --> 00:51:42,380
+Em thấy chứ? không sao đâu mà.
+
+544
+00:51:42,380 --> 00:51:47,640
+Đây là một thứ giúp em ngủ ngon thôi.
+Chị cần em giúp chị một chuyện.
+
+545
+00:51:47,840 --> 00:51:49,270
+Em hãy leo lên đầu cầu thang...
+
+546
+00:51:49,270 --> 00:51:51,770
+và đừng xuống dưới cho đến khi
+mẹ em lên đón em nhé.
+
+547
+00:51:51,770 --> 00:51:55,150
+- Đừng xuống dưới.
+- Đừng xuống dưới. Em hiểu chứ?
+
+548
+00:51:56,510 --> 00:51:58,570
+Dũng cảm lên nhé?
+
+549
+00:51:58,770 --> 00:52:01,780
+Được rồi, em đi đi.
+
+550
+00:52:37,440 --> 00:52:38,650
+Chào cậu!
+
+551
+00:52:39,230 --> 00:52:40,940
+Tại sao chúng ta là người duy nhất tỉnh táo thế?
+
+552
+00:52:42,330 --> 00:52:43,990
+Vì tụi mình là Divergent.
+
+553
+00:52:44,090 --> 00:52:46,370
+Đến đây nào, giúp tớ mở cửa ra mau.
+
+554
+00:52:46,510 --> 00:52:49,090
+Uriah, tớ cần cậu giúp.
+
+555
+00:52:54,500 --> 00:52:55,830
+Ê!
+
+556
+00:52:56,390 --> 00:52:59,170
+Nhìn xem ai đã quyết định lộ mặt rồi này.
+
+557
+00:53:05,510 --> 00:53:07,760
+Rất vui được gặp lại mày.
+
+558
+00:53:14,020 --> 00:53:17,480
+Được rồi, không có gì phải lo hết.
+
+559
+00:53:17,900 --> 00:53:22,330
+Đây chỉ là một đợt thanh tra
+định kỳ, sẽ xong ngay thôi mà.
+
+560
+00:53:24,250 --> 00:53:25,450
+Xin chào.
+
+561
+00:53:30,300 --> 00:53:33,150
+Divergent 10%.
+
+562
+00:53:34,170 --> 00:53:35,290
+Mẹ kiếp.
+
+563
+00:53:35,920 --> 00:53:38,320
+Xém chút nữa thì mày
+là người bình thường rồi.
+
+564
+00:53:38,710 --> 00:53:39,920
+Chán ghê.
+
+565
+00:53:42,300 --> 00:53:44,380
+Nhiệm vụ không phải là giết người.
+
+566
+00:53:44,550 --> 00:53:45,900
+Thì sao?
+
+567
+00:53:46,330 --> 00:53:49,690
+Theo tôi thấy thì tất cả bọn chúng
+đều là lũ ngoài vòng pháp luật.
+
+568
+00:53:50,180 --> 00:53:54,350
+Làm nhanh gọn chuyện này thôi.
+Những kẻ khác sẽ sớm tỉnh lại.
+
+569
+00:54:06,040 --> 00:54:08,630
+- Chào cưng.
+- Em không được...
+
+570
+00:54:10,740 --> 00:54:15,040
+- Divergent 40%.
+- Anh e là cũng không phải cưng rồi.
+
+571
+00:54:16,150 --> 00:54:18,330
+Chị ấy bảo là em không được...
+
+572
+00:54:19,080 --> 00:54:22,420
+Chị ấy bảo là em không nên xuống dưới.
+
+573
+00:54:22,920 --> 00:54:25,170
+Vậy thì đáng lẽ em nên nghe theo lời nó.
+
+574
+00:54:35,720 --> 00:54:38,440
+Đủ rồi đấy! Cậu còn phải kiểm tra cô ta nữa!
+
+575
+00:54:38,440 --> 00:54:39,850
+Eric!
+
+576
+00:54:40,700 --> 00:54:43,560
+Jeanine bảo phải kiểm tra tất cả mọi người.
+
+577
+00:54:50,540 --> 00:54:54,370
+- Divergent 100%.
+- Chết tiệt thật.
+
+578
+00:54:54,370 --> 00:54:57,330
+- Gì thế?
+- Nó chính là người chúng ta cần tìm.
+
+579
+00:54:57,330 --> 00:54:59,420
+Tào lao.
+
+580
+00:55:03,560 --> 00:55:06,800
+Divergent 100%.
+
+581
+00:55:08,580 --> 00:55:10,470
+Lôi nó lên xe.
+
+582
+00:55:10,530 --> 00:55:12,420
+Tôi sẽ báo cho Jeanine.
+
+583
+00:55:16,240 --> 00:55:19,480
+Nếu mày nghĩ là mình gặp may thì mày lầm rồi.
+
+584
+00:55:20,590 --> 00:55:23,340
+Mày sẽ ước gì tao đã giết mày trước.
+
+585
+00:55:37,560 --> 00:55:40,330
+- Nằm xuống!
+- Bỏ vũ khí xuống!
+
+586
+00:55:54,570 --> 00:55:56,270
+Cảm ơn anh.
+
+587
+00:55:57,420 --> 00:55:59,760
+May là mày có khẩu súng đó đấy Four.
+
+588
+00:56:01,920 --> 00:56:04,560
+Cả hai ta đều biết nếu không có
+thứ đó thì mày là kẻ vô dụng mà.
+
+589
+00:56:35,970 --> 00:56:39,810
+Mày nghĩ nó an toàn rồi à?
+Mày lầm rồi.
+
+590
+00:56:40,520 --> 00:56:43,310
+Jeanine sẽ không bao giờ ngừng săn lùng mày đâu.
+
+591
+00:56:46,060 --> 00:56:51,860
+Tại sao chứ? Mụ ta muốn gì
+ở cô ấy? Nói cho tao biết đi.
+
+592
+00:56:51,860 --> 00:56:55,030
+Nó chính xác là người mà Jeanine cần.
+
+593
+00:56:55,030 --> 00:56:57,320
+Một đối tượng thí nghiệm hoàn hảo.
+
+594
+00:57:01,050 --> 00:57:03,320
+Mày nghĩ làm thế sẽ khiến tao sợ sao?
+
+595
+00:57:04,140 --> 00:57:06,790
+Mày đã gây ra cái chết cho hàng trăm người.
+
+596
+00:57:06,910 --> 00:57:09,340
+Mày cũng biết hình phạt cho chuyện đó mà.
+
+597
+00:57:09,340 --> 00:57:14,970
+Nghe này... Tao đã tìm được cách
+sống cùng với máu dính trên tay mình.
+
+598
+00:57:15,790 --> 00:57:17,820
+Nhưng mày thì có thể làm vậy không?
+
+599
+00:57:49,500 --> 00:57:51,040
+Sao không lấy nó ra được chứ?
+
+600
+00:57:51,070 --> 00:57:52,840
+Tôi chỉ biết là chúng gây mê cho tụi mình...
+
+601
+00:57:52,840 --> 00:57:54,470
+và khi tôi tỉnh lại thì nơi này hỗn loạn hết cả.
+
+602
+00:57:54,470 --> 00:57:56,130
+Hector, đừng có chơi với thứ đó!
+
+603
+00:58:06,510 --> 00:58:07,890
+Tất cả các bạn đều biết
+điều này có nghĩa là gì mà.
+
+604
+00:58:09,150 --> 00:58:11,060
+Cảm ơn ông.
+
+605
+00:58:11,080 --> 00:58:14,250
+- Vì đã giúp đỡ chúng tôi.
+- Ước gì tôi có thể giúp nhiều hơn.
+
+606
+00:58:15,270 --> 00:58:17,950
+Tôi không hề biết là Jeanine lại dám gây ra chuyện này.
+
+607
+00:58:18,730 --> 00:58:21,160
+Đã đến lúc chúng ta chống trả rồi.
+
+608
+00:58:21,210 --> 00:58:23,200
+- Nhưng chúng ta không có đủ binh lực.
+- Rồi sẽ có thôi.
+
+609
+00:58:24,720 --> 00:58:26,460
+Một khi chúng ta đến căn cứ của Vô Môn Phái.
+
+610
+00:58:31,070 --> 00:58:32,460
+Em nghe Eric nói rồi đấy.
+
+611
+00:58:32,750 --> 00:58:37,140
+Jeanine sẽ không ngừng nhắm đến em.
+Đây là lựa chọn duy nhất của chúng ta.
+
+612
+00:58:43,090 --> 00:58:47,140
+Tris Prior. Dĩ nhiên rồi.
+
+613
+00:58:47,140 --> 00:58:49,200
+Chắc chắn phải là cô ta.
+
+614
+00:58:50,070 --> 00:58:53,150
+- Vẫn chưa tìm thấy cô ta à?
+- Đúng thế.
+
+615
+00:58:53,230 --> 00:58:55,480
+Nhưng tôi đã nghĩ ra một giải pháp rồi.
+
+616
+00:58:59,530 --> 00:59:02,450
+- Cậu là Peter, đúng chứ?
+- Vâng.
+
+617
+00:59:02,450 --> 00:59:03,870
+Và Jeanine, tôi muốn nói rằng...
+
+618
+00:59:03,870 --> 00:59:07,250
+thật là vinh dự khi cuối cùng cũng được trực tiếp gặp bà.
+
+619
+00:59:08,170 --> 00:59:09,750
+Chúc mừng mẹ.
+
+620
+00:59:10,750 --> 00:59:12,290
+Bà đã có được cuộc chiến như mong muốn rồi.
+
+621
+00:59:12,880 --> 00:59:17,300
+- Mẹ biết là con ước gì còn có cách khác.
+- Nhưng không hề có.
+
+622
+00:59:20,010 --> 00:59:22,550
+Trong hai kẻ độc ác thì
+mẹ ít tàn bạo hơn, đúng chứ?
+
+623
+00:59:28,230 --> 00:59:29,850
+Tốt hơn là nên như thế.
+
+624
+00:59:30,560 --> 00:59:31,880
+Cho tôi biết...
+
+625
+00:59:31,880 --> 00:59:34,060
+Tại sao cậu lại đầu hàng Erudite?
+
+626
+00:59:35,670 --> 00:59:37,270
+Cậu muốn gì?
+
+627
+00:59:39,000 --> 00:59:41,570
+Tôi muốn có một vị trí trong chính quyền của bà.
+
+628
+00:59:42,670 --> 00:59:46,790
+Lý tưởng nhất là một chức vụ
+sẽ có cơ hội được thăng tiến.
+
+629
+00:59:47,830 --> 00:59:50,500
+Có thể tôi là Dauntless
+nhưng tôi không phải lũ đầu rỗng.
+
+630
+00:59:51,810 --> 00:59:54,000
+Không có ý gì đâu, Max.
+
+631
+00:59:57,830 --> 01:00:00,220
+Hãy chứng minh giá trị
+của cậu với với chúng tôi.
+
+632
+01:00:01,190 --> 01:00:03,510
+Rồi sau đó chúng ta
+sẽ bàn bạc về tham vọng của cậu.
+
+633
+01:00:03,530 --> 01:00:05,300
+Tuyệt.
+
+634
+01:00:06,260 --> 01:00:07,600
+Tôi phải bắt đầu từ đâu đây?
+
+635
+01:00:07,630 --> 01:00:10,030
+Hãy nói về cô bạn của cậu Tris Prior.
+
+636
+01:00:11,870 --> 01:00:14,900
+- Làm sao để tôi khiến cô ta lộ mặt?
+- Đơn giản thôi.
+
+637
+01:00:14,900 --> 01:00:18,070
+Nó là một người rất dễ mềm lòng.
+Abegnation bẩm sinh mà.
+
+638
+01:00:18,070 --> 01:00:20,940
+Đó là điểm yếu của nó. Bà chỉ cần
+phải biết cách tác động vào đó thôi.
+
+639
+01:00:20,940 --> 01:00:22,950
+Cứu với! Đến đây nhanh lên.
+
+640
+01:00:22,950 --> 01:00:23,990
+Ở phía trên kia!
+
+641
+01:00:23,990 --> 01:00:25,160
+Christina!
+
+642
+01:00:25,160 --> 01:00:26,830
+- Nhanh nào!
+- Làm ơn giúp với!
+
+643
+01:00:26,830 --> 01:00:29,160
+- Ai thế?
+- Ai đó làm gì đi chứ!
+
+644
+01:00:30,040 --> 01:00:32,750
+- Tôi không thấy!
+- Nhìn kìa, ở trên rìa!
+
+645
+01:00:33,240 --> 01:00:38,420
+Kẻ phản bội Tris Prior phải đầu hàng Erudite.
+
+646
+01:00:38,420 --> 01:00:41,800
+Nếu không mỗi ngày sẽ có thêm
+nhiều người phải chết.
+
+647
+01:00:45,010 --> 01:00:46,350
+Lên đó nhanh!
+
+648
+01:00:46,580 --> 01:00:48,760
+Hãy giao nộp Tris Prior.
+
+649
+01:00:49,010 --> 01:00:52,140
+Nếu không mỗi ngày sẽ có thêm
+nhiều người phải chết.
+
+650
+01:00:54,030 --> 01:00:56,400
+Hãy giao nộp Tris Prior.
+
+651
+01:00:56,400 --> 01:00:59,690
+Nếu không mỗi ngày sẽ có thêm
+nhiều người phải chết.
+
+652
+01:00:59,690 --> 01:01:02,490
+- Nhanh lên!
+- Hector. Không!
+
+653
+01:01:03,730 --> 01:01:05,740
+Hãy giao nộp Tris Prior.
+
+654
+01:01:05,740 --> 01:01:08,490
+- Nếu không mỗi ngày sẽ có thêm
+nhiều người phải chết.
+-Christina!
+
+655
+01:01:08,700 --> 01:01:10,040
+Không!
+
+656
+01:01:20,380 --> 01:01:21,880
+Christina!
+
+657
+01:01:22,510 --> 01:01:24,050
+Christina!
+
+658
+01:01:24,370 --> 01:01:26,470
+Tris! Giúp tớ với!
+
+659
+01:01:27,680 --> 01:01:28,550
+Tris!
+
+660
+01:01:36,600 --> 01:01:39,560
+Không sao rồi! Ổn rồi mà!
+
+661
+01:02:04,650 --> 01:02:07,180
+Chúng tôi lấy được cái này
+từ thi thể của người đã tự sát.
+
+662
+01:02:07,180 --> 01:02:11,380
+Marlene. Tên cậu ấy là Marlene.
+
+663
+01:02:11,990 --> 01:02:14,800
+Tôi xin lỗi. Marlene.
+
+664
+01:02:15,790 --> 01:02:18,440
+Đây là một cái vòi phun
+Huyết Thanh Mô Phỏng rất tinh vi.
+
+665
+01:02:18,440 --> 01:02:20,610
+Nó chứa cả bộ truyền tín hiệu ở phần chóp.
+
+666
+01:02:20,900 --> 01:02:23,560
+- Chúng ta sẽ gỡ ra bằng cách nào?
+- Tôi không biết.
+
+667
+01:02:23,710 --> 01:02:26,110
+Thiết bị này có cơ chế tự vệ.
+
+668
+01:02:27,030 --> 01:02:28,240
+Cái tua này...
+
+669
+01:02:28,410 --> 01:02:30,700
+sẽ quấn quanh động mạch chính gần nhất.
+
+670
+01:02:30,700 --> 01:02:35,080
+Nếu chúng ta cố lấy nó ra...
+thì nó sẽ giết chết vật chủ.
+
+671
+01:02:35,360 --> 01:02:37,330
+Giết chết vật chủ á?
+
+672
+01:02:37,330 --> 01:02:40,380
+- Giờ sao đây?
+- Thật là điên rồ!
+
+673
+01:02:40,380 --> 01:02:42,880
+- Vậy chúng ta phải làm gì đây?
+- Tori phải tìm cách vô hiệu hóa thiết bị này...
+
+674
+01:02:42,880 --> 01:02:44,170
+trước khi chúng ta làm bất cứ điều gì.
+
+675
+01:02:44,170 --> 01:02:45,870
+Hoặc là chúng ta có thể
+làm điều hợp lý nhất.
+
+676
+01:02:46,760 --> 01:02:48,510
+Giao nộp cô ta.
+
+677
+01:02:48,510 --> 01:02:52,310
+Chưa có ai biết về liên minh này,
+chúng ta phải bảo vệ lợi thế đó.
+
+678
+01:02:52,310 --> 01:02:54,640
+Nếu chúng ta giao nộp Tris ngay bây giờ...
+
+679
+01:02:55,000 --> 01:02:57,500
+thì chúng ta sẽ có thêm thời gian.
+
+680
+01:03:06,150 --> 01:03:08,450
+- Tôi nghĩ đó là một ý hay đấy.
+- Đuổi cô ta đi đi!
+
+681
+01:03:08,450 --> 01:03:10,990
+- Thật sao?
+- Nhưng anh phải vượt qua tôi trước đã.
+
+682
+01:03:11,280 --> 01:03:13,870
+- Cả tôi nữa.
+- Tất cả chúng tôi.
+
+683
+01:03:24,750 --> 01:03:26,090
+Này!
+
+684
+01:03:26,090 --> 01:03:29,220
+Tao là người đang cầm bom hẹn giờ trong tay đấy!
+
+685
+01:03:30,800 --> 01:03:32,680
+Đi luôn đi!
+
+686
+01:03:35,040 --> 01:03:47,150
+<FONT COLOR="#FFFFFF">.:: Biên Dịch: <FONT COLOR="#33CCFF">Kan Mặp Lavigne<FONT COLOR="#FFFFFF"> ::.
+
+687
+01:03:47,150 --> 01:03:59,260
+<FONT COLOR="#FFFFFF">.:: Hiệu Chỉnh: <FONT COLOR="#33CCFF">Kan Mặp Lavigne<FONT COLOR="#FFFFFF"> ::.
+
+688
+01:03:59,260 --> 01:04:01,140
+Anh biết em đang nghĩ gì.
+
+689
+01:04:03,980 --> 01:04:05,750
+Nhưng anh sẽ không để em làm thế đâu.
+
+690
+01:04:13,220 --> 01:04:15,600
+Em không thể để bất kỳ ai phải chết vì em nữa.
+
+691
+01:04:15,780 --> 01:04:18,140
+Sẽ không có ai phải chết vì em hết.
+
+692
+01:04:18,340 --> 01:04:20,730
+Tori sẽ vô hiệu hóa được thiết bị đó.
+
+693
+01:04:20,730 --> 01:04:23,710
+- Và nếu cô ấy không làm được thì sao?
+- Thì...
+
+694
+01:04:26,150 --> 01:04:29,970
+Nếu cô ấy thất bại
+thì chúng ta sẽ tìm cách khác.
+
+695
+01:04:31,250 --> 01:04:32,360
+Cùng nhau.
+
+696
+01:04:33,420 --> 01:04:35,370
+Anh biết đấy, em chỉ là một người thôi.
+
+697
+01:04:38,320 --> 01:04:41,330
+- Em không xứng đáng.
+- Em rất xứng đáng mà.
+
+698
+01:04:41,330 --> 01:04:43,540
+Đối với anh em còn hơn cả xứng đáng nữa.
+
+699
+01:04:44,840 --> 01:04:46,520
+Anh yêu em.
+
+700
+01:06:56,870 --> 01:07:00,720
+<i>Có thể thành phố này được an toàn
+sau những bức tường khép kín đó,</i>
+
+701
+01:07:00,860 --> 01:07:04,060
+<i>nhưng đừng sai lầm, chỉ mình chúng...</i>
+
+702
+01:07:04,060 --> 01:07:07,550
+<i>không thể đảm bảo được an ninh của cộng đồng này.</i>
+
+703
+01:07:07,550 --> 01:07:11,440
+<i>Chính chúng ta phải cẩn thận tìm kiếm...</i>
+
+704
+01:07:11,440 --> 01:07:15,690
+<i>xác định và cô lập mọi mối nguy hiểm chống lại chúng ta.</i>
+
+705
+01:07:15,690 --> 01:07:19,800
+<i>Có những cá nhân đang ẩn nấp
+giữa chúng ta cần phải bị bắt giữ.</i>
+
+706
+01:07:20,610 --> 01:07:24,480
+<i>Cho phép tôi chỉ rõ sự phản đối từ
+các thủ lĩnh những Môn Phái khác.</i>
+
+707
+01:07:25,550 --> 01:07:27,830
+<i>Tôi biết là có một số sự lo ngại...</i>
+
+708
+01:07:27,830 --> 01:07:30,330
+<i>về cuộc đột kích không thể tránh khỏi ở Candor.</i>
+
+709
+01:07:30,670 --> 01:07:32,730
+<i>Nên hãy để tôi nói rõ.</i>
+
+710
+01:07:34,280 --> 01:07:37,710
+<i>Bất kỳ Môn Phái nào
+chứa chấp Divergents...</i>
+
+711
+01:07:37,710 --> 01:07:39,620
+<i>đều không thể dung thứ.</i>
+
+712
+01:07:41,410 --> 01:07:44,250
+<i>Sớm thôi, tôi sẽ chứng minh rằng niềm tin của tôi...</i>
+
+713
+01:07:44,270 --> 01:07:47,890
+<i>cũng giống hệt như những Nhà Sáng Lập.</i>
+
+714
+01:07:48,070 --> 01:07:53,860
+<i>Và mọi việc tôi làm đều nhằm mục đích
+cao cả là gìn giữ nền hòa bình hiện tại.</i>
+
+715
+01:07:54,060 --> 01:07:55,440
+<i>Tôi đã cung cấp đầy đủ những hướng dẫn...</i>
+
+716
+01:07:55,440 --> 01:07:58,520
+<i>cho phép chúng ta diệt trừ cơn khủng hoảng Divergents này.</i>
+
+717
+01:07:58,520 --> 01:08:00,860
+<i>Một lần và mãi mãi.</i>
+
+718
+01:08:15,510 --> 01:08:17,040
+Con định đi đâu thế hả?
+
+719
+01:08:17,910 --> 01:08:20,050
+Em ấy rời đi rồi.
+
+720
+01:08:21,060 --> 01:08:23,590
+Gì cơ? Khi nào?
+
+721
+01:08:23,980 --> 01:08:26,760
+- Đêm qua.
+- Chờ đã.
+
+722
+01:08:29,720 --> 01:08:33,230
+Tobias! Mọi người xem con là lãnh đạo.
+
+723
+01:08:33,230 --> 01:08:35,810
+Con không thể bỏ mặc họ như vậy được.
+
+724
+01:08:40,320 --> 01:08:41,430
+Tobias!
+
+725
+01:08:51,200 --> 01:08:52,660
+Wow!
+
+726
+01:08:54,310 --> 01:08:56,670
+Phải thừa nhận là tao thấy ấn tượng đấy.
+
+727
+01:08:57,690 --> 01:09:00,130
+Ý tao là, tao biết mày ngu sẵn rồi nhưng...
+
+728
+01:09:00,130 --> 01:09:03,470
+Tao không nghĩ mày ngu tới mức
+thật sự tự mình đến đây...
+
+729
+01:09:03,540 --> 01:09:05,800
+và giao nộp bản thân.
+
+730
+01:09:10,880 --> 01:09:12,360
+Việc giết chóc cần phải được dừng lại.
+
+731
+01:09:13,430 --> 01:09:17,190
+Mày vừa chứng tỏ rằng người ta
+có thể rời khỏi Abnegation...
+
+732
+01:09:17,190 --> 01:09:19,690
+nhưng không thể bỏ đi phẩm chất
+Abnegation bên trong họ được.
+
+733
+01:09:20,070 --> 01:09:21,570
+Đi nào.
+
+734
+01:09:22,430 --> 01:09:24,930
+Một khi là Cứng Đơ thì mãi mãi
+sẽ là Cứng Đơ. Đúng chứ?
+
+735
+01:09:35,540 --> 01:09:38,080
+- Cái gì đây?
+- Cái gì đây hả?
+
+736
+01:09:38,080 --> 01:09:40,000
+Nó là lý do duy nhất để mày sống sót đấy Tris.
+
+737
+01:09:40,110 --> 01:09:43,170
+Thật là sướng khi tao biết
+mọi thứ còn mày thì không.
+
+738
+01:09:43,950 --> 01:09:46,130
+Tao cần mày mở cái hộp đó ra Tris.
+
+739
+01:09:52,010 --> 01:09:55,810
+Cách duy nhất để mở là phải qua được
+cả 5 Trình Mô Phỏng của 5 Môn Phái.
+
+740
+01:09:57,330 --> 01:10:00,570
+Nhưng cho đến giờ thì những người
+từng thử làm vậy đều chết hết rồi.
+
+741
+01:10:04,310 --> 01:10:06,150
+Tao không nghĩ là tao được phép
+nói với mày chuyện đó.
+
+742
+01:10:06,580 --> 01:10:07,690
+Ừ, thì...
+
+743
+01:10:08,710 --> 01:10:10,370
+Không áp lực gì đâu.
+
+744
+01:10:11,190 --> 01:10:12,540
+Thật là ấn tượng!
+
+745
+01:10:13,700 --> 01:10:18,060
+Người phù hợp lại chính là cô
+trong số tất cả Divergents.
+
+746
+01:10:18,910 --> 01:10:21,710
+Cô đang thách thức
+mọi xác suất của tôi.
+
+747
+01:10:24,960 --> 01:10:27,970
+Có ấn tượng bằng số người
+mà bà đã giết chết không?
+
+748
+01:10:30,030 --> 01:10:33,350
+Những thời khắc đen tối luôn song hành
+cùng các biện pháp cực đoan.
+
+749
+01:10:34,660 --> 01:10:37,450
+Có thể cô sẽ thấy điều đó rất khó tin.
+
+750
+01:10:37,520 --> 01:10:40,060
+Nhưng mọi việc tôi làm đều là vì một mục đích cao cả.
+
+751
+01:10:42,550 --> 01:10:45,400
+Mời cô bước lên vòng tròn đó đi.
+
+752
+01:11:06,340 --> 01:11:08,630
+Bước lên vòng tròn đó đi.
+
+753
+01:11:16,100 --> 01:11:17,280
+Thưa bà?
+
+754
+01:11:26,190 --> 01:11:28,950
+Dừng ngay việc tự sát lại
+nếu không tôi thề tôi bắn hắn.
+
+755
+01:11:29,490 --> 01:11:33,960
+Không sao. Cô muốn thì cứ giết,
+chúng tôi còn rất nhiều lính gác.
+
+756
+01:11:35,530 --> 01:11:36,860
+Gì chứ?
+
+757
+01:12:14,920 --> 01:12:20,410
+Tôi đoán là bà cần tôi sống thì
+chuyện này mới thành công, đúng chứ?
+
+758
+01:12:22,690 --> 01:12:24,290
+Phải không hả?!
+
+759
+01:12:36,990 --> 01:12:39,200
+Beatrice.
+
+760
+01:12:42,210 --> 01:12:43,480
+Caleb.
+
+761
+01:12:45,400 --> 01:12:46,780
+Caleb.
+
+762
+01:12:47,100 --> 01:12:51,360
+- Chào em.
+- Đừng có tiếp xúc với đối tượng.
+
+763
+01:12:52,280 --> 01:12:54,780
+Các điều kiện hiện tại
+đã không đạt mức tối ưu rồi.
+
+764
+01:13:03,340 --> 01:13:04,450
+Chúa ơi.
+
+765
+01:13:15,270 --> 01:13:18,130
+Nếu tôi làm chuyện này
+thì vụ tự sát đó sẽ ngừng lại chứ?
+
+766
+01:13:20,590 --> 01:13:24,240
+Không. Chuyện tự sát sẽ vẫn được tiếp tục.
+
+767
+01:13:24,790 --> 01:13:28,240
+Cho đến khi cô thành công và
+vượt qua được cả 5 Trình Mô Phỏng.
+
+768
+01:13:29,600 --> 01:13:32,610
+Như thế chắc là đủ rồi.
+
+769
+01:13:35,030 --> 01:13:36,860
+Chúc may mắn.
+
+770
+01:14:48,850 --> 01:14:50,270
+Bắt đầu thôi.
+
+771
+01:14:51,680 --> 01:14:54,280
+Khởi Tạo Trình Mô Phỏng Dauntless.
+
+772
+01:15:13,450 --> 01:15:16,680
+Mẹ ơi.
+
+773
+01:15:19,650 --> 01:15:20,890
+Tris, cứu mẹ với!
+
+774
+01:15:21,890 --> 01:15:23,350
+Mẹ ơi!
+
+775
+01:15:25,930 --> 01:15:27,890
+Tris! Cứu mẹ với!
+
+776
+01:15:51,330 --> 01:15:53,140
+Nhịp tim cô ta đang tăng lên.
+
+777
+01:15:54,670 --> 01:15:55,990
+Cứ tiếp tục đi.
+
+778
+01:16:15,540 --> 01:16:16,730
+Mẹ ơi!
+
+779
+01:16:26,910 --> 01:16:28,910
+- Tris!
+- Con đến đây.
+
+780
+01:17:03,960 --> 01:17:05,920
+Mẹ ơi!
+
+781
+01:17:10,130 --> 01:17:11,630
+Con đến ngay đây.
+
+782
+01:17:57,490 --> 01:17:58,860
+Tris, cứu mẹ với!
+
+783
+01:17:59,690 --> 01:18:01,250
+Hãy giữ chặt tay con!
+
+784
+01:18:12,090 --> 01:18:13,440
+Tris.
+
+785
+01:18:15,280 --> 01:18:17,250
+Trình Mô Phỏng Dauntless hoàn tất.
+
+786
+01:18:31,760 --> 01:18:35,290
+- Con nhớ mẹ nhiều lắm.
+- Mẹ biết.
+
+787
+01:18:36,820 --> 01:18:38,490
+Nhưng mẹ vẫn còn ở bên con mà.
+
+788
+01:18:49,910 --> 01:18:51,660
+Lúc này con cần phải thật mạnh mẽ.
+
+789
+01:18:53,160 --> 01:18:54,920
+Hãy nói với mẹ
+là con sẽ mạnh mẽ đi.
+
+790
+01:18:55,470 --> 01:18:57,500
+- Con đang cố đây.
+- Con có thể làm được mà.
+
+791
+01:18:57,830 --> 01:18:59,620
+Mẹ biết chắc chắn điều đó.
+
+792
+01:19:00,280 --> 01:19:04,480
+Con rất dũng cảm.
+Dũng cảm hơn bất kỳ ai.
+
+793
+01:19:05,960 --> 01:19:08,060
+Con không hề dũng cảm mẹ à.
+
+794
+01:19:10,970 --> 01:19:13,290
+Con chỉ giả vờ như thế thôi.
+
+795
+01:19:14,250 --> 01:19:17,130
+Con muốn mọi người nghĩ như vậy,
+nhưng con không hề dũng cảm.
+
+796
+01:19:21,160 --> 01:19:24,620
+Con thật sự rất sợ và...
+
+797
+01:19:24,620 --> 01:19:27,660
+Có lẽ chúng ta thật sự là
+mối nguy đối với thế giới này.
+
+798
+01:19:29,290 --> 01:19:31,160
+Divergents.
+
+799
+01:19:32,440 --> 01:19:35,180
+Con chưa từng mong muốn những chuyện này.
+
+800
+01:19:36,040 --> 01:19:39,460
+Mẹ và bố, anh Caleb và Four.
+
+801
+01:19:40,270 --> 01:19:42,310
+Con chỉ không thể không nghĩ rằng...
+
+802
+01:19:42,310 --> 01:19:47,190
+nếu con là người bình thường thì chúng ta vẫn còn ở bên nhau.
+
+803
+01:19:48,640 --> 01:19:51,580
+Mẹ, con không muốn là Divergent nữa.
+
+804
+01:19:51,590 --> 01:19:54,770
+Con chỉ muốn mình lại được
+cảm thấy an toàn thôi.
+
+805
+01:19:57,630 --> 01:19:59,910
+Trình Mô Phỏng Candor đã hoàn tất.
+
+806
+01:20:19,890 --> 01:20:22,670
+Four. Anh đến đây sao?
+
+807
+01:20:22,870 --> 01:20:24,770
+- Ừ, anh đây.
+- Anh đến rồi!
+
+808
+01:20:26,400 --> 01:20:28,100
+- Em không sao chứ?
+- Vâng.
+
+809
+01:20:29,490 --> 01:20:31,010
+Bảo vệ hành lang đi.
+
+810
+01:20:34,890 --> 01:20:36,260
+Chúng ta rời khỏi đây thôi nào.
+
+811
+01:20:38,160 --> 01:20:39,750
+- Em ổn chứ?
+- Vâng.
+
+812
+01:20:54,040 --> 01:20:55,900
+Thôi anh. Tha cho nó đi.
+
+813
+01:20:56,690 --> 01:20:58,210
+Chờ đã, mày không bắn tao sao?
+
+814
+01:20:59,210 --> 01:21:01,010
+Một khi là Cứng Đơ thì sẽ
+mãi mãi là Cứng Đơ.
+
+815
+01:21:13,790 --> 01:21:15,030
+Đi thôi!
+
+816
+01:21:21,690 --> 01:21:24,920
+Four, sao anh vượt qua
+hệ thống an ninh được?
+
+817
+01:21:24,920 --> 01:21:27,570
+Em biết anh mà, kỹ năng
+của anh bạn trai đáng sợ.
+
+818
+01:21:32,320 --> 01:21:33,520
+Chuyện gì thế?
+
+819
+01:21:36,550 --> 01:21:37,930
+Anh không có mặt ở đó.
+
+820
+01:21:37,930 --> 01:21:40,100
+Anh thậm chí còn không nghe em nói thế.
+
+821
+01:21:40,640 --> 01:21:42,930
+Em nói gì thế?
+
+822
+01:21:43,470 --> 01:21:45,730
+Tris, chúng ta cần phải rời đi ngay bây giờ, được chứ?
+
+823
+01:21:46,690 --> 01:21:48,230
+Em xin lỗi, Four.
+
+824
+01:21:48,810 --> 01:21:49,980
+Gì cơ?
+
+825
+01:21:49,980 --> 01:21:53,030
+Em xin lỗi vì đã không nói với anh là em sẽ đến đây.
+
+826
+01:21:53,250 --> 01:21:54,990
+Em muốn nói lời tạm biệt,
+
+827
+01:21:54,990 --> 01:21:56,610
+nhưng em chỉ không biết
+phải làm thế bằng cách nào.
+
+828
+01:21:56,610 --> 01:21:59,490
+Em... Em đang nói gì thế hả?
+
+829
+01:22:03,210 --> 01:22:06,300
+Dù cho em không thể nói ra điều này ngoài đời thật...
+
+830
+01:22:06,330 --> 01:22:09,670
+nhưng ít nhất thì
+lúc này em cũng nói được rồi.
+
+831
+01:22:10,080 --> 01:22:12,210
+Dù cho đây chỉ là Trình Mô Phỏng.
+
+832
+01:22:12,210 --> 01:22:14,950
+Tris, chúng ta không ở trong Trình Mô Phỏng.
+
+833
+01:22:14,950 --> 01:22:17,430
+Em nghĩ anh không biết khi nào mình
+đang ở trong Trình Mô Phỏng sao?
+
+834
+01:22:17,430 --> 01:22:18,850
+Four!
+
+835
+01:22:18,850 --> 01:22:21,310
+Anh không ở trong Trình Mô Phỏng.
+
+836
+01:22:24,050 --> 01:22:27,740
+- Mà anh chính là Trình Mô Phỏng.
+- Chờ đã, chờ đã.
+
+837
+01:23:00,070 --> 01:23:02,340
+Trình Mô Phỏng Erudite đã hoàn tất.
+
+838
+01:23:03,200 --> 01:23:05,180
+Giờ chỉ còn lại Amity thôi.
+
+839
+01:23:05,180 --> 01:23:07,230
+Cô ta vẫn chưa vượt qua Trình Mô Phỏng Abnegation.
+
+840
+01:23:07,230 --> 01:23:10,690
+Qua rồi đấy. Khi cô ta tha mạng cho cậu.
+
+841
+01:23:12,240 --> 01:23:14,440
+Cô gái này thật phi thường.
+
+842
+01:23:15,220 --> 01:23:16,530
+Cô ta vượt qua được...
+
+843
+01:23:16,550 --> 01:23:18,030
+Trình Mô Phỏng
+của 4 Môn Phái chỉ trong 1 ngày.
+
+844
+01:23:20,580 --> 01:23:22,340
+Chưa từng có ai tiến xa đến thế.
+
+845
+01:23:23,930 --> 01:23:25,150
+Chúng ta gặp rắc rối rồi.
+
+846
+01:23:30,730 --> 01:23:32,960
+Con bé đang đuối sức.
+Phải cho em ấy nghỉ ngơi.
+
+847
+01:23:34,040 --> 01:23:36,920
+Cậu chắc là mình không để tình cảm
+gia đình che mờ óc phán đoán đấy chứ?
+
+848
+01:23:37,150 --> 01:23:38,490
+Bà tự đến xem đi.
+
+849
+01:23:46,550 --> 01:23:47,620
+Được thôi.
+
+850
+01:23:49,860 --> 01:23:51,450
+Tháo gỡ đối tượng.
+
+851
+01:24:02,760 --> 01:24:06,060
+Làm tốt lắm các quý ông.
+Ngày mai chúng ta sẽ tiếp tục.
+
+852
+01:24:48,750 --> 01:24:51,860
+Anh chưa từng có dự định
+quay về Abnegation, đúng không?
+
+853
+01:24:54,730 --> 01:24:56,750
+Anh phải làm những việc
+mà mình cho là đúng.
+
+854
+01:24:57,660 --> 01:25:00,000
+Bố mẹ chúng ta sẽ rất xấu hổ về anh.
+
+855
+01:25:01,330 --> 01:25:04,010
+Có lẽ là không đâu.
+
+856
+01:25:04,030 --> 01:25:06,710
+Ý anh là, anh sẵn lòng hy sinh cả em mà.
+
+857
+01:25:07,810 --> 01:25:09,420
+Người thân duy nhất mà anh còn lại.
+
+858
+01:25:09,520 --> 01:25:10,640
+Người duy nhất mà anh yêu thương.
+
+859
+01:25:10,660 --> 01:25:12,770
+Để bảo vệ tất cả những người khác.
+
+860
+01:25:15,620 --> 01:25:17,290
+Còn hành động nào vị tha hơn thế nữa chứ?
+
+861
+01:25:26,080 --> 01:25:27,700
+Jeanine nghĩ là...
+
+862
+01:25:27,730 --> 01:25:29,280
+có thứ gì trong chiếc hộp đó hả Caleb?
+
+863
+01:25:29,620 --> 01:25:31,370
+Một thông điệp từ những Nhà Sáng Lập.
+
+864
+01:25:31,370 --> 01:25:36,000
+Nhưng chiếc hộp chỉ mở ra khi cả 5
+Trình Mô Phỏng đều đã hoàn thành.
+
+865
+01:25:36,000 --> 01:25:37,000
+Vì thế nên bọn anh cần...
+
+866
+01:25:37,020 --> 01:25:38,280
+một người như em để mở nó ra.
+
+867
+01:25:39,440 --> 01:25:41,560
+Em là bằng chứng sống cho thấy Divergent...
+
+868
+01:25:41,580 --> 01:25:43,550
+hoàn toàn vượt ngoài mọi tầm kiểm soát
+
+869
+01:25:44,270 --> 01:25:45,420
+Anh thậm chí có đang nghe...
+
+870
+01:25:45,450 --> 01:25:46,590
+lời nói của chính mình lúc này không thế?
+
+871
+01:25:47,690 --> 01:25:49,010
+Không ai nghĩ rằng chuyện...
+
+872
+01:25:49,010 --> 01:25:50,600
+em sinh ra như thế này là lỗi của em.
+
+873
+01:25:50,790 --> 01:25:53,050
+Jeanine đã giết cả một Môn Phái đấy, Caleb.
+
+874
+01:25:53,050 --> 01:25:55,300
+Môn Phái đó không còn đáng tin nữa.
+
+875
+01:25:55,300 --> 01:25:56,900
+Mụ đã giết bố mẹ của chúng ta.
+
+876
+01:25:56,900 --> 01:25:59,210
+Bố mẹ của chúng ta tự làm tự chịu thôi.
+
+877
+01:25:59,410 --> 01:26:00,770
+Anh đang nói gì thế hả?
+
+878
+01:26:01,940 --> 01:26:04,200
+Chiếc hộp đó ở trong nhà chúng ta.
+
+879
+01:26:04,200 --> 01:26:06,110
+Chính họ đã giấu nó.
+
+880
+01:26:06,110 --> 01:26:08,210
+Những mạng sống đó đáng lẽ
+đã có thể được tha bổng.
+
+881
+01:26:10,250 --> 01:26:12,650
+Có vẻ như chúng ta không hiểu rõ
+về bố mẹ như mình đã nghĩ.
+
+882
+01:26:15,530 --> 01:26:18,540
+Hết giờ đoàn tụ gia đình rồi. Đi thôi!
+
+883
+01:26:26,370 --> 01:26:28,720
+Tao có một bất ngờ nhỏ cho mày đây Tris.
+
+884
+01:26:32,700 --> 01:26:34,310
+- Four!
+- Tris!
+
+885
+01:26:34,400 --> 01:26:35,520
+- Four!
+- Tris!
+
+886
+01:26:35,520 --> 01:26:36,230
+Four!
+
+887
+01:26:36,230 --> 01:26:37,520
+- Four!
+- Tris!
+
+888
+01:26:37,940 --> 01:26:38,710
+Tris!
+
+889
+01:26:38,710 --> 01:26:39,690
+Four!
+
+890
+01:26:39,690 --> 01:26:41,940
+Four! Ahhh!
+
+891
+01:26:41,980 --> 01:26:42,980
+Four!
+
+892
+01:26:51,440 --> 01:26:54,210
+Tôi cử anh trai cô đến
+để giải thích cho cô hiểu rằng...
+
+893
+01:26:54,230 --> 01:26:56,850
+việc cô đang làm sẽ quyết định
+sự an toàn cho cả thành phố này.
+
+894
+01:26:57,050 --> 01:26:58,410
+Làm ơn hãy thả Four ra.
+
+895
+01:26:59,990 --> 01:27:02,040
+Nếu cô quan tâm đến tính mạng cậu ta...
+
+896
+01:27:02,040 --> 01:27:05,340
+thì hãy tập trung vào nhiệm vụ trước mắt đi.
+
+897
+01:27:07,410 --> 01:27:10,100
+Hãy cho tôi biết...
+Cô có thích sự trớ trêu không?
+
+898
+01:27:11,160 --> 01:27:13,640
+Cô đã vượt qua Trình Mô Phỏng của Erudite...
+
+899
+01:27:13,640 --> 01:27:16,170
+nên chắc hẳn cô phải có sức mạnh trí tuệ.
+
+900
+01:27:16,170 --> 01:27:17,270
+Đúng là trớ trêu thật.
+
+901
+01:27:17,270 --> 01:27:19,770
+Ví dụ như bây giờ lòng cô đang tràn ngập sự hận thù,
+
+902
+01:27:19,770 --> 01:27:22,020
+nhưng cô cần phải
+vượt qua Trình Mô Phỏng Amity.
+
+903
+01:27:26,650 --> 01:27:29,240
+Và còn có rất nhiều sự trớ trêu khác nữa đây.
+
+904
+01:27:29,600 --> 01:27:31,780
+Ví dụ như sự thật rằng người mẹ yêu quý của cô...
+
+905
+01:27:31,780 --> 01:27:33,370
+- Im đi!
+- Chính việc cô đã dũng cảm như Dauntless...
+
+906
+01:27:33,370 --> 01:27:36,250
+cứu mẹ mình đã khiến cô dính vào mớ rắc rối này.
+
+907
+01:27:36,340 --> 01:27:37,760
+Chính bà đã lôi tôi vào chuyện này.
+
+908
+01:27:37,760 --> 01:27:40,040
+Và còn điều trớ trêu nhất trong số đó.
+
+909
+01:27:40,070 --> 01:27:40,800
+Thôi ngay đi.
+
+910
+01:27:40,800 --> 01:27:43,250
+Là Natalie Prior không chỉ bỏ mạng...
+
+911
+01:27:43,250 --> 01:27:44,590
+vì cố gắng bảo vệ thông tin...
+
+912
+01:27:44,590 --> 01:27:46,800
+- mà giờ tôi đã nắm trong tay.
+- Vì chính bà đã cướp đoạt.
+
+913
+01:27:47,010 --> 01:27:50,760
+- Bà đã giết mẹ tôi vì thứ đó!
+- Thông tin mà bà ta đã ích kỷ giấu giếm...
+
+914
+01:27:50,760 --> 01:27:52,050
+Nhưng chính con gái của bà ta,
+
+915
+01:27:52,050 --> 01:27:55,560
+Divergent Tris yêu quý của bà ta sẽ chính là người...
+
+916
+01:27:55,560 --> 01:27:57,390
+- khai mở thông tin đó cho tôi.
+- Tôi bảo là câm ngay đi!
+
+917
+01:27:57,390 --> 01:27:58,560
+Vì thế...
+
+918
+01:27:58,800 --> 01:28:02,660
+cái chết của mẹ cô, cũng như
+cái chết của bạn trai cô....
+
+919
+01:28:02,660 --> 01:28:05,520
+đều sẽ trở nên vô nghĩa cả.
+
+920
+01:29:13,720 --> 01:29:18,300
+Đừng kéo cô ta ra vội, khoan đã.
+
+921
+01:30:07,650 --> 01:30:09,150
+Không!
+
+922
+01:30:10,020 --> 01:30:11,480
+Không!
+
+923
+01:30:12,610 --> 01:30:14,110
+Cứu cô ta đi!
+
+924
+01:30:16,870 --> 01:30:18,210
+Đánh thức cô ta...
+
+925
+01:30:19,880 --> 01:30:21,220
+Không!
+
+926
+01:30:22,110 --> 01:30:23,350
+Cứu cô ta nhanh lên.
+
+927
+01:30:23,550 --> 01:30:24,950
+Nhanh lên!
+
+928
+01:30:25,150 --> 01:30:26,460
+Thôi nào!
+
+929
+01:30:26,460 --> 01:30:28,170
+Nhanh lên!
+
+930
+01:30:30,870 --> 01:30:31,880
+Cứu cô ta ngay đi!
+
+931
+01:30:31,880 --> 01:30:34,130
+Đối tượng thí nghiệm thứ bảy đã tử vong.
+
+932
+01:30:58,200 --> 01:31:00,240
+Tôi thật sự đã nghĩ rằng
+cô chính là người thích hợp.
+
+933
+01:31:12,610 --> 01:31:13,710
+Chúng ta...
+
+934
+01:31:16,650 --> 01:31:20,390
+Chúng ta phải tiếp tục tìm kiếm thôi.
+
+935
+01:31:35,210 --> 01:31:37,710
+Hãy tìm sự an ủi
+ở Môn Phái của cậu, Caleb.
+
+936
+01:31:38,110 --> 01:31:40,020
+Giờ thì chúng tôi là gia đình của cậu rồi.
+
+937
+01:32:26,790 --> 01:32:28,490
+Jeanine muốn tao cho mày xem chuyện này.
+
+938
+01:32:58,240 --> 01:33:00,900
+Ê, Four, làm cái trò mà mày hay làm đi chứ.
+
+939
+01:33:07,340 --> 01:33:09,210
+Ê Four, hơi bị thông minh đúng không?
+
+940
+01:33:09,390 --> 01:33:11,870
+Đầu tiên tao trộm lọ thuốc tê liệt.
+
+941
+01:33:11,870 --> 01:33:14,010
+Rồi tao tiêm cho nó lúc nó phát hoảng lên vì mày.
+
+942
+01:33:14,060 --> 01:33:16,030
+Tao đã bảo với lũ ở đây
+là tao thông minh lắm mà.
+
+943
+01:33:16,060 --> 01:33:17,510
+Đáng lẽ tụi nó nên nghe tao nói.
+
+944
+01:33:23,680 --> 01:33:27,370
+- Anh là thật!
+- Ừ, anh là thật.
+
+945
+01:33:29,470 --> 01:33:34,380
+- Anh đang làm gì ở đây thế?
+- Em chết thì anh sẽ cùng chết.
+
+946
+01:33:37,540 --> 01:33:40,870
+Được rồi, đi thôi, nghiêm túc đấy.
+
+947
+01:33:40,890 --> 01:33:42,310
+Tụi mày có thể tâm sự chim én sau.
+
+948
+01:33:43,250 --> 01:33:44,720
+- Em ổn chứ?
+- Vâng.
+
+949
+01:33:48,880 --> 01:33:50,120
+- Cảm ơn, Peter.
+- Ờ, sao cũng được.
+
+950
+01:33:50,120 --> 01:33:51,450
+Giờ chúng ta huề rồi nhé Cứng Đơ.
+
+951
+01:33:52,370 --> 01:33:54,370
+Được rồi, chúng ta đi nhanh lên nào.
+
+952
+01:33:54,370 --> 01:33:55,540
+Trước khi Jeanine nhận ra...
+
+953
+01:33:55,540 --> 01:33:56,790
+- không! Không!
+- là tụi mình đã biến mất.
+
+954
+01:33:56,790 --> 01:33:58,890
+- Sao thế?
+- Chúng ta phải đến lấy chiếc hộp.
+
+955
+01:33:58,890 --> 01:34:01,020
+Mày giỡn mặt tao hả? Giờ không phải
+là lúc đi lấy đồ lưu niệm đâu Tris.
+
+956
+01:34:01,020 --> 01:34:02,420
+Four, anh phải nghe em nói.
+
+957
+01:34:02,660 --> 01:34:04,460
+Đó không phải là thứ như
+Jeanine nghĩ đâu. Em biết chắc mà.
+
+958
+01:34:04,490 --> 01:34:05,810
+Nếu đúng thế thì mẹ em đã phá hủy chiếc hộp rồi.
+
+959
+01:34:06,650 --> 01:34:08,220
+Chúng ta phải đi lấy nó.
+
+960
+01:34:11,680 --> 01:34:14,110
+Peter, còn lối nào khác
+vào phòng thí nghiệm không?
+
+961
+01:34:14,800 --> 01:34:17,760
+Tao có thể vào phòng điều khiển
+để vô hiệu hóa mọi cánh cửa.
+
+962
+01:34:17,760 --> 01:34:19,190
+Được rồi, làm thế đi!
+
+963
+01:34:21,370 --> 01:34:23,320
+- Ờ, ngay bây giờ hả?
+- Ừ.
+
+964
+01:34:23,320 --> 01:34:25,450
+Không cần phải nói ra thì
+mày đã chọn phe tụi tao rồi.
+
+965
+01:34:25,760 --> 01:34:28,030
+Nếu mày muốn sống thì hãy đảm bảo
+là bọn tao được an toàn.
+
+966
+01:34:29,200 --> 01:34:30,240
+Đi thôi!
+
+967
+01:34:33,160 --> 01:34:34,160
+Đệch!
+
+968
+01:35:02,940 --> 01:35:05,450
+Đừng dùng súng. Như thế
+sẽ đánh động những kẻ khác.
+
+969
+01:35:07,480 --> 01:35:09,520
+- Này.
+- Đứng lại!
+
+970
+01:35:20,300 --> 01:35:21,880
+- Truy Nhập Bị Từ Chối.
+- Thôi nào!
+
+971
+01:35:49,540 --> 01:35:51,780
+- Cho Phép Truy Nhập.
+- Đi nào.
+
+972
+01:35:52,780 --> 01:35:54,030
+Nhanh lên em!
+
+973
+01:35:54,190 --> 01:35:55,820
+- Là nó hả
+- Vâng.
+
+974
+01:35:55,910 --> 01:35:57,570
+Lấy chiếc hộp rồi đi thôi.
+
+975
+01:36:00,880 --> 01:36:04,870
+- Phát Hiện Vi Phạm An Ninh.
+- Có chuyện gì thế?
+
+976
+01:36:07,610 --> 01:36:10,220
+- Sao vậy? Có chuyện gì?
+- Có kẻ đột nhập phòng Mô Phỏng.
+
+977
+01:36:10,220 --> 01:36:12,680
+Mở màn hình lên. Tôi muốn xem kẻ quái nào đang ở trong đó.
+
+978
+01:36:12,680 --> 01:36:13,930
+Các Camera ở khu vực đó đã bị vô hiệu hóa.
+
+979
+01:36:13,930 --> 01:36:15,560
+Tôi sẽ cử người đến kiểm tra. Đi thôi!
+
+980
+01:36:15,560 --> 01:36:16,950
+Đưa toàn bộ lính gác đến đó!
+
+981
+01:36:16,950 --> 01:36:18,100
+Ngay bây giờ!
+
+982
+01:36:25,100 --> 01:36:26,200
+Cho bà ấy xem đi.
+
+983
+01:36:27,050 --> 01:36:29,170
+Tori cuối cùng cũng tìm được cách
+để an toàn lấy nó ra.
+
+984
+01:36:29,170 --> 01:36:32,470
+- Còn bao nhiêu người nữa?
+- Lấy hết rồi.
+
+985
+01:36:36,490 --> 01:36:37,560
+Chúng ta đi thôi!
+
+986
+01:36:41,390 --> 01:36:44,630
+Tris! Tris, nhanh lên, chúng ta phải đi thôi.
+
+987
+01:36:46,010 --> 01:36:47,450
+Tris, chúng ta phải đi ngay bây giờ!
+
+988
+01:36:48,310 --> 01:36:51,050
+Em không thể đi được!
+
+989
+01:36:51,340 --> 01:36:52,510
+Mẹ em đã chết vì bảo vệ...
+
+990
+01:36:52,530 --> 01:36:53,910
+thứ đang nằm bên trong chiếc hộp này.
+
+991
+01:36:55,730 --> 01:36:56,960
+Em phải mở nó ra vì mẹ...
+
+992
+01:36:56,980 --> 01:36:58,140
+và em nghĩ là mình biết cách rồi..
+
+993
+01:36:58,140 --> 01:37:00,140
+Nếu chúng ta không rời đi ngay bây giờ thì không còn cơ hội nào khác đâu.
+
+994
+01:37:00,140 --> 01:37:02,210
+Em phải làm chuyện này trước đã.
+
+995
+01:37:02,210 --> 01:37:05,270
+Em biết là nghe rất vô lý
+nhưng xin anh hãy tin em.
+
+996
+01:37:06,910 --> 01:37:09,030
+Có vẻ như em đã nắm trong tay
+cả cuộc đời anh rồi.
+
+997
+01:37:13,150 --> 01:37:15,090
+Mọi đội an ninh chuẩn bị...
+
+998
+01:37:15,090 --> 01:37:16,500
+Vào trong đi.
+
+999
+01:37:19,080 --> 01:37:21,250
+Nhanh lên!
+
+1000
+01:37:21,260 --> 01:37:22,330
+Không được cử động!
+
+1001
+01:37:27,930 --> 01:37:30,130
+Khởi Tạo Trình Mô Phỏng Amity.
+
+1002
+01:37:34,150 --> 01:37:35,860
+Quay lại lần nữa à?
+
+1003
+01:37:37,150 --> 01:37:39,550
+Cô thậm chí còn ngu ngốc hơn mẹ cô.
+
+1004
+01:37:44,290 --> 01:37:46,580
+Bà có thể nói bất cứ điều gì
+mà bà muốn, Jeanine.
+
+1005
+01:37:47,700 --> 01:37:49,420
+Nhưng tôi sẽ không đánh nhau với bà đâu.
+
+1006
+01:37:50,250 --> 01:37:52,930
+- Đúng là hòa hảo như Amity.
+- Tôi nói thật đấy.
+
+1007
+01:37:55,110 --> 01:37:58,150
+- Tôi sẽ không đánh nhau với bà.
+- Dĩ nhiên là không rồi.
+
+1008
+01:37:59,150 --> 01:38:01,350
+Cô sẽ phải chiến đấu với cô ta.
+
+1009
+01:38:04,140 --> 01:38:06,000
+Người mà cô thật sự căm ghét.
+
+1010
+01:38:38,710 --> 01:38:39,980
+Cô là gì thế hả?
+
+1011
+01:38:42,920 --> 01:38:44,960
+Tôi chính là cô, Tris à.
+
+1012
+01:38:46,180 --> 01:38:48,380
+Tôi là bản chất thật sự của cô.
+
+1013
+01:38:58,740 --> 01:38:59,920
+Tôi sẽ không chiến đấu với cô đâu.
+
+1014
+01:39:00,370 --> 01:39:02,640
+- Tôi sẽ khiến cô phải làm thế.
+- Cô không phải là tôi.
+
+1015
+01:39:02,640 --> 01:39:05,790
+Vậy mà phải đấy. Tôi chính là người
+mà họ nhìn thấy khi họ nhìn vào cô.
+
+1016
+01:39:21,830 --> 01:39:25,490
+Cô đã giết Will và bố mẹ cô.
+Cô luôn mang đến sự chết chóc.
+
+1017
+01:39:26,270 --> 01:39:27,390
+Đủ rồi!
+
+1018
+01:39:31,700 --> 01:39:33,380
+Sẽ không có ai yêu quý cô đâu, Tris.
+
+1019
+01:39:33,380 --> 01:39:35,660
+Họ thậm chí còn chẳng thèm nhớ cô.
+
+1020
+01:39:35,660 --> 01:39:37,920
+Thế giới này sẽ tốt đẹp hơn
+khi không có cô.
+
+1021
+01:39:38,120 --> 01:39:40,760
+Bớt đi một Divergent
+luôn hủy hoại mọi thứ.
+
+1022
+01:39:40,870 --> 01:39:45,430
+Và tất cả mọi người sẽ không bao giờ...
+
+1023
+01:39:45,430 --> 01:39:47,850
+tha thứ những chuyện mà cô đã làm.
+
+1024
+01:39:47,850 --> 01:39:49,160
+Cô lầm rồi.
+
+1025
+01:39:57,130 --> 01:40:00,410
+Vì tôi sẽ tha thứ cho bản thân mình.
+
+1026
+01:40:37,210 --> 01:40:39,590
+Trình Mô Phỏng Amity Hoàn Tất.
+
+1027
+01:40:43,150 --> 01:40:44,810
+- Chờ đã!
+- Không! Dừng lại!
+
+1028
+01:40:49,170 --> 01:40:51,760
+Khởi Tạo Thông Điệp.
+
+1029
+01:41:10,560 --> 01:41:11,750
+<i>Xin chào.</i>
+
+1030
+01:41:12,330 --> 01:41:14,170
+<i>Tôi đến từ thế giới
+bên ngoài Bức Tường.</i>
+
+1031
+01:41:14,940 --> 01:41:17,540
+<i>Nơi mà chúng tôi chỉ biết
+tiêu diệt lẫn nhau.</i>
+
+1032
+01:41:18,060 --> 01:41:21,870
+<i>Chúng tôi thiết kế nên thành phố
+của các bạn như một cuộc thử nghiệm.</i>
+
+1033
+01:41:22,500 --> 01:41:24,240
+<i>Chúng tôi tin rằng đó là cách duy nhất...</i>
+
+1034
+01:41:24,240 --> 01:41:26,870
+<i>để khôi phục nhân tính mà mình đã đánh mất.</i>
+
+1035
+01:41:29,270 --> 01:41:32,660
+<i>Và chúng tôi sáng lập những Môn Phái để duy trì nền hòa bình.</i>
+
+1036
+01:41:33,770 --> 01:41:36,540
+<i>Nhưng chúng tôi tin rằng trong số các bạn sẽ có người...</i>
+
+1037
+01:41:36,540 --> 01:41:39,840
+<i>vượt khỏi những Môn Phái đó.</i>
+
+1038
+01:41:39,840 --> 01:41:42,150
+<i>Họ là những Divergents.</i>
+
+1039
+01:41:44,090 --> 01:41:46,650
+<i>Họ là mục đích thật sự của cuộc thử nghiệm này.</i>
+
+1040
+01:41:46,650 --> 01:41:51,320
+<i>Họ nắm trong tay sự tồn vong của nhân loại.</i>
+
+1041
+01:41:52,860 --> 01:41:55,650
+<i>Nếu các bạn đang xem tin nhắn này
+thì ít nhất một trong số các bạn...</i>
+
+1042
+01:41:55,650 --> 01:41:58,690
+<i>đã chứng minh rằng thử nghiệm
+của chúng tôi đã thành công.</i>
+
+1043
+01:41:59,700 --> 01:42:05,860
+<i>Đã đến lúc các bạn kết thúc sự cô lập
+của mình và trở về với chúng tôi.</i>
+
+1044
+01:42:05,970 --> 01:42:07,490
+<i>Chúng tôi đã khiến các bạn tin rằng...</i>
+
+1045
+01:42:07,490 --> 01:42:09,360
+<i>các bạn là những người cuối cùng còn sống sót,</i>
+
+1046
+01:42:09,360 --> 01:42:11,150
+<i>nhưng không phải như thế.</i>
+
+1047
+01:42:11,730 --> 01:42:16,490
+<i>Nhân loại đang chờ đợi các bạn,
+cùng với sự hy vọng,</i>
+
+1048
+01:42:16,690 --> 01:42:19,020
+<i>ở bên ngoài những bức tường kia.</i>
+
+1049
+01:42:26,470 --> 01:42:28,990
+- Em không sao chứ?
+- Vâng.
+
+1050
+01:42:32,760 --> 01:42:33,860
+Em ổn mà.
+
+1051
+01:42:51,420 --> 01:42:53,920
+Bà đã sai lầm về chúng tôi.
+
+1052
+01:42:57,760 --> 01:43:03,030
+Chúng tôi không phải là vấn đề.
+Mà chúng tôi chính là giải pháp.
+
+1053
+01:43:15,300 --> 01:43:17,880
+- Chôn cái hộp đó đi.
+- Gì cơ?
+
+1054
+01:43:17,880 --> 01:43:20,700
+Chưa có ai chứng kiến
+chuyện vừa mới xảy ra.
+
+1055
+01:43:24,270 --> 01:43:25,720
+Giết cả hai bọn chúng.
+
+1056
+01:43:25,780 --> 01:43:26,920
+Không!
+
+1057
+01:43:28,240 --> 01:43:31,200
+- Nằm xuống ngay!
+ - Đứng im!
+
+1058
+01:43:31,780 --> 01:43:33,080
+Bỏ vũ khí xuống!
+
+1059
+01:43:34,090 --> 01:43:35,250
+Không được cử động.
+
+1060
+01:43:39,000 --> 01:43:41,540
+Bỏ vũ khí xuống ngay bây giờ!
+
+1061
+01:43:41,540 --> 01:43:42,630
+Bỏ súng xuống!
+
+1062
+01:43:42,630 --> 01:43:46,810
+- Đứng yên đó!
+- Không được cử động!
+
+1063
+01:43:50,600 --> 01:43:52,080
+Chào Jeanine.
+
+1064
+01:43:53,700 --> 01:43:54,930
+Evelyn.
+
+1065
+01:43:54,930 --> 01:43:56,810
+Ấn tượng đấy.
+
+1066
+01:43:56,970 --> 01:43:58,780
+Tôi nghĩ là chúng tôi
+sẽ thích nơi này lắm.
+
+1067
+01:43:59,660 --> 01:44:02,570
+Cô thật sự nghĩ là các Môn Phái khác
+sẽ khoanh tay đứng nhìn vụ này sao?
+
+1068
+01:44:03,150 --> 01:44:05,160
+Vì cô nổi tiếng lắm à?
+
+1069
+01:44:07,610 --> 01:44:09,160
+Lôi mụ ta ra khỏi đây.
+
+1070
+01:44:09,950 --> 01:44:12,450
+Khi thông điệp đó bị lộ ra ngoài...
+
+1071
+01:44:12,450 --> 01:44:14,160
+thì thế giới này sẽ kết thúc.
+
+1072
+01:44:31,760 --> 01:44:33,480
+Thông điệp nào?
+
+1073
+01:44:37,030 --> 01:44:39,800
+Rồi mẹ sẽ thấy thôi. Con sẽ phát sóng...
+
+1074
+01:44:39,800 --> 01:44:41,520
+trên khắp các màn hình trong thành phố.
+
+1075
+01:44:43,870 --> 01:44:46,540
+<i>Chúng tôi chia tách các bạn
+khỏi cộng đồng của chúng tôi.</i>
+
+1076
+01:44:48,510 --> 01:44:51,770
+<i>Và chúng tôi sáng lập những Môn Phái để duy trì nền hòa bình.</i>
+
+1077
+01:44:53,660 --> 01:44:58,260
+<i>Đã đến lúc các bạn kết thúc sự cô lập
+của mình và trở về với chúng tôi.</i>
+
+1078
+01:44:59,500 --> 01:45:00,790
+<i>Chúng tôi đã khiến các bạn tin rằng...</i>
+
+1079
+01:45:00,790 --> 01:45:03,350
+<i>các bạn là những người cuối cùng còn sống sót,</i>
+
+1080
+01:45:03,350 --> 01:45:04,600
+<i>nhưng không phải như thế.</i>
+
+1081
+01:45:05,170 --> 01:45:08,000
+<i>Nếu các bạn đang xem tin nhắn này
+thì ít nhất một trong số các bạn...</i>
+
+1082
+01:45:08,000 --> 01:45:11,300
+<i>đã chứng minh rằng thử nghiệm
+của chúng tôi đã thành công.</i>
+
+1083
+01:45:14,200 --> 01:45:18,430
+<i>Nhân loại đang chờ đợi các bạn,
+cùng với sự hy vọng,</i>
+
+1084
+01:45:18,960 --> 01:45:22,310
+<i>ở bên ngoài những bức tường kia.</i>
+
+1085
+01:45:58,000 --> 01:46:00,140
+<i>Họ là những Divergents.</i>
+
+1086
+01:46:00,140 --> 01:46:03,180
+<i>Họ là mục đích thật sự của cuộc thử nghiệm này.</i>
+
+1087
+01:46:03,180 --> 01:46:06,340
+<i>Họ nắm trong tay sự tồn vong của nhân loại.</i>
+
+1088
+01:46:06,640 --> 01:46:07,980
+Em làm được rồi.
+
+1089
+01:46:09,510 --> 01:46:10,820
+Vâng.
+
+1090
+01:46:16,510 --> 01:46:18,820
+Mọi người đều nhìn em chằm chằm.
+
+1091
+01:46:19,590 --> 01:46:21,660
+Em đã thay đổi tất cả mọi chuyện mà.
+
+1092
+01:46:23,560 --> 01:46:24,950
+Giờ thì sao đây?
+
+1093
+01:46:25,790 --> 01:46:27,860
+Chỉ có một cách để biết được thôi.
+
+1094
+01:46:29,000 --> 01:46:30,340
+Em sẵn sàng chưa?
+
+1095
+01:47:34,760 --> 01:47:36,930
+Đã hơn 200 năm rồi.
+
+1096
+01:47:40,060 --> 01:47:41,670
+Ai mà biết có thứ gì ở ngoài đó chứ?
+
+1097
+01:47:44,510 --> 01:47:46,210
+Cô sẽ không bao giờ biết được đâu.
+

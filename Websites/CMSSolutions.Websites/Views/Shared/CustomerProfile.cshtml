@@ -1,0 +1,249 @@
+﻿@using CMSSolutions.Websites.Extensions
+@model CMSSolutions.Websites.Models.DataViewerModel   
+<form id="updateCustomer" style="margin-top: 125px;" action="@Url.Action("UserUpdate", "HomeCustomer")" method="POST" enctype="multipart/form-data">
+    <h1 class="title_h1_st1">
+         <a href="javascript:;">Cập nhật thông tin cá nhân</a> 
+    </h1>
+    <div class="form-main-molder">        
+        <div>
+            <label class="label_style">Họ và Tên:</label>            
+            <input type="text" id="txtFullName" name="txtFullName" value="@Model.Customer.FullName" class="input-wl validate[maxSize[250]]">
+        </div>  
+        <br class="clear_both">
+        <div>
+            <label class="label_style">Nick name:</label>            
+            <input type="text" id="txtUserName" disabled="disabled" name="txtUserName" value="@Model.Customer.UserName" class="input-wl validate[required, maxSize[50]]">
+            <img style="margin-right:10px;" src="/Images/themes/Publish.png">  
+        </div>
+        <br class="clear_both">
+        <div>
+            <label class="label_style">E-mail:</label>            
+            <input type="text" value="@Model.Customer.Email" id="txtEmail" name="txtEmail" class="input-wl validate[required, email]">        
+        </div>
+        <br class="clear_both">
+        <div>          	
+            <label class="label_style">Địa chỉ:</label>
+            <input type="text" id="txtAddress" name="txtAddress" value="@Model.Customer.Address" class="input-wl validate[maxSize[250]]">
+        </div>
+        <br class="clear_both">
+        <div>
+            <label class="label_style">Tỉnh/Thành:</label>
+            <select id="ddlCity" name="ddlCity" class="input-wl">
+                <option value="0">--- Chọn tỉnh/thành phố ---</option>   
+                @foreach (var item in Model.ListCities)
+                {
+                    if (Model.Customer.CityId == item.Id.ToString())
+                    {
+                        <option value="@item.Id" selected="selected">@item.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                }                
+            </select>
+        </div>
+        <br class="clear_both">
+        <div>
+            <label class="label_style">Di động:</label>
+            <input type="text" maxlength="11" value="@Model.Customer.PhoneNumber" class="input-wm" id="txtPhoneNumber" name="txtPhoneNumber">
+        </div>
+        <br class="clear_both">
+        <div>
+            <label class="label_style">Ngày Sinh:</label>
+            <select id="ddlDay" name="ddlDay" class="day_input">
+                <option value="0">[Ngày]</option>    
+                @{
+                    var day = 0;
+                    if (Model.Customer.Birthday != Utilities.DateNull())
+                    {
+                        day = Model.Customer.Birthday.Day;
+                    }
+                }               
+                @foreach (var item in Model.ListDay)
+                {
+                    if (day == int.Parse(item.Value))
+                    {
+                        <option selected="selected" value="@item.Value">@item.Text</option>
+                    }
+                    else
+                    {
+                       <option value="@item.Value">@item.Text</option>
+                    }
+                }
+            </select>
+            <select id="ddlMonth" name="ddlMonth" class="month_input">
+                <option value="0">[Tháng]</option>                      
+                 @{
+                    var month = 0;
+                    if (Model.Customer.Birthday != Utilities.DateNull())
+                    {
+                        month = Model.Customer.Birthday.Month;
+                    }
+                 }   
+                 @foreach (var item in Model.ListMonth)
+                 {
+                     if (month == int.Parse(item.Value))
+                     {
+                        <option selected="selected" value="@item.Value">@item.Text</option>
+                     }
+                     else
+                     {
+                       <option value="@item.Value">@item.Text</option>
+                     }
+                 }
+            </select> 
+            <select id="ddlYear" name="ddlYear" class="year_input">
+                <option value="">[Năm]</option> 
+                @{
+                    var year = 0;
+                    if (Model.Customer.Birthday != Utilities.DateNull())
+                    {
+                        year = Model.Customer.Birthday.Year;
+                    }
+                 }   
+                 @foreach (var item in Model.ListYear)
+                 {
+                     if (year == int.Parse(item.Value))
+                     {
+                        <option selected="selected" value="@item.Value">@item.Text</option>
+                     }
+                     else
+                     {
+                       <option value="@item.Value">@item.Text</option>
+                     }
+                 }
+             </select>
+        </div>
+        <br class="clear_both">
+        <div>
+            <label class="label_style">Giới Tính:</label>   
+            @if (Model.Customer.Sex == 2)
+            {
+                <input type="radio" checked="checked" value="2" id="radGender1" name="radGender" class="radio_bt"><span>Nữ</span>
+                <input type="radio" value="1" id="radGender2" name="radGender" class="radio_bt"><span>Nam</span>
+            }       
+            else{  
+                <input type="radio" value="2" id="radGender1" name="radGender" class="radio_bt"><span>Nữ</span>
+                <input type="radio" checked="checked" value="1" id="radGender2" name="radGender" class="radio_bt"><span>Nam</span>
+            } 	             			  			 
+        </div>
+        <br class="clear_both">        
+        <div>
+            <label class="label_style">Ảnh đại diện:</label>  
+            <div class="btn-file-upload btn btn-primary">
+                <span>Chọn file</span>
+                <input type="file" id="uploadfile" name="uploadfile" class="upload">
+            </div> (185px x 185px)	
+            <input type="hidden" id="imgImageIcon" name="imgImageIcon" value="@Model.Customer.ImageIcon" />	
+        </div>
+        <br class="clear_both">
+        <div>
+            <label class="label_style f-left">Thể loại:</label>
+            <ul class="ul-cus-cat-user">
+                @{
+                    var selectedTypes = CMSSolutions.Websites.Extensions.Utilities.ParseListInt(Model.Customer.FilmTypeIds);
+                }  
+                @foreach (var item in Model.ListFilmTypes)
+                {
+                    if (selectedTypes.Contains(item.Id))
+                    {
+                        <li><input type="checkbox" value="@item.Id" name="selectFilmTypes[]" checked="checked">&#32;@item.Name</li>
+                    }
+                    else
+                    {
+                        <li><input type="checkbox" value="@item.Id" name="selectFilmTypes[]">&#32;@item.Name</li>
+                    }  
+                }		
+            </ul>
+        </div>
+        <br class="clear_both">
+        <br class="clear_both">
+        <div>
+            <label class="label_style f-left">Quốc gia:</label>
+            <ul class="ul-cus-cat-user">
+                @{
+                    var selectedCountries = CMSSolutions.Websites.Extensions.Utilities.ParseListInt(Model.Customer.CountryIds);
+                }    
+                @foreach (var item in Model.ListCountries)
+                {
+                    if (selectedCountries.Contains(item.Id))
+                    {
+                         <li><input type="checkbox" value="@item.Id" name="selectCountries[]" checked="checked">&#32;@item.Name</li> 
+                    }
+                    else
+                    {
+                          <li><input type="checkbox" value="@item.Id" name="selectCountries[]">&#32;@item.Name</li> 
+                    }
+                }    					                       
+            </ul>
+        </div>
+        <br class="clear_both">    
+        <br class="clear_both">
+        <div>
+            <label class="label_style">Mật khẩu:</label>                        
+            <input type="password" id="txtPassword" name="txtPassword" class="input-wm validate[required, maxSize[50]]">                
+            <a href="javascript:void(0)" title="Quên mật khẩu" class="orange_color"><span id="forgot">Quên mật khẩu?</span></a>
+        </div>  
+        <br class="clear_both">            
+        <div>
+            <label class="label_style">Mã xác nhận<label class="required">(*)</label></label>
+            <input name="txtCaptcha" id="txtCaptcha" style="width: 100px !important;" class="validate[required, maxSize[10]] capcha" type="text">
+            <a href="javascript: getCapcha();" title="Đổi mã xác nhận">
+                <img align="absmiddle" border="0" id="recaptcha" alt="Đổi mã xác nhận" title="Đổi mã xác nhận">
+            </a>
+            <a href="javascript: getCapcha();">
+                <img width="14" height="15" src="/Images/themes/reload-cap.png">
+            </a> 
+        </div>         
+        <br class="clear_both">
+        <button type="submit" style="float:right;margin-right:50px;" class="button-mor" onclick="javascript: return validateCustomer();">Cập nhật thông tin</button>
+        <button type="button" style="float:right;margin-right:10px;" class="button-mor" id="butLogin">Trở lại</button>
+        <br class="clear_both">
+    </div>
+</form>
+<div class="clear_both"></div>  
+
+<script type="text/javascript">       
+    $(document).ready(function () {
+        $("#updateCustomer").validationEngine();       
+        $("#updateCustomer").submit(function (event) {
+            event.preventDefault();
+            action = $("#updateCustomer").attr("action");
+            if ($("#updateCustomer").attr("enctype") == "multipart/form-data") {
+                dataString = new FormData($("#updateCustomer").get(0));
+                contentType = false;
+                processData = false;
+            }
+            window.showLoading("Vui lòng chờ hệ thống xử lý.");
+            $.ajax({
+                type: "POST",
+                url: action,
+                data: dataString,
+                dataType: "json", 
+                contentType: contentType,
+                processData: processData,
+                success: function (result) {
+                    window.closeLoading();   
+                    window.showMessages(result.Data);
+                    if (data.Status == true) {
+                        window.getCapcha();
+                        window.location.href = result.Url;
+                    }  
+                },
+                error: function (request, status, error) {
+                    window.closeLoading();
+                    window.showMessages(request.responseText);
+                }
+            });
+        });
+        
+        $("#butLogin").click(function () {
+            window.location = '@Url.Action("Index","HomeVipXu")';
+        });
+    });
+    
+    function validateCustomer() {
+        return $("#updateCustomer").validationEngine('validate');
+    }
+</script>

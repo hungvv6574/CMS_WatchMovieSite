@@ -1,0 +1,6229 @@
+﻿1
+00:01:24,000 --> 00:01:28,000
+Đại học Princeton tháng 9 năm 1947
+
+2
+00:01:29,840 --> 00:01:31,549
+Những nhà toán học là những người
+chiến thắng trong chiến tranh.
+
+3
+00:01:33,135 --> 00:01:35,595
+Những nhà toán học giải mã những mật
+mã Nhật Bản...
+
+4
+00:01:36,346 --> 00:01:37,805
+và tạo ra bom nguyên tử.
+
+5
+00:01:38,599 --> 00:01:41,017
+Những nhà toán học,
+như các bạn
+
+6
+00:01:42,728 --> 00:01:46,939
+Mục tiêu của Xô Viết là
+chủ nghĩa cộng sản toàn cầu.
+
+7
+00:01:47,024 --> 00:01:51,110
+Trong y học hay kinh tế
+trong khoa học hay trong vũ trụ,
+
+8
+00:01:51,195 --> 00:01:52,820
+cục diện của cuộc chiến đang cân bằng.
+
+9
+00:01:54,072 --> 00:01:56,824
+Để chiến thắng, chúng ta cần kết quả,
+
+10
+00:01:56,909 --> 00:01:59,327
+những kết quả công bố được,
+ứng dụng được.
+
+11
+00:01:59,953 --> 00:02:03,039
+Nào, bây giờ thì ai trong số các bạn
+sẽ là một Morse?
+
+12
+00:02:04,583 --> 00:02:05,708
+Một Enstein tiếp theo?
+
+13
+00:02:06,585 --> 00:02:09,670
+Ai trong các bạn sẽ là người tiên phong
+của dân chủ,
+
+14
+00:02:09,755 --> 00:02:11,380
+tự do và khám phá?
+
+15
+00:02:12,716 --> 00:02:16,552
+Hôm nay, chúng tôi trao tương lai của nước Mỹ
+vào bàn tay tài năng của các bạn.
+
+16
+00:02:18,430 --> 00:02:20,765
+Chào mừng quí vị đến Princeton.
+
+17
+00:02:38,200 --> 00:02:40,409
+Hình như Hansen không được toàn bộ
+học bổng Carnegie.
+
+18
+00:02:40,494 --> 00:02:42,537
+Ồ không, cậu ta phải có toàn bộ chứ.
+
+19
+00:02:43,956 --> 00:02:46,791
+- Đây là lần đầu tiên giải thưởng Carnegie bị tách ra.
+- Hansen có đủ khả năng mà.
+
+20
+00:02:47,334 --> 00:02:49,126
+Hansen rất quan tâm tới phòng thí nghiệm Wheeler,
+
+21
+00:02:49,253 --> 00:02:51,087
+nhóm chuyên gia quân sự mới ở MIT.
+
+22
+00:02:51,755 --> 00:02:53,881
+Năm nay họ chỉ tuyển một người
+
+23
+00:02:54,341 --> 00:02:55,967
+Hansen là lựa chọn đầu tiên.
+
+24
+00:02:56,051 --> 00:02:57,718
+Ồ đúng, theo đuổi toán học
+đúng là phí phạm tài năng của cậu ấy.
+
+25
+00:02:57,803 --> 00:03:00,054
+Cậu ta nên tranh cử vào chức tổng thống
+
+26
+00:03:09,898 --> 00:03:12,859
+Có một cách giải thích toán học
+về việc chiếc cavat của cậu tệ thế nào.
+
+27
+00:03:19,324 --> 00:03:20,658
+Cảm ơn.
+
+28
+00:03:22,119 --> 00:03:23,995
+Neilson, ngành giải mã tượng hình.
+
+29
+00:03:24,079 --> 00:03:26,956
+Neils đã bẻ khoá một mã Nhật Bản
+giúp thế giới thoát khỏi chủ nghĩa phát xít.
+
+30
+00:03:27,040 --> 00:03:29,792
+- Ít nhất đó là những gì mà cậu ta nói với các cô gái,
+phải không Neils?
+
+31
+00:03:30,252 --> 00:03:32,295
+Tôi là Bender. Vật lý nguyên tử.
+
+32
+00:03:32,379 --> 00:03:33,838
+- Còn cậu là?
+- Tôi có đến muộn không?
+
+33
+00:03:33,922 --> 00:03:35,506
+Có, Mr Sol.
+
+34
+00:03:35,632 --> 00:03:37,258
+Tốt. Xin chào.
+
+35
+00:03:38,302 --> 00:03:39,552
+- Sol, Richard Sol.
+
+36
+00:03:39,636 --> 00:03:41,220
+À, thiên tài phải gánh trên vai.
+
+37
+00:03:41,305 --> 00:03:42,263
+- Cậu ta đây rồi.
+
+38
+00:03:42,347 --> 00:03:43,389
+Có quá nhiều lời mời, và quá ít thời gian.
+
+39
+00:03:43,473 --> 00:03:45,224
+- Sol.
+- Cậu thế nào?
+
+40
+00:03:45,309 --> 00:03:46,684
+- Ah, Bender.
+- Rất vui được gặp cậu.
+
+41
+00:03:46,768 --> 00:03:47,894
+- Chúc mừng cậu, ngài Hansen.
+
+42
+00:03:47,978 --> 00:03:49,103
+Cám ơn.
+
+43
+00:03:50,022 --> 00:03:51,480
+Lấy cho tôi cốc khác.
+
+44
+00:03:53,150 --> 00:03:54,233
+Xin lỗi, gì cơ?
+
+45
+00:03:54,318 --> 00:03:56,319
+Ngàn lần xin lỗi.
+Tôi nhầm cậu là người phục vụ
+
+46
+00:03:56,403 --> 00:03:57,403
+Tử tế nào Hansen.
+
+47
+00:03:57,487 --> 00:03:59,030
+Tử tế không phải là thế mạnh của Hansen.
+
+48
+00:03:59,114 --> 00:04:00,281
+Tôi không cố ý.
+
+49
+00:04:00,365 --> 00:04:02,158
+Ồ Martin Hansen.
+
+50
+00:04:03,702 --> 00:04:04,911
+Có phải là Martin không?
+
+51
+00:04:05,787 --> 00:04:07,622
+Ừ đúng, John, đúng vậy.
+
+52
+00:04:07,706 --> 00:04:10,082
+Tôi nghĩ là cậu đã tính toán
+sai cái gì đó.
+
+53
+00:04:13,545 --> 00:04:17,840
+Tôi đã đọc tất cả những bản thảo của cậu.
+
+54
+00:04:18,383 --> 00:04:22,970
+Một về những mật mã quốc xã
+và một là về những phương trình phi tuyến
+
+55
+00:04:23,055 --> 00:04:26,474
+Và tôi hoàn toàn tự tin nói rằng
+không có một ý tưởng khả thi
+
+56
+00:04:26,558 --> 00:04:28,225
+hay đột phá nào, trong cả hai.
+
+57
+00:04:32,397 --> 00:04:33,522
+Thưởng thức ly rượu của cậu đi.
+
+58
+00:04:38,028 --> 00:04:42,490
+Quý vị, hãy gặp John Nash,
+thiên tài bí ẩn đến tử tây Virginia
+
+59
+00:04:43,033 --> 00:04:45,910
+Người còn lại giành được học bổng Carnegize
+
+60
+00:04:46,036 --> 00:04:47,328
+- Ok.
+- Hả?
+
+61
+00:04:47,412 --> 00:04:48,829
+Dĩ nhiên.
+
+62
+00:05:20,404 --> 00:05:22,238
+Ôi, Chúa ơi.
+
+63
+00:05:23,448 --> 00:05:25,992
+Kẻ cùng phòng phóng túng tới rồi đây
+
+64
+00:05:27,452 --> 00:05:28,786
+Cùng phòng?
+
+65
+00:05:28,870 --> 00:05:30,079
+Ô, Chúa ơi, không.
+
+66
+00:05:32,916 --> 00:05:36,002
+Cậu có biết, cảm giác nôn nao
+
+67
+00:05:36,086 --> 00:05:38,462
+là không có đủ nước trong cơ thể
+
+68
+00:05:38,547 --> 00:05:41,132
+để chạy chu trình Krebs?
+(Chuỗi các phản ứng hoá học tạo ra năng lượng cho tế bào)
+
+69
+00:05:41,216 --> 00:05:44,468
+Đó chính xác là những gì cậu sẽ cảm thấy
+khi cậu chết khát
+
+70
+00:05:45,345 --> 00:05:47,888
+Vì thế, chết khát
+
+71
+00:05:49,266 --> 00:05:51,851
+sẽ có cảm giác
+
+72
+00:05:51,935 --> 00:05:56,439
+rất giống cảm giác nôn nao khi uống rượu.
+Cuối cùng thì máu cậu sẽ giết cậu.
+
+73
+00:05:58,316 --> 00:05:59,817
+John Nash?
+
+74
+00:05:59,901 --> 00:06:01,068
+Xin chào.
+
+75
+00:06:01,486 --> 00:06:04,030
+Charles Herman.
+Rất mừng được gặp cậu
+
+76
+00:06:14,416 --> 00:06:16,459
+Tốt. Tốt lắm.
+
+77
+00:06:21,882 --> 00:06:24,800
+Tốt, cuối cùng,
+Tôi lại là một con người.
+
+78
+00:06:25,802 --> 00:06:29,180
+Thưa ngài cảnh sát, tôi đã nhìn thấy kẻ đã đâm xe vào tôi
+Tên hắn ta là Johnny Walker.
+
+79
+00:06:35,353 --> 00:06:37,396
+Tôi bị tối qua, đúng vào lúc
+
+80
+00:06:37,522 --> 00:06:39,607
+có tiệc cocktails
+
+81
+00:06:46,573 --> 00:06:50,201
+Khó mà làm cậu phân tâm nhỉ?
+
+82
+00:06:50,285 --> 00:06:51,535
+- Tôi tới đây để học.
+
+83
+00:06:51,620 --> 00:06:53,788
+Vậy à? Được thôi. Tôi hiểu. Crikey!
+
+84
+00:07:04,633 --> 00:07:06,509
+Bạn cùng phòng tôi là một thằng đần?
+
+85
+00:07:08,637 --> 00:07:09,637
+Hmm?
+
+86
+00:07:10,847 --> 00:07:13,766
+Nghe này. Nếu chúng ta không thể
+phá vỡ những tảng băng,
+
+87
+00:07:15,435 --> 00:07:16,644
+thì sao chúng ta không dìm nó xuống?
+
+88
+00:07:27,531 --> 00:07:28,906
+Chuyện của cậu thế nào?
+
+89
+00:07:30,242 --> 00:07:33,035
+Cậu là đứa trẻ tội nghiệp không bao giờ
+được đi đến Exeter hay Andover à?
+
+90
+00:07:34,371 --> 00:07:37,248
+Mặc dù tôi có đặc quyền trong học tập,
+thực ra thì tôi khá là bình thường
+
+91
+00:07:37,332 --> 00:07:38,833
+Tôi có những con chip trên cả 2 vai
+
+92
+00:07:41,628 --> 00:07:44,588
+Có lẽ cậu gần gũi với những con số
+hơn là với con người
+
+93
+00:07:45,132 --> 00:07:46,465
+Cô giáo tiểu học của tôi nói là
+
+94
+00:07:46,550 --> 00:07:48,342
+tôi được sinh ra với hai bộ não
+
+95
+00:07:48,426 --> 00:07:50,261
+nhưng chỉ có nửa trái tim
+
+96
+00:07:52,180 --> 00:07:54,056
+Ái chà, cô ấy có vẻ hay đấy.
+
+97
+00:07:55,433 --> 00:07:58,602
+Thực tế thì tôi...
+tôi không thích mọi người
+
+98
+00:08:00,272 --> 00:08:01,730
+và họ cũng không thích tôi lắm.
+
+99
+00:08:01,815 --> 00:08:04,358
+Nhưng tại sao lại không chứ
+với óc hài hước và sự quyến rũ của cậu?
+
+100
+00:08:07,362 --> 00:08:08,737
+Nghiêm túc này, John.
+
+101
+00:08:10,740 --> 00:08:12,032
+Toán học...
+
+102
+00:08:13,368 --> 00:08:16,370
+Toán học sẽ không bao giờ đưa cậu
+tới một chân lý cao hơn
+
+103
+00:08:16,454 --> 00:08:18,080
+Và cậu biết tại sao không?
+
+104
+00:08:18,665 --> 00:08:21,208
+Vì nó rất chán
+Thật sự rất chán
+
+105
+00:08:22,586 --> 00:08:24,628
+Cậu biết không, một nửa sinh viên
+đều học theo những giáo trình có sẵn?
+
+106
+00:08:26,756 --> 00:08:30,217
+Tôi không thể phí thời gian với những lớp học
+và những quyển sách đó.
+
+107
+00:08:33,763 --> 00:08:36,182
+Ghi nhớ những giả thuyết mơ hồ và buồn chán.
+
+108
+00:08:39,477 --> 00:08:43,439
+Tôi cần phải hiểu xuyên suốt
+về lý thuyết cân bằng.
+
+109
+00:08:47,819 --> 00:08:49,445
+Tìm ra được nguyên lý cơ bản nhất.
+
+110
+00:08:50,197 --> 00:08:52,364
+Đó là cách duy nhất tôi
+chứng tỏ bản thân mình
+
+111
+00:08:52,449 --> 00:08:54,116
+Đó là con đường duy nhất mà tôi sẽ...
+luôn hướng đến
+
+112
+00:08:58,205 --> 00:08:59,288
+Đúng vậy.
+
+113
+00:09:01,625 --> 00:09:02,625
+Được rồi, ai tiếp nào?
+
+114
+00:09:02,709 --> 00:09:04,293
+Hôm nay tôi chơi đủ rồi.
+
+115
+00:09:04,377 --> 00:09:06,295
+- Thôi nào
+- Tôi ghét trò này
+
+116
+00:09:06,379 --> 00:09:08,047
+Đồ nhát gan, tất cả các cậu!
+
+117
+00:09:08,131 --> 00:09:10,216
+Không ai nhận lời thách đấu của tôi à?
+
+118
+00:09:10,300 --> 00:09:13,886
+Nào Bender. Ai thắng thì Sol sẽ giặt đồ cho cả học kỳ.
+
+119
+00:09:13,970 --> 00:09:16,430
+- Chả phải việc đó không công bằng với mọi người à?
+- Không hẳn.
+
+120
+00:09:19,100 --> 00:09:20,184
+Nhìn cậu ta kìa
+
+121
+00:09:20,268 --> 00:09:21,435
+- Nash!
+
+122
+00:09:21,519 --> 00:09:22,978
+Cậu đi ngược như thế để làm gì?
+
+123
+00:09:23,063 --> 00:09:25,814
+Tôi đang hy vọng sẽ tìm ra một thuật toán
+để xác định chuyển động của chúng
+
+124
+00:09:29,903 --> 00:09:30,986
+Ồ
+
+125
+00:09:31,321 --> 00:09:32,404
+Điên thật.
+
+126
+00:09:33,907 --> 00:09:35,157
+Nash, tôi tưởng cậu bỏ học rồi
+
+127
+00:09:35,242 --> 00:09:36,450
+Cậu không bao giờ đến lớp hoặc...
+
+128
+00:09:37,410 --> 00:09:39,328
+Lớp học sẽ làm giới hạn trí tuệ của cậu.
+
+129
+00:09:40,288 --> 00:09:42,331
+Huỷ hoại khả năng
+sáng tạo đích thực
+
+130
+00:09:43,041 --> 00:09:44,625
+Ồ, tôi không biết đấy.
+
+131
+00:09:44,709 --> 00:09:47,169
+Nash sắp làm chúng ta choáng váng
+vì trí tuệ thiên tài của cậu ấy đấy.
+
+132
+00:09:47,754 --> 00:09:50,714
+Hay đó là một cách nói khác về việc
+cậu ta không có can đảm để thi đấu
+
+133
+00:09:52,884 --> 00:09:54,260
+Cậu sợ hả?
+
+134
+00:09:54,344 --> 00:09:56,720
+Sợ hãi.
+Xấu hổ. Sững sờ.
+
+135
+00:09:56,805 --> 00:09:57,846
+Cậu làm tớ kinh ngạc.
+
+136
+00:10:00,100 --> 00:10:01,600
+Không có sức sống.
+
+137
+00:10:01,685 --> 00:10:03,018
+Ấn xuống và gấp lại.
+
+138
+00:10:06,439 --> 00:10:08,565
+Để tôi hỏi cậu vài câu nhé John.
+
+139
+00:10:08,650 --> 00:10:10,359
+Cứ tự nhiên, Martin.
+
+140
+00:10:10,443 --> 00:10:11,860
+Bender và Sol đây đã hoàn tất
+
+141
+00:10:11,945 --> 00:10:14,280
+Chứng minh của Allen về mệnh đề của Perron.
+
+142
+00:10:14,364 --> 00:10:18,200
+Một công việc chuẩn mực,
+không có sáng tạo.
+
+143
+00:10:18,368 --> 00:10:19,994
+- Ồ, Tôi đã tâng bốc
+Cậu tâng bốc hả?
+
+144
+00:10:20,120 --> 00:10:21,453
+- Tâng bốc.
+
+145
+00:10:21,538 --> 00:10:23,205
+Và tôi đã có hai bản báo cáo
+về vũ khí
+
+146
+00:10:23,290 --> 00:10:25,624
+được đánh giá bởi DoD
+(DoD: Bộ quốc phòng)
+
+147
+00:10:25,709 --> 00:10:27,376
+Nói dại dột như trẻ con.
+
+148
+00:10:29,212 --> 00:10:31,880
+Nhưng những gì Nash đạt được là:
+Số không.
+
+149
+00:10:32,382 --> 00:10:35,342
+Tôi là người kiên nhẫn, Martin.
+Còn câu hỏi nào nữa không?
+
+150
+00:10:36,761 --> 00:10:40,389
+Điều gì sẽ xảy ra nếu như cậu
+không bao giờ tìm được chân lý?
+
+151
+00:10:42,225 --> 00:10:46,395
+Cậu sẽ cảm thấy thế nào nếu tôi là người
+được chọn vào Wheeler còn cậu thì không?
+
+152
+00:10:50,608 --> 00:10:52,234
+Nếu như cậu thua?
+
+153
+00:11:03,538 --> 00:11:04,580
+Lẽ ra cậu không thắng.
+
+154
+00:11:06,207 --> 00:11:08,834
+Tôi đã đi nước đầu tiên
+và nước đi của tôi hoàn hảo.
+
+155
+00:11:08,918 --> 00:11:10,544
+Lời nói của kẻ thất bại.
+
+156
+00:11:10,628 --> 00:11:11,920
+Trò chơi này thiếu sót.
+
+157
+00:11:13,089 --> 00:11:14,089
+Ồ.
+
+158
+00:11:19,137 --> 00:11:21,513
+Quý vị, John Nash vĩ đại kìa.
+
+159
+00:11:27,979 --> 00:11:30,564
+Cậu đã ở đây trong hai ngày.
+
+160
+00:11:33,568 --> 00:11:35,569
+Cậu biết không, Hansen vừa công bố
+một bài báo khác?
+
+161
+00:11:36,404 --> 00:11:38,238
+Tôi thậm chí còn chưa tìm được đề tài
+cho luận án tiến sĩ của tôi.
+
+162
+00:11:40,742 --> 00:11:43,494
+Nói một cách lạc quan, thì cậu đã
+sáng tạo ra một kiểu cửa sổ đẹp đấy.
+
+163
+00:11:45,789 --> 00:11:47,664
+Đây là một nhóm người đang chơi bóng đá
+
+164
+00:11:48,792 --> 00:11:51,668
+Đây là một đàn bồ câu đang tranh nhau
+những vụn bánh mì
+
+165
+00:11:54,464 --> 00:11:57,716
+Còn đây là một người phụ nữ
+đang đuổi theo kẻ trộm ví của cô ấy
+
+166
+00:11:59,135 --> 00:12:01,970
+John, cậu quan sát những thứ linh tinh này à.
+Điều đó thật kỳ cục.
+
+167
+00:12:02,806 --> 00:12:05,474
+Trong hành vi tranh chấp,
+một số người luôn thất bại.
+
+168
+00:12:05,558 --> 00:12:08,894
+Ờ, cháu gái tôi cũng biết điều đó, John
+Và con bé chỉ cao có từng này
+
+169
+00:12:08,978 --> 00:12:11,730
+Xem này, nếu tôi có thể tìm được một
+trạng thái cân bằng
+
+170
+00:12:12,482 --> 00:12:16,860
+Nơi mọi thứ không phải là một cá thể riêng biệt
+nơi mà không ai thua cả
+
+171
+00:12:17,987 --> 00:12:20,948
+Cậu có thể tưởng tượng được tác dụng của nó lên
+sự xung đột.
+
+172
+00:12:21,032 --> 00:12:24,451
+Lần cuối cùng cậu ăn là khi nào?
+
+173
+00:12:24,536 --> 00:12:25,577
+Đổi tiền hả?
+
+174
+00:12:25,662 --> 00:12:27,162
+Thức ăn, cậu biết không?
+
+175
+00:12:29,165 --> 00:12:31,625
+Cậu không tôn trọng sự mơ mộng
+của người khác tí nào cả, cậu biết chứ?
+
+176
+00:12:31,709 --> 00:12:34,044
+Ừ, nhưng pizza...
+
+177
+00:12:35,839 --> 00:12:38,465
+Giờ, tôi có một sự tôn trọng vô cùng lớn với pizza.
+
+178
+00:12:40,427 --> 00:12:41,593
+Và dĩ nhiên cả bia nữa.
+
+179
+00:12:48,101 --> 00:12:49,351
+Tôi tôn trọng beer.
+
+180
+00:12:51,438 --> 00:12:53,397
+Tôi tôn trọng beer!
+
+181
+00:13:01,698 --> 00:13:03,907
+Chào Neils. Quí cô.
+Hey, Nash.
+
+182
+00:13:03,992 --> 00:13:05,826
+Ai đang thắng thế?
+Cậu? Hay cậu?
+
+183
+00:13:06,494 --> 00:13:07,786
+- Chào Nash.
+
+184
+00:13:07,871 --> 00:13:09,329
+Chào các cậu. Chào Nash.
+
+185
+00:13:11,374 --> 00:13:13,000
+Chắn chắn là anh ấy đang nhìn cậu.
+
+186
+00:13:13,376 --> 00:13:14,668
+Tôi á?
+
+187
+00:13:14,752 --> 00:13:15,752
+Nash này
+
+188
+00:13:17,964 --> 00:13:21,300
+Này Nash. Neils đang cố gây sự chú ý của cậu đấy
+
+189
+00:13:22,093 --> 00:13:23,635
+- Cậu đùa.
+- Ồ, không.
+
+190
+00:13:29,476 --> 00:13:31,560
+- Đi nào.
+- Hãy là một người đàn ông.
+
+191
+00:13:32,937 --> 00:13:34,563
+- May mắn cũng cần dũng cảm đấy.
+
+192
+00:13:34,647 --> 00:13:35,898
+Nhào vô đi.
+
+193
+00:13:38,151 --> 00:13:41,653
+Quý ông, tôi có thể nhắc rằng
+cơ hội thành công của tôi
+
+194
+00:13:41,738 --> 00:13:43,739
+tăng lên đáng kể mỗi lần thử không?
+
+195
+00:13:53,333 --> 00:13:55,167
+Chuyện này sẽ trở thành kinh điển đây.
+
+196
+00:14:25,448 --> 00:14:27,449
+Có lẽ anh muốn mời tôi một ly rượu
+
+197
+00:14:33,289 --> 00:14:35,165
+Tôi không biết chính xác phải nói gì
+
+198
+00:14:35,250 --> 00:14:37,834
+để khiến cô quan hệ với tôi
+
+199
+00:14:37,961 --> 00:14:40,003
+nhưng ta có thể xem như
+tôi đã nói những điều đó rồi, được chứ?
+
+200
+00:14:40,964 --> 00:14:43,882
+Về cơ bản thì chúng ta đang nói về
+việc trao đổi chất lỏng, đúng không?
+
+201
+00:14:43,967 --> 00:14:45,968
+Vì thế, liệu chúng ta có thể nói
+thẳng về sex luôn?
+
+202
+00:14:47,720 --> 00:14:49,179
+Ôi, Thật là ngọt ngào.
+
+203
+00:14:50,473 --> 00:14:52,641
+Chúc buổi tối tốt đẹp, đồ tồi!
+
+204
+00:14:52,725 --> 00:14:54,476
+- Này các cô, đợi đã!
+
+205
+00:14:56,729 --> 00:15:02,317
+Tôi đặc biệt thích cái chi tiết về trao đổi chất lỏng đấy.
+Nó thật cuốn hút.
+
+206
+00:15:07,323 --> 00:15:10,492
+Đi với tôi, John
+Tôi muốn nói chuyện với cậu
+
+207
+00:15:11,619 --> 00:15:15,581
+Khoa đang làm đánh giá giữa năm
+
+208
+00:15:15,665 --> 00:15:18,083
+Chúng tôi đang tìm một vị trí
+thích hợp cho mỗi sinh viên
+
+209
+00:15:18,167 --> 00:15:20,085
+Wheeler, thưa giáo sư. Đó là lựa chọn
+số 1của em
+
+210
+00:15:20,169 --> 00:15:21,753
+Và thật ra thì, em không có lựa chọn
+thứ hai, thưa giáo sư.
+
+211
+00:15:21,838 --> 00:15:24,923
+John, các bạn cậu đã tham gia các lớp học.
+
+212
+00:15:25,008 --> 00:15:27,009
+Họ viết báo, họ có những công bố.
+
+213
+00:15:28,011 --> 00:15:30,470
+- Em vẫn đang tìm, thưa giáo sư, em đang tìm...
+- Nguyên lý cơ bản của cậu.
+
+214
+00:15:30,555 --> 00:15:31,930
+Lý thuyết cân bằng, thưa giáo sư.
+
+215
+00:15:32,015 --> 00:15:33,473
+Điểu đó rất hay, John, nhưng tôi e là
+
+216
+00:15:33,558 --> 00:15:35,017
+điều đó chưa đủ.
+
+217
+00:15:42,275 --> 00:15:43,650
+- Tôi có thể?
+- Cám ơn.
+
+218
+00:15:44,736 --> 00:15:46,320
+Em đã nghiên cứu trên rất nhiều khía cạnh
+
+219
+00:15:46,404 --> 00:15:48,572
+Và những phương pháp đó đang bắt đầu
+mang lại một số kết quả
+
+220
+00:15:48,656 --> 00:15:50,282
+Nếu giáo sư có thể sắp xếp một cuộc hẹn khác
+
+221
+00:15:50,366 --> 00:15:52,367
+Nếu giáo sư vui lòng, với giáo sư Einstein.
+
+222
+00:15:52,493 --> 00:15:53,952
+Tôi đã luôn hỏi cậu về điều đó.
+Bây giờ, John...
+
+223
+00:15:54,037 --> 00:15:56,455
+Em có thể cho ông ta thấy
+sự chỉnh sửa của em trên...
+
+224
+00:15:56,539 --> 00:15:57,623
+John
+
+225
+00:16:00,251 --> 00:16:01,710
+Cậu có thấy người ta đang làm gì ở kia không?
+
+226
+00:16:05,590 --> 00:16:07,549
+Chúc mừng giáo sư.
+
+227
+00:16:07,634 --> 00:16:09,676
+- Cảm ơn ngài.
+Cám ơn.
+
+228
+00:16:11,387 --> 00:16:13,055
+Đó là những cây bút.
+
+229
+00:16:13,139 --> 00:16:16,725
+Đó là điều xứng đáng cho một thành viên của khoa
+người đã có nhiều cống hiến trong suốt cuộc đời mình
+
+230
+00:16:17,852 --> 00:16:19,394
+Bây giờ, cậu thấy gì, John?
+
+231
+00:16:20,813 --> 00:16:22,064
+Sự công nhận.
+
+232
+00:16:23,316 --> 00:16:25,108
+Tốt lắm, giáo sư.
+Tốt lắm.
+
+233
+00:16:25,652 --> 00:16:26,902
+Tốt, hãy cố gắng nhìn thành tựu đó.
+
+234
+00:16:27,904 --> 00:16:29,321
+Có gì khác nhau à?
+
+235
+00:16:29,405 --> 00:16:32,574
+John, cậu không tập trung.
+
+236
+00:16:35,328 --> 00:16:37,704
+Tôi xin lỗi, nhưng tới thời điểm này
+
+237
+00:16:37,789 --> 00:16:40,165
+hồ sơ của cậu
+không đảm bảo cho bất kỳ vị trí nào.
+
+238
+00:16:44,003 --> 00:16:45,253
+Chúc một ngày tốt lành.
+
+239
+00:16:55,765 --> 00:16:58,141
+Đây là quà của tôi đối với ngài, thưa ngài.
+
+240
+00:16:58,226 --> 00:16:59,351
+Cám ơn rất nhiều.
+
+241
+00:17:17,120 --> 00:17:18,620
+Tôi không thể thấy nó
+
+242
+00:17:26,796 --> 00:17:28,505
+Chúa ơi, John.
+
+243
+00:17:29,298 --> 00:17:30,716
+Tôi không thể thất bại
+
+244
+00:17:30,800 --> 00:17:32,008
+Đây là tất cả đời tôi.
+
+245
+00:17:32,093 --> 00:17:33,552
+- Thôi nào, ra ngoài thôi.
+
+246
+00:17:33,636 --> 00:17:34,970
+- Tôi phải làm được điều gì đó.
+
+247
+00:17:35,054 --> 00:17:37,347
+- Tôi không thể mãi nhìn vào khoảng trống.
+
+248
+00:17:37,432 --> 00:17:38,598
+- John, đủ rồi đấy!
+
+249
+00:17:38,683 --> 00:17:40,308
+Cần giam mình trong phòng học,
+làm theo qui định của họ,
+
+250
+00:17:40,393 --> 00:17:41,643
+đọc sách của họ, học lớp của họ.
+
+251
+00:17:41,728 --> 00:17:44,396
+Cậu muốn làm hư gì à, tốt thôi.
+Nhưng đừng có quậy tung như vậy.
+
+252
+00:17:44,480 --> 00:17:48,150
+Nào! Đập vỡ đầu cậu đi!
+Tự giết mình đi.
+
+253
+00:17:48,776 --> 00:17:51,194
+John, làm đi.
+Đừng quậy tung lên như thế.
+
+254
+00:17:51,279 --> 00:17:55,073
+Đập vỡ đầu cậu đi! Làm đi nào
+đập vỡ cái đầu vô dụng đó đi.
+
+255
+00:17:55,158 --> 00:17:58,160
+Cậu điên à, Charles!
+Cậu bị làm sao thế?
+
+256
+00:18:01,414 --> 00:18:02,748
+Đó không phải là vấn đề của tôi.
+
+257
+00:18:05,168 --> 00:18:06,668
+Và cũng không phải vấn đề của cậu
+
+258
+00:18:10,131 --> 00:18:11,423
+Nó là vấn đề của họ.
+
+259
+00:18:12,133 --> 00:18:14,968
+Câu trả lời cậu cần không ở
+trên những bức tường.
+
+260
+00:18:15,887 --> 00:18:18,930
+Nó ở ngoài kia...
+ở nơi cậu đã làm việc và nghiên cứu.
+
+261
+00:18:41,162 --> 00:18:42,704
+Nó nặng thật đấy.
+
+262
+00:18:46,209 --> 00:18:48,502
+Isaac Newton đã đúng.
+
+263
+00:18:48,628 --> 00:18:51,171
+- Ông ấy đã tìm ra điều thú vị.
+- Chàng trai thông minh.
+
+264
+00:18:51,756 --> 00:18:54,466
+Đừng lo, của tôi đấy
+Tôi sẽ xuống mang nó lên ngay
+
+265
+00:18:55,635 --> 00:18:56,635
+Ô, Chúa tôi.
+
+266
+00:19:00,890 --> 00:19:02,766
+Đang đến đây, các cậu.
+
+267
+00:19:08,105 --> 00:19:09,564
+Thở sâu.
+
+268
+00:19:10,358 --> 00:19:14,319
+Nash, có lẽ cậu muốn dừng việc
+lật đi lật lại những tờ giấy đó trong 5 giây.
+
+269
+00:19:18,950 --> 00:19:20,492
+Tôi sẽ không mua bia cho các cậu đâu
+
+270
+00:19:20,576 --> 00:19:22,410
+Ồ, chúng ta tới đây không phải vì bia,
+bạn của tôi ơi.
+
+271
+00:19:24,747 --> 00:19:26,039
+Ồ.
+
+272
+00:19:27,750 --> 00:19:30,168
+Có ai cảm thấy là cô ấy nên di chuyển
+chậm lại không?
+
+273
+00:19:31,504 --> 00:19:33,338
+Các cậu có nghĩ là cô ấy muốn một
+đám cưới thật hoành tráng không?
+
+274
+00:19:33,881 --> 00:19:35,841
+Chúng ta sẽ thách đấu chứ, quý ngài?
+Đấu súng lúc bình minh chứ?
+
+275
+00:19:35,925 --> 00:19:38,343
+Cậu không nhớ gì à?
+
+276
+00:19:38,427 --> 00:19:40,262
+Nhắc lại bài học của Adam Smiths,
+
+277
+00:19:40,388 --> 00:19:42,222
+cha đẻ của kinh tế học hiện đại
+
+278
+00:19:42,598 --> 00:19:46,852
+"Trong cạnh tranh, khát vọng của mỗi cá nhân
+đều phục vụ cho mục đích chung"
+
+279
+00:19:46,936 --> 00:19:48,019
+Chính xác!
+
+280
+00:19:48,104 --> 00:19:49,312
+Mọi người đều vì mình, thưa quí vị.
+
+281
+00:19:49,397 --> 00:19:52,274
+Và những ai muốn đến gần cô gái đó
+sẽ bị mắc kẹt với bạn của cô ấy.
+
+282
+00:19:52,358 --> 00:19:53,817
+Tôi sẽ không ra đó đâu.
+
+283
+00:19:53,901 --> 00:19:56,444
+Bạn có thể đưa nước cho một cô gái tóc vàng,
+nhưng bạn không thể làm cho cô ta uống
+
+284
+00:19:57,113 --> 00:19:58,572
+Được rồi, mọi người đừng làm gì.
+
+285
+00:19:58,656 --> 00:20:01,157
+Cô ấy đang nhìn về phía này đấy.
+Cô nàng đang nhìn Nash.
+
+286
+00:20:01,659 --> 00:20:04,160
+Ôi, chúa ơi. Có lẽ bây giờ
+thì cậu ta có lợi thế rồi
+
+287
+00:20:04,245 --> 00:20:05,537
+nhưng hãy đợi đến khi cậu ta mở miệng đã
+
+288
+00:20:05,621 --> 00:20:07,706
+Có nhớ lần cuối không?
+
+289
+00:20:07,790 --> 00:20:10,834
+Ồ có chứ, nó được ghi vào lịch sử đấy.
+
+290
+00:20:16,966 --> 00:20:18,341
+Adam Smith cần phải xem xét lại.
+
+291
+00:20:18,426 --> 00:20:20,010
+- Cậu đang nói về cái gì thế?
+
+292
+00:20:21,596 --> 00:20:23,054
+Nếu tất cả chúng ta đều muốn cô nàng tóc vàng,
+
+293
+00:20:28,227 --> 00:20:29,519
+chúng ta sẽ ngăn cản lẫn nhau.
+
+294
+00:20:30,187 --> 00:20:33,148
+Và không ai trong chúng ta
+có được cô ấy cả.
+
+295
+00:20:34,108 --> 00:20:35,442
+VÌ thế, chúng ta sẽ mời bạn của cô ấy.
+
+296
+00:20:37,403 --> 00:20:39,237
+Nhưng họ sẽ lạnh lùng với ta.
+
+297
+00:20:39,322 --> 00:20:41,197
+Bởi vì không ai thích là lựa chọn thứ 2 cả.
+
+298
+00:20:42,283 --> 00:20:45,076
+Bây giờ, nếu như không ai mời cô gái tóc vàng?
+
+299
+00:20:46,829 --> 00:20:48,955
+Chúng ta sẽ không cản đường nhau
+
+300
+00:20:49,040 --> 00:20:51,166
+và chúng ta cũng không
+xúc phạm những cô gái kia
+
+301
+00:20:53,085 --> 00:20:54,502
+Đó là cách duy nhất chúng ta chiến thắng
+
+302
+00:20:57,173 --> 00:20:58,673
+Đó là cách duy nhất để ai
+cũng có cô gái của mình.
+
+303
+00:21:04,847 --> 00:21:08,516
+Adam Smith đã nói:
+"Kết quả tốt nhất sẽ đến khi...
+
+304
+00:21:09,644 --> 00:21:11,561
+mỗi người trong nhóm
+làm những điều tốt nhất cho mình"
+
+305
+00:21:11,646 --> 00:21:15,690
+Đúng? Đó là những gì ông ấy đã nói.
+Đúng. Nhưng mà chưa đủ.
+
+306
+00:21:16,317 --> 00:21:21,363
+Bởi vì kết quả tốt nhất sẽ đến
+khi mà mọi người trong nhóm
+
+307
+00:21:22,281 --> 00:21:25,784
+làm những điều tốt nhất cho chính mình
+và cho cả nhóm.
+
+308
+00:21:25,868 --> 00:21:27,494
+Nash, nếu đây là cách để cậu chiếm
+
+309
+00:21:27,578 --> 00:21:29,454
+cô nàng tóc vàng cho cậu, thì cậu chết đi.
+
+310
+00:21:29,538 --> 00:21:31,957
+Lý thuyết cân bằng, thưa quí vị.
+Lý thuyết cân bằng.
+
+311
+00:21:32,041 --> 00:21:34,793
+Adam Smith đã sai.
+
+312
+00:21:35,878 --> 00:21:38,046
+- Đây này.
+- Cẩn thận, cẩn thận.
+
+313
+00:21:41,384 --> 00:21:42,801
+Cảm ơn.
+
+314
+00:21:54,814 --> 00:21:57,649
+"C" của "S" bằng "C" của "T."
+
+315
+00:23:00,504 --> 00:23:01,921
+Cậu có biết điều này thách thức
+
+316
+00:23:02,006 --> 00:23:03,965
+150 năm học thuyết kinh tế không?
+
+317
+00:23:04,050 --> 00:23:05,216
+Vâng, thưa giáo sư.
+
+318
+00:23:05,301 --> 00:23:06,676
+Nó có phần nào hơi quá tự tin,
+cậu có nghĩ vậy không?
+
+319
+00:23:06,761 --> 00:23:07,886
+Vâng, thưa giáo sư.
+
+320
+00:23:15,811 --> 00:23:19,773
+Well, Mr. Nash,
+với một khám phá quan trong như thế này,
+
+321
+00:23:20,983 --> 00:23:23,485
+tôi hoàn toàn tự tin nói rằng
+cậu sẽ có bất cứ vị trí nào cậu muốn.
+
+322
+00:23:30,826 --> 00:23:35,830
+Wheeler Labs, họ đề nghị cậu giới thiệu thêm
+2 thành viên nữa cho nhóm.
+
+323
+00:23:40,294 --> 00:23:42,003
+Stills và Frank là những lựa chọn
+tuyệt vời đấy chứ.
+
+324
+00:23:42,088 --> 00:23:43,838
+Sol và Bender, thưa giáo sư.
+
+325
+00:23:44,381 --> 00:23:47,175
+Sol và Bender là những nhà toán học khác thường
+
+326
+00:23:47,802 --> 00:23:49,135
+Đó là anh nghĩ vậy, Nash,
+
+327
+00:23:49,220 --> 00:23:51,096
+Nếu Sol và Bender đều có
+những kế hoạch riêng của họ thì sao?
+
+328
+00:23:56,894 --> 00:23:58,019
+Chúng ta làm được rồi!
+
+329
+00:23:58,104 --> 00:24:00,063
+Wheeler, chúng ta làm được rồi!
+
+330
+00:24:00,689 --> 00:24:02,524
+- Cụng ly, cụng ly, cụng ly!
+
+331
+00:24:02,775 --> 00:24:04,025
+Oh! Oh!
+
+332
+00:24:04,902 --> 00:24:07,112
+Ok, khoảnh khắc vụng về, thưa quí vị.
+
+333
+00:24:32,012 --> 00:24:33,596
+Lý thuyết cân bằng.
+
+334
+00:24:36,934 --> 00:24:38,184
+- Chúc mừng cậu, John.
+
+335
+00:24:38,269 --> 00:24:39,727
+- Nâng cốc!
+- Vì Wheeler Labs!
+
+336
+00:24:39,854 --> 00:24:41,271
+Vì Wheller!
+
+337
+00:25:06,255 --> 00:25:08,965
+Tường quân, nhà phân tích từ phòng
+thí nghiệm Wheeler đã đến.
+
+338
+00:25:09,049 --> 00:25:10,758
+Tiến sĩ Nash, áo khoác của ngài?
+
+339
+00:25:10,843 --> 00:25:12,385
+Cảm ơn ngài.
+
+340
+00:25:12,887 --> 00:25:14,053
+Tiến sĩ.
+
+341
+00:25:14,138 --> 00:25:16,431
+Tướng quân, đây là nguời đứng đầu
+Wheeler, tiến sĩ Nash.
+
+342
+00:25:17,141 --> 00:25:18,808
+Rất vui vì ngài đã đến, tiến sĩ.
+
+343
+00:25:18,893 --> 00:25:19,893
+Chào ngài.
+
+344
+00:25:20,519 --> 00:25:21,519
+Đường này.
+
+345
+00:25:22,438 --> 00:25:25,690
+Chúng tôi chặn được một số tín hiệu
+radio từ Moscow.
+
+346
+00:25:26,942 --> 00:25:29,944
+Máy tính không thế phát hiện ra điều gì,
+nhưng tôi chắc chắn nó là mật mã.
+
+347
+00:25:31,113 --> 00:25:32,405
+Những cái đó là gì, tướng quân?
+
+348
+00:25:33,282 --> 00:25:35,241
+Ngài đã biết điều gì rồi à, tiến sĩ Nash?
+
+349
+00:25:38,162 --> 00:25:39,412
+Hằng số.
+
+350
+00:25:41,957 --> 00:25:44,000
+Chúng tôi mới tìm ra một số mã.
+
+351
+00:25:46,003 --> 00:25:48,213
+Nếu ngài muốn xem những dữ liệu
+sơ bộ của chúng tôi?
+
+352
+00:25:50,466 --> 00:25:51,507
+Tiến sĩ?
+
+353
+00:25:51,592 --> 00:25:55,595
+6 - 7 - 3 - 7. 0 - 3 - 6...
+
+354
+00:25:55,679 --> 00:25:57,263
+8 - 4 - 9 - 4.
+
+355
+00:25:57,348 --> 00:25:59,474
+9 - 1 - 4 - 0 - 3 - 4.
+
+356
+00:26:41,684 --> 00:26:42,725
+0 - 3 - 4.
+
+357
+00:27:00,327 --> 00:27:01,786
+Tôi cần một cái bản đồ.
+
+358
+00:27:04,498 --> 00:27:08,543
+46 - 13 - 08, 67 - 46 - 90.
+
+359
+00:27:11,046 --> 00:27:12,505
+Starkey Corners, Maine.
+
+360
+00:27:13,966 --> 00:27:18,720
+48 - 03 - 01. 91 - 26 - 35.
+
+361
+00:27:19,888 --> 00:27:21,973
+Prairie Portage, Minnesota.
+
+362
+00:27:22,057 --> 00:27:24,142
+Đó là những kinh độ và vĩ độ.
+
+363
+00:27:24,893 --> 00:27:26,311
+Có ít nhất 10 điểm nữa.
+
+364
+00:27:26,395 --> 00:27:29,314
+Có vẻ như chúng được sắp xếp
+ngang biên giới đi vào Mỹ.
+
+365
+00:27:31,108 --> 00:27:32,608
+Phi thường.
+
+366
+00:27:33,569 --> 00:27:36,321
+Mọi người, chúng ta cần phải hành động.
+
+367
+00:27:38,657 --> 00:27:40,241
+Ai là Anh Cả?
+
+368
+00:27:40,326 --> 00:27:42,744
+Cậu vừa giúp cho đất nước một việc
+rất lớn đấy, con trai.
+
+369
+00:27:43,287 --> 00:27:45,038
+- Đại uý!
+- Vâng.
+
+370
+00:27:46,415 --> 00:27:48,333
+Hãy hộ tống tiến sĩ Nash.
+
+371
+00:27:48,876 --> 00:27:50,209
+Những động thái của Nga là gì, thưa tướng quân?
+
+372
+00:27:52,171 --> 00:27:55,381
+Đại uý Rogers sẽ hộ tống ngài
+ra khỏi khu vực hạn chế, tiến sĩ.
+
+373
+00:27:55,466 --> 00:27:56,799
+Cảm ơn ngài
+
+374
+00:27:57,468 --> 00:27:58,968
+Tiến sĩ Nash, làm ơn theo tôi
+
+375
+00:28:06,643 --> 00:28:09,729
+Không ai bảo là không thích cách thức hiện tại
+
+376
+00:28:09,813 --> 00:28:13,191
+hoặc là nói với chúng tôi cách nào đó khác
+có thể có hiệu quả.
+
+377
+00:28:14,943 --> 00:28:16,444
+Tiến sĩ Nash.
+Được rồi
+
+378
+00:28:31,627 --> 00:28:33,669
+- Cảm ơn ngài.
+- Cậu từ lầu năm góc về đấy à?
+
+379
+00:28:33,754 --> 00:28:36,631
+Họ thực sự đã lấy từ "Bí mật" ra
+khỏi từ điển rồi à?
+
+380
+00:28:37,508 --> 00:28:40,093
+Oh, chào. Điều hoà lại hỏng rồi.
+
+381
+00:28:40,177 --> 00:28:42,720
+Làm sao mà tôi có thể ở đây để cứu thế giới
+nếu tôi đang nóng chảy ra?
+
+382
+00:28:45,265 --> 00:28:48,393
+Cậu biết đấy, hai lần đến Lầu Năm Góc
+trong 4 năm.
+
+383
+00:28:48,477 --> 00:28:49,727
+Đó là gấp đôi những gì chúng ta đã từng.
+
+384
+00:28:49,812 --> 00:28:51,104
+Đỡ hơn rồi đấy, John.
+
+385
+00:28:51,188 --> 00:28:53,147
+Chúng ta vừa có nhiệm vụ vinh quang.
+
+386
+00:28:54,149 --> 00:28:55,900
+Các cậu biết đấy, người Nga
+đã có bom Hyđro,
+
+387
+00:28:55,984 --> 00:28:58,486
+những đảng viên quốc xã đang
+chuyển về nam Mỹ,
+
+388
+00:28:58,570 --> 00:29:00,988
+trung Quốc có quân đội với
+2.8 triệu người
+
+389
+00:29:01,698 --> 00:29:04,450
+còn tôi thì đang stress tests
+trên một cái đập.
+
+390
+00:29:05,160 --> 00:29:07,620
+Nhìn này, cậu lại lên trang bìa
+tạp chí Fortune một lần nữa
+
+391
+00:29:07,704 --> 00:29:09,831
+Hãy lưu ý là "cậu" chứ không phải
+là "chúng ta"
+
+392
+00:29:11,542 --> 00:29:13,042
+Các cậu cho như thế này là một mình tôi à.
+
+393
+00:29:17,047 --> 00:29:18,756
+Họ không chỉ lấy mất
+huy chương Fields của tôi
+
+394
+00:29:18,841 --> 00:29:22,135
+bây giờ họ lại còn đưa tôi lên
+trang bìa tạp chí Fortune nữa
+
+395
+00:29:22,219 --> 00:29:23,594
+với những chuyện vớ vẩn này
+
+396
+00:29:23,679 --> 00:29:25,346
+John, chính xác thì sự khác nhau giữa
+
+397
+00:29:25,431 --> 00:29:27,056
+thiên tài và thiên tài số một là gì?
+
+398
+00:29:28,892 --> 00:29:30,059
+Rất nhiều.
+
+399
+00:29:30,769 --> 00:29:31,811
+Cậu ấy là con trai của cậu.
+
+400
+00:29:31,895 --> 00:29:33,187
+Dù sao thì, cậu còn 10 phút nữa
+
+401
+00:29:33,939 --> 00:29:35,565
+Tôi luôn có 10 phút
+
+402
+00:29:35,649 --> 00:29:36,858
+Trước khi giờ lên lớp của cậu bắt đầu?
+
+403
+00:29:43,532 --> 00:29:45,408
+Liệu tôi có thể không làm những việc
+mà tiến sĩ phải làm không?
+
+404
+00:29:46,743 --> 00:29:49,036
+Cậu là tiến sĩ, John
+và câu trả lời là 'không'.
+
+405
+00:29:49,705 --> 00:29:52,623
+Thôi nào John, cậu biết rồi đấy
+do đâu mà chúng ta có những điều kiện
+tốt như thế này
+
+406
+00:29:52,708 --> 00:29:54,625
+Ở M. I. T. Những bộ óc thiên tài
+của nước Mỹ hôm nay
+
+407
+00:29:54,710 --> 00:29:56,419
+dạy những thiên tài Mỹ ngày mai.
+
+408
+00:29:56,503 --> 00:29:57,920
+Tội nghiệp.
+
+409
+00:29:58,005 --> 00:29:59,922
+Nào, đi dạy vui nhé.
+
+410
+00:30:00,007 --> 00:30:01,215
+Chuông kêu rồi đấy.
+
+411
+00:30:23,447 --> 00:30:25,865
+Những cái đầu háo hức của ngày mai.
+
+412
+00:30:35,667 --> 00:30:38,836
+Giáo sư, chúng ta có thể mở một cái không?
+Ở đây rất nóng, thưa giáo sư.
+
+413
+00:30:41,131 --> 00:30:45,593
+Các cậu sẽ cảm thấy dễ chịu
+khi nghe tôi nói
+
+414
+00:30:50,599 --> 00:30:55,937
+Cá nhân tôi, tôi nghĩ lớp học này là một sự phí phạm
+thời gian của các bạn
+
+415
+00:30:56,271 --> 00:30:58,606
+Và điều thực sự tồi tệ là
+
+416
+00:30:59,983 --> 00:31:01,609
+cả thời gian của tôi nữa.
+
+417
+00:31:03,195 --> 00:31:06,322
+Dù sao thì... chúng ta đã ở đây.
+
+418
+00:31:07,407 --> 00:31:09,408
+Các bạn có thể tham dự hoặc không
+
+419
+00:31:09,868 --> 00:31:12,286
+Các bạn có thể hoàn thành
+bài tập theo ý thích.
+
+420
+00:31:12,788 --> 00:31:14,288
+Chúng ta đã bắt đầu rồi đấy
+
+421
+00:31:17,251 --> 00:31:18,334
+Thưa cô?
+
+422
+00:31:21,547 --> 00:31:22,880
+Xin lỗi!
+
+423
+00:31:23,882 --> 00:31:25,758
+- Xin lỗi!
+- Này, này!
+
+424
+00:31:26,301 --> 00:31:27,301
+Chào!
+
+425
+00:31:29,429 --> 00:31:31,013
+Chúng tôi có một vấn đề nhỏ.
+
+426
+00:31:31,098 --> 00:31:33,599
+Ở trên này rất nóng nếu đóng cửa
+
+427
+00:31:33,684 --> 00:31:36,394
+nhưng nếu mở ra thì sẽ rất ồn
+
+428
+00:31:36,478 --> 00:31:38,771
+Vì thế, tôi tự hỏi liệu các anh
+có thể làm gì đó
+
+429
+00:31:38,855 --> 00:31:42,483
+tôi không biết nữa, có lẽ là làm
+ở nơi khác trong khoảng 45' được không?
+
+430
+00:31:42,568 --> 00:31:43,693
+- Không sao.
+
+431
+00:31:43,777 --> 00:31:45,444
+- Cảm ơn rất nhiều!
+
+432
+00:31:45,529 --> 00:31:47,113
+- Tạm dừng nào!
+- Được rồi đấy.
+
+433
+00:31:47,698 --> 00:31:50,241
+Đi thôi.
+Dọn dẹp một tí.
+
+434
+00:31:52,369 --> 00:31:55,288
+Như các bạn có thể thấy, trong tính toán
+đa biến...
+
+435
+00:31:56,790 --> 00:31:59,083
+thường có nhiều lời giải cho một vấn đề.
+
+436
+00:32:03,338 --> 00:32:05,214
+Và tôi đang nói, vấn đề ở đây sẽ
+
+437
+00:32:06,592 --> 00:32:08,884
+khiến các bạn mất nhiều tháng
+để giải quyết nó.
+
+438
+00:32:09,845 --> 00:32:11,762
+Với một số người
+
+439
+00:32:13,015 --> 00:32:15,808
+thì sẽ mất cả học kỳ
+hoặc thậm chí cả đời.
+
+440
+00:32:30,032 --> 00:32:32,074
+Giáo sư Nash.
+
+441
+00:32:44,880 --> 00:32:46,505
+William Parcher.
+
+442
+00:32:47,257 --> 00:32:48,382
+Anh Cả,
+
+443
+00:32:50,427 --> 00:32:51,886
+xin được phục vụ.
+
+444
+00:32:52,262 --> 00:32:55,181
+Tôi có thể làm gì cho bộ Quốc Phòng?
+
+445
+00:32:55,265 --> 00:32:56,557
+Ông muốn tôi giơ tay tự nguyện à?
+
+446
+00:32:56,683 --> 00:32:58,351
+Đi dạo chút đã
+
+447
+00:32:59,728 --> 00:33:01,228
+Việc cậu làm ở Lầu Năm Góc rất ấn tượng.
+
+448
+00:33:01,355 --> 00:33:02,855
+Đúng vậy.
+
+449
+00:33:02,939 --> 00:33:06,692
+Oppenheimer đã thường nói,
+"Thiên tài biết câu trả lời trước cả câu hỏi."
+
+450
+00:33:06,777 --> 00:33:08,694
+Ông biết Oppenheimer?
+
+451
+00:33:08,779 --> 00:33:11,656
+Tôi đã giám sát dự án của cậu ta.
+
+452
+00:33:11,740 --> 00:33:13,240
+Dự án nào?
+
+453
+00:33:16,286 --> 00:33:17,328
+Dự án đó.
+
+454
+00:33:17,412 --> 00:33:18,913
+Cậu biết đấy, việc đó không đơn giản?
+
+455
+00:33:19,247 --> 00:33:20,623
+Vâng, ông đã chấm dứt cuộc chiến đó.
+
+456
+00:33:20,832 --> 00:33:24,251
+Chúng tôi đã hoả thiêu 150,000
+người chỉ trong một nhịp tim
+
+457
+00:33:24,419 --> 00:33:27,213
+Những việc làm to tát
+phải trả một cái giá rất lớn, Ngài Parcher.
+
+458
+00:33:28,465 --> 00:33:30,800
+Kết tội, nó trở thành niềm vui sướng
+
+459
+00:33:30,884 --> 00:33:34,345
+của những người ngoài cuộc, anh Nash.
+
+460
+00:33:35,931 --> 00:33:38,224
+Tôi sẽ cố ghi nhớ điều này.
+
+461
+00:33:40,936 --> 00:33:43,270
+Vậy, John này, không gia đình
+
+462
+00:33:43,980 --> 00:33:46,107
+không bạn thân.
+
+463
+00:33:46,191 --> 00:33:47,441
+Tại sao thế?
+
+464
+00:33:47,526 --> 00:33:50,111
+Tôi thích cái ý nghĩ rằng tôi là
+một con sói đơn độc.
+
+465
+00:33:51,154 --> 00:33:54,115
+Nhưng chủ yếu là bởi vì mọi người
+không thích tôi.
+
+466
+00:33:55,450 --> 00:33:56,701
+Ừ, Khi những mối quan hệ cá nhân bị mất
+
+467
+00:33:56,785 --> 00:33:58,202
+thì cũng nên xem xét
+
+468
+00:33:58,286 --> 00:34:00,538
+đến việc cố gắng thúc đẩy nó lên.
+
+469
+00:34:03,041 --> 00:34:04,250
+- Đây là khu vực tối mật.
+
+470
+00:34:04,334 --> 00:34:06,168
+- Họ biết tôi.
+
+471
+00:34:09,172 --> 00:34:10,256
+Ông đã ở đây à?
+
+472
+00:34:10,340 --> 00:34:11,966
+Chúng tôi đã nói trong bản tóm tắt ban đầu
+
+473
+00:34:12,050 --> 00:34:14,051
+những nhà kho này đã bị phá huỷ.
+
+474
+00:34:14,136 --> 00:34:16,345
+Nó cũng không hoàn toàn đúng.
+
+475
+00:34:54,009 --> 00:34:55,259
+Với những điều tôi sắp nói cho anh
+
+476
+00:34:55,343 --> 00:34:58,929
+Tôi đang tăng cường mức độ bảo mật
+của cậu lên mức tối mật.
+
+477
+00:34:59,014 --> 00:35:03,058
+Tiết lộ những thông tin mật này có thể
+khiến anh phải vào tù.
+
+478
+00:35:03,143 --> 00:35:04,185
+Hiểu chứ?
+
+479
+00:35:05,061 --> 00:35:06,312
+Chiến dịch nào?
+
+480
+00:35:12,110 --> 00:35:13,986
+Đây là những ý tốt.
+
+481
+00:35:17,741 --> 00:35:21,368
+Nhà máy này ở Berlin.
+Chúng tôi chiếm được nó vào cuối cuộc chiến.
+
+482
+00:35:21,703 --> 00:35:25,790
+Những kỹ sư Đức quốc xã đang cố gắng chế tạo
+một loại bom nguyên tử có thể dễ dàng vận chuyển
+
+483
+00:35:25,916 --> 00:35:28,042
+Liên xô đã tiếp cận những cơ sở
+vật chất này trước chúng ta
+
+484
+00:35:28,126 --> 00:35:29,460
+và chúng ta đã mất đồ quỷ này.
+
+485
+00:35:32,672 --> 00:35:34,715
+Lệnh từ Lầu Năm Góc.
+
+486
+00:35:35,550 --> 00:35:36,926
+Về nó, phải không?
+
+487
+00:35:38,386 --> 00:35:40,888
+Xô viết không hoàn toàn thống nhất
+như mọi người nghĩ
+
+488
+00:35:40,972 --> 00:35:44,558
+Một bộ phận của Hồng quân, gọi là Novaya Svobga,
+
+489
+00:35:44,643 --> 00:35:46,685
+nghĩa là "Tự Do Mới"
+đã kiểm soát loại bom đó
+
+490
+00:35:46,770 --> 00:35:49,688
+và định cho nó nổ trên đất Mỹ.
+
+491
+00:35:50,524 --> 00:35:53,067
+Kế hoạch của họ là sát thương
+càng nhiều dân thường càng tốt
+
+492
+00:35:58,114 --> 00:36:01,909
+Con người có thể trở nên rất tàn nhẫn
+hơn cả những gì có thể tưởng tượng.
+
+493
+00:36:04,079 --> 00:36:07,081
+Tự Do Mới có những thành viên ngầm
+ở khắp nước Mỹ
+
+494
+00:36:08,750 --> 00:36:12,419
+McCarthy là một tên ngốc
+nhưng không may là ông ta đúng.
+
+495
+00:36:14,089 --> 00:36:16,257
+Tự Do Mới liên lạc với những
+thành viên của mình
+
+496
+00:36:16,341 --> 00:36:19,426
+thông qua những mật mã được cài
+trong báo và tạp chí
+
+497
+00:36:19,511 --> 00:36:20,594
+và đó là lý do anh đến đây.
+
+498
+00:36:21,346 --> 00:36:24,807
+Anh thấy đấy, John,
+điều làm anh khác với người khác
+
+499
+00:36:25,642 --> 00:36:28,352
+là anh,
+rất đơn giản,
+
+500
+00:36:28,937 --> 00:36:32,690
+là một người giải mã thiên bẩm
+giỏi nhất tôi từng biết.
+
+501
+00:36:38,405 --> 00:36:41,490
+Chính xác thì ông muốn tôi làm gì?
+
+502
+00:36:46,580 --> 00:36:49,415
+Hãy ghi nhớ danh sách những
+tạp chí này
+
+503
+00:36:50,959 --> 00:36:55,671
+Kiểm tra mỗi ấn bản của chúng,
+tìm ra những mã được giấu bên trong, giải mã chúng.
+
+504
+00:36:58,258 --> 00:37:00,384
+Đặt cằm của ngài vào chỗ nâng.
+
+505
+00:37:00,468 --> 00:37:01,844
+Nhìn kỹ vào ánh đèn.
+
+506
+00:37:01,928 --> 00:37:03,929
+Nhịp tim 88, bình thường.
+
+507
+00:37:07,142 --> 00:37:09,310
+Được rồi, việc này sẽ có một chút khó chịu
+
+508
+00:37:11,730 --> 00:37:14,940
+Có một chút khó chịu, phải không?
+
+509
+00:37:15,025 --> 00:37:17,860
+Anh ta vừa cài vào một đèn rađi.
+
+510
+00:37:17,944 --> 00:37:19,612
+Đừng lo, nó rất an toàn.
+
+511
+00:37:20,238 --> 00:37:22,573
+Chất đồng vị này sẽ phân rã.
+
+512
+00:37:22,657 --> 00:37:25,576
+Kết quả là những con số đó
+sẽ thay đổi theo thời gian.
+
+513
+00:37:26,161 --> 00:37:29,121
+Chúng là mã để vào hộp thư của anh.
+
+514
+00:37:30,790 --> 00:37:33,834
+Vậy bây giờ tôi là gì, một điệp viên à?
+
+515
+00:37:46,848 --> 00:37:47,973
+- Vào đi.
+
+516
+00:37:52,270 --> 00:37:54,688
+Chàng trai, chắc anh phải quan trọng lắm.
+
+517
+00:38:02,948 --> 00:38:04,823
+Được rồi, Mike.
+
+518
+00:38:14,376 --> 00:38:15,542
+Anh đang làm gì thế?
+
+519
+00:38:18,213 --> 00:38:19,546
+Phân loại.
+
+520
+00:38:21,257 --> 00:38:22,549
+Mọi người đã đợi nửa giờ liền.
+
+521
+00:38:22,717 --> 00:38:24,051
+Đợi gì?
+
+522
+00:38:25,220 --> 00:38:26,387
+Lớp học.
+
+523
+00:38:26,930 --> 00:38:28,847
+Anh đã quên buổi học hôm nay.
+
+524
+00:38:29,516 --> 00:38:31,684
+A, tôi ngờ rằng
+
+525
+00:38:33,812 --> 00:38:35,562
+không có ai nhớ tôi.
+
+526
+00:38:36,147 --> 00:38:38,565
+Bài toán ở trên bảng hôm qua...
+
+527
+00:38:40,235 --> 00:38:41,360
+Tôi đã giải được rồi.
+
+528
+00:38:42,862 --> 00:38:44,071
+Ồ không, cô chưa thể giải nó.
+
+529
+00:38:44,280 --> 00:38:45,531
+Anh thậm chí còn chưa nhìn
+
+530
+00:38:46,574 --> 00:38:49,618
+Tôi chưa bao giờ nói rằng vectơ
+trường là một hàm tỉ lệ
+
+531
+00:38:54,332 --> 00:38:56,208
+Lời giải của cô rất hay
+
+532
+00:38:58,712 --> 00:39:01,296
+nhưng trong trường hợp đặc biệt này
+
+533
+00:39:02,424 --> 00:39:04,174
+cơ bản thì nó không đúng.
+
+534
+00:39:25,739 --> 00:39:27,114
+Cô vẫn ở đây à?
+
+535
+00:39:27,407 --> 00:39:28,949
+Tôi vẫn ở đây.
+
+536
+00:39:30,285 --> 00:39:31,410
+Tại sao?
+
+537
+00:39:32,287 --> 00:39:35,372
+Tôi đang tự hỏi, giáo sư Nash,
+
+538
+00:39:36,791 --> 00:39:38,625
+tôi có thể mời anh đi ăn tối không?
+
+539
+00:39:43,048 --> 00:39:44,840
+Anh vẫn ăn chứ?
+
+540
+00:39:45,300 --> 00:39:46,967
+Thỉnh thoảng, ừ.
+
+541
+00:39:47,886 --> 00:39:50,095
+Bàn cho một người, giống như Prômêtê
+bị xích vào tảng đá
+
+542
+00:39:50,180 --> 00:39:52,473
+với những con chim bay vòng vòng trên đầu,
+cô biết thế nào rồi đấy.
+
+543
+00:39:55,935 --> 00:39:58,145
+Không, tôi hy vọng là cô không biết cảm giác đó
+
+544
+00:40:01,983 --> 00:40:04,401
+Để lại địa chỉ ở văn phòng của tôi
+
+545
+00:40:04,486 --> 00:40:09,364
+Tôi sẽ tới đón vào lúc 8h tối thứ Sáu
+và chúng ta sẽ ăn.
+
+546
+00:40:17,499 --> 00:40:20,084
+Ah, còn một việc nữa. Cô có một cái tên không?
+
+547
+00:40:20,168 --> 00:40:22,211
+Hay là tôi sẽ tiếp tục gọi
+bằng "Cô"?
+
+548
+00:40:25,715 --> 00:40:27,382
+Thống đốc, để tôi giới thiệu
+
+549
+00:40:27,467 --> 00:40:29,510
+- Cô Alicia Larde.
+- Cô Alicia Larde.
+
+550
+00:40:30,386 --> 00:40:33,180
+Giáo sư, hãy chụp một kiểu, ngài và ngài thống đốc.
+
+551
+00:40:35,642 --> 00:40:37,059
+Đợi đã, một giây thôi.
+Tôi xin lỗi.
+
+552
+00:40:38,812 --> 00:40:42,523
+Tôi muốn có một bản của tấm ảnh này.
+Cuộc hẹn đầu tiên, ngài biết đấy.
+
+553
+00:40:42,690 --> 00:40:45,609
+Nào, nhìn anh phải thật chỉn chu,
+
+554
+00:40:46,861 --> 00:40:51,532
+anh phải thật tự nhiên.
+
+555
+00:40:54,911 --> 00:40:57,371
+Đó, tốt hơn rồi đấy
+
+556
+00:40:58,623 --> 00:40:59,957
+- Tôi ngạc nhiên về anh ấy.
+
+557
+00:41:00,041 --> 00:41:02,960
+- Cô sẽ còn phải ngạc nhiên về anh ấy
+Giáo sư
+
+558
+00:41:20,520 --> 00:41:22,729
+Chắc chúa phải là một hoạ sĩ.
+
+559
+00:41:23,439 --> 00:41:26,066
+Với những màu sắc như thế này
+
+560
+00:41:28,653 --> 00:41:30,404
+Vậy em là hoạ sĩ à?
+
+561
+00:41:31,573 --> 00:41:33,991
+Em chưa từng nói như thế
+
+562
+00:41:34,826 --> 00:41:38,370
+nhưng, đúng vậy. Em là hoạ sĩ.
+
+563
+00:41:47,797 --> 00:41:48,922
+Ở đây.
+
+564
+00:41:50,383 --> 00:41:52,926
+Em. Cuộc hẹn của anh.
+
+565
+00:41:55,555 --> 00:41:58,140
+Buổi thực hành giao tiếp với mọi người
+và ứng xử ngoài xã hội.
+
+566
+00:41:58,224 --> 00:42:00,726
+Đó là một kế hoạch.
+
+567
+00:42:03,605 --> 00:42:05,647
+Champagne sẽ rất tuyệt đấy.
+
+568
+00:42:07,817 --> 00:42:09,443
+Em sẽ chờ bên ngoài
+
+569
+00:42:10,028 --> 00:42:12,029
+Anh sẽ đi lấy champagne.
+
+570
+00:42:20,622 --> 00:42:22,122
+Ồ, cảm ơn
+
+571
+00:42:23,625 --> 00:42:25,000
+Cảm ơn em vì cái này.
+
+572
+00:42:25,126 --> 00:42:27,169
+Không, anh cứ giữ nó đi.
+
+573
+00:42:27,253 --> 00:42:30,005
+Em tin rằng mọi sự rồi sẽ may mắn.
+
+574
+00:42:31,132 --> 00:42:32,174
+Phải vậy không?
+
+575
+00:42:32,842 --> 00:42:33,967
+Không.
+
+576
+00:42:34,677 --> 00:42:36,637
+Anh không tin vào may mắn
+
+577
+00:42:40,975 --> 00:42:43,560
+Nhưng anh tin rằng mọi thứ
+đều có giá trị của nó
+
+578
+00:42:44,729 --> 00:42:45,979
+Ồ.
+
+579
+00:42:54,280 --> 00:42:56,573
+Em đã từng thử đếm tất cả số sao đó.
+
+580
+00:42:57,825 --> 00:43:01,954
+Thật ra em đã đếm tới 4,348.
+
+581
+00:43:04,123 --> 00:43:05,832
+Em rảnh rỗi nhỉ.
+
+582
+00:43:06,501 --> 00:43:09,336
+Em cá là anh được các cô gái yêu mến.
+
+583
+00:43:15,176 --> 00:43:17,219
+Một cặp vịt.
+
+584
+00:43:22,892 --> 00:43:24,351
+Chọn một hình đi.
+
+585
+00:43:26,437 --> 00:43:27,521
+Gì cơ?
+
+586
+00:43:28,648 --> 00:43:31,358
+Hãy chọn một hình, một con vật,
+bất cứ cái gì.
+
+587
+00:43:33,611 --> 00:43:34,987
+Được rồi.
+
+588
+00:43:36,197 --> 00:43:37,614
+Một cái ô.
+
+589
+00:44:15,611 --> 00:44:19,239
+Làm lại đi.
+
+590
+00:44:19,407 --> 00:44:21,283
+Được thôi.
+Em thích gì nào?
+
+591
+00:44:21,409 --> 00:44:23,285
+Một con bạch tuộc.
+
+592
+00:47:14,081 --> 00:47:16,500
+Anh có vẻ ít nói nhỉ?
+
+593
+00:47:16,584 --> 00:47:19,419
+Anh không thể nói với em về
+công việc của anh, Alicia.
+
+594
+00:47:20,171 --> 00:47:21,838
+Ý em không phải công việc.
+
+595
+00:47:26,761 --> 00:47:28,637
+Anh nhận ra việc cải thiện quan hệ
+
+596
+00:47:28,721 --> 00:47:32,432
+để hoà nhập với mọi người
+đòi hỏi một nỗ lực khổng lồ.
+
+597
+00:47:33,768 --> 00:47:37,062
+Anh muốn truyền đạt
+những suy nghĩ của mình
+
+598
+00:47:38,814 --> 00:47:40,565
+một cách trực tiếp
+
+599
+00:47:42,151 --> 00:47:44,402
+Nhưng kết quả thường
+không làm anh hài lòng
+
+600
+00:47:44,612 --> 00:47:45,820
+Thử với em xem.
+
+601
+00:47:47,615 --> 00:47:48,698
+Được thôi
+
+602
+00:47:53,287 --> 00:47:55,163
+Anh thấy em rất quyến rũ.
+
+603
+00:47:56,374 --> 00:47:57,832
+Việc em tiến gần tới anh
+
+604
+00:47:57,917 --> 00:47:59,960
+chứng tỏ rằng em cũng cảm thấy như vậy.
+
+605
+00:48:00,920 --> 00:48:03,171
+Nhưng, theo trình tự thông thường
+
+606
+00:48:03,256 --> 00:48:05,465
+thì chúng ta cần phải gần gũi
+với nhau hơn
+
+607
+00:48:05,925 --> 00:48:08,009
+trước khi chúng ta có thể quan hệ.
+
+608
+00:48:08,636 --> 00:48:11,388
+Anh đang xúc tiến những việc đó,
+
+609
+00:48:11,472 --> 00:48:13,473
+nhưng thực tế thì,
+
+610
+00:48:13,641 --> 00:48:18,103
+tất cả những gì anh thật sự muốn
+là có thể quan hệ với em càng sớm càng tốt.
+
+611
+00:48:19,897 --> 00:48:22,107
+Bây giờ em sẽ tát anh chứ?
+
+612
+00:48:46,799 --> 00:48:48,508
+Kết quả thế nào?
+
+613
+00:49:05,818 --> 00:49:07,527
+Chú đang làm gì thế?
+
+614
+00:49:12,033 --> 00:49:14,034
+Chú đang cố gắng tách
+các sự kiện có liên quan đến nhau.
+
+615
+00:49:14,118 --> 00:49:17,329
+trong các tạp chí, còn cháu?
+
+616
+00:49:17,455 --> 00:49:19,581
+Chú nói chuyện buồn cười quá, chú Nash.
+
+617
+00:49:24,086 --> 00:49:25,837
+Chú có biết cháu không?
+
+618
+00:49:25,921 --> 00:49:28,173
+Chú cháu nói rằng chú rất thông minh,
+
+619
+00:49:28,257 --> 00:49:29,716
+nhưng không tốt
+
+620
+00:49:29,800 --> 00:49:32,135
+Vì thế cháu sẽ không để bụng đâu
+nếu chú cũng thế với cháu.
+
+621
+00:49:32,219 --> 00:49:34,095
+Vậy ai là chú cháu thế?
+
+622
+00:49:34,180 --> 00:49:35,513
+Kẻ cùng phòng phóng túng
+
+623
+00:49:36,974 --> 00:49:38,475
+đã trở lại
+
+624
+00:49:42,480 --> 00:49:44,648
+- Tới đây nào.
+- Charles, Charles, Charles.
+
+625
+00:49:50,363 --> 00:49:54,074
+Chị tôi qua đời trong một tai nạn ô tô.
+
+626
+00:49:55,534 --> 00:49:57,327
+Đừng đi quá xa đấy, Marcee!
+
+627
+00:49:57,995 --> 00:50:00,246
+Anh chồng cao bồi của chị ấy
+lại quá say
+
+628
+00:50:00,373 --> 00:50:02,624
+đến mức không biết rằng anh ta
+quá say để lái xe.
+
+629
+00:50:02,708 --> 00:50:04,751
+Vì thế tôi chắm sóc con bé.
+
+630
+00:50:06,337 --> 00:50:07,587
+- Cô bé còn nhỏ quá.
+
+631
+00:50:07,713 --> 00:50:10,674
+- Ừ, con bé còn trẻ, John.
+Bởi vậy tôi tới đây.
+
+632
+00:50:12,426 --> 00:50:17,097
+Tôi đang làm ở xưởng của tôi ở Harvard.
+
+633
+00:50:17,181 --> 00:50:18,973
+D. H. Bloody Lawrence.
+
+634
+00:50:19,266 --> 00:50:21,184
+Tôi thật sự nghĩ là cậu nên mua cho
+chính mình một quyển sách mới đấy.
+
+635
+00:50:24,271 --> 00:50:26,981
+Tôi đã đọc rất nhiều về cậu.
+
+636
+00:50:28,025 --> 00:50:29,693
+Cậu thế nào, John?
+
+637
+00:50:30,486 --> 00:50:32,487
+Ban đầu thì công việc của tôi ở đây
+không có gì quan trọng lắm,
+
+638
+00:50:32,571 --> 00:50:35,281
+nhưng sau đó có một nhiệm vụ mới, và...
+
+639
+00:50:36,784 --> 00:50:38,702
+thật sự thì tôi không thể
+nói chi tiết cho cậu được.
+
+640
+00:50:38,786 --> 00:50:41,496
+Tuyệt mật? Black bag? Những hoạt động ngầm à?
+
+641
+00:50:41,580 --> 00:50:43,331
+Đại loại là như thế
+
+642
+00:50:43,666 --> 00:50:44,999
+- Và...
+
+643
+00:50:45,126 --> 00:50:46,459
+- Sao?
+
+644
+00:50:47,628 --> 00:50:49,295
+Ừ, Tôi đã gặp một cô gái.
+
+645
+00:50:49,797 --> 00:50:51,715
+- Không! Một cô gái bằng xương bằng thịt chứ?
+- Một người thật.
+
+646
+00:50:51,799 --> 00:50:54,175
+- Động vật 2 chân?
+- Vâng. Và khác với tất cả
+
+647
+00:50:54,260 --> 00:50:57,887
+cô ấy thấy tôi cũng cuốn hút,
+theo một cách nào đó.
+
+648
+00:50:57,972 --> 00:50:59,973
+Chúa ơi, điều đó thật tuyệt vời.
+
+649
+00:51:00,725 --> 00:51:03,560
+Cho dù tớ chả hiểu sao cô ấy lại thích cậu.
+
+650
+00:51:06,647 --> 00:51:07,939
+Tôi nên cưới cô ấy chứ?
+
+651
+00:51:08,065 --> 00:51:09,399
+Ôi, Chúa, đúng vậy.
+
+652
+00:51:11,402 --> 00:51:12,819
+Ý tôi là, mọi thứ đều tốt.
+
+653
+00:51:12,903 --> 00:51:15,196
+Tôi có một công việc tốt
+và có đủ tiền.
+
+654
+00:51:15,281 --> 00:51:17,157
+Có vẻ cũng đủ để xem xét.
+
+655
+00:51:18,409 --> 00:51:20,076
+Nhưng làm sao để biết chắc được?
+
+656
+00:51:22,371 --> 00:51:24,622
+Không có gì là chắc chắn cả, John
+
+657
+00:51:25,583 --> 00:51:27,625
+Đó là điều duy nhất tôi biết chắc
+
+658
+00:51:35,050 --> 00:51:36,342
+Xin chào.
+
+659
+00:51:43,017 --> 00:51:46,853
+Alicia, xin em đừng tức giận.
+Anh đã làm việc quên cả thời gian...
+
+660
+00:51:48,481 --> 00:51:49,731
+một lần nữa.
+
+661
+00:51:51,525 --> 00:51:52,859
+Anh xin lỗi.
+
+662
+00:51:53,527 --> 00:51:55,653
+Anh không có thời gian để gói nó lại.
+
+663
+00:51:56,697 --> 00:51:58,198
+Chúc mừng sinh nhật
+
+664
+00:52:02,620 --> 00:52:04,496
+Em có nhìn thấy các mặt phản chiếu
+của nó không,
+
+665
+00:52:04,580 --> 00:52:06,414
+nó tán sắc ánh sáng có bước sóng dài,
+
+666
+00:52:06,707 --> 00:52:07,957
+vì thế, nếu em nhìn vào bên trong, em sẽ thấy...
+
+667
+00:52:08,042 --> 00:52:09,083
+Tất cả màu sắc
+
+668
+00:52:09,168 --> 00:52:12,629
+Tất cả màu sắc
+Yeah.
+
+669
+00:52:12,713 --> 00:52:16,633
+Anh nhớ có lần em đã nói
+chắc Chúa phải là một hoạ sĩ,
+vì đã tạo ra những màu sắc đó
+
+670
+00:52:16,717 --> 00:52:18,927
+Ở nhà thống đốc...
+em đã từng nói thế
+
+671
+00:52:20,554 --> 00:52:22,222
+Em cứ nghĩ là lúc đó anh không nghe
+
+672
+00:52:25,017 --> 00:52:26,726
+Anh luôn lắng nghe
+
+673
+00:52:33,317 --> 00:52:35,068
+Nó thật đẹp
+
+674
+00:52:51,627 --> 00:52:54,379
+Alicia, anh tự hỏi không biết
+mối quan hệ của chúng ta đã đủ bền chặt chưa?
+
+675
+00:52:54,463 --> 00:52:56,214
+Bởi vì anh cần một bằng chứng nào đó,
+
+676
+00:52:56,298 --> 00:52:59,092
+một cái gì đó có thể xác minh.
+
+677
+00:53:04,849 --> 00:53:07,350
+Em xin lỗi, cho em một phút...
+
+678
+00:53:08,936 --> 00:53:12,105
+để định nghĩa lại khái niệm
+thế nào là lãng mạn.
+
+679
+00:53:15,734 --> 00:53:16,943
+Bằng chứng?
+
+680
+00:53:17,611 --> 00:53:19,237
+Có thể kiểm chứng.
+
+681
+00:53:20,948 --> 00:53:22,031
+Um... được rồi.
+
+682
+00:53:23,951 --> 00:53:27,203
+Vũ trụ rộng bao nhiêu?
+
+683
+00:53:27,872 --> 00:53:29,122
+Vô biên.
+
+684
+00:53:29,415 --> 00:53:30,915
+Làm sao anh biết?
+
+685
+00:53:31,000 --> 00:53:32,500
+Anh biết bởi vì tất cả các dữ liệu
+đều chỉ ra điều đó.
+
+686
+00:53:32,585 --> 00:53:33,877
+- Nhưng nó vẫn chưa được chứng minh?
+- Chưa.
+
+687
+00:53:33,961 --> 00:53:34,961
+- Anh chưa từng thấy nó.
+- Chưa.
+
+688
+00:53:35,045 --> 00:53:36,212
+Làm sao anh biết chắc như thế?
+
+689
+00:53:37,631 --> 00:53:39,132
+Anh không biết, anh chỉ tin là thế.
+
+690
+00:53:42,636 --> 00:53:44,637
+Em đoán là tình yêu cũng như thế.
+
+691
+00:53:52,521 --> 00:53:56,065
+Điều anh không biết là...
+
+692
+00:53:58,402 --> 00:54:00,945
+em cũng muốn lấy anh.
+
+693
+00:54:21,967 --> 00:54:23,760
+Cười vào ống kính nào!
+
+694
+00:54:27,556 --> 00:54:28,890
+Tốt lắm!
+
+695
+00:54:31,018 --> 00:54:32,518
+Chúc mừng.
+
+696
+00:54:34,855 --> 00:54:36,564
+Em đẹp lắm.
+
+697
+00:54:37,816 --> 00:54:39,108
+Xin chào, cậu khoẻ không?
+
+698
+00:54:46,033 --> 00:54:47,951
+- Bye - Bye.
+- Tạm biệt.
+
+699
+00:54:50,537 --> 00:54:51,913
+Đi an toàn nhé!
+
+700
+00:55:21,318 --> 00:55:22,819
+Vào đi. Nhanh lên
+
+701
+00:55:26,657 --> 00:55:28,533
+Họ đang đuổi theo chúng ta
+
+702
+00:55:32,830 --> 00:55:34,414
+Ai... ai đang bám theo chúng ta?
+
+703
+00:55:34,623 --> 00:55:36,082
+Hộp thư đã bị phát hiện.
+
+704
+00:55:36,959 --> 00:55:38,251
+- Cúi xuống
+
+705
+00:55:39,086 --> 00:55:40,294
+- Cứ nằm xuống.
+
+706
+00:56:08,699 --> 00:56:09,741
+- Đây này, cầm lấy.
+
+707
+00:56:09,867 --> 00:56:10,908
+Tôi chưa bắn ai bao giờ.
+
+708
+00:56:10,993 --> 00:56:12,410
+- Cầm lấy súng đi!
+
+709
+00:56:12,536 --> 00:56:13,953
+- Không!
+
+710
+00:56:32,473 --> 00:56:34,182
+Lùi lại. Đừng cử động.
+
+711
+00:57:21,605 --> 00:57:22,688
+John?
+
+712
+00:57:29,988 --> 00:57:31,155
+Chào anh.
+
+713
+00:57:34,034 --> 00:57:35,368
+Anh đã ở đâu thế?
+
+714
+00:57:38,664 --> 00:57:41,374
+- S - Sol...
+- Vâng, em đã gọi cho Sol.
+
+715
+00:57:41,458 --> 00:57:44,085
+Anh ấy nói rằng anh đã rời văn phòng
+vài giờ trước.
+
+716
+00:57:47,047 --> 00:57:48,923
+Sao anh không báo cho em biết?
+
+717
+00:57:53,762 --> 00:57:55,096
+Anh ổn chứ?
+
+718
+00:58:04,523 --> 00:58:06,107
+Anh yêu?
+
+719
+00:58:07,901 --> 00:58:09,068
+John...
+
+720
+00:58:09,736 --> 00:58:12,405
+Hãy nói chuyện với em.
+Nói cho em biết đã xảy ra chuyện gì đi.
+
+721
+00:58:13,740 --> 00:58:15,616
+John, anh mở cửa ra.
+
+722
+00:58:17,578 --> 00:58:20,079
+Thôi nào, mở cửa ra. Cho em vào!
+
+723
+00:58:20,622 --> 00:58:21,998
+Nói cho em biết!
+
+724
+00:58:23,750 --> 00:58:24,917
+John!
+
+725
+00:58:26,003 --> 00:58:27,545
+Mở cửa ra!
+
+726
+00:58:44,938 --> 00:58:46,731
+Coi chừng xe, mấy đứa.
+
+727
+00:59:07,628 --> 00:59:09,378
+Chuyện gì đã xảy ra?
+
+728
+00:59:28,982 --> 00:59:30,274
+John.
+
+729
+00:59:31,777 --> 00:59:32,860
+William.
+
+730
+00:59:33,612 --> 00:59:36,197
+Đây không phải là điều tôi đã nói là sẽ làm.
+
+731
+00:59:36,281 --> 00:59:38,032
+Mỗi khi có cái xe nào bị cháy
+hay tiếng cửa đóng sầm lại...
+
+732
+00:59:38,242 --> 00:59:41,869
+Tôi hiểu nhiều hơn những gì
+cậu có thể tưởng tượng.
+
+733
+00:59:51,672 --> 00:59:53,839
+Cậu phải bình tĩnh, John.
+
+734
+00:59:54,591 --> 00:59:57,093
+Bây giờ, hãy nghe tôi.
+Chúng ta đã đến rất gần trái bom đó.
+
+735
+00:59:57,177 --> 00:59:59,262
+phần lớn là nhờ cậu.
+
+736
+00:59:59,346 --> 01:00:02,014
+Cậu có nghĩ là nỗi sợ đó chỉ là
+một cái giá nhỏ phải trả không?
+
+737
+01:00:02,683 --> 01:00:05,309
+William, hoàn cảnh của tôi đã thay đổi.
+
+738
+01:00:05,852 --> 01:00:07,353
+Alicia đã có thai.
+
+739
+01:00:15,946 --> 01:00:18,572
+Tôi đã nói với cậu rằng việc này
+rất nguy hiểm.
+
+740
+01:00:19,032 --> 01:00:21,200
+Khi cậu cưới cô gái đó.
+
+741
+01:00:22,035 --> 01:00:24,161
+Tôi đã không ngăn cậu
+
+742
+01:00:26,790 --> 01:00:29,792
+Cách tốt nhất để đảm bảo an toàn
+cho mọi người.
+
+743
+01:00:29,876 --> 01:00:31,877
+là cậu phải tiếp tục công việc.
+
+744
+01:00:33,130 --> 01:00:34,547
+Không, tôi sẽ từ bỏ.
+
+745
+01:00:35,007 --> 01:00:36,382
+Cậu sẽ không làm thế.
+
+746
+01:00:36,758 --> 01:00:37,925
+Tại sao lại không?
+
+747
+01:00:38,010 --> 01:00:41,012
+Vì tôi đã giữ không cho bọn Nga biết
+cậu làm cho chúng tôi.
+
+748
+01:00:41,888 --> 01:00:43,889
+Nếu cậu không cộng tác với chúng tôi
+
+749
+01:00:44,516 --> 01:00:46,559
+Thì chúng tôi cũng không cộng tác với cậu,
+
+750
+01:00:59,698 --> 01:01:02,283
+Parcher! Parcher!
+
+751
+01:01:07,205 --> 01:01:08,956
+John, anh ổn chứ?
+
+752
+01:01:30,103 --> 01:01:31,228
+John?
+
+753
+01:01:31,313 --> 01:01:33,064
+Tắt đi, tắt đèn đi!
+
+754
+01:01:36,818 --> 01:01:40,196
+Sao em lại làm thế?
+Sao em lại bật đèn lên?
+
+755
+01:01:40,280 --> 01:01:41,822
+Anh sao thế?
+
+756
+01:01:41,907 --> 01:01:43,991
+Em phải đi đến chỗ chị của em.
+
+757
+01:01:44,785 --> 01:01:45,868
+Anh để xe ở sau nhà.
+
+758
+01:01:45,952 --> 01:01:47,995
+- Đừng đi ở lề đường, em hãy chọn chỗ nào đông người ấy.
+
+759
+01:01:48,080 --> 01:01:49,372
+- John
+- Luôn ở chỗ đông người.
+
+760
+01:01:49,456 --> 01:01:51,332
+- John, em không đi đâu cả!
+
+761
+01:01:51,416 --> 01:01:53,250
+Khi em đến chỗ chị em,
+hãy đợi điện thoại của anh.
+
+762
+01:01:53,335 --> 01:01:54,335
+- Không, em sẽ không ođi
+
+763
+01:01:54,419 --> 01:01:55,711
+- Em chuẩn bị đồ đi.
+- Em sẽ không đi...
+
+764
+01:01:55,796 --> 01:01:57,296
+- Dừng lại! Dừng lại!
+
+765
+01:01:58,215 --> 01:01:59,757
+Làm ơn, Alicia.
+
+766
+01:02:02,094 --> 01:02:04,053
+Anh sẽ giải thích khi có thể.
+
+767
+01:02:50,642 --> 01:02:54,103
+Chú John!
+Chú John!
+
+768
+01:02:56,523 --> 01:02:59,275
+- Chào cô bé!
+
+769
+01:03:00,569 --> 01:03:02,611
+Wow, ai đó cần một cái ôm kìa!
+
+770
+01:03:03,864 --> 01:03:05,698
+Tôi nhìn thấy tên cậu trong danh sách
+và nghĩ rằng,
+
+771
+01:03:05,782 --> 01:03:09,452
+"làm sao tôi có thể để lỡ buổi diễn thuyết
+của một người đặc biệt như John Nash"?
+
+772
+01:03:13,373 --> 01:03:14,832
+Sao thế?
+
+773
+01:03:17,502 --> 01:03:20,379
+Tôi đang gặp rắc rối.
+Và tôi cần giúp đỡ.
+
+774
+01:03:20,547 --> 01:03:22,339
+Ừ, nói cho tớ biết chuyện đó đi?
+
+775
+01:03:22,841 --> 01:03:24,383
+Giáo sư Nash!
+
+776
+01:03:25,093 --> 01:03:26,510
+Chào mừng ngài!
+
+777
+01:03:28,472 --> 01:03:29,763
+Để sau nhé?
+
+778
+01:03:36,480 --> 01:03:42,735
+Cho nên, ta có thể thấy những số 0
+trong hàm số thứ 6 của Riemann
+
+779
+01:03:43,570 --> 01:03:48,240
+tương ứng với tính duy nhất
+trong không gian và thời gian.
+
+780
+01:03:48,909 --> 01:03:51,744
+Tính duy nhất trong không gian và thời gian là...
+
+781
+01:03:54,956 --> 01:03:57,416
+và quy ước trong lý thuyết số học...
+
+782
+01:04:19,731 --> 01:04:23,651
+Đôi khi những trông đợi của chúng ta
+bị sụp đổ vì những con số.
+
+783
+01:04:24,903 --> 01:04:29,865
+Biến số không thể gán bất kỳ
+giá trị hữu tỷ nào.
+
+784
+01:04:49,636 --> 01:04:50,761
+Giáo sư Nash!
+
+785
+01:05:01,815 --> 01:05:02,773
+Giữ lấy!
+
+786
+01:05:02,857 --> 01:05:03,941
+- Giáo sư Nash?
+
+787
+01:05:06,278 --> 01:05:11,574
+Giáo sư Nash,
+chúng ta hãy tránh lộn xộn, được chứ?
+
+788
+01:05:12,784 --> 01:05:13,993
+Ông muốn gì?
+
+789
+01:05:14,786 --> 01:05:16,579
+Tên tôi là Rosen.
+
+790
+01:05:16,663 --> 01:05:18,747
+Tiến sĩ Rosen.
+Tôi là nhà tâm lý học.
+
+791
+01:05:18,999 --> 01:05:21,959
+Xin lỗi, nhưng tôi không tin ông.
+
+792
+01:05:22,043 --> 01:05:24,545
+Tôi muốn cậu đi với tôi, John.
+
+793
+01:05:26,006 --> 01:05:27,590
+Chỉ nói chuyện thôi mà.
+
+794
+01:05:28,967 --> 01:05:30,759
+Có vẻ như tôi không còn lựa chọn nào khác.
+
+795
+01:05:42,314 --> 01:05:43,981
+Ai đó cứu tôi với
+
+796
+01:05:48,862 --> 01:05:50,487
+Có ai không? Giúp tôi.
+
+797
+01:05:51,031 --> 01:05:52,823
+Thả tôi ra
+
+798
+01:05:53,116 --> 01:05:55,117
+Tôi biết ông là ai! Tôi biết ông
+
+799
+01:05:55,201 --> 01:05:57,119
+Không.
+
+800
+01:05:57,287 --> 01:05:59,121
+Charles, họ là người Nga!
+Charles, họ là người Nga!
+
+801
+01:05:59,205 --> 01:06:00,956
+Charles gọi ai đó đi, gọi đi!
+
+802
+01:06:01,041 --> 01:06:02,541
+- Họ là người Nga!
+- Đứng cho vững nào.
+
+803
+01:06:03,043 --> 01:06:04,251
+Tránh xa tôi ra
+
+804
+01:06:04,669 --> 01:06:06,337
+Tránh xa ra!
+
+805
+01:06:11,760 --> 01:06:13,135
+Đó, bây giờ..
+
+806
+01:06:14,721 --> 01:06:16,055
+Tốt hơn rồi
+
+807
+01:06:19,768 --> 01:06:21,894
+Mọi việc ổn rồi.
+
+808
+01:06:24,022 --> 01:06:25,814
+Cẩn thận cái đầu.
+
+809
+01:06:54,678 --> 01:06:57,221
+John? John?
+
+810
+01:06:59,224 --> 01:07:00,849
+Cậu có nghe thấy tôi không?
+
+811
+01:07:15,115 --> 01:07:16,949
+Thoải mái nào.
+
+812
+01:07:17,283 --> 01:07:20,202
+Thorazine mất một chút khi làm mòn đi.
+
+813
+01:07:23,164 --> 01:07:25,457
+Xin lỗi vì phải trói cậu như thế.
+
+814
+01:07:25,667 --> 01:07:28,085
+Nhưng cậu bị trúng một
+cú móc phải.
+
+815
+01:07:29,671 --> 01:07:31,046
+Tôi đang ở đâu?
+
+816
+01:07:33,258 --> 01:07:35,426
+Bệnh viện tâm thần Macarthur.
+
+817
+01:07:38,179 --> 01:07:40,097
+Tôi thấy không giống như vậy.
+
+818
+01:07:41,391 --> 01:07:42,850
+Ông nhầm rồi.
+
+819
+01:07:44,352 --> 01:07:46,854
+Công việc của tôi không dính dáng gì tới quân đội.
+
+820
+01:07:47,480 --> 01:07:49,481
+Công việc đó là gì, John?
+
+821
+01:07:51,651 --> 01:07:53,318
+Tôi không biết gì cả
+
+822
+01:07:53,987 --> 01:07:56,488
+Giữ bí mật là không tốt, cậu biết chứ.
+
+823
+01:08:12,338 --> 01:08:17,259
+Charles?
+
+824
+01:08:19,345 --> 01:08:21,180
+Tôi không muốn cậu liên quan
+đến việc này.
+
+825
+01:08:22,891 --> 01:08:24,349
+Tôi... tôi xin lỗi.
+
+826
+01:08:29,981 --> 01:08:31,023
+Charles?
+
+827
+01:08:39,282 --> 01:08:40,699
+Cuối cùng thì kẻ cùng phòng đã lộ rõ rồi.
+
+828
+01:08:44,329 --> 01:08:47,164
+"Nhìn thấy tên tôi trong danh sách diễn giả à"?
+
+829
+01:08:47,248 --> 01:08:48,874
+Mày nói dối như con chó!
+
+830
+01:08:49,501 --> 01:08:51,543
+Cậu đang nói chuyện với ai thế?
+Nói cho tôi biết cậu nhìn thấy ai.
+
+831
+01:08:52,253 --> 01:08:54,129
+Ông nói "Charles Herman" bằng tiếng Nga
+như thế nào?
+
+832
+01:08:54,214 --> 01:08:55,589
+Ông nói bằng tiếng Nga như thế nào?
+
+833
+01:08:57,133 --> 01:08:58,217
+Không có ai ở đó cả, John.
+
+834
+01:08:59,177 --> 01:09:00,302
+Không có ai cả
+
+835
+01:09:00,386 --> 01:09:03,055
+Hắn ta ở đó. Hắn ta ở ngay đó
+
+836
+01:09:04,516 --> 01:09:08,811
+Dừng lại! Tôi không biết gì cả
+Dừng lại! Tôi... tôi không biết gì cả
+
+837
+01:09:11,064 --> 01:09:14,817
+Tên tôi là John Nash.
+Tôi bị ép phải làm thế.
+
+838
+01:09:14,901 --> 01:09:17,486
+Ai đó làm ơn gọi cho Bộ Quốc Phòng
+
+839
+01:09:17,570 --> 01:09:21,698
+Tên tôi là John Nash.
+Tôi bị ép buộc!
+
+840
+01:09:26,871 --> 01:09:28,747
+Chuyện gì xảy ra với anh ấy vậy?
+
+841
+01:09:31,918 --> 01:09:33,836
+John bị bệnh tâm thần phân liệt.
+
+842
+01:09:35,296 --> 01:09:38,173
+Những ai mắc bệnh này thường
+hay hoang tưởng.
+
+843
+01:09:40,260 --> 01:09:42,761
+Nhưng... nhưng công việc của anh ấy
+
+844
+01:09:43,388 --> 01:09:45,389
+Anh ấy đang đối phó với âm mưu nào đó...
+
+845
+01:09:46,766 --> 01:09:48,725
+Tôi biết.
+
+846
+01:09:49,769 --> 01:09:54,106
+Trong thế giới của John, những hành vi đó
+được chấp nhận, được khuyến khích.
+
+847
+01:09:55,400 --> 01:09:58,402
+Bệnh của cậu ấy có lẽ đã kéo dài
+
+848
+01:09:58,486 --> 01:10:00,737
+rất lâu rồi.
+
+849
+01:10:01,447 --> 01:10:02,781
+Ý ông là gì? Bao lâu?
+
+850
+01:10:02,866 --> 01:10:04,700
+Có lẽ là từ khi tốt nghiệp trung học?
+
+851
+01:10:05,034 --> 01:10:08,412
+Ít nhất là từ khi cậu ấy bắt đầu có ảo giác.
+
+852
+01:10:08,496 --> 01:10:10,664
+Ông đang nói gì thế? Ảo giác nào?
+
+853
+01:10:10,748 --> 01:10:13,458
+Thứ nhất, như tôi được biết
+
+854
+01:10:13,543 --> 01:10:16,837
+là một người bạn cùng phòng
+tưởng tượng tên là Charles Herman.
+
+855
+01:10:18,631 --> 01:10:20,382
+Charles không phải là tưởng tượng.
+
+856
+01:10:20,466 --> 01:10:22,509
+Anh ấy và John là những người bạn tốt
+ở Princeton.
+
+857
+01:10:22,594 --> 01:10:26,054
+Cô đã bao giờ gặp Charles chưa?
+Anh ta đã bao giờ tới ăn tối ở nhà cô chưa?
+
+858
+01:10:26,139 --> 01:10:28,891
+Mỗi lần anh ấy tới thành phố đều rất bận.
+
+859
+01:10:28,975 --> 01:10:30,142
+Anh ta có đến dự đám cưới không?
+
+860
+01:10:30,268 --> 01:10:31,393
+Anh ấy phải dạy.
+
+861
+01:10:31,477 --> 01:10:32,728
+Cô đã bao giờ nhìn thấy một bức ảnh của anh ta chưa.
+
+862
+01:10:32,812 --> 01:10:34,062
+- Đã bao giờ nói chuyện điện thoại với anh ta?
+
+863
+01:10:34,147 --> 01:10:36,273
+- Chuyện này thật kỳ quặc.
+
+864
+01:10:36,357 --> 01:10:38,108
+Tôi đã gọi tới Princeton.
+
+865
+01:10:38,776 --> 01:10:42,195
+Và theo hồ sơ lưu thì..
+John sống một mình
+
+866
+01:10:44,949 --> 01:10:48,535
+Giờ đây, chồng cô cứ nghĩ mình là...
+
+867
+01:10:48,620 --> 01:10:50,704
+một nhà toán học chưa qua khoá
+đầo tạo trong quân đội...
+
+868
+01:10:50,830 --> 01:10:52,956
+một điệp viên của chính phủ
+đang trốn chạy những người Nga
+
+869
+01:10:53,041 --> 01:10:54,917
+Ông đang nói là anh ấy bị điên?
+
+870
+01:10:55,001 --> 01:10:58,045
+Hoặc là cậu ta không biết
+những gì xảy ra trong thực tế?
+
+871
+01:11:00,757 --> 01:11:04,092
+Bây giờ, cách duy nhất tôi có thể giúp cậu ta
+là chỉ cho cậu ta biết
+
+872
+01:11:04,177 --> 01:11:07,971
+sự khác nhau giữa hiện thực
+và những gì trong đầu cậu ấy.
+
+873
+01:11:12,143 --> 01:11:13,352
+Đi nào.
+
+874
+01:11:15,480 --> 01:11:17,522
+Công việc của cậu ấy là gì?
+
+875
+01:11:18,483 --> 01:11:20,359
+Việc anh ấy làm là phân loại.
+
+876
+01:11:20,777 --> 01:11:25,656
+Cậu ta có nhắc đến một người giám sát
+tên là William Parcher.
+
+877
+01:11:25,740 --> 01:11:28,283
+Có lẽ Parcher
+có thể cho chúng ta biết điều gì đó
+
+878
+01:11:28,368 --> 01:11:31,203
+Nhưng tôi không biết điều gì về ông ta
+
+879
+01:11:32,538 --> 01:11:35,874
+Ông muốn tôi giúp ông lấy những thông tin chi tiết
+về công việc của chồng tôi?
+
+880
+01:11:37,377 --> 01:11:41,171
+John nghĩ rẳng tôi là một gián điệp Nga
+Cô có nghĩ thế không?
+
+881
+01:11:46,219 --> 01:11:48,220
+- Bác sĩ đã nói gì?
+- Cậu ấy ốm à?
+
+882
+01:11:48,930 --> 01:11:51,682
+Em không biết
+Em muốn xem những gì John đã làm
+
+883
+01:11:51,766 --> 01:11:53,642
+- Alicia, em biết đấy,
+em không thể vào văn phòng của cậu ấy.
+
+884
+01:11:53,726 --> 01:11:56,144
+Đó là việc phân loại.
+Alicia. Dừng lại.
+
+885
+01:12:10,410 --> 01:12:17,666
+Chúa ơi
+
+886
+01:12:26,175 --> 01:12:28,510
+Sao các anh không nói gì?
+
+887
+01:12:28,594 --> 01:12:33,557
+Alicia, ý anh là, John luôn luôn
+hơi kỳ quặc một chút.
+
+888
+01:12:33,641 --> 01:12:38,061
+Cậu ấy nói là cậu ấy đang giải mã,
+chỉ bằng mắt thôi.
+
+889
+01:12:38,146 --> 01:12:41,565
+- Tối mật, một phần trong kế hoạch của quân đội.
+- Ý anh là anh ấy...?
+
+890
+01:12:41,649 --> 01:12:43,442
+Điều đó cũng có thể chứ, em biết đấy.
+
+891
+01:12:43,526 --> 01:12:45,027
+Ý anh là, luôn có những chỉ thị trực tiếp
+
+892
+01:12:45,111 --> 01:12:46,653
+mà bọn anh không biết rõ.
+
+893
+01:12:46,738 --> 01:12:48,155
+- Điều đó là có thể
+
+894
+01:12:48,239 --> 01:12:50,407
+- Có thể, nhưng... có vẻ không giống thế
+
+895
+01:12:53,119 --> 01:12:57,622
+Gần đây, cậu ấy rất dễ kích động
+và sau đó, khi em gọi...
+
+896
+01:12:57,707 --> 01:13:01,209
+Vậy đây là tất cả những gì anh ấy
+vẫn làm hàng ngày à?
+
+897
+01:13:01,294 --> 01:13:03,128
+Cắt những tờ tạp chí này?
+
+898
+01:13:05,298 --> 01:13:07,007
+Không phải là tất cả.
+
+899
+01:14:29,048 --> 01:14:30,257
+- Em xin lỗi.
+
+900
+01:14:30,341 --> 01:14:31,508
+- Không sao, không sao
+
+901
+01:14:35,388 --> 01:14:37,472
+- Anh nhớ em
+
+902
+01:14:40,143 --> 01:14:41,810
+Anh phải nói cho em biết chuyện này.
+
+903
+01:14:42,186 --> 01:14:43,436
+Được
+
+904
+01:14:48,734 --> 01:14:51,319
+Alicia, anh đã suy nghĩ rất nhiều.
+
+905
+01:14:51,404 --> 01:14:54,531
+và anh nhận ra là những hành động của anh
+
+906
+01:14:54,615 --> 01:14:58,368
+và việc anh không thể giải thích
+mọi việc với em
+
+907
+01:14:58,452 --> 01:15:02,706
+trông giống như bị mất trí.
+Anh đã không cho em một lựa chọn nào khác
+
+908
+01:15:03,374 --> 01:15:06,251
+Anh hiểu cảm giác của em
+và anh thật lòng xin lỗi em.
+
+909
+01:15:06,335 --> 01:15:08,295
+- Không sao mà anh.
+
+910
+01:15:09,589 --> 01:15:15,427
+Rồi mọi chuyện sẽ ổn.
+
+911
+01:15:16,262 --> 01:15:18,430
+Chúng ta phải nói thật khẽ.
+
+912
+01:15:19,557 --> 01:15:23,393
+Có thể họ đang nghe trộm đấy
+Có thể có vài máy nghe lén ở đâu đó.
+
+913
+01:15:24,270 --> 01:15:26,479
+Anh sắp nói với em mọi chuyện.
+
+914
+01:15:27,106 --> 01:15:30,442
+Việc này sẽ phá vỡ nguyên tắc
+nhưng em cần phải biết
+
+915
+01:15:31,277 --> 01:15:34,738
+bởi vỉ em cần giúp anh ra khỏi đây.
+
+916
+01:15:36,574 --> 01:15:39,576
+anh đang làm những công việc tối mật
+cho chính phủ.
+
+917
+01:15:39,660 --> 01:15:43,538
+Có một thảm hoạ nguy hiểm
+đang tồn tại
+
+918
+01:15:45,124 --> 01:15:47,876
+Chắc người Nga nghĩ rằng
+anh là người quan trọng.
+
+919
+01:15:47,960 --> 01:15:49,836
+vì thế mà họ vẫn chưa giết anh.
+
+920
+01:15:50,213 --> 01:15:53,131
+Họ giam anh ở đây để ngăn cản anh
+làm công việc của mình.
+
+921
+01:15:53,466 --> 01:15:54,925
+- Em phải đi đến Wheeler
+- Dừng lại.
+
+922
+01:15:54,967 --> 01:15:56,259
+- Em phải tìm William Parcher.
+- Anh đừng nói nữa.
+
+923
+01:15:56,302 --> 01:15:57,969
+- Ông ấy có thể giúp chúng ta.
+- Ông ấy có thể giúp chúng ta.
+- Thôi đi. Dừng lại!
+
+924
+01:15:58,054 --> 01:15:59,721
+- Ông ấy có thể giúp chúng ta...
+Dừng lại.
+
+925
+01:16:04,894 --> 01:16:06,311
+Em đã đi đến Wheeler.
+
+926
+01:16:06,979 --> 01:16:08,063
+Tốt lắm
+
+927
+01:16:08,314 --> 01:16:10,148
+Ở đó không có ai là William Parcher cả
+
+928
+01:16:12,068 --> 01:16:13,526
+Chắc chắn là phải có chứ
+Anh đã làm việc cho ông ấy mà
+
+929
+01:16:13,611 --> 01:16:16,279
+- Làm gì?
+Giải mã?
+
+930
+01:16:17,156 --> 01:16:21,576
+Bỏ những bưu kiện vào những hòm thư bí mật
+để người của chính phủ đến lấy?
+
+931
+01:16:22,995 --> 01:16:24,329
+Làm sao em biết được?
+
+932
+01:16:24,664 --> 01:16:26,289
+Sol đã đi theo anh
+
+933
+01:16:27,875 --> 01:16:30,001
+- Anh ấy nghĩ việc đó không sao cả.
+- Sol đã theo dõi anh à?
+
+934
+01:16:39,637 --> 01:16:41,680
+Những bưu kiện đó,
+chúng chưa bao giờ được mở ra
+
+935
+01:16:44,684 --> 01:16:46,184
+Đó không phải sự thật
+
+936
+01:16:47,687 --> 01:16:50,313
+Không có âm mưu nào cả, John.
+
+937
+01:16:53,109 --> 01:16:55,235
+Không có William Parcher nào cả
+
+938
+01:16:56,696 --> 01:16:58,363
+Tất cả chỉ có trong suy nghĩ của anh thôi
+
+939
+01:17:00,950 --> 01:17:03,827
+Anh có hiểu không, anh yêu?
+
+940
+01:17:05,371 --> 01:17:07,038
+Anh bị ốm.
+
+941
+01:17:10,251 --> 01:17:11,876
+Anh bị ốm, John ạ.
+
+942
+01:17:12,420 --> 01:17:15,714
+John?!
+
+943
+01:17:24,724 --> 01:17:28,810
+Báo động đỏ. Tiến sĩ Rosen, báo động đỏ.
+Phòng số 2.
+
+944
+01:17:28,894 --> 01:17:32,314
+Dr. Rosen, báo động đỏ
+ở phòng 2
+
+945
+01:17:43,492 --> 01:17:48,705
+John?
+
+946
+01:17:51,250 --> 01:17:53,043
+Những con số mất rồi.
+
+947
+01:17:54,420 --> 01:17:56,004
+Tôi không tìm thấy nó.
+
+948
+01:18:00,384 --> 01:18:01,718
+Nó mất rồi
+
+949
+01:18:33,292 --> 01:18:36,127
+Cô thấy đấy, điều tồi tệ nhất
+của bệnh tâm thần phân liệt
+
+950
+01:18:36,587 --> 01:18:38,922
+là không biết điều gì là thật
+
+951
+01:18:40,132 --> 01:18:42,967
+Hãy tưởng tượng,
+đột nhiên cô nhận ra
+
+952
+01:18:43,344 --> 01:18:47,847
+những người, những nơi,
+và những khoảnh khắc quan trọng nhất của mình
+
+953
+01:18:47,932 --> 01:18:50,683
+không mất, không chết đi,
+
+954
+01:18:50,810 --> 01:18:54,270
+nhưng tệ hơn, chúng chưa từng có thật.
+
+955
+01:18:57,817 --> 01:19:00,151
+Điều đó sẽ tồi tệ thế nào?
+
+956
+01:19:05,825 --> 01:19:07,409
+Cho tiêm insulin.
+
+957
+01:19:08,494 --> 01:19:10,412
+8:42 a.m.
+
+958
+01:20:08,846 --> 01:20:10,346
+Việc này có thường xuyên không?
+
+959
+01:20:12,391 --> 01:20:15,185
+5 lần một tuần, trong vòng 10 tuần.
+
+960
+01:20:38,250 --> 01:20:41,586
+John luôn nói rằng anh ấy
+rất thích sống ở Princeton.
+
+961
+01:20:42,463 --> 01:20:44,297
+Và bây giờ Hansen đang
+điều hành bộ môn.
+
+962
+01:20:44,381 --> 01:20:47,425
+Đúng thế, cậu ta luôn nhắc bọn anh điều đó.
+
+963
+01:20:48,219 --> 01:20:49,511
+Ừ.
+
+964
+01:20:49,595 --> 01:20:53,515
+Nhưng John không đến gần khuôn viên trường.
+Em nghĩ là anh ấy thấy xấu hổ.
+
+965
+01:20:55,267 --> 01:20:57,060
+Này, này.
+
+966
+01:20:58,145 --> 01:20:59,479
+Con muốn chơi cái này không?
+
+967
+01:21:00,689 --> 01:21:03,399
+Alicia này, làm sao em
+trụ vững được như thế.
+
+968
+01:21:05,110 --> 01:21:07,111
+Những ảo giác đó đã mất.
+
+969
+01:21:07,655 --> 01:21:10,031
+Họ nói là nhờ việc dùng thuốc
+và tạo một môi trường ít stress.
+
+970
+01:21:10,115 --> 01:21:11,324
+Không...
+
+971
+01:21:12,409 --> 01:21:13,910
+Ý anh là, em thế nào?
+
+972
+01:21:21,544 --> 01:21:26,089
+Em thường nghĩ rằng đó là bổn phận.
+
+973
+01:21:28,801 --> 01:21:31,469
+hay em sẽ cảm thấy tội lỗi
+nếu em rởi bỏ anh ấy.
+
+974
+01:21:33,472 --> 01:21:37,475
+Đôi khi em nổi giận với John, với Chúa ...
+
+975
+01:21:39,979 --> 01:21:41,020
+Nhưng...
+
+976
+01:21:44,441 --> 01:21:46,401
+Khi em nhìn anh ấy
+
+977
+01:21:47,486 --> 01:21:51,489
+nhìn người đàn ông em đã cưới
+
+978
+01:21:52,783 --> 01:21:54,742
+và anh ấy lại là người đó
+
+979
+01:21:54,827 --> 01:21:58,871
+Anh ấy lại là người em đã yêu.
+
+980
+01:22:01,917 --> 01:22:05,545
+Và em lại trở lại là nguời phụ nữ yêu anh ấy.
+
+981
+01:22:08,090 --> 01:22:10,717
+Không phải lúc nào cũng thế,
+nhưng...
+
+982
+01:22:12,886 --> 01:22:14,470
+như thế là đủ.
+
+983
+01:22:15,472 --> 01:22:19,017
+Anh nghĩ rằng John là người may mắn... Alicia.
+
+984
+01:22:24,398 --> 01:22:25,773
+Rất bất hạnh.
+
+985
+01:22:29,778 --> 01:22:31,279
+- Đây là nhà của chúng em
+- Là nó à?
+
+986
+01:22:31,363 --> 01:22:32,530
+- Nó đẹp thật.
+
+987
+01:22:32,615 --> 01:22:33,698
+- Nó gần chỗ làm việc của em.
+
+988
+01:22:34,241 --> 01:22:36,242
+John? Anh có khách này.
+
+989
+01:22:40,039 --> 01:22:43,124
+Chào anh.
+
+990
+01:22:44,001 --> 01:22:45,376
+Hy vọng mọi thứ sẽ ổn.
+
+991
+01:22:53,052 --> 01:22:54,344
+Chào sếp.
+
+992
+01:22:55,971 --> 01:22:58,222
+- Thuốc lá nhé?
+- Ah, không, cảm ơn.
+
+993
+01:22:58,307 --> 01:22:59,974
+Tớ bỏ thuốc rồi
+
+994
+01:23:04,521 --> 01:23:06,064
+Xin chào.
+Này, John.
+
+995
+01:23:08,984 --> 01:23:10,526
+Cậu có gặp Harvey không?
+
+996
+01:23:13,572 --> 01:23:15,323
+John, ở đây không...
+Bình tĩnh, được rồi.
+
+997
+01:23:15,407 --> 01:23:17,909
+Chả có gì phải điên lên
+nếu cậu không có lấy một niềm vui nhỏ.
+
+998
+01:23:18,077 --> 01:23:21,037
+Chúa Jesus, John.
+Cậu biết đấy, đáng lẽ tớ phải biết.
+
+999
+01:23:23,082 --> 01:23:24,123
+Của cậu này.
+
+1000
+01:23:26,752 --> 01:23:28,503
+Mình sẽ uống sau.
+
+1001
+01:23:28,587 --> 01:23:30,129
+Không, anh sẽ uống bây giờ.
+
+1002
+01:23:31,590 --> 01:23:32,882
+- Em mang cho anh cái gì nhé?
+
+1003
+01:23:33,217 --> 01:23:34,592
+- Không cần đâu
+
+1004
+01:23:34,968 --> 01:23:36,094
+Được thôi.
+
+1005
+01:23:39,431 --> 01:23:43,768
+Um... yeah. Tớ đã ở trong thị trấn
+
+1006
+01:23:43,936 --> 01:23:45,603
+Tối nay tớ sẽ quay về.
+
+1007
+01:23:46,230 --> 01:23:50,024
+Cậu biết đấy, Bender, cậu ta rất muốn
+
+1008
+01:23:50,526 --> 01:23:52,860
+ghé qua thăm cậu, và chào cậu.
+
+1009
+01:23:52,945 --> 01:23:54,153
+Khách sáo quá?
+
+1010
+01:23:56,115 --> 01:23:57,407
+Yeah.
+
+1011
+01:23:57,491 --> 01:23:59,701
+Có lẽ tôi cũng nên thế.
+
+1012
+01:23:59,785 --> 01:24:02,120
+Nhưng chao ôi, tôi kẹt quá.
+
+1013
+01:24:05,332 --> 01:24:07,875
+Tôi đang cố gắng giải giả thuyết của Riemann
+
+1014
+01:24:07,960 --> 01:24:08,960
+Uh - Huh.
+
+1015
+01:24:10,295 --> 01:24:11,546
+Yeah?
+
+1016
+01:24:12,381 --> 01:24:15,383
+Tôi nghĩ là nếu tôi làm họ kinh ngạc
+
+1017
+01:24:15,467 --> 01:24:18,010
+họ sẽ lại bổ nhiệm tôi.
+
+1018
+01:24:19,304 --> 01:24:22,473
+Nhưng dùng thuốc...
+
+1019
+01:24:22,558 --> 01:24:26,185
+sẽ rất khó...
+
+1020
+01:24:28,439 --> 01:24:30,440
+tìm ra lời giải
+
+1021
+01:24:38,741 --> 01:24:41,242
+Cậu biết không, John, hãy thoải mái đi.
+
+1022
+01:24:41,702 --> 01:24:45,163
+Còn những điều khác ngoài công việc.
+
+1023
+01:24:48,500 --> 01:24:50,001
+Những việc gì?
+
+1024
+01:25:25,913 --> 01:25:28,247
+Anh đang nghĩ gì thế?
+
+1025
+01:25:31,710 --> 01:25:33,252
+Mọi người thường làm gì?
+
+1026
+01:25:33,504 --> 01:25:35,087
+Đó là cuộc sống, John.
+
+1027
+01:25:35,714 --> 01:25:37,590
+Những hoạt động,
+
+1028
+01:25:38,550 --> 01:25:40,259
+chỉ là để cho cuộc sống thêm ý nghĩa thôi
+
+1029
+01:25:47,851 --> 01:25:50,186
+Có lẽ anh nên thử ra ngoài.
+
+1030
+01:25:51,104 --> 01:25:54,816
+Anh biết đấy, có thể là...
+thử nói chuyện với mọi người.
+
+1031
+01:26:00,322 --> 01:26:03,241
+Có lẽ anh nên thử đi đổ rác.
+
+1032
+01:26:24,888 --> 01:26:28,266
+Chắc phải có thêm...
+phải có thêm ở...
+
+1033
+01:26:39,945 --> 01:26:42,655
+Ai? Anh vừa nói chuyện với ai thế?
+
+1034
+01:26:43,282 --> 01:26:44,824
+Người dọn rác.
+
+1035
+01:26:53,959 --> 01:26:56,294
+Người dọn rác không tới vào buổi tối.
+
+1036
+01:26:59,298 --> 01:27:01,465
+Anh đoán là ở đây họ làm như thế.
+
+1037
+01:27:27,659 --> 01:27:28,993
+Em xin lỗi.
+
+1038
+01:28:35,811 --> 01:28:37,603
+Đó là do thuốc phải không?
+
+1039
+01:29:18,812 --> 01:29:20,771
+Tôi phải làm gì bây giờ.
+
+1040
+01:29:38,915 --> 01:29:41,751
+Tối nay mẹ em sẽ trông con trễ một chút.
+
+1041
+01:29:43,045 --> 01:29:45,463
+Em sẽ làm thêm 3 giờ.
+
+1042
+01:30:11,406 --> 01:30:13,032
+Em đi ngủ đây.
+
+1043
+01:30:20,290 --> 01:30:22,374
+- Ngủ ngon.
+
+1044
+01:31:41,538 --> 01:31:43,622
+Rất vui được gặp cậu, John.
+
+1045
+01:31:44,749 --> 01:31:46,500
+Lâu rồi nhỉ
+
+1046
+01:31:47,627 --> 01:31:48,752
+Parcher?
+
+1047
+01:31:49,754 --> 01:31:51,005
+Đúng vậy.
+
+1048
+01:31:54,593 --> 01:31:55,843
+Ông không có thật!
+
+1049
+01:31:55,927 --> 01:31:58,596
+Đương nhiên là tôi có thật.
+Đừng kỳ cục thế.
+
+1050
+01:32:03,226 --> 01:32:05,686
+Tôi không nghĩ là nên đi đường đó, John.
+
+1051
+01:32:07,189 --> 01:32:09,481
+Đã đến lúc cậu trở lại làm việc rồi đấy.
+
+1052
+01:32:09,983 --> 01:32:13,611
+Quả bom đã đc chuyển đến vị trí cuối cùng
+ở đây, ở nước Mỹ.
+
+1053
+01:32:15,655 --> 01:32:17,156
+Tôi hiểu hoàn cảnh của cậu
+
+1054
+01:32:17,240 --> 01:32:20,075
+tôi sẽ cho cậu giữ một vị trí thấp hơn, "Mohammed",
+
+1055
+01:32:21,244 --> 01:32:23,495
+Chúng tôi đã làm cái này cho cậu
+
+1056
+01:32:42,641 --> 01:32:44,266
+Chúng tôi đã thu hẹp vị trí của quả bom
+
+1057
+01:32:44,351 --> 01:32:47,228
+Nó ở đâu đó bên bở biển phía Đông.
+
+1058
+01:32:48,480 --> 01:32:51,065
+Nhưng chúng tôi vẫn chưa xác định được
+vị trí chính xác của nó.
+
+1059
+01:32:53,985 --> 01:32:57,238
+Những mật mã của họ
+càng ngày càng phức tạp
+
+1060
+01:32:59,783 --> 01:33:01,492
+Nhìn này, John.
+
+1061
+01:33:04,120 --> 01:33:06,956
+Đó là cái gì?
+
+1062
+01:33:09,584 --> 01:33:10,751
+- Bác sĩ Rosen nói...
+
+1063
+01:33:10,835 --> 01:33:13,504
+- Rosen! Tên lang băm đó à!
+
+1064
+01:33:13,588 --> 01:33:16,840
+"Tâm thần phân liệt làm người ta
+tách xa thực tế, " đúng không?
+Chuyện nhảm nhí của những nhà tâm thần học!
+
+1065
+01:33:18,009 --> 01:33:19,677
+Nhìn tôi này, John.
+
+1066
+01:33:20,595 --> 01:33:22,012
+John, hãy nhìn tôi.
+
+1067
+01:33:24,140 --> 01:33:25,808
+Trông tôi có giống như đang bị ảo giác không?
+
+1068
+01:33:28,436 --> 01:33:30,229
+Wheeler không có thông tin gì về ông cả.
+
+1069
+01:33:30,355 --> 01:33:32,773
+Cậu nghĩ là chúng tôi
+sẽ khai báo thông tin cá nhân à?
+
+1070
+01:33:35,151 --> 01:33:37,945
+John, tôi xin lỗi về việc
+cậu phải trải qua những chuyện này.
+
+1071
+01:33:38,947 --> 01:33:41,573
+Tôi đã gặp rất nhiều rắc rối
+để cứu cậu ra.
+
+1072
+01:33:41,992 --> 01:33:44,618
+Tôi có thể khôi phục chức vụ của cậu ở Wheeler.
+
+1073
+01:33:44,703 --> 01:33:47,454
+Tôi có thể cho cả thế giới biết cậu làm gì.
+
+1074
+01:33:47,539 --> 01:33:49,707
+Nhưng bây giờ tôi cần cậu, người lính.
+
+1075
+01:33:56,047 --> 01:33:58,465
+Tôi rất sợ ông không có thật.
+
+1076
+01:34:06,474 --> 01:34:08,309
+Cơn bão sắp đến đấy
+
+1077
+01:34:08,393 --> 01:34:11,145
+Em sẽ đi cất quần áo?
+
+1078
+01:34:11,229 --> 01:34:12,938
+Anh sẽ tắm cho con
+
+1079
+01:34:16,401 --> 01:34:17,735
+Không sao đâu.
+
+1080
+01:34:19,863 --> 01:34:20,946
+Được rồi.
+
+1081
+01:35:59,587 --> 01:36:00,671
+John!
+
+1082
+01:36:07,345 --> 01:36:10,472
+Tôi gần như lấy được rồi!
+Charles, cậu trông đứa bé nhé.
+
+1083
+01:36:11,558 --> 01:36:12,599
+- Không!
+
+1084
+01:36:13,935 --> 01:36:15,060
+- Ôi, Chúa ơi.
+
+1085
+01:36:24,237 --> 01:36:26,280
+Có Charles trông con rồi, không sao đâu.
+
+1086
+01:36:26,364 --> 01:36:27,614
+Không có ai ở đây cả.
+
+1087
+01:36:28,032 --> 01:36:29,116
+Ôi Chúa tôi.
+
+1088
+01:36:29,200 --> 01:36:30,868
+- Charles đã trông nó mà
+- Không có ai ở đây hết.
+
+1089
+01:36:30,952 --> 01:36:32,870
+Cậu ấy được tiêm thuốc tàng hình.
+
+1090
+01:36:32,954 --> 01:36:34,788
+Anh có thể nhìn thấy cậu ấy
+vì có một chất hoá học
+
+1091
+01:36:34,873 --> 01:36:36,623
+được tiêm vào máu anh.
+
+1092
+01:36:36,708 --> 01:36:38,250
+khi mã cài ở cánh tay anh phân rã.
+
+1093
+01:36:40,628 --> 01:36:42,588
+Anh không thể nói cho em biết,
+vì sự an toàn của em.
+
+1094
+01:36:44,841 --> 01:36:46,049
+Alicia!
+
+1095
+01:36:51,181 --> 01:36:52,222
+- Đừng!
+
+1096
+01:36:52,307 --> 01:36:54,308
+- Xin chào, tôi cần nói chuyện với bác sĩ Rosen.
+
+1097
+01:36:54,392 --> 01:36:55,726
+Cậu phải ngăn cô ấy lại, John.
+
+1098
+01:36:58,271 --> 01:36:59,938
+Chuyện này không liên quan đến cô ấy.
+
+1099
+01:37:01,900 --> 01:37:03,233
+- Anh đang nói chuyện với ai thế?
+
+1100
+01:37:03,318 --> 01:37:05,152
+- Đó không phải lỗi của cô ấy
+
+1101
+01:37:05,236 --> 01:37:07,488
+Cô ấy sẽ lại làm hại chúng ta.
+- Không, cô ấy sẽ không làm thế.
+
+1102
+01:37:07,572 --> 01:37:08,655
+- Nếu cậu quay trở lại bệnh viện.
+
+1103
+01:37:08,740 --> 01:37:10,032
+- John, trả lời em đi!
+
+1104
+01:37:10,116 --> 01:37:11,366
+- Rất nhiều người sẽ chết.
+
+1105
+01:37:11,451 --> 01:37:13,243
+Alicia, làm ơn, bỏ điện thoại xuống.
+
+1106
+01:37:13,328 --> 01:37:14,411
+- Tôi không thể để chuyện này xảy ra.
+
+1107
+01:37:14,496 --> 01:37:17,581
+- Vâng, xin chào?
+-Tôi cần nói chuyện với bác sĩ Rosen.
+Ông ấy có ở đó không?
+
+1108
+01:37:19,125 --> 01:37:20,751
+Tôi xin lỗi, John.
+
+1109
+01:37:22,170 --> 01:37:23,212
+Không
+
+1110
+01:37:26,841 --> 01:37:27,841
+- Alicia.
+
+1111
+01:37:27,926 --> 01:37:29,009
+- Cậu biết cậu phải làm gì rồi đấy, Nash.
+
+1112
+01:37:29,093 --> 01:37:30,135
+- Tránh xa em ra
+
+1113
+01:37:30,220 --> 01:37:32,179
+- Cô ấy là mối nguy hiểm
+- Tránh ra!
+
+1114
+01:37:33,598 --> 01:37:35,098
+Anh không muốn làm em đau!
+
+1115
+01:37:37,435 --> 01:37:39,603
+Kết thúc đi. Cô ấy biết quá nhiều.
+
+1116
+01:37:43,942 --> 01:37:45,484
+Chú John?
+
+1117
+01:37:45,568 --> 01:37:49,029
+Cậu đối phó với cô ấy,
+hoặc tôi sẽ đối phó với cậu.
+
+1118
+01:37:49,113 --> 01:37:53,200
+John, Chúa ơi.
+John, hãy làm như ông ấy nói.
+
+1119
+01:37:53,284 --> 01:37:55,494
+Hành động đi, người lính.
+
+1120
+01:37:55,954 --> 01:37:56,995
+Ngay bây giờ.
+
+1121
+01:37:57,330 --> 01:37:58,580
+Chú John?
+
+1122
+01:37:59,499 --> 01:38:01,041
+John, hãy làm đi!
+
+1123
+01:38:02,460 --> 01:38:03,502
+Ngay bây giờ!
+
+1124
+01:38:04,295 --> 01:38:06,755
+Alicia và Charles không cùng tồn tại
+
+1125
+01:38:06,839 --> 01:38:09,258
+tương tự Alicia và Parcher...
+
+1126
+01:38:11,970 --> 01:38:15,138
+... Charles, và Marcee
+không thể cùng tồn tại với Alicia.
+
+1127
+01:38:19,060 --> 01:38:20,310
+cùng với Alicia.
+
+1128
+01:38:20,395 --> 01:38:22,104
+Mình hiểu rồi
+
+1129
+01:38:27,151 --> 01:38:28,235
+Không
+
+1130
+01:38:38,871 --> 01:38:40,122
+Cô bé không lớn lên
+
+1131
+01:38:43,793 --> 01:38:46,587
+Marcee không thể là thật
+Nó không hề lớn lên
+
+1132
+01:39:20,038 --> 01:39:21,246
+Cậu vẫn nhìn thấy họ à?
+
+1133
+01:39:30,965 --> 01:39:32,049
+Đúng vậy.
+
+1134
+01:39:34,510 --> 01:39:35,927
+Tại sao cậu không uống thuốc
+
+1135
+01:39:39,432 --> 01:39:40,599
+Vì tôi không thể làm việc
+
+1136
+01:39:41,559 --> 01:39:44,269
+Tôi không thể trông con
+Tôi không thể...
+
+1137
+01:39:47,023 --> 01:39:48,315
+tôi không thể đáp ứng được vợ tôi
+
+1138
+01:39:52,153 --> 01:39:53,654
+Anh nghĩ là điều đó tốt hơn so với bị điên à?
+
+1139
+01:39:54,405 --> 01:39:56,657
+Chúng ta cần bắt đầu lại
+
+1140
+01:39:56,741 --> 01:39:58,700
+với liều shock insulin cao hơn
+và những loại thuốc mới.
+
+1141
+01:39:58,785 --> 01:39:59,826
+Không
+
+1142
+01:40:01,162 --> 01:40:02,663
+Phải có cách nào khác.
+
+1143
+01:40:02,747 --> 01:40:04,414
+Bệnh tâm thần phân liệt sẽ phát triển.
+
+1144
+01:40:04,791 --> 01:40:08,794
+có thể không có triệu chứng trong vài ngày
+nhưng qua thời gian, bệnh sẽ nặng hơn.
+
+1145
+01:40:08,878 --> 01:40:11,463
+Đó chính là vấn đề đấy
+
+1146
+01:40:12,757 --> 01:40:14,466
+Nó là một vấn đề, và không có giải pháp.
+
+1147
+01:40:14,592 --> 01:40:16,343
+Và đó là những gì tôi làm, tôi giải quyết vấn đề.
+
+1148
+01:40:16,427 --> 01:40:18,220
+- Đó là những gì tôi có thể làm tốt nhất
+- Chuyện này không phải là toán học.
+
+1149
+01:40:18,304 --> 01:40:19,638
+Cậu sẽ không thể tìm được công thức
+
+1150
+01:40:19,722 --> 01:40:21,348
+để thay đổi cách cậu cảm nhận thế giới.
+
+1151
+01:40:21,432 --> 01:40:23,058
+- Tất cả những gì tôi cần làm là
+sửa lại suy nghĩ của mình
+
+1152
+01:40:23,142 --> 01:40:24,851
+- Không có một định lý, một chứng cớ nào cả.
+
+1153
+01:40:24,936 --> 01:40:26,186
+- Cậu sẽ không thể lý giải được chuyện đó
+
+1154
+01:40:26,270 --> 01:40:27,354
+- Tại sao? Tại sao tôi không thể?
+
+1155
+01:40:27,438 --> 01:40:30,607
+Bởi vì tâm trí cậu chính là nơi vấn đề xảy ra,
+đấy là điều quan trọng.
+
+1156
+01:40:32,735 --> 01:40:34,236
+Tôi có thể làm được
+
+1157
+01:40:35,488 --> 01:40:38,490
+Tôi có thể loại bỏ nó.
+Tôi chỉ cần thời gian.
+
+1158
+01:40:41,911 --> 01:40:43,537
+Có phải con không?
+
+1159
+01:40:45,665 --> 01:40:47,666
+Con đang ở chỗ mẹ em, John.
+
+1160
+01:41:01,973 --> 01:41:08,520
+Nếu không điều trị, John,
+những tưởng tượng đó sẽ tiếp tục.
+
+1161
+01:41:27,331 --> 01:41:28,623
+Anh chuẩn bị xong chưa?
+
+1162
+01:41:31,502 --> 01:41:33,086
+Rosen đang đợi bên ngoài.
+
+1163
+01:41:34,839 --> 01:41:36,590
+Anh không thể quay lại bệnh viện đó.
+
+1164
+01:41:40,845 --> 01:41:42,095
+Anh sẽ không về nhà nữa.
+
+1165
+01:41:46,350 --> 01:41:51,938
+Ông ấy bảo nếu anh nói thế
+ông ấy có một giấy cho em ký,
+để ép buộc anh vào viện
+
+1166
+01:41:55,234 --> 01:41:57,110
+Có lẽ em sẽ không ký nó.
+
+1167
+01:41:58,696 --> 01:42:00,447
+Có lẽ em sẽ cho anh thêm thời gian.
+
+1168
+01:42:03,993 --> 01:42:05,702
+Anh sẽ cố gắng hiểu ra.
+
+1169
+01:42:08,206 --> 01:42:12,584
+Dù em có làm gì,
+có một điều Rosen nói đúng
+
+1170
+01:42:14,212 --> 01:42:15,545
+Em không nên ở đây.
+
+1171
+01:42:18,466 --> 01:42:19,633
+Bây giờ anh không còn an toàn nữa.
+
+1172
+01:42:26,015 --> 01:42:27,724
+Anh có làm em đau không, John?
+
+1173
+01:42:37,485 --> 01:42:38,944
+Anh không biết.
+
+1174
+01:42:40,071 --> 01:42:42,572
+Có lẽ em nên để bác sĩ Rosen
+đưa em về nhà mẹ.
+
+1175
+01:43:04,095 --> 01:43:05,470
+Ông ấy bảo em đi.
+
+1176
+01:43:12,937 --> 01:43:14,271
+Anh hiểu.
+
+1177
+01:43:50,057 --> 01:43:52,893
+Rosen bảo em gọi cho ông ấy
+nếu anh định giết em hay làm gì đó như thế
+
+1178
+01:44:10,494 --> 01:44:12,203
+Anh có biết điều gì là thật không?
+
+1179
+01:44:17,418 --> 01:44:35,185
+Đây
+
+1180
+01:44:37,647 --> 01:44:39,105
+Đây là thật
+
+1181
+01:44:42,693 --> 01:44:46,905
+Có lẽ thứ giúp anh
+tỉnh khỏi giấc mơ
+
+1182
+01:44:48,824 --> 01:44:50,200
+không ở đây.
+
+1183
+01:44:54,497 --> 01:44:55,872
+Mà là ở đây.
+
+1184
+01:45:02,296 --> 01:45:07,217
+Em cần tin rằng
+điều gì đó phi thường sẽ xảy ra
+
+1185
+01:46:10,614 --> 01:46:11,698
+Vào đi
+
+1186
+01:46:21,083 --> 01:46:22,083
+Chào, Martin.
+
+1187
+01:46:27,798 --> 01:46:29,257
+Chúa ơi
+
+1188
+01:46:31,135 --> 01:46:32,427
+Không, tôi...
+
+1189
+01:46:34,055 --> 01:46:37,682
+Tôi không có Chúa. Vị cứu tinh của tôi
+có một hình dáng hoàn toàn khác.
+
+1190
+01:46:39,810 --> 01:46:42,937
+Tôi đã nghe những việc xảy ra với cậu,
+và tôi định viết thư,
+
+1191
+01:46:43,022 --> 01:46:44,230
+để cậu thử ở chỗ Mac Arthur,
+
+1192
+01:46:44,315 --> 01:46:45,857
+nhưng cậu đã bỏ đi, và tôi...
+
+1193
+01:46:59,288 --> 01:47:00,705
+đây là văn phòng cũ của giáo sư Helinger
+
+1194
+01:47:01,457 --> 01:47:02,540
+Yeah.
+
+1195
+01:47:02,958 --> 01:47:04,793
+Yeah, tôi đã lấy cắp của ông ấy.
+
+1196
+01:47:07,880 --> 01:47:10,090
+Có vẻ như cuối cùng cậu đã thắng, Martin.
+
+1197
+01:47:12,093 --> 01:47:14,052
+Sai rồi, John. Không ai thắng cả.
+
+1198
+01:47:15,012 --> 01:47:16,805
+Ngồi đi.
+
+1199
+01:47:18,307 --> 01:47:19,724
+Chúa ơi, thật vui vì được gặp cậu.
+
+1200
+01:47:23,020 --> 01:47:24,771
+Cái gì đã mang cậu quay lại Princeton thế?
+
+1201
+01:47:25,314 --> 01:47:29,400
+John? John, tôi xin lỗi,
+nhưng cậu cần phải nói với anh ta.
+
+1202
+01:47:29,485 --> 01:47:31,778
+nói với anh ta rằng cậu mới là thiên tài
+cậu là thiên tài, John.
+
+1203
+01:47:31,862 --> 01:47:34,614
+Nói rằng công việc của cậu rất quan trọng
+John, nói đi!
+
+1204
+01:47:49,755 --> 01:47:52,507
+Cậu có thể quên việc tôi vừa làm được không?
+
+1205
+01:47:54,510 --> 01:47:56,386
+Tất nhiên rồi, bạn cũ để làm gì chứ?
+
+1206
+01:47:58,848 --> 01:48:01,391
+Chúng ta là bạn ư Martin?
+
+1207
+01:48:01,475 --> 01:48:02,767
+John, tất nhiên rồi.
+
+1208
+01:48:04,061 --> 01:48:06,020
+Đương nhiên là thế, chúng ta luôn là bạn.
+
+1209
+01:48:11,527 --> 01:48:16,489
+Alicia và tôi nghĩ rằng, hoà nhập vào cộng đồng
+
+1210
+01:48:20,369 --> 01:48:21,661
+có thể giúp tôi điều gì đó
+
+1211
+01:48:21,745 --> 01:48:23,329
+Đó là một cách để tiếp xúc,
+
+1212
+01:48:23,414 --> 01:48:24,998
+những nơi quen thuộc, những người quen
+
+1213
+01:48:26,917 --> 01:48:30,253
+có thể giúp tôi...
+
+1214
+01:48:34,884 --> 01:48:36,885
+thoát khỏi những ảo giác của tôi.
+
+1215
+01:48:42,725 --> 01:48:44,726
+cần nhiều sự giúp đỡ,
+và đó là lý do tôi đến đây
+
+1216
+01:48:47,438 --> 01:48:49,189
+Tôi sẽ đi ngay nếu cậu nói không.
+
+1217
+01:48:52,943 --> 01:48:55,195
+Nhưng tôi tự hỏi liệu tôi có thể
+đi dạo quanh đây.
+
+1218
+01:49:04,622 --> 01:49:05,747
+Huh.
+
+1219
+01:49:10,002 --> 01:49:11,461
+Cậu có cần một văn phòng không?
+
+1220
+01:49:16,342 --> 01:49:17,383
+Không.
+
+1221
+01:49:20,846 --> 01:49:22,639
+Tôi có thể làm việc ở thư viện.
+
+1222
+01:49:23,766 --> 01:49:26,351
+Anh này muốn đi dạo trong thư viện.
+
+1223
+01:49:26,435 --> 01:49:27,727
+nhưng anh ta không có I. D.
+
+1224
+01:49:27,811 --> 01:49:29,062
+Tại sao mọi người không thể đọc ghi chú của họ hả?
+
+1225
+01:49:29,146 --> 01:49:30,730
+Anh ta còn rất dở hơi nữa.
+
+1226
+01:49:31,148 --> 01:49:34,067
+Ông không có thật, không phải là thật.
+
+1227
+01:49:34,818 --> 01:49:36,236
+Không có nhiệm vụ nào cả.
+
+1228
+01:49:36,320 --> 01:49:38,238
+Oh, khỉ thật.
+
+1229
+01:49:39,365 --> 01:49:41,741
+Không phải là thật, không phải thật.
+
+1230
+01:49:41,825 --> 01:49:44,911
+Đây là cậu à, anh lính?
+Một tên vô dụng?
+
+1231
+01:49:44,995 --> 01:49:46,871
+Một kẻ điên?
+
+1232
+01:49:46,956 --> 01:49:48,164
+Tôi không phải là lính.
+
+1233
+01:49:48,332 --> 01:49:49,582
+Ông sắp tiêu rồi.
+
+1234
+01:49:49,667 --> 01:49:51,793
+Già, vô dụng, bị sa thải.
+
+1235
+01:49:51,877 --> 01:49:53,002
+Không có nhiệm vụ nào cả.
+
+1236
+01:49:53,087 --> 01:49:56,422
+và trong khi cậu ở đây nhỏ nước mũi
+thế giới sẽ cháy thành tro.
+
+1237
+01:49:56,507 --> 01:49:58,883
+Ông không phải là thật!
+Không phải thật!
+
+1238
+01:49:58,968 --> 01:50:01,094
+Cậu vẫn đang nói chuyện với tôi đấy, anh lính.
+
+1239
+01:50:01,178 --> 01:50:04,264
+Không có nhiệm vụ nào cả!
+Tôi không phải là lính!
+
+1240
+01:50:04,348 --> 01:50:06,307
+John! John!
+
+1241
+01:50:07,810 --> 01:50:11,437
+Hey, hey, hey. Hey, hey, hey.
+John, John! Ổn rồi.
+
+1242
+01:50:11,522 --> 01:50:13,189
+Tôi đã nghe những việc xảy ra,
+John, tôi xin lỗi.
+
+1243
+01:50:13,274 --> 01:50:15,024
+- Tôi không phải là lính
+- John. Hey, Nash.
+
+1244
+01:50:15,484 --> 01:50:17,777
+Nash, hey.
+Hey, cậu ổn rồi.
+
+1245
+01:50:20,823 --> 01:50:21,906
+Nash.
+
+1246
+01:50:26,704 --> 01:50:29,580
+Quý vị, đó là John Nash vĩ đại.
+
+1247
+01:50:29,665 --> 01:50:30,748
+John?
+
+1248
+01:50:33,377 --> 01:50:35,503
+Em nên nhìn mặt bọn họ.
+
+1249
+01:50:35,629 --> 01:50:37,797
+Mọi người cứ nhìn anh chằm chằm.
+
+1250
+01:50:38,299 --> 01:50:42,927
+John...
+anh biết rằng áp lực sẽ tạo ra ảo giác.
+
+1251
+01:50:43,804 --> 01:50:45,013
+Anh biết.
+
+1252
+01:50:48,225 --> 01:50:51,728
+Nhưng sau đó, trên đường về,
+Charles đã ở đó.
+
+1253
+01:50:57,067 --> 01:50:59,152
+Đôi khi, anh thật sự muốn nói chuyện với cậu ta.
+
+1254
+01:51:03,198 --> 01:51:04,407
+Có lẽ Rosen đã đúng.
+
+1255
+01:51:06,243 --> 01:51:08,953
+Có lẽ anh phải nghĩ đến việc
+quay trở lại bệnh viện.
+
+1256
+01:51:09,621 --> 01:51:11,789
+Không. Đưa tay cho em nào.
+
+1257
+01:51:16,795 --> 01:51:18,588
+Có lẽ anh sẽ thử lại vào ngày mai.
+
+1258
+01:51:43,614 --> 01:51:46,491
+John, cậu không thể lờ tôi đi mãi được.
+
+1259
+01:51:52,331 --> 01:51:56,000
+Charles, cậu đã từng là bạn tốt nhất của tôi.
+Tốt nhất!
+
+1260
+01:51:58,504 --> 01:51:59,962
+Nhưng tôi sẽ không nói chuyện với cậu nữa.
+
+1261
+01:52:04,134 --> 01:52:05,635
+Tôi không thể.
+
+1262
+01:52:11,975 --> 01:52:13,559
+Cháu cũng thế, cô bé.
+
+1263
+01:52:21,819 --> 01:52:32,120
+Tạm biệt.
+
+1264
+01:52:46,802 --> 01:52:48,719
+Tôi tự hỏi không biết tôi có thể
+dự lớp học của anh không.
+
+1265
+01:52:50,848 --> 01:52:53,307
+Đó là một vinh dự, giáo sư Nash.
+
+1266
+01:52:56,812 --> 01:52:58,020
+Có gì không ổn à?
+
+1267
+01:53:00,357 --> 01:53:01,607
+Đây là giờ học đầu tiên của tôi
+
+1268
+01:53:06,029 --> 01:53:09,532
+Chào mọi người
+những cái đầu trẻ tuổi háo hức.
+
+1269
+01:53:30,387 --> 01:53:32,096
+Việc này sẽ không có tác dụng đâu, John.
+
+1270
+01:53:32,723 --> 01:53:35,183
+Cậu đang lừa dối chính mình thôi.
+
+1271
+01:53:37,853 --> 01:53:41,481
+Thật thảm hại.
+Trông cậu thật thảm hại.
+
+1272
+01:53:42,357 --> 01:53:43,816
+Tôi xấu hổ vì cậu.
+
+1273
+01:54:17,226 --> 01:54:19,769
+Anh đi chưa? Anh sẽ muộn đấy
+
+1274
+01:54:23,023 --> 01:54:24,815
+- Bố, bố cầm sách của con.
+- Gì cơ?
+
+1275
+01:54:25,609 --> 01:54:27,026
+Bố cầm sách của con.
+
+1276
+01:54:27,110 --> 01:54:28,444
+Oh, phải rồi.
+
+1277
+01:54:28,862 --> 01:54:30,071
+Cảm ơn bố
+
+1278
+01:54:31,615 --> 01:54:32,865
+- Tạm biệt
+- Tạm biệt
+
+1279
+01:54:32,950 --> 01:54:34,116
+Gặp bố tối nay.
+
+1280
+01:54:35,494 --> 01:54:36,911
+Chào con yêu.
+
+1281
+01:56:09,796 --> 01:56:11,172
+Ngài vừa giải giả thuyết Reimann đấy à?
+
+1282
+01:56:11,256 --> 01:56:12,673
+Ồ, cậu nghĩ gì?
+
+1283
+01:56:13,717 --> 01:56:14,759
+Huh.
+
+1284
+01:56:14,843 --> 01:56:17,803
+Nó tương tự như Frobenius
+cho phần mở rộng không giao hoán.
+
+1285
+01:56:20,182 --> 01:56:21,557
+Đúng vậy.
+
+1286
+01:56:22,476 --> 01:56:25,269
+Nhưng không phải luôn luôn thế,
+vì vậy, không.
+
+1287
+01:56:27,272 --> 01:56:29,231
+Nhưng tôi tin là đang có tiến triển.
+
+1288
+01:56:31,109 --> 01:56:35,237
+Ngài là John Nash, đúng không?
+
+1289
+01:56:38,450 --> 01:56:40,368
+- Toby Kelly.
+- Xin chào.
+
+1290
+01:56:40,452 --> 01:56:42,078
+Em đã đọc bài viết
+về trạng thái cân bằng của ngài.
+
+1291
+01:56:42,245 --> 01:56:43,871
+bài mà ngài đã viết ở đây, ở Princeton.
+
+1292
+01:56:43,955 --> 01:56:46,457
+Để tìm ra nguồn gốc, cái cách ngài làm.
+
+1293
+01:56:46,541 --> 01:56:48,209
+Cậu biết đấy, lúc đó tôi rất trẻ.
+
+1294
+01:56:50,087 --> 01:56:52,588
+Em đã phát triển một lý thuyết.
+
+1295
+01:57:07,145 --> 01:57:11,524
+Em tin rằng em có thể chứng minh rằng lý thuyết mở rộng Galois
+có thể bao trùm không gian
+
+1296
+01:57:11,608 --> 01:57:13,734
+Mọi thứ, mọi thứ đều được kết nối với nhau
+
+1297
+01:57:13,819 --> 01:57:16,237
+Tất cả đều là những bộ phận của một đối tượng.
+
+1298
+01:57:17,656 --> 01:57:19,281
+Lấn cuối cậu ăn là khi nào?
+
+1299
+01:57:19,950 --> 01:57:21,158
+- Gì ạ?
+
+1300
+01:57:21,284 --> 01:57:22,576
+- Cậu biết đấy, thức ăn ấy mà?
+
+1301
+01:57:23,412 --> 01:57:24,412
+Oh, uh...
+
+1302
+01:57:24,496 --> 01:57:27,790
+Vợ tôi,
+cô ấy thích nước sốt mayonnaise.
+
+1303
+01:57:30,794 --> 01:57:32,128
+Oh, cảm ơn.
+
+1304
+01:57:34,131 --> 01:57:35,297
+Tiếp tục đi.
+
+1305
+01:57:36,133 --> 01:57:39,427
+Những hàm số ở trong 2 loại đó.
+
+1306
+01:57:44,641 --> 01:57:45,641
+Alicia!
+
+1307
+01:57:47,436 --> 01:57:48,728
+Alicia!
+
+1308
+01:57:48,812 --> 01:57:50,730
+... và gặp nhau tại tốc độ tối đa của,
+
+1309
+01:57:50,814 --> 01:57:53,566
+ví dụ ta nói, 10 dặm một giờ.
+
+1310
+01:57:54,359 --> 01:57:56,652
+Cậu có một con ruồi trên bánh xe của chiếc xe đạp "B"
+
+1311
+01:57:57,404 --> 01:58:00,448
+và con ruồi, có thể bay 20 dặm một giờ,
+
+1312
+01:58:00,532 --> 01:58:03,701
+rời khỏi lốp xe của chiếc xe đạp "B",
+và nó bay đến lốp xe của chiếc xe đạp "A"
+
+1313
+01:58:03,785 --> 01:58:07,246
+và tới và lui liên tục, và vân vân,
+cho đến khi hai chiếc xe đụng nhau.
+
+1314
+01:58:07,330 --> 01:58:09,623
+và con ruồi tội nghiệp bị ép bẹp.
+
+1315
+01:58:09,708 --> 01:58:13,753
+Đây là điều quan trọng về việc tập trung thật sự
+và hiểu biết thấu đáo
+
+1316
+01:58:13,837 --> 01:58:16,756
+về công việc cậu đang làm.
+Toán học rất là đặc biệt
+
+1317
+01:58:16,840 --> 01:58:20,259
+nó là một loại hình nghệ thuật, cậu không cần quan tâm
+những gì những người xung quanh nói với cậu
+
+1318
+01:58:20,343 --> 01:58:21,844
+đặc biệt là những người từ ngành Sinh học.
+
+1319
+01:58:21,928 --> 01:58:23,429
+Đừng nghe bất kỳ ai cả.
+
+1320
+01:58:23,930 --> 01:58:25,514
+Để tôi xem những gì cậu đã làm
+
+1321
+01:58:25,599 --> 01:58:26,891
+bởi vì tôi nghĩ tôi muốn chôm nó
+
+1322
+01:58:26,975 --> 01:58:28,225
+và viết một cuốn sách, và trở nên nổi tiếng.
+
+1323
+01:58:30,479 --> 01:58:32,104
+Tôi đang nghĩ là tôi có thể dạy
+
+1324
+01:58:34,566 --> 01:58:37,401
+một lớp khoảng 50 sinh viên
+có thể làm nản lòng bất kỳ ai
+
+1325
+01:58:39,321 --> 01:58:42,114
+John, hơn nữa, cậu còn là một giảng viên rất tồi.
+
+1326
+01:58:46,536 --> 01:58:49,205
+Tôi hy vọng là tôi vẫn có thẻ
+cống hiến điều gì đó
+
+1327
+01:58:50,207 --> 01:58:51,373
+Thế còn...
+
+1328
+01:58:52,292 --> 01:58:55,127
+- Ừ, cậu biết đấy.
+- Họ đi chưa?
+
+1329
+01:59:02,344 --> 01:59:04,136
+Không, họ chưa đi.
+
+1330
+01:59:05,138 --> 01:59:06,722
+và có lẽ sẽ không bao giờ biến mất.
+
+1331
+01:59:06,807 --> 01:59:07,807
+Nhưng tôi đã quen với việc lờ họ đi,
+
+1332
+01:59:07,891 --> 01:59:10,810
+và tôi nghĩ là họ cũng sẽ từ bỏ tôi.
+
+1333
+01:59:12,729 --> 01:59:14,647
+Cậu nghĩ việc đó giống cái gì
+
+1334
+01:59:14,731 --> 01:59:17,066
+với tất cả những cơn ác mộng, Martin?
+
+1335
+01:59:18,235 --> 01:59:20,611
+Cậu vẫn phải cho họ ăn, để sống
+
+1336
+01:59:21,238 --> 01:59:23,322
+John, họ ám ảnh cậu.
+
+1337
+01:59:25,158 --> 01:59:28,244
+Họ là quá khứ của tôi, Martin.
+Mọi người đều bị quá khứ ám ảnh.
+
+1338
+01:59:32,415 --> 01:59:34,124
+Tạm biệt.
+
+1339
+01:59:34,209 --> 01:59:35,709
+John, tôi sẽ nói chuyện với khoa.
+
+1340
+01:59:38,421 --> 01:59:39,755
+Có lẽ sẽ là mùa xuân.
+
+1341
+01:59:46,179 --> 01:59:47,513
+Hey, Nash?
+
+1342
+01:59:49,641 --> 01:59:53,310
+Cậu sợ à?
+
+1343
+01:59:56,356 --> 02:00:00,526
+Sợ hãi. Xấu hổ. Sững sờ.
+
+1344
+02:00:00,610 --> 02:00:02,111
+Cậu làm tớ sững sờ.
+
+1345
+02:00:03,154 --> 02:00:05,739
+Bây giờ cậu nên gọi cho Alicia,
+hoặc cậu sẽ làm tôi...
+
+1346
+02:00:05,824 --> 02:00:07,491
+- Được rồi, tôi sẽ gọi cho cô ấy
+
+1347
+02:00:12,038 --> 02:00:13,747
+- Cảm ơn giáo sư
+- Tạm biệt
+
+1348
+02:00:13,832 --> 02:00:15,666
+- Chúc một ngày tốt lành
+- Tạm biệt
+
+1349
+02:00:18,962 --> 02:00:20,504
+Giáo sư Nash?
+
+1350
+02:00:23,925 --> 02:00:25,050
+- Cô có nhìn thấy ông ấy không?
+
+1351
+02:00:25,886 --> 02:00:27,469
+- Vâng.
+- Chắc chứ?
+
+1352
+02:00:28,138 --> 02:00:31,515
+Chắc chắn hả?
+Ông ấy ở trong tầm nhìn của cô chứ? Tốt.
+
+1353
+02:00:32,684 --> 02:00:35,185
+Thứ lỗi cho tôi, tôi luôn
+nghi ngờ những người lạ.
+
+1354
+02:00:35,312 --> 02:00:36,896
+- Gặp lại giáo sư tuần sau
+- Gặp cậu tuần sau.
+
+1355
+02:00:38,773 --> 02:00:40,566
+Bây giờ tôi đã biết ông là thật
+
+1356
+02:00:40,692 --> 02:00:42,484
+Ông là ai và tôi có thể làm gì cho ông?
+
+1357
+02:00:43,987 --> 02:00:46,405
+Giáo sư, tôi tên là Thomas King...
+
+1358
+02:00:46,489 --> 02:00:47,615
+- Thomas King?
+- Mmm - Hm.
+
+1359
+02:00:47,699 --> 02:00:51,785
+... và tôi đến đây để nói với ngài
+rằng ngài được đề cử cho giải Nobel
+
+1360
+02:01:00,420 --> 02:01:02,338
+Xin lỗi, nhưng tôi hơi sửng sốt.
+
+1361
+02:01:02,422 --> 02:01:06,175
+Trong những năm qua, thuyết cân bằng của ngài
+đã trở thành nền tảng vững chắc.
+
+1362
+02:01:06,259 --> 02:01:07,593
+của kinh tế học hiện đại.
+
+1363
+02:01:08,094 --> 02:01:09,845
+Đột nhiên mọi người lại thích nó à.
+
+1364
+02:01:09,930 --> 02:01:14,600
+còn những nghiên cứu khác của tôi thì sao,
+như là định lý nhúng?
+(Nash embedding theorem)
+
+1365
+02:01:14,684 --> 02:01:18,395
+Ứng dụng của vấn đề ngã giá
+
+1366
+02:01:18,480 --> 02:01:22,316
+trong việc bán đấu giá của PH. C. C.
+Hay trong những trường hợp chống độc quyền...
+
+1367
+02:01:22,400 --> 02:01:23,901
+- Chống độc quyền?
+- Đúng vậy.
+
+1368
+02:01:23,985 --> 02:01:26,028
+Tôi chưa bao giờ có ý định như thế
+
+1369
+02:01:40,293 --> 02:01:41,543
+Chúng ta uống trà chứ?
+
+1370
+02:01:44,089 --> 02:01:47,967
+Ồ, không, tôi không vào đây.
+Tôi thường ăn sandwich ở thư viện
+
+1371
+02:01:49,260 --> 02:01:51,887
+Thôi nào, John. Chúng ta hãy uống trà.
+Hôm nay là một ngày đặc biệt
+
+1372
+02:01:52,931 --> 02:01:56,392
+Phần lớn các loại trà thương mại
+
+1373
+02:01:56,476 --> 02:01:58,602
+đều không hợp với khẩu vị của tôi
+
+1374
+02:01:58,687 --> 02:02:00,104
+Tôi không...
+
+1375
+02:02:00,188 --> 02:02:03,482
+Có vài loại trà ở miển bắc Ấn Độ,
+chúng khá đặc
+
+1376
+02:02:03,566 --> 02:02:05,567
+Tôi thích vị của chúng...
+
+1377
+02:02:05,652 --> 02:02:08,612
+Tôi đã không vào phòng này nhiều năm rồi
+
+1378
+02:02:08,697 --> 02:02:10,656
+Tôi đang tự hỏi
+không biết họ phục vụ loại trà nào
+
+1379
+02:02:12,951 --> 02:02:14,702
+Tại sao?
+Cám ơn cô gái.
+
+1380
+02:02:16,538 --> 02:02:20,374
+Mọi chuyện quanh đây đã thay đổi
+Tôi có một cậu con trai trạc tuổi đó
+
+1381
+02:02:22,127 --> 02:02:23,335
+Harvard.
+
+1382
+02:02:28,258 --> 02:02:29,258
+Hmm.
+
+1383
+02:02:29,342 --> 02:02:31,510
+Tôi nghĩ là những đề cử
+
+1384
+02:02:31,594 --> 02:02:34,346
+cho giải Nobel được giữ bí mật
+
+1385
+02:02:35,223 --> 02:02:37,808
+Tôi nghĩ là ta chỉ được biết khi mình
+được hoặc không được giải.
+
+1386
+02:02:38,727 --> 02:02:40,185
+Đó là những trường hợp thông thường, đúng vậy
+
+1387
+02:02:40,270 --> 02:02:42,187
+Nhưng đây là một trường hợp đặc biệt
+
+1388
+02:02:44,274 --> 02:02:45,941
+Giải thưởng này rất lớn
+
+1389
+02:02:46,818 --> 02:02:49,820
+Nó được trích từ quỹ. Vì thế
+
+1390
+02:02:50,989 --> 02:02:53,115
+hình ảnh của giải Nobel là...
+
+1391
+02:02:55,618 --> 02:02:58,495
+Tôi hiểu rồi. Ông đến đây để xem tôi có điên thật hay không
+
+1392
+02:02:59,831 --> 02:03:03,751
+Để xem liệu tôi có
+hành động điên khùng nếu tôi đoạt giải
+
+1393
+02:03:05,378 --> 02:03:08,589
+Nhảy khắp phòng, thoát y
+và kêu quác quác như gà
+
+1394
+02:03:08,673 --> 02:03:10,049
+không biết những gì xung quanh?
+
+1395
+02:03:10,133 --> 02:03:11,925
+Đại loại như thế, đúng vậy.
+
+1396
+02:03:13,595 --> 02:03:14,928
+Tôi có làm ông khó xử không?
+
+1397
+02:03:19,476 --> 02:03:20,809
+Đúng vậy, có thể đấy.
+
+1398
+02:03:24,314 --> 02:03:28,776
+Ông thấy đấy, tôi bị điên.
+
+1399
+02:03:31,279 --> 02:03:33,030
+Tôi đã điều trị bằng loại thuốc mới
+
+1400
+02:03:37,118 --> 02:03:39,286
+nhưng tôi vẫn nhìn thấy những thứ không có ở đây
+
+1401
+02:03:42,207 --> 02:03:43,832
+Tôi chỉ chọn cách lờ chúng đi thôi
+
+1402
+02:03:46,669 --> 02:03:50,839
+Tôi chọn cách không cho phép mình
+để ý tới những điều đó
+
+1403
+02:03:53,510 --> 02:03:55,469
+Giống như một kiểu thèm muốn.
+
+1404
+02:03:57,639 --> 02:04:00,849
+Có lẽ tôi thèm những ảo giác
+và những giấc mơ.
+
+1405
+02:04:02,310 --> 02:04:03,685
+Giáo sư Nash.
+
+1406
+02:04:08,858 --> 02:04:10,984
+Rất vinh dự vì có ngài ở đây, John.
+
+1407
+02:04:12,237 --> 02:04:13,570
+Cảm ơn
+
+1408
+02:04:18,284 --> 02:04:19,910
+Đây là một vinh dự, thưa ngài.
+
+1409
+02:04:20,745 --> 02:04:21,870
+Cảm ơn rất nhiều.
+
+1410
+02:04:22,747 --> 02:04:24,039
+Ông được phép, thưa giáo sư.
+
+1411
+02:04:28,878 --> 02:04:30,212
+Giáo sư.
+
+1412
+02:04:35,510 --> 02:04:36,802
+Làm tốt lắm, John.
+
+1413
+02:04:36,928 --> 02:04:38,262
+Cảm ơn Tom.
+
+1414
+02:04:40,140 --> 02:04:44,017
+Cảm ơn
+
+1415
+02:04:52,569 --> 02:04:54,069
+Cảm ơn Ed.
+
+1416
+02:05:02,579 --> 02:05:04,663
+Việc này thật bất ngờ
+
+1417
+02:05:26,811 --> 02:05:28,145
+Cảm ơn
+
+1418
+02:05:32,650 --> 02:05:34,276
+Tôi đã luôn tin vào những con số
+
+1419
+02:05:35,987 --> 02:05:38,947
+trong những phương trình và lô gic
+dẫn tới lẽ phải
+
+1420
+02:05:40,366 --> 02:05:46,955
+Nhưng sau cả một đời theo đuổi
+Tôi tự hỏi cái gì là logic thật sự?
+
+1421
+02:05:48,666 --> 02:05:50,083
+Ai quyết định lẽ phải?
+
+1422
+02:05:52,212 --> 02:05:57,132
+Câu hỏi của tôi đã đưa tôi vào một trạng thái...
+
+1423
+02:05:59,427 --> 02:06:03,513
+một trạng thái siêu vật lý
+
+1424
+02:06:05,975 --> 02:06:08,644
+và tôi đã có được khám phá quan trọng nhất
+trong sự nghiệp của mình
+
+1425
+02:06:11,522 --> 02:06:13,482
+Khám phá quan trọng nhất trong cuộc đời tôi
+
+1426
+02:06:17,320 --> 02:06:19,655
+Nó chỉ có thể tồn tại
+trong phương trình kỳ diệu của tình yêu
+
+1427
+02:06:20,949 --> 02:06:23,283
+tất cả những lẽ phải đều có thể được tìm thấy.
+
+1428
+02:06:27,288 --> 02:06:29,623
+Tối nay anh đến đây chỉ vì em
+
+1429
+02:06:31,668 --> 02:06:33,252
+Em là lý do để tôi tồn tại
+
+1430
+02:06:38,716 --> 02:06:40,217
+Em là lẽ phải của đời tôi
+
+1431
+02:06:45,223 --> 02:06:46,556
+Cảm ơn
+
+1432
+02:07:41,070 --> 02:07:42,404
+Rất vui được gặp ngài.
+
+1433
+02:07:45,783 --> 02:07:47,326
+Con sẽ đi gọi xe.
+
+1434
+02:07:47,410 --> 02:07:48,702
+Bye - Bye.
+
+1435
+02:07:51,164 --> 02:07:52,456
+- Anh đã sắn sàng đi chưa
+
+1436
+02:07:52,582 --> 02:07:53,874
+- Oh, rồi
+
+1437
+02:07:53,958 --> 02:07:55,709
+Vâng, thật đấy, vâng.
+
+1438
+02:07:56,461 --> 02:07:57,836
+Cảm ơn anh rất nhiều
+
+1439
+02:07:59,172 --> 02:08:00,505
+Cảm ơn
+
+1440
+02:08:03,509 --> 02:08:05,427
+Gì vậy, có gì không ổn à?
+
+1441
+02:08:09,849 --> 02:08:11,099
+Không có gì
+
+1442
+02:08:12,435 --> 02:08:13,435
+Không có gì cả
+
+1443
+02:08:16,230 --> 02:08:17,481
+- Đi với tôi nào, quý bà.
+
+1444
+02:08:19,359 --> 02:08:23,487
+Tôi có một xe đang chờ bên ngoài.
+Em có thích đi một vòng không?
+
+1445
+02:08:24,614 --> 02:08:26,281
+Nó đi đâu thế?
+
+1446
+02:09:00,000 --> 02:09:05,000
+John và Alicia Nash sống ở
+Princeton, New Jersey.
+
+1447
+02:09:06,000 --> 02:09:10,000
+John làm việc trong văn phòng của mình ở khoa Toán
+Ông ấy vẫn tới trường hàng ngày
+

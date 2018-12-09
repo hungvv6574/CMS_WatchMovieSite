@@ -1,0 +1,234 @@
+﻿@using CMSSolutions.Websites.Extensions
+@{
+    Style.IncludeBootstrap();
+        Style.IncludeThemesDefaults();
+        Style.IncludeJQueryvalidationEngine();
+        Style.IncludeScrollbar();
+        Style.IncludeTooltip();
+        Style.IncludeJQueryUI();
+        Style.IncludeBootstrap();
+        
+        Script.IncludeJQuery();
+        Script.IncludeThemesDefaults();
+        Script.IncludeJQueryvalidationEngine(WorkContext.CurrentCulture ?? "vi-VN");
+        Script.IncludeScrollbar();
+        Script.IncludeTooltip();
+        Script.IncludeJQueryUI();
+        Script.IncludeBootstrap();        
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta name="robots" content="index, follow" />    
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="@ViewData[CMSSolutions.Websites.Extensions.Constants.HeaderDescription]">
+        <meta name="keywords" itemprop="keywords" content="@ViewData[CMSSolutions.Websites.Extensions.Constants.HeaderKeywords]">
+        <meta property="og:title" content="@ViewData[CMSSolutions.Websites.Extensions.Constants.HeaderTitle]"/>
+        <meta property="og:url" content="viphd.vn"/>
+        <meta property="og:image" content="http://viphd.vn/Media/Default/Logo/Newlogo.png"/>
+        <meta property="og:description" content="@ViewData[CMSSolutions.Websites.Extensions.Constants.HeaderDescription]"/>
+        <meta name="author" content="VUONG VAN HUNG">    
+        <meta name="copyright" content="2015">
+        <link rel="shortcut icon" href="/Images/favicon.ico" type="image/x-icon" />   
+        <meta http-equiv="Content-Language" content="vi"/>
+		<meta name="Language" content="vietnamese"/>
+        <meta name="admicro-site-verification" content="c677a845a20648b48b042c61150b8e71" />
+        <meta name="google-site-verification" content="1vWUKYx8fp7tHWMLqsOxzQTih7hDvWExfUH7y0k-sfI" />
+        <meta name="eclick_verify" content="dFNbW1IXLRcYGVlEahUFGQsPaxUC"/>
+
+        <title>@ViewData[CMSSolutions.Websites.Extensions.Constants.HeaderTitle]</title>
+
+        @RenderMetas()
+        @RenderStyles()
+        @RenderHeadScripts()   
+         
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-65733920-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+        
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return; n = f.fbq = function () {
+                    n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                }; if (!f._fbq) f._fbq = n;
+                n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+                t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+            }(window,
+                document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '664436633656788');
+            fbq('track', 'PageView');
+        </script>
+
+        <noscript>
+            <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=664436633656788&ev=PageView&noscript=1" />
+        </noscript>
+        <!-- End Facebook Pixel Code -->
+
+    </head>                 
+    <body class="default-themes themes-tetholiday homepage">
+        <div class="overlay-light"></div>
+        <nav class="navbar navbar-default navbar-fixed-top navbar-shrink menu-z-index" style="z-index: 2005;">
+            <div class="header">
+                <div class="container">
+                    @Display(WorkContext.Layout.HomeLogo)
+                        
+                    @Html.Partial("BoxLogin")  
+
+                    @Html.Partial("HomeNavigatorMenu")
+                        
+                    @Html.Partial("SearchBox")
+                </div>
+            </div>
+        </nav>
+        
+        @Display(WorkContext.Layout.AdBannerPageLeftVip) 
+        @Display(WorkContext.Layout.AdBannerPageLeft)
+        
+        <div class="container">
+            <div id="homeBanner" class="banner_add-full">
+                <div class="banner_add">
+                    <div style="z-index: 2002; width: 1000px; margin: auto; position: relative;">
+                        @Display(WorkContext.Layout.SliderBanner)
+                    </div>
+                    <div class="clear_both"></div>
+                    @Display(WorkContext.Layout.AdBannerPageCenter) 
+                    @Display(WorkContext.Layout.AdBannerPageCenterVip)  
+                </div> 
+            </div>
+        </div>
+
+        @Display(WorkContext.Layout.AdBannerPageRight) 
+        @Display(WorkContext.Layout.AdBannerPageRightVip)
+        
+        <div class="clear"></div>
+        
+        <div class="container">
+            <div class="content_div">
+                @Display(WorkContext.Layout.FullContent)  
+                <div class="content_left">
+                    @Display(WorkContext.Layout.Content)  
+                                    
+                    @Display(WorkContext.Layout.CategoryContentLeftFirst)  
+                                                                   
+                    @Display(WorkContext.Layout.AdBannerContentLeftFirst)  
+                                                              
+                    @Display(WorkContext.Layout.CategoryContentLeftSecond)  
+                                                
+                    @Display(WorkContext.Layout.AdBannerContentLeftSecond)  
+		                             
+                    @Display(WorkContext.Layout.CategoryContentLeftThird)  
+                                       
+                    @Display(WorkContext.Layout.AdBannerContentLeftThird)  
+   
+                    @Display(WorkContext.Layout.CategoryContentLeftFourth) 
+                                   
+                    @Display(WorkContext.Layout.AdBannerContentLeftFourth)
+
+                    @Display(WorkContext.Layout.CategoryContentLeftFifth) 
+                                        
+                    @Display(WorkContext.Layout.AdBannerContentLeftFifth)
+
+                    @Display(WorkContext.Layout.CategoryContentLeftSixth) 
+                     
+                    @Display(WorkContext.Layout.AdBannerContentLeftSixth)
+
+                    @Display(WorkContext.Layout.CategoryContentLeftSeventh) 
+                                                                   
+                    @Display(WorkContext.Layout.AdBannerContentLeftSeventh)
+                </div>  
+
+                <div class="content_right">
+                    @Display(WorkContext.Layout.AdBannerRightFree) 
+                         
+                    @Display(WorkContext.Layout.AdBannerRightFirst)           
+                                  
+                    @Display(WorkContext.Layout.AdFacebookFanpage)
+                                      
+                    @Display(WorkContext.Layout.DisplayNews)     
+                                
+                    @Display(WorkContext.Layout.AdBannerRightFifth)
+
+                    @Display(WorkContext.Layout.DisplayStatistic1)
+                                                              
+                    @Display(WorkContext.Layout.DisplayStatistic2)
+                                   
+                    @Display(WorkContext.Layout.AdBannerRightSixth) 
+                                                                
+                    @Display(WorkContext.Layout.AdBannerRightSecond) 
+                                                                       
+                    @Display(WorkContext.Layout.AdBannerRightThird) 
+                                
+                    @Display(WorkContext.Layout.DisplayTags)
+
+                    @Display(WorkContext.Layout.AdBannerRightFourth)   
+                    
+                    @Display(WorkContext.Layout.DisplaySocialNetwork)    
+                </div> 
+            </div>     
+                       
+            @Html.Partial("HomeLogin")
+                    
+            @Html.Partial("Register")     
+                    
+            @Html.Partial("ForgetPassword")
+
+            @Html.Partial("HomeShowDialog") 
+                    
+            @Display(WorkContext.Layout.RegisterResource) 
+        </div>
+        
+        <div class="clear_both"></div>
+
+        <div class="footer">
+            <div class="footer_960">
+                @Html.Partial("HomeFooterMenu")             
+
+                @Display(WorkContext.Layout.FooterLogoInformation) 
+            </div>   
+            <div class="clear"></div>   
+        </div> 
+
+        @RenderFootScripts()    
+        
+       <script type="text/javascript">
+           $window = $(window);
+           $bannerleft = $('.banner_add-left');
+           $bannerright = $('.banner_add-right');
+           $banner = $('.banner-size');
+           $wiBanner = $banner.outerWidth() * 2;
+           $(document).ready(function () {
+               zindex($('.banner_add').outerWidth());
+           });
+           $(window).bind('resize', function () {
+               zindex($('.banner_add').outerWidth());
+           });
+           function zindex(maxWidth) {
+               var fullSize = (maxWidth + $wiBanner + 3);
+               if ($window.width() < fullSize) {
+                   var total = fullSize - $window.width();
+                   var width = (total / 2);
+                   //$banner.css("width", width + "px");
+                   $bannerleft.css("margin-left", "-" + width + "px");
+                   $bannerright.css("margin-right", "-" + width + "px");
+               } else {
+                   //$banner.css("width", "173px");
+                   $bannerleft.css("margin-left", "auto");
+                   $bannerright.css("margin-right", "auto");
+               }
+           }
+        </script>
+    </body>
+</html>

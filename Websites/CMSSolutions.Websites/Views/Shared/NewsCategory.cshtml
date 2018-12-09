@@ -1,0 +1,78 @@
+﻿@using CMSSolutions.Websites.Extensions   
+@model CMSSolutions.Websites.Models.DataViewCategoryModel
+<div class="slider_box_sim" style="margin-top: 130px;">            
+    @Html.Raw(Model.Breadcrumb) 
+    <div class="clear"></div>    
+    <div class="mh-news-tab">
+        <a class="@(Model.CurrentCategory.Id == (int)FixCategories.AllNews ? "active": string.Empty)" href="@Url.Action("ViewNewsCategory","HomeNews", new{alias = "tat-ca", id = (int)FixCategories.AllNews})" title="Tất cả">TẤT CẢ</a>
+        <a class="@(Model.CurrentCategory.Id == (int)FixCategories.Events ? "active": string.Empty)" href="@Url.Action("ViewNewsCategory","HomeNews", new{alias = "su-kien", id = (int)FixCategories.Events})" title="Sự kiện"><span>Sự kiện</span></a>
+        <a class="@(Model.CurrentCategory.Id == (int)FixCategories.News ? "active": string.Empty)" href="@Url.Action("ViewNewsCategory","HomeNews", new{alias = "tin-tuc", id = (int)FixCategories.News})" title="Tin tức"><span>Tin tức</span></a>
+        <a class="@(Model.CurrentCategory.Id == (int)FixCategories.Recruitment ? "active": string.Empty)" href="@Url.Action("ViewNewsCategory","HomeNews", new{alias = "tuyen-dung", id = (int)FixCategories.Recruitment })" title="Tuyển dụng"><span>Tuyển dụng</span></a>                          
+    </div>    
+    <div id="colDivNews">
+        @if (Model.ListArticles != null && Model.ListArticles.Count > 0)
+        {
+            <div class="mh-box-news-cat">
+                <ul class="mh-box-news-cat-ul">
+                    @foreach (var item in Model.ListArticles)
+                    {
+                        var url = Url.Action("ViewDetails", "HomeNews", new { alias = item.Alias, id = item.Id });
+                        var urlCate = Url.Action("ViewNewsCategory", "HomeNews", new { alias = item.CategoryAlias, id = item.CategoryId });
+                        <li>
+                            <a class="mh-box-news-cat-img" href="@url" title="@item.Title">
+                                <img title="@item.Title" alt="@item.Alias" src="@item.Icon" width="223" height="168">
+                            </a>
+                            <p class="mh-pttile">
+                                <a href="@url">@item.Title</a>
+                            </p>
+                            <p class="mh-pttext">@item.Summary</p>
+                            <p class="mh-pcat">
+                                <a href="@urlCate">@item.CategoryName</a> | <span class="mh-sptime">@item.CreateDate.ToString(CMSSolutions.Websites.Extensions.Constants.DateTimeFomat)</span>
+                            </p> 
+                        </li>
+                    }  
+                </ul>
+            </div>    
+            <br class="clear_both">   
+            <div id="show-content" class="content" style="text-align: right;"></div>  
+            <input id="totalPage" name="totalPage" value="@Model.TotalPage" type="hidden" />  
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    var pageIndex = '@Model.PageIndex';
+                    $('#show-content').bootpag({
+                        total: parseInt($("#totalPage").val()),
+                        page: parseInt(pageIndex),
+                        maxVisible: 5,
+                        leaps: true,
+                        firstLastUse: true,
+                        first: 'Đầu',
+                        last: 'Cuối',
+                        href: "?trang={{number}}",
+                        wrapClass: 'pagination',
+                        activeClass: 'active',
+                        disabledClass: 'disabled',
+                        nextClass: 'next',
+                        prevClass: 'prev',
+                        lastClass: 'last',
+                        firstClass: 'first'
+                    });
+                });
+            </script>
+        } 
+        else
+        {   <div class="mh-box-news-cat">
+                <ul class="mh-box-news-cat-ul">
+                    <li> Không có dữ liệu </li> 
+                </ul>
+            </div>    
+            <br class="clear_both"> 
+        } 
+    </div>
+</div>    
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#homeBanner").hide();
+        $(".main-full").addClass("top");
+    });
+</script>                              
